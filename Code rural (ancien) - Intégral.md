@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1994-06-24
+Version Consolidée au 1994-07-26
 
 # Livre Ier : Régime du sol
 
@@ -15447,7 +15447,12 @@ accordé aux non salariées agricoles visées à l'article 1106-1 (1°, 2° et 5
 leur activité salariée, au prorata de leur activité à temps partiel sur l'exploitation lorsqu'elles répondent à des
 conditions de durée maximale d'activité salariée précisées par le décret en Conseil d'Etat prévu ci-après.
 
-Un décret en Conseil d'Etat détermine les mesures d'application de l'alinéa précédent et, en particulier, la ou les périodes
+L'allocation de remplacement est également accordée aux femmes visées à l'alinéa précédent titulaires de l'agrément mentionné
+aux articles 63 ou 100-3 du code de la famille et de l'aide sociale lorsqu'elles adoptent ou accueillent un enfant en vue de
+son adoption par décision de l'autorité étrangère compétente, à condition que l'enfant ait été autorisé, à ce titre, à entrer
+sur le territoire français.
+
+Un décret en Conseil d'Etat détermine les mesures d'application des alinéas précédents et, en particulier, la ou les périodes
 de remplacement ouvrant droit au bénéfice de l'avantage ci-dessus prévu ainsi que la durée maximale d'attribution dudit
 avantage. En cas d'adoption, la ou les périodes de remplacement se situent nécessairement après l'arrivée de l'enfant au
 foyer, la durée maximale d'attribution de la prestation étant égale à la moitié de celle qui est prévue en cas de maternité.
@@ -15462,7 +15467,7 @@ Les dépenses afférentes au service de cette prestation sont financées par la 
 
 	**Modifié par**:
 
-	  - Loi - art. 118 () JORF 30 décembre 1990
+	  - Loi n°94-629 du 25 juillet 1994 - art. 25 () JORF 26 juillet 1994
 
 	**Nouveaux textes**:
 
@@ -15474,6 +15479,8 @@ Les dépenses afférentes au service de cette prestation sont financées par la 
 
 	**Cite**:
 
+	  - Code de la famille et de l'aide sociale. - art. 100-3 (M)
+	  - Code de la famille et de l'aide sociale. - art. 63 (M)
 	  - Code rural 1106-1, 1106-6
 
 
