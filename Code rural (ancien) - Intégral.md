@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1964-12-18
+Version Consolidée au 1964-12-24
 
 ###### Article 162
 
@@ -15943,38 +15943,6 @@ visée à l'alinéa précédent.
 	**Nouveaux textes**:
 
 	  - Code rural - art. L732-20 (M)
-
-
-##### Paragraphe 3 : Allocation complémentaire agricole.
-
-###### Article 1122-3
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°64-1279 1964-12-23 art. 51 JORF 24 décembre 1964
-
-
-###### Article 1122-4
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°64-1279 1964-12-23 art. 51 JORF 24 décembre 1964
 
 
 #### Section 2 : Cotisations.
