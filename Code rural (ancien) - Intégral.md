@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1960-05-13
+Version Consolidée au 1960-07-31
 
 ###### Article 162
 
@@ -10962,6 +10962,42 @@ relevé de nouvelles contraventions.
 	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
 
 
+###### Article 990
+
+Les inspecteurs et les contrôleurs des lois sociales en agriculture, commissionnés et assermentés dans les conditions fixées
+par décret, sont habilités à constater les infractions aux arrêtés visés à l'article 987 dans des procès-verbaux qui font foi
+jusqu'à preuve contraire.
+
+Ils ont accès dans les exploitations et entreprises intéressées et peuvent demander communication sur place de tous documents
+et pièces nécessaires à l'accomplissement de leur mission de contrôle.
+
+Les dispositions du code pénal qui prévoient et répriment les actes de résistance, les outrages et les violences contre les
+officiers de police judiciaire sont, en outre, applicables à ceux qui se rendent coupables de faits de même nature à l'égard
+des inspecteurs et contrôleurs des lois sociales en agriculture.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 987
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-1490 1945-07-07 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°60-771 1960-07-30 art. 1 JORF 31 juillet 1960
+
+	**Abrogé par**:
+
+	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
+
+
 ###### Article 991
 
 Des décrets pris sur le rapport du ministre de l'agriculture et du ministre chargé des affaires sociales déterminent les
@@ -10993,6 +11029,25 @@ modalités d'application du présent chapitre.
 	**Modifié par**:
 
 	  - Ordonnance 58-1297 1958-12-23 art. 10 JORF 24 décembre 1958
+
+	**Abrogé par**:
+
+	  - Loi n°74-1116 1974-12-27 art. 1 JORF 29 décembre 1974
+
+
+###### Article 1000
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°60-771 1960-07-30 art. 2 JORF 31 juillet 1960
 
 	**Abrogé par**:
 
