@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1988-01-19
+Version Consolidée au 1988-02-24
 
 ###### Article 40-3
 
@@ -16680,6 +16680,82 @@ permanente.
 	  - Décret n°55-433 1955-04-16
 
 
+###### Article 617
+
+Les collectivités qui peuvent s'affilier aux caisses de crédit agricole mutuel sont :
+
+1° Les sociétés coopératives agricoles et leurs unions ;
+
+2° Les associations syndicales ayant un objet exclusivement agricole, leurs unions et les associations foncières ;
+
+3° Les sociétés d'intérêt collectif agricole ;
+
+4° Les syndicats professionnels agricoles, les sociétés d'élevage, les associations agricoles reconnues par la loi et
+dépendant du ministère de l'agriculture ayant pour objet de favoriser la production agricole, ainsi que leurs unions et
+fédérations ;
+
+5° Les caisses d'assurances et de réassurances mutuelles agricoles et les caisses mutuelles d'allocations familiales
+agricoles, les caisses d'assurances sociales agricoles ainsi que les caisses d'assurance vieillesse agricole ;
+
+6° Les organismes de jardins familiaux ;
+
+7° D'une part, les exploitations agricoles à responsabilité limitée, d'autre part, les sociétés civiles de personnes ayant
+pour objet l'exploitation en commun de biens agricoles et forestiers et la mise en oeuvre des produits de ces exploitations,
+constituées entre exploitants de tels biens et, éventuellement, leurs employés et ouvriers ;
+
+8° Les chambres d'agriculture et l'assemblée permanente des chambres d'agriculture ;
+
+9° Les communes, syndicats de communes et départements ;
+
+10° Les établissements d'enseignement, de formation professionnelle ou d'éducation agricoles et instituts de recherches
+agronomiques, constitués sous la forme d'établissements publics ou agréés dans les conditions fixées par un arrêté du
+ministre de l'agriculture ;
+
+11° Les organismes visés à l'article 9 de la loi n° 51-592 du 24 mai 1951 ;
+
+12° Les organismes d'intervention visés au titre II du décret n° 53-974 du 30 septembre 1953 ;
+
+13° Le groupement interprofessionnel des fleurs et des plantes à parfum créé par la loi n° 41-3408 du 16 juillet 1941 ;
+
+14° Les syndicats mixtes prévus à l'article 4 du décret n° 55-606 du 20 mai 1955 ;
+
+15° Les sociétés d'économie mixte constituées avec la participation des collectivités publiques locales, telle qu'elle est
+prévue par les dispositions du décret n° 55-579 du 20 mai 1955 ;
+
+16° Les associations, sociétés et établissements de vocation ou d'intérêt agricole ayant fait l'objet d'un agrément
+particulier de la caisse nationale de crédit agricole ;
+
+17° Les sociétés coopératives agricoles de caution mutuelle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-974 1953-09-30
+	  - Décret n°55-579 1955-05-20
+	  - Décret n°55-606 du 20 mai 1955 - art. 4 (Ab)
+	  - Loi n°41-3408 1941-07-16
+	  - Loi n°51-592 du 24 mai 1951 - art. 9, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°56-780 1956-08-04 art. 108 JORF 7 août 1956
+	  - Ordonnance 58-880 1958-09-24 art. 3 JORF 26 septembre 1958
+	  - Loi n°72-516 du 27 juin 1972 - art. 18 () JORF 28 juin 1972
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R512-4 (V)
+
+
 ###### Article 618
 
 Le capital des caisses de crédit agricole mutuel ne peut être formé par des souscriptions d'actions. Il doit l'être par les
@@ -19887,6 +19963,49 @@ fixée par arrêté du ministre de l'agriculture et du ministre chargé des fina
 	**Créé par**:
 
 	  - Décret n°85-1058 1985-10-02 art. 1 JORF 4 octobre 1985
+
+
+###### Article 787-2
+
+Peuvent bénéficier des prêts mentionnés à l'article 787-1 les agriculteurs qui consacrent à leur activité agricole au moins
+50 p. 100 de leur temps de travail et en retirent au moins 50 p. 100 de leurs revenus professionnels, ainsi que les
+exploitations agricoles à responsabilité limitée dont l'associé unique ou l'un au moins des associés exploitants remplit
+cette condition.
+
+Peuvent en outre bénéficier des prêts mentionnés au 2° de l'article 787-1 :
+
+1° Les personnes morales dont l'objet est exclusivement agricole et dont au moins 70 p. 100 du capital est détenu par des
+exploitants agricoles à titre principal, à condition que leurs statuts comportent des dispositions de nature à assurer le
+maintien de cette proportion en cas de transfert de parts ou d'actions.
+
+2° Les propriétaires de biens fonciers à usage agricole ayant donné à bail leur exploitation, selon les statuts du fermage, à
+un exploitant agricole à titre principal.
+
+Peuvent également bénéficier des prêts mentionnés au 3° de l'article 787-1 les coopératives dont 70 p. 100 du capital social
+au moins est détenu par les membres satisfaisant individuellement aux conditions mentionnées au premier alinéa du présent
+article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 787-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Décret n°85-1058 1985-10-02 art. 1 JORF 4 octobre 1985
+
+	**Modifié par**:
+
+	  - Décret n°88-178 1988-02-23 art. 1 I, II, III JORF 24 février 1988
+
+	**Abrogé par**:
+
+	  - Décret n°91-906 du 11 septembre 1991 - art. 2 (V) JORF 13 septembre 1991
 
 
 ###### Article 787-3
