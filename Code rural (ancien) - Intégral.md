@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1965-07-10
+Version Consolidée au 1965-07-17
 
 ###### Article 162
 
@@ -11394,128 +11394,43 @@ Le privilège et les droits qui y sont attachés peuvent être transmis par voie
 
 #### Section 2 : Crédit à moyen terme
 
-##### Paragraphe 1 : Prêts pour la modernisation et le développement agricole.
-
-###### Article 663
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
-
-
-###### Article 664
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
-
-
-###### Article 665
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
-
-
 ##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.
 
-###### Article 667
+###### Article 666
 
-(texte abrogé).
+Des prêts à moyen terme peuvent être consentis aux jeunes agriculteurs qualifiés par leurs aptitudes professionnelles et
+morales pour leur permettre de s'établir dans une exploitation rurale, soit comme propriétaires exploitants, soit comme
+membres d'une société d'exploitation rurale définie au 7° de l'article 617.
+
+Ces prêts ont plus spécialement pour objet l'achat du cheptel et du matériel nécessaires à une première installation ainsi
+que l'équipement de l'exploitation suivant la technique moderne.
+
+Les métayers qui ont déjà cultivé un domaine à mi-fruit sans qu'une partie du cheptel vif ou mort leur appartienne peuvent en
+bénéficier pour leur installation dans une propriété.
+
+Ces prêts peuvent être également accordés pour faciliter la première installation des jeunes artisans ruraux.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 617
+
+	**Nouveaux textes**:
+
+	  - Code rural R343-1
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
 
-
-###### Article 668
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
 	**Abrogé par**:
 
-	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
-
-
-###### Article 669
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
-
-
-###### Article 670
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
-
-
-###### Article 671
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
+	  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
 
 
 ###### Article 672
@@ -11574,19 +11489,31 @@ Le recouvrement des prêts est assuré pour le compte du Trésor par les caisses
 
 ##### Paragraphe 3 : Prêts spéciaux aux jeunes ménages et aux migrants agricoles.
 
-###### Article 674
+###### Article 674-1
 
-(texte abrogé).
+Les prêts à moyen terme consentis par les caisses régionales de crédit agricole mutuel aux agriculteurs dont la qualité de
+migrant aura été reconnue par le ministre de l'agriculture et financés au moyen de ressources mises par l'Etat à la
+disposition de la caisse nationale de crédit agricole donnent lieu à une garantie du Trésor à concurrence de 20 % du montant
+des opérations réalisées par chaque caisse régionale. Les conditions de la mise en jeu de cette garantie feront l'objet d'une
+convention passée entre le ministre de l'économie et des finances et la caisse nationale de crédit agricole.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural R343-20, R348-1
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
+
+	**Abrogé par**:
+
+	  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
 
 
 ##### Paragraphe 4 : Prêts aux victimes de calamités agricoles.
@@ -11731,39 +11658,39 @@ Un décret fixe en tant que de besoin, les conditions d'application des articles
 	  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
 
 
-##### Paragraphe 5 : Prêts aux producteurs de vin d'appellation d'origine contrôlée.
-
-###### Article 681
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
-
-
-###### Article 682
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
-
-
 #### Section 3 : Crédit à long terme individuel.
+
+###### Article 686
+
+Les prêts individuels à long terme sont destinés à faciliter l'acquisition, l'extension, l'aménagement, la transformation, la
+conservation ou la reconstitution de petites propriétés rurales et d'habitations de travailleurs ruraux.
+
+Ils sont également destinés à l'acquisition d'exploitations par les fermiers faisant usage de leur droit de préemption, dans
+les conditions prévues à l'article 7 (paragraphe III, 3e alinéa) de la loi n° 62-933 du 8 août 1962.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural R341-5
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Loi n°62-933 1962-08-08 art. 7
+
+	**Modifié par**:
+
+	  - Loi n°63-156 1963-02-23 art. 44 JORF 24 février 1963
+	  - Décret n°65-576 1965-07-15 art. 16 JORF 17 juillet 1965
+
+	**Abrogé par**:
+
+	  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
+
 
 ###### Article 689
 
