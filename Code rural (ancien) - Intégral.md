@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1992-11-12
+Version Consolidée au 1992-12-12
 
 ###### Article 1143-2
 
@@ -60,118 +60,6 @@ les organes collectifs habilités à utiliser les procédures de recouvrement é
 
 
 # Livre Ier : Régime du sol
-
-## Titre Ier : De l'aménagement foncier
-
-### Chapitre II : De la réorganisation de la propriété foncière
-
-###### Article 18
-
-L'article 35 du présent code s'applique aux parcelles ayant donné lieu à des échanges en application du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 35
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°85-1496 du 31 décembre 1985 - art. 2 () JORF 3 janvier 1986 en vigueur le 1er janvier 1987
-
-	**Abrogé par**:
-
-	  - Loi n°92-1283 du 11 décembre 1992 - art. 3 (V) JORF 12 décembre 1992
-	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
-
-
-### Chapitre VII : Dispositions diverses.
-
-###### Article 54
-
-Un règlement d'administration publique détermine les conditions d'exécution des chapitres qui précèdent et notamment, outre
-les modalités d'application des articles 2-2, 4, 4-1, 7, 7-1, 27 et 28 la procédure à suivre devant la commission
-départementale, les rapports avec les services des contributions directes et du cadastre, les conditions d'aliénation et de
-concession des lots créés et non attribués, la fixation des bases de répartition entre les intéressés des dépenses relatives
-aux opérations de remembrement, de réorganisation foncière et aux travaux d'améliorations foncières connexes à ces
-opérations, la gestion financière et l'ordonnancement des dépenses.
-
-Un décret détermine les règles de forme applicables aux actes constatant les opérations d'aménagement foncier définies aux
-chapitres II et III ainsi que les opérations d'échanges amiables effectués en application du chapitre IV.
-
-Le même décret fixe également les modalités selon lesquelles sont requis les états d'inscriptions et effectuées les
-formalités de publicité hypothécaire concernant tant les opérations visées à l'alinéa précédent que le transfert des droits
-réels visant les immeubles remembrés ou échangés.
-
-Jusqu'à la date d'entrée en vigueur de ce décret, les états sont requis et les formalités de publicité hypothécaire
-s'effectuent en conformité du titre VIII du décret du 7 janvier 1942.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 2-2, 4, 4-1, 7, 7-1, 27, 28
-	  - Décret n°1942-01-07
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°85-1496 du 31 décembre 1985 - art. 19 () JORF 3 janvier 1986
-
-	**Abrogé par**:
-
-	  - Loi n°92-1283 du 11 décembre 1992 - art. 3 (V) JORF 12 décembre 1992
-	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
-
-
-###### Article 55
-
-Les prescriptions de la loi n° 43-374 du 6 juillet 1943 sont applicables aux opérations de réorganisation foncière et de
-remembrement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-09 art. 34
-
-	**Abrogé par**:
-
-	  - Loi n°92-1283 du 11 décembre 1992 - art. 3 (V) JORF 12 décembre 1992
-	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
-
-
-###### Article 56
-
-Les dispositions des chapitres Ier à VII , à l'exception du chapitre V du présent titre, sont applicables dans les
-départements de la Guadeloupe, la Guyane, la Martinique et de la réunion.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°85-1496 du 31 décembre 1985 - art. 27 () JORF 3 janvier 1986
-
-	**Abrogé par**:
-
-	  - Loi n°92-1283 du 11 décembre 1992 - art. 3 (V) JORF 12 décembre 1992
-	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
-
 
 ## Titre III : Des cours d'eaux non domaniaux
 
