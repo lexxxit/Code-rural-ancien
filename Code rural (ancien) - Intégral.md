@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1984-07-10
+Version Consolidée au 1984-08-02
 
 ###### Article 162
 
@@ -6577,6 +6577,11 @@ Il est institué, dans chaque département, une commission départementale des s
 fixée par décret. Elle est appelée à donner son avis sur les autorisations sollicitées en application de l'article 188-2,
 ainsi que sur les schémas directeurs et les superficies mentionnées aux articles 188-1 et 188-4.
 
+Le représentant de l'Etat dans le département peut constituer une commission cantonale ou intercantonale dont la composition
+est fixée par référence à celle de la commission départementale des structures. Cette commission est consultée dans les mêmes
+conditions que la commission départementale des structures à la demande de celle ci ou du représentant de l'Etat dans le
+département.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -6589,10 +6594,11 @@ ainsi que sur les schémas directeurs et les superficies mentionnées aux articl
 
 	**Modifié par**:
 
-	  - Loi n°68-1245 1968-12-31 art. 3 JORF 31 décembre 1968
-	  - Loi n°73-1228 1973-12-31 art. 1 II, III JORF 3 janvier 1974
-	  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
-	  - Loi n°80-502 du 4 juillet 1980 - art. 48 () JORF 5 juillet 1980
+	  - Loi n°84-741 du 1 août 1984 - art. 4 () JORF 2 août 1984
+
+	**Abrogé par**:
+
+	  - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
 
 
 ###### Article 188-3-1
@@ -6870,186 +6876,6 @@ l'entrée en vigueur du présent titre.
 	**Abrogé par**:
 
 	  - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
-
-
-## Titre VIII : De l'aménagement des superficies des exploitations et propriétés agricoles dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.
-
-###### Article 188-10
-
-Sont soumis à autorisation préalable, dans les conditions déterminées par le décret prévu à l'article 188-17, les cumuls et
-les réunions d'exploitations agricoles qui auraient pour effet de porter la superficie de l'ensemble considéré au-delà d'une
-limite fixée comme il est indiqué à l'article 188-14.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 188-17, 188-14
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 aout 1984
-
-
-###### Article 188-11
-
-Sont soumis à autorisation préalable, dans les conditions déterminées par le décret prévu à l'article 188-17, tous les
-transferts entre vifs de propriétés à titre gratuit ou onéreux, portant sur des fonds agricoles d'une superficie supérieure à
-une limite fixée comme il est indiqué à l'article 188-14 ou ayant pour effet de porter au-delà de ladite limite la superficie
-des propriétés agricoles appartenant au bénéficiaire du transfert.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 188-14, 188-17
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
-
-
-###### Article 188-12
-
-Quiconque désire, soit procéder à un cumul ou à une réunion d'exploitations agricoles tombant sous le coup de l'article
-188-10, soit bénéficier d'un transfert de propriété de fonds agricole tombant sous le coup de l'article 188-11, doit adresser
-une demande d'autorisation au préfet.
-
-Le préfet statue sur la demande après avoir recueilli les observations du demandeur, avoir fait procéder à toutes enquêtes
-qu'il juge nécessaires et avoir pris l'avis d'une commission dont la composition est fixée par le décret prévu à l'article
-58-17.
-
-Si, dans le délai de trois mois à compter de la réception de la demande, le préfet n'a pas notifié sa décision, il est réputé
-avoir accordé l'autorisation demandée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 58-17, 188-10, 188-11
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
-
-
-###### Article 188-13
-
-Le préfet, après avoir recueilli les observations de l'intéressé, pris l'avis de la commission prévue à l'article 188-12,
-peut mettre en demeure tout propriétaire d'un fonds agricole qu'il exploite et dont la superficie est supérieure à une limite
-fixée comme il est indiqué à l'article 188-14 de donner à ferme ou colonat partiaire la superficie excédentaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 188-12, 188-14
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
-
-
-###### Article 188-14
-
-Les superficies limites respectivement prévues aux articles 188-10, 188-11, 188-13 sont fixées par le préfet après avis de la
-commission prévue à l'article 188-12. Les arrêtés préfectoraux fixant ces limites sont soumis à l'approbation du ministre
-chargé des départements d'outre-mer et du ministre de l'agriculture.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 188-10, 188-11, 188-12, 188-13
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
-
-
-###### Article 188-15
-
-En cas de location consentie en infraction des dispositions de l'article 188-10, le contrat est obligatoirement résilié à la
-demande, le cas échéant, du préfet.
-
-En cas de transfert de propriété accompli en infraction aux dispositions des articles 188-10 et 188-11, le préfet, après avis
-de la commission prévue à l'article 188-12, peut exercer, au profit de l'Etat, un droit de retrait sur le fonds qui en fait
-l'objet.
-
-La décision d'exercer le droit de retrait est notifiée par acte extrajudiciaire. Elle doit l'être dans les six mois de
-l'enregistrement de l'acte portant transfert de propriété.
-
-L'indemnité est liquidée comme en matière d'expropriation, sans pouvoir excéder le prix ou la valeur exprimé dans l'acte de
-transfert de propriété.
-
-Si la mise en demeure prévue à l'article 188-13 n'a pas été suivie d'effet dans le délai imparti, le préfet, après avis de la
-même commission, peut provoquer l'expropriation de la superficie excédentaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 188-10, 188-11, 188-12, 188-13
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
-
-
-###### Article 188-16
-
-Ne sont pas soumises aux dispositions du présent titre les superficies qui en auraient été exemptées par décret en Conseil
-d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
-
-
-###### Article 188-17
-
-Des décrets en Conseil d'Etat, pris après consultation des conseils généraux et des chambres d'agriculture pour les questions
-entrant dans leurs attributions, détermineront, en tant que de besoin, les conditions d'application du présent titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
 
 
 # Livre II : Des animaux et des végétaux
