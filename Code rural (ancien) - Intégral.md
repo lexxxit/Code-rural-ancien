@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1967-07-09
+Version Consolidée au 1967-07-13
 
 ###### Article 162
 
@@ -4478,6 +4478,38 @@ arrêté du ministre de l'agriculture détermine les conditions dans lesquelles 
 	**Anciens textes**:
 
 	  - Loi n°1941-11-02 art. 2
+
+
+###### Article 182
+
+Le preneur qui désire effectuer des travaux d'amélioration dans les conditions prévues à l'article 850 ci-dessous, peut
+bénéficier à cet effet de l'aide financière de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 850
+
+	**Nouveaux textes**:
+
+	  - Code rural R346-3
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°67-560 1967-07-12 art. 8 JORF 13 juillet 1967
+
+	**Abrogé par**:
+
+	  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
+
+	**Anciens textes**:
+
+	  - Loi n°1940-11-21 art. 3
 
 
 ###### Article 183
@@ -16217,6 +16249,202 @@ remboursée sera reversé à l'assuré.
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.
+
+###### Article 1106-17
+
+Les dispositions du chapitre III-1 du présent titre sont étendues aux personnes résidant dans les départements d'outre-mer
+dans les conditions et sous les réserves précisées aux articles suivants.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-13 (V)
+	  - Code rural L762-13
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1106-19
+
+Au titre des assurances maladie et maternité, les prestations auxquelles peuvent prétendre les bénéficiaires du présent
+chapitre sont celles prévues au titre III du livre XI du code de la sécurité sociale. Toutefois, l'assurance ne comporte en
+aucun cas l'attribution d'indemnité journalière. Elle ne couvre pas les conséquences des accidents de la vie privée, sauf
+pour les enfants mineurs de 16 ans ou assimilés. Elle ne couvre en aucun cas les conséquences des accidents du travail et des
+maladies professionnelles, lors même qu'il n'y a pas adhésion à la législation relative auxdits accidents ou maladies.
+
+Au titre de l'assurance invalidité, les prestations sont celles prévues à l'article 1106-2, I, 3°.
+
+Les conditions d'ouverture du droit aux prestations visées aux alinéas précédents sont celles applicables aux bénéficiaires
+du régime institué par le chapitre III-1 du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-18 (M)
+	  - Code rural - art. L762-19 (VT)
+	  - Code rural - art. L762-20 (VT)
+
+	**Cite**:
+
+	  - Code rural 1106-2
+
+
+###### Article 1106-21
+
+I. - Les caisses générales de sécurité sociale des départements intéressés assurent, dans les conditions fixées par décret,
+la gestion du régime institué par le présent chapitre.
+
+II. - Un décret fixe les conditions dans lesquelles est assurée la couverture par chaque caisse des dépenses résultant de
+l'application du présent chapitre. Il précise notamment les conditions dans lesquelles sont mises à la disposition des
+caisses par la caisse centrale de secours mutuels agricoles, les sommes nécessaires au règlement des prestations légales
+ainsi que les conditions dans lesquelles est assurée la couverture des frais de gestion exposés par les caisses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-1 (M)
+	  - Code rural - art. L762-24 (V)
+
+
+###### Article 1106-22
+
+Les caisses générales de sécurité sociale des départements d'outre-mer sont chargées de promouvoir l'action sociale en faveur
+des bénéficiaires du présent chapitre. Le décret, prévu à l'article 1106-4 du présent code, détermine les conditions dans
+lesquelles le fonds spécial prévu audit article est appelé à participer à cette action sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-25 (V)
+	  - Code rural L762-25
+
+	**Cite**:
+
+	  - Code rural 1106-4
+
+
+###### Article 1106-23
+
+Les chefs d'exploitation ou d'entreprise et les titulaires de retraites ou allocations sont tenus de recevoir à toute époque
+les directeurs régionaux et départementaux et les inspecteurs de la sécurité sociale ainsi que les agents de contrôle
+assermentés des caisses générales de sécurité sociale qui se présentent pour vérifier l'application régulière des
+dispositions du présent chapitre.
+
+Ces fonctionnaires et agents ont accès dans les exploitations et entreprises intéressées et peuvent demander communication
+sur place de tous documents et pièces nécessaires à l'accomplissement de leur mission de contrôle.
+
+Les dispositions du code pénal qui prévoient et répriment les actes de résistance, les outrages et les violences contre les
+officiers de police judiciaire sont applicables à ceux qui se rendent coupables de faits de même nature à l'égard de ces
+fonctionnaires ou agents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-3 (V)
+	  - Code rural L762-3
+
+
+###### Article 1106-24
+
+Les dispositions des articles L. 167-1, L. 170, L. 170-1, L. 170-2, L. 180, L. 259, L. 262, L. 264, L. 265, L. 279, L. 286,
+L. 397 à L. 399, L. 141-1 à L. 145-8, L. 162-6, L. 162-9, L. 162-11, L. 162-28, L. 162-32, L. 162-35, L. 244-9, L. 244-12 à
+L. 244-14, L. 281-2, L. 322-2, L. 376-1 à L. 376-4 du code de la sécurité sociale sont applicables au régime institué par le
+présent chapitre.
+
+Les dispositions de l'article L. 355-2 du code de la sécurité sociale s'appliquent aux pensions d'invalidité servies en
+application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-14 (V)
+	  - Code rural L762-14
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L167-1, L170, L170-1, L170-2, L180, L259, L262, L264, L265, L279, L286, L397 à L399, L141-1 à L145-8, L162-6, L162-9, L162-11, L162-28, L162-32, L162-35, L244-9, L244-12 à L244-14, L281-2, L322-2, L376-1 à L376-4, L355-2
+	  - Code de la sécurité sociale. - art. L162-11 (M)
+	  - Code de la sécurité sociale. - art. L162-28 (M)
+	  - Code de la sécurité sociale. - art. L162-32 (M)
+	  - Code de la sécurité sociale. - art. L162-35 (V)
+	  - Code de la sécurité sociale. - art. L162-6 (M)
+	  - Code de la sécurité sociale. - art. L162-9 (M)
+	  - Code de la sécurité sociale. - art. L167-1 (AbD)
+	  - Code de la sécurité sociale. - art. L244-9 (M)
+	  - Code de la sécurité sociale. - art. L281-2 (M)
+	  - Code de la sécurité sociale. - art. L322-2 (M)
+	  - Code de la sécurité sociale. - art. L355-2 (M)
+
+
+###### Article 1106-25
+
+Ne sont pas applicables dans les départements d'outre-mer les dispositions des articles 1106-5 (dernier alinéa), 1106-6,
+1106-9 à 1106-11 et 1106-13 du présent code ainsi que toutes dispositions contraires à celles du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1106-5, 1106-6, 1106-9 à 1106-11, 1106-13
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-15 (V)
 
 
 ### Chapitre IV : Assurance vieillesse des personnes non salariées
