@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1984-01-01
+Version Consolidée au 1984-01-03
 
 ###### Article 162
 
@@ -19918,257 +19918,314 @@ agricoles peut tenir compte de toute donnée de caractère économique se rappor
 
 ###### Article 1004
 
-Les personnes relevant, au titre d'assujettis, bénéficiaires ou cotisants des caisses de mutualité sociale agricole, forment
-sur le territoire de la commune de leur domicile trois collèges électoraux.
+Les personnes relevant au titre d'assujettis, qu'ils soient bénéficiaires ou cotisants, des caisses de mutualité sociale
+agricole forment trois collèges électoraux :
 
-1° Le collège électoral :
+1° Le premier collège comprend :
 
-a) Des exploitants agricoles, des artisans ruraux et autres travailleurs indépendants des professions connexes à
+a) Les exploitants agricoles, les artisans ruraux et les autres travailleurs indépendants des professions connexes à
 l'agriculture n'employant pas de main-d'oeuvre salariée à titre permanent ;
 
-b) Des membres non salariés de leurs familles travaillant sur l'exploitation ou l'entreprise ;
+b) Les membres non salariés de leur famille travaillant sur l'exploitation ou dans l'entreprise ;
 
-2° Le collège électoral des travailleurs salariés de l'agriculture, de l'artisanat rural et des professions connexes ;
+2° Le deuxième collège comprend les travailleurs salariés de l'agriculture, de l'artisanat rural et des professions connexes,
+énumérés aux 1° à 7°, 9° et 10° de l'article 1144 ;
 
-3° Le collège électoral :
+3° Le troisième collège comprend :
 
-a) Des exploitants agricoles, artisans ruraux et autres travailleurs indépendants des professions connexes à l'agriculture
-employant une main-d'oeuvre salariée, à titre permanent ;
+a) Les exploitants agricoles, les artisans ruraux et les autres travailleurs indépendants des professions connexes à
+l'agriculture employant une main-d'oeuvre salariée, à titre permanent ;
 
-b) Des membres non salariés de leurs familles travaillant sur l'exploitation ou l'entreprise ;
+b) Les membres non salariés de leur famille travaillant sur l'exploitation ou dans l'entreprise ;
 
-c) Des organismes agricoles prévus à l'article 1024.
+c) Les organismes agricoles mentionnés au 7° de l'article 1144.
+
+Les personnes qui bénéficient des prestations en nature de l'assurance maladie du régime des salariés agricoles en qualité de
+titulaire d'un avantage de vieillesse, d'un avantage d'invalidité ou d'une rente d'accident du travail de ce régime sont
+rattachées au deuxième collège. Les personnes qui bénéficient des prestations en nature de l'assurance maladie du régime des
+non salariés agricoles, en qualité de titulaire d'un avantage de vieillesse ou d'invalidité de ce régime, sont rattachées au
+collège électoral auquel elles appartenaient à la date de cessation de leur activité agricole non salariée.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1144
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L723-15 (M)
 
-	**Cite**:
 
-	  - Code rural 1024
-
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 3
-
+### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.
 
 ###### Article 1005
 
-Sur proposition du conseil d'administration de la mutualité sociale agricole, le préfet peut, exceptionnellement, après avis
-de maires intéressés, autoriser par arrêté la constitution de collèges communs à deux ou trois communes limitrophes du même
-canton.
+Dans chaque commune, les électeurs des premier et troisième collèges élisent des délégués communaux.
+
+Toutefois, lorsque le nombre des électeurs d'une ou plusieurs communes est inférieur à cinquante, le représentant de l'Etat
+dans le département, après avis du conseil d'administration de la mutualité sociale agricole et des maires intéressés, réunit
+deux ou plusieurs communes limitrophes d'un même canton pour former des circonscriptions électorales groupant au moins
+cinquante électeurs.
+
+Si des groupements d'au moins cinquante électeurs ne peuvent être constitués, la circonscription électorale est le canton.
+
+Dans les cantons qui comprennent une fraction de commune urbaine et des communes suburbaines, la fraction de commune urbaine
+est considérée comme une commune.
+
+Quatre délégués du premier collège et deux délégués du troisième collège sont élus, selon le cas, dans chaque commune ou
+groupement de communes. Toutefois, lorsque le nombre d'électeurs d'une commune ou d'un groupement de communes est supérieur à
+cinq cents, le nombre des délégués est doublé pour chacun des collèges.
+
+Pour chaque collège, sont proclamés élus les candidats qui ont obtenu le plus grand nombre de voix au scrutin majoritaire à
+un tour.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L723-16 (Ab)
 
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 5
-
 
 ###### Article 1006
 
-Sont électeurs dans les collèges ci-dessus définis, à condition de n'avoir pas été condamnés à l'une des peines entraînant,
-selon la loi française, la déchéance des droits civiques :
+Les délégués communaux des premier et troisième collèges élisent dans leur sein six délégués cantonaux et six suppléants, à
+raison de quatre délégués et quatre suppléants pour le premier collège et de deux délégués et deux suppléants pour le
+troisième.
 
-a) Les personnes de nationalité française ou protégées françaises, âgées de dix-huit ans au moins, bénéficiaires ou non des
-prestations et dont toutes les cotisations, personnellement dues par elles et réclamées depuis six mois au moins, ont été
-acquittées ;
+Sont proclamés élus pour chacun des collèges, les délégués et suppléants ayant obtenu le plus grand nombre de voix au scrutin
+majoritaire à un tour.
 
-b) Dans le cadre des règles de réciprocité prévues par les accords internationaux, les personnes de nationalité étrangère
-âgées de dix-huit ans au moins, bénéficiaires ou non des prestations, et dont toutes les cotisations, dues par elles, et
-réclamées depuis six mois au moins, ont été acquittées, et qui résident depuis deux ans au moins en France ;
+En cas de vacance au sein des délégués cantonaux des premier et troisième collèges, les suppléants des délégués dont les
+fonctions ont pris fin sont appelés à prendre part à l'assemblée générale de la mutualité sociale agricole jusqu'aux
+élections cantonales suivantes.
 
-c) Si elles sont âgées de dix-huit ans au moins, ont acquitté toutes les cotisations dues par elles et réclamées depuis moins
-de six mois, qu'elles bénéficient ou non des prestations, les personnes de nationalité étrangère exerçant en France
-l'activité d'exploitant agricole, en vertu de dispositions de droit interne français prises pour l'application des articles
-52 à 58 du traité instituant la Communauté économique européenne, et notamment des dispositions du décret n° 63-1019 du 10
-octobre 1963 relatif à l'accès à la condition d'exploitant agricole de certains ressortissants de cette Communauté.
+A Paris et dans les villes divisées en arrondissements ou en cantons qui ne comprennent pas de communes suburbaines, les
+électeurs des premier et troisième collèges procèdent directement, par arrondissement ou par canton, à l'élection de six
+délégués cantonaux et six suppléants, dans les conditions prévues aux deux premiers alinéas du présent article.
 
-Lorsque l'employeur est une personne morale, l'électeur est un mandataire désigné par elle à cet effet.
+Dans le cas du regroupement de l'ensemble des communes d'un canton, il est procédé à l'élection des délégués cantonaux et de
+leurs suppléants, dans les conditions prévues à l'alinéa précédent.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L723-17
+	  - Code rural - art. L723-17 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-	**Cite**:
-
-	  - Décret n°63-1019 1963-10-10
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Décret n°64-1049 1964-10-09 art. 4 JORF 15 octobre 1964
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L723-17 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 3
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1007
 
-Toute mère de famille n'ayant pas la qualité d'assurée du régime de la sécurité sociale, et dont le mari appartient à l'un
-des collèges définis à l'article précédent, est électrice dans le même collège.
+Dans chaque canton, les électeurs du deuxième collège élisent trois délégués cantonaux.
+
+Toutefois, si le nombre des électeurs d'un ou plusieurs cantons est inférieur à cinquante, le représentant de l'Etat dans le
+département réunit, après consultation du conseil d'administration de la mutualité sociale agricole, deux ou plusieurs
+cantons pour former des circonscriptions électorales groupant au moins cinquante électeurs ou, à défaut, tous les électeurs
+du département. Dans ce cas, quelle que soit la circonscription électorale, le nombre de délégués cantonaux est égal au
+nombre de cantons regroupés, multiplié par trois.
+
+Les délégués cantonaux sont élus au scrutin de liste à la représentation proportionnelle suivant la règle du plus fort reste
+sans panachage, rature ou vote préférentiel. Les sièges sont attribués dans l'ordre de présentation des candidats.
+
+Les listes sont présentées par les organisations syndicales de salariés agricoles reconnues représentatives au plan national.
+Elles doivent comprendre un nombre de candidats égal au moins au nombre de délégués cantonaux à élire et au plus au double de
+ce nombre. Il est pourvu aux vacances survenant dans le deuxième collège dans l'ordre de présentation de la liste intéressée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L723-18 (M)
 
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 4
-
 
 ###### Article 1008
 
-Dans les délais fixés par arrêté du ministre de l'agriculture, le conseil d'administration de la mutualité sociale agricole
-établit une liste provisoire des électeurs de chaque collège et la communique sous pli recommandé aux maires intéressés.
+Les délégués cantonaux des trois collèges, élus pour cinq ans, forment l'assemblée générale départementale de la mutualité
+sociale agricole.
 
-Le maire publie immédiatement cette liste par affichage à la mairie en invitant, par la même voie, ses administrés à lui
-présenter leurs réclamations dans un délai de quinze jours.
-
-A l'expiration de ce délai, le maire transmet, dans les huit jours, au conseil d'administration, les réclamations qu'il a
-reçues, en signalant en même temps toutes autres erreurs ou omissions qu'il aura constatées.
-
-Au reçu des réclamations ou observations transmises par les maires et au plus tard dans le délai de six semaines à partir de
-la communication de la liste provisoire aux maires, le conseil d'administration arrête les listes définitives. Il les
-communique aux maires sous pli recommandé et notifie de la même manière aux réclamants les décisions prises au sujet de leurs
-réclamations.
-
-Dans les huit jours de la notification de cette décision, le réclamant peut faire appel devant le juge du tribunal d'instance
-du canton qui statue comme en matière d'élections consulaires.
-
-Le pourvoi en cassation est formé conformément à l'article 6 de la loi du 14 janvier 1933.
-
-Les rectifications sont opérées conformément à l'article 7 de la même loi.
+Lorsque la circonscription de la caisse de mutualité sociale agricole s'étend sur deux ou plusieurs départements, l'assemblée
+générale comprend les délégués cantonaux des départements de la circonscription.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L723-17
+	  - Code rural - art. L723-27 (V)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Code rural - art. L723-27 (V)
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Loi n°1933-01-14 art. 6, art. 7
-
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 6
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1009
 
-Dans chaque commune ou groupement de communes, il est procédé à l'élection de quatre délégués communaux dont deux élus par le
-premier collège, un par le deuxième collège et un par le troisième collège.
+Le conseil d'administration d'une caisse départementale de mutualité sociale agricole, comprenant vingt-cinq membres, est
+composé comme suit :
 
-Toutefois, dans les communes ou groupements de communes où le nombre total des électeurs des trois collèges est supérieur à
-cinq cents, le nombre des délégués communaux est de huit, dont quatre élus par le premier collège, deux par le deuxième
-collège et deux par le troisième collège.
+1° Vingt-trois membres élus en son sein par l'assemblée générale départementale pour cinq ans à raison de :
+
+a) Dix membres élus par les délégués cantonaux du premier collège, à la majorité absolue des suffrages exprimés au premier
+tour et à la majorité relative au second tour ;
+
+b) Huit membres élus par les délégués cantonaux du deuxième collège, au scrutin de liste selon la représentation
+proportionnelle au plus fort reste sans panachage, rature ou vote préférentiel et suivant l'ordre de présentation ;
+
+c) Cinq membres élus par les délégués cantonaux du troisième collège, à la majorité absolue des suffrages exprimés au premier
+tour et à la majorité relative au second tour.
+
+2° Deux représentants des familles dont l'un est électeur dans le deuxième collège et l'autre dans le premier ou le troisième
+collège et qui sont désignés par l'union départementale des associations familiales sur proposition des associations
+familiales rurales ; le mandat de ces deux administrateurs est également fixé à cinq ans.
+
+3° Siègent également, avec voix consultative, deux représentants du personnel de la caisse de mutualité sociale agricole
+désignés par le comité d'entreprise et pris en son sein.
+
+Les administrateurs des deuxième et troisième collèges ainsi que l'administrateur représentant des familles qui relève du
+deuxième collège forment le comité de la protection sociale des salariés agricoles.
+
+Les administrateurs des premier et troisième collèges ainsi que l'administrateur représentant des familles qui relève du
+premier ou du troisième collège forment le comité de la protection sociale des non-salariés agricoles.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L723-29 (M)
 
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 7, art. 8
-
 
 ###### Article 1010
 
-Sont éligibles par chacun des collèges prévus aux articles ci-dessus, les Français et Françaises jouissant de leurs droits
-civiques et appartenant au collège considéré, à condition qu'ils n'aient pas fait l'objet :
+Lorsque la circonscription des caisses de mutualité sociale s'étend sur deux ou plusieurs départements, le conseil
+d'administration comprend : douze représentants du premier collège, dix représentants du deuxième collège et six
+représentants du troisième collège élus dans les conditions prévues à l'article précédent ainsi que trois représentants des
+familles dont au moins un salarié et un non-salarié désignés conjointement par les unions départementales des associations
+familiales concernées sur proposition des associations familiales rurales. Siègent également, avec voix consultative, deux
+représentants du personnel de la caisse du mutualité sociale agricole désignés par le comité d'entreprise et pris en son
+sein.
 
-Soit de la mesure prévue à l'article 1er de l'ordonnance du 12 novembre 1944 relative à l'épuration des conseils
-d'administration et du personnel des organismes d'assurances sociales, de mutualité et de prévoyance ou de l'une des
-sanctions visées à l'article 6 de ladite ordonnance ;
+Les administrateurs des deuxième et troisième collèges ainsi que le ou les administrateurs représentants des familles, qui
+appartiennent au deuxième collège, forment le comité de la protection sociale des salariés agricoles.
 
-Soit de l'une des mesures prévues aux articles 1er et 4 de l'ordonnance du 14 février 1945 relative à l'épuration des caisses
-de compensation d'allocations familiales et des caisses de congés payés ;
-
-Soit, dans les cinq années précédentes, d'une condamnation en application des articles 1034, 1035, 1036, 1037, 1047 du
-présent code, des articles 46 et 59 de l'ordonnance du 4 octobre 1945, 110 à 114 de l'ordonnance du 19 octobre 1945 (2) et 18
-à 21 de la loi du 22 août 1946 fixant le régime des prestations familiales reproduits par l'article 1089 ci-après ;
-
-Soit de la mesure de destitution prévue à l'article 4 de l'ordonnance du 12 octobre 1944 déclarant nuls et de nul effet les
-actes et textes tendant à l'organisation corporative de l'agriculture.
+Les administrateurs des premier et troisième collèges et le ou les administrateurs représentants des familles, qui relèvent
+des premier ou troisième collèges, forment le comité de la protection sociale des non-salariés agricoles.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 1034, 1035, 1036, 1037, 1047, 1089
-	  - Loi n°46-1835 1946-08-22
-	  - Ordonnance 1944-10-12 art. 4
-	  - Ordonnance 1944-11-12 art. 1, art. 6
-	  - Ordonnance 1945-02-14 art. 1, art. 4
-	  - Ordonnance 45-2250 1945-10-04 art. 46, art. 59
-	  - Ordonnance 45-2454 1945-10-19
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L723-30 (M)
 	  - Code rural - art. L723-31 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 7, art. 8
-
 
 ###### Article 1011
 
-La date des élections est fixée dans chaque département par arrêté du préfet.
+L'assemblée générale centrale de la mutualité sociale agricole, commune à la caisse centrale de secours mutuels agricoles, à
+la caisse centrale d'allocations familiales agricoles et à la caisse nationale d'assurance vieillesse mutuelle agricole, est
+constituée par les délégués élus par leurs pairs au sein du conseil d'administration de chacune des caisses de mutualité
+sociale agricole, à raison de trois délégués pour le premier collège, de deux délégués pour le deuxième collège et d'un
+délégué pour le troisième collège.
 
-Le préfet détermine dans chaque commune les heures d'ouverture et de fermeture du scrutin.
+Le conseil central d'administration de la mutualité sociale agricole, comprenant vingt-cinq membres, est composé comme suit :
 
-Le vote a lieu dans les mairies sous la présidence du maire ou de son délégué.
+1° Vingt-trois membres élus en son sein par l'assemblée générale centrale de la mutualité sociale agricole pour cinq ans, à
+raison de :
 
-Le maire peut organiser plusieurs sections de vote.
+a) Dix administrateurs élus par les délégués du premier collège, à la majorité absolue des suffrages exprimés au premier tour
+et à la majorité relative au second tour ;
+
+b) Huit administrateurs élus par les délégués du deuxième collège, au scrutin de liste selon la représentation
+proportionnelle au plus fort reste, sans panachage, rature ou vote préférentiel et suivant l'ordre de présentation ;
+
+c) Cinq administrateurs élus par les délégués du troisième collège à la majorité absolue des suffrages exprimés au premier
+tour et à la majorité relative au second tour.
+
+2° Deux représentants des familles dont l'un relève du deuxième collège et l'autre du premier ou du troisième collège et qui
+sont désignés par l'union nationale des associations familiales sur la proposition des associations familiales rurales ; le
+mandat de ces deux administrateurs est également fixé à cinq ans.
+
+3° Siègent également, avec voix consultative, deux représentants du personnel de la caisse de mutualité sociale agricole,
+désignés par le comité d'entreprise et pris en son sein.
+
+Les administrateurs centraux des deuxième et troisième collèges ainsi que l'administrateur central représentant les familles
+qui appartient au deuxième collège forment le comité central de la protection sociale des salariés agricoles.
+
+Les administrateurs centraux des premier et troisième collèges ainsi que l'administrateur central représentant des familles
+qui appartient au premier ou au troisième collège forment le comité central de la protection sociale des non-salariés
+agricoles.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
 
 	**Nouveaux textes**:
 
@@ -20177,66 +20234,404 @@ Le maire peut organiser plusieurs sections de vote.
 	  - Code rural - art. L723-33 (V)
 	  - Code rural - art. L723-34 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 9
-
 
 ###### Article 1012
 
-Pour chaque collège, sont proclamées élues les personnes ayant obtenu la majorité absolue des votants.
+Le conseil d'administration règle par ses délibérations les affaires de la caisse. Il rend compte de sa gestion à l'assemblée
+générale.
 
-Dans le cas où aucun des candidats n'a obtenu la majorité absolue, il est procédé huit jours après à un deuxième tour de
-scrutin.
+Les comités prévus aux articles 1009, 1010 et 1011 sont respectivement consultés pour avis sur les questions intéressant la
+protection sociale des exploitants agricoles ou celle des salariés agricoles. Ils peuvent proposer la recherche de toutes
+conventions qui leur paraissent opportunes entre la caisse de mutualité sociale agricole et d'autres organismes de sécurité
+sociale.
 
-L'élection a lieu alors à la majorité relative.
+Toutefois, les délibérations du conseil d'administration de la caisse portant sur :
+
+1° Les dépenses relatives à la prévention des accidents du travail et des maladies professionnelles ;
+
+2° Les dépenses relatives à la médecine du travail et la nomination ou le licenciement des médecins du travail lorsque la
+caisse a constitué une section de médecine du travail ;
+
+3° La remise des pénalités et des majorations de retard des cotisations sociales des employeurs ;
+
+4° L'avis donné au représentant de l'Etat dans le département lorsqu'il y a lieu de réunir plusieurs cantons afin de former
+des circonscriptions groupant au moins cinquante électeurs du deuxième collège en application du deuxième alinéa de l'article
+1007 ;
+
+5° La conclusion de conventions de gestion aux fins d'assurer, pour le compte de tiers, des services se rattachant à la
+protection sociale des salariés,
+
+ne peuvent être prises qu'après avis conforme du comité de la protection sociale des salariés.
+
+La même règle est applicable au comité de la protection sociale des non-salariés en ce qui concerne les délibérations
+relatives à la remise des pénalités et des majorations de retard des cotisations sociales des non-salariés.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1007, 1009, 1010, 1011
+
+	**Nouveaux textes**:
+
+	  - Code rural L723-35
+	  - Code rural - art. L723-35 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Code rural - art. L723-35 (M)
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Loi n°1949-06-08 art. 10
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1013
 
-A la diligence du préfet et au plus tard dans les trois semaines qui suivent les élections au stade communal, les délégués
-communaux des trois collèges sont convoqués au chef-lieu de canton. Ils élisent dans leur sein huit délégués cantonaux, à
-raison de quatre pour le premier collège, deux pour le deuxième et deux pour le troisième.
+Le conseil d'administration fixe les principes généraux et les moyens de la politique d'action sanitaire et sociale menée par
+la caisse, après avis d'un comité composé paritairement de non-salariés et de salariés, membres du conseil d'administration.
 
-Sont déclarés élus les délégués ayant obtenu au scrutin secret le plus grand nombre de voix et la majorité absolue des
-suffrages exprimés au premier tour ou la majorité relative au second tour.
+Ce comité est appelé également à instruire les demandes de subventions et à attribuer les prêts et toutes aides à caractère
+individuel et collectif, dans le cadre de la politique fixée par le conseil.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L726-1
+	  - Code rural - art. L726-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1014
+
+Sont électeurs dans les collèges définis à l'article 1004, à condition de n'avoir pas été condamnés à l'une des peines
+entraînant ou de nature à entraîner la déchéance des droits civiques, les personnes âgées de seize ans au moins et dont
+toutes les cotisations personnellement dues par elles et réclamées depuis six mois au moins ont été acquittées.
+
+Lorsque l'employeur est une personne morale, l'électeur est un mandataire désigné par elle à cet effet.
+
+Dès lors qu'il bénéficie des prestations familiales ou d'assurance maladie du régime des salariés agricoles ou du régime des
+exploitants agricoles et qu'il ne relève pas personnellement d'un des collèges ci-dessus définis, tout conjoint d'une
+personne ayant la qualité d'électeur est électeur dans le même collège.
+
+Les électeurs sont inscrits sur la liste électorale de la commune de leur résidence.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L723-19 (M)
+	  - Code rural L723-19
+
+	**Cite**:
+
+	  - Code rural 1004
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1015
+
+Sont éligibles dans chacun des collèges ci-dessus définis les électeurs, âgés de dix-huit ans accomplis, et appartenant au
+collège considéré s'ils n'ont pas été frappés au cours des cinq années précédentes d'une condamnation figurant au bulletin n°
+2 du casier judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L723-20
+	  - Code rural - art. L723-20 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1016
+
+Le personnel salarié ne peut pas faire partie du conseil d'administration de la caisse de mutualité sociale agricole qui
+l'emploie.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L723-21 (M)
+	  - Code rural L723-21
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1017
+
+Le conseil d'administration de la mutualité sociale agricole établit les listes électorales au vu des observations transmises
+par les maires compte tenu des documents qui leur ont été envoyés par les organismes de mutualité sociale et qui ont fait
+l'objet d'un affichage en mairie.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L723-22
+	  - Code rural - art. L723-22 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1018
+
+Les scrutins pour l'élection des délégués communaux des premier et troisième collèges et des délégués cantonaux du deuxième
+collège ont lieu le même jour à une date fixée par arrêté du ministre de l'agriculture.
+
+Le vote a lieu dans les mairies sous la présidence du maire ou de son délégué.
+
+L'électeur empêché de prendre part au scrutin peut voter par procuration dans les conditions et limites fixées par le décret
+prévu à l'article 1023-1.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L723-23 (M)
+
+	**Cite**:
+
+	  - Code rural 1023-1
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+
+
+###### Article 1019
+
+Les règles établies par les articles L. 5, L. 6, L. 10, L. 25, L. 27, L. 34, L. 59 à L. 67, L. 86, L. 88, L. 92 à L. 95, L.
+106 à L. 110 et L. 113 à L. 116 du code électoral s'appliquent aux opérations électorales concernant les organismes de
+mutualité sociale agricole.
+
+Les contestations relatives à l'électorat, à l'éligibilité et à la régularité des opérations électorales sont portées devant
+le tribunal d'instance qui statue en dernier ressort.
+
+**Liens relatifs à cet article**
+
 	**Nouveaux textes**:
 
-	  - Code rural - art. L726-1 (V)
+	  - Code rural L723-24
+	  - Code rural - art. L723-24 (M)
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°1949-06-08 art. 11
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code électoral - art. L10 (V)
+	  - Code électoral - art. L25 (V)
+	  - Code électoral - art. L27 (V)
+	  - Code électoral - art. L34 (V)
+	  - Code électoral - art. L5 (M)
+	  - Code électoral - art. L6 (M)
+	  - Code électoral - art. L86 (M)
+	  - Code électoral - art. L88 (M)
+	  - Code électoral L5, L6, L10, L25, L27, L34, L59 à L67, L86, L88, L92 à L95, L106 à L110, L113 à L116
 
 
-###### Article 1014
+###### Article 1020
 
-Les délégués cantonaux forment l'assemblée générale départementale de la mutualité sociale agricole. Lorsque la
-circonscription des caisses de mutualité sociale agricole s'étend sur deux ou plusieurs départements, l'assemblée générale
-comprend les délégués cantonaux des départements de la circonscription.
+L'employeur est tenu d'autoriser les salariés à s'absenter afin de leur permettre de participer au scrutin.
 
-Les délégués cantonaux sont élus pour six ans et renouvelables par moitié tous les trois ans.
+Cette absence ne peut donner lieu à aucune retenue de rémunération à condition que le salarié justifie s'être présenté au
+bureau de vote.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L723-25
+	  - Code rural - art. L723-25 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1021
+
+Les caisses de mutualité sociale agricole supportent, sur leur budget de fonctionnement, les dépenses administratives
+nécessitées par les opérations électorales prévues au présent chapitre, ainsi que les frais de déplacement et de séjour des
+délégués à l'assemblée générale départementale.
+
+Toutefois, les caisses centrales de secours mutuels agricoles et d'allocations familiales agricoles ainsi que la caisse
+nationale d'assurance vieillesse mutuelle agricole supportent les dépenses administratives nécessitées par les opérations
+électorales prévues à l'article 1011 ainsi que les frais de déplacement et de séjour des délégués à l'assemblée générale
+centrale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1011
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L723-26 (V)
+
+
+###### Article 1022
+
+Pour l'exercice de leur mandat, les administrateurs du deuxième collège des caisses de mutualité sociale agricole et du
+conseil central d'administration de la mutualité sociale agricole bénéficient des dispositions de l'article L. 47 du code de
+la sécurité sociale.
+
+Les fonctions d'administrateur des organismes de mutualité sociale agricole ne sont pas rémunérées.
+
+Toutefois, les organismes remboursent :
+
+1° Aux administrateurs, leurs frais de déplacement et de séjour ;
+
+2° Aux employeurs des administrateurs salariés, les salaires maintenus pour leur permettre d'exercer leurs fonctions pendant
+le temps de travail et les avantages et charges sociales y afférents.
+
+Ils peuvent attribuer des indemnités forfaitaires :
+
+- représentatives du temps passé hors des horaires de travail aux administrateurs du deuxième collège ;
+
+- et représentatives du temps passé à l'exercice de leur mandat, aux administrateurs des premier et troisième collèges, ainsi
+qu'aux administrateurs retraités du deuxième collège.
+
+Les organismes de la mutualité sociale agricole assurent le financement de la formation des membres des conseils
+d'administration pour les préparer à l'exercice de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L723-36
+	  - Code rural L723-37
+	  - Code rural - art. L723-36 (V)
+	  - Code rural - art. L723-37 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L47
+
+
+###### Article 1023
+
+En cas d'irrégularités graves, de mauvaise gestion ou de carence du conseil d'administration d'un organisme de mutualité
+sociale agricole, ce conseil peut être suspendu ou dissous par un arrêté du ministre de l'agriculture qui nomme un
+administrateur provisoire.
+
+En cas de faute grave d'un administrateur, celui-ci peut être révoqué, après avis du conseil, par arrêté du ministre de
+l'agriculture.
+
+Les administrateurs révoqués ainsi que les membres d'un conseil d'administration qui a été dissous ne peuvent faire partie
+d'un conseil d'administration, à quelque titre que ce soit, pendant une durée de quatre ans à compter de la révocation ou de
+la dissolution.
 
 **Liens relatifs à cet article**
 
@@ -20246,259 +20641,35 @@ Les délégués cantonaux sont élus pour six ans et renouvelables par moitié t
 
 	**Modifié par**:
 
-	  - Décret n°60-452 du 12 mai 1960 - art. 54 (V) JORF 13 mai 1960
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L723-19 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 12
-
-
-###### Article 1015
-
-Dans le mois de cette élection, l'assemblée générale est convoquée par le président du conseil d'administration sortant ou, à
-son défaut, par l'inspecteur des lois sociales du département où est établi le siège de la caisse de mutualité sociale
-agricole.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L723-20 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 13
-
-
-###### Article 1016
-
-Les conseils de la mutualité sociale agricole rendent compte de leur gestion aux nouvelles assemblées générales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L723-21 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 30
-
-
-###### Article 1017
-
-L'assemblée générale élit dans son sein le conseil d'administration de la mutualité sociale agricole qui comprend seize
-membres, dont huit élus par les délégués cantonaux du premier collège, quatre par les délégués cantonaux du deuxième collège
-et quatre par les délégués cantonaux du troisième collège.
-
-Lorsque toutes les organisations syndicales représentatives du département considéré en feront conjointement la demande, le
-nombre des membres du conseil d'administration de la mutualité sociale agricole peut, par arrêté ministériel, être fixé à
-quinze, dont cinq élus par les délégués cantonaux du premier collège, cinq par les délégués cantonaux du deuxième collège et
-cinq par les délégués cantonaux du troisième collège.
-
-Lorsque la circonscription des caisses de mutualité sociale agricole s'étend sur deux ou plusieurs départements, le conseil
-d'administration comprend vingt-quatre membres, dont douze élus par les délégués cantonaux du premier collège, six par les
-délégués cantonaux du deuxième collège et six par les délégués cantonaux du troisième collège.
-
-Le conseil d'administration de la mutualité sociale agricole comporte, en outre, deux représentants des familles désignés par
-l'union départementale des associations familiales sur proposition des associations familiales rurales.
-
-Il comporte trois représentants lorsque la circonscription des caisses de mutualité sociale agricole s'étend sur deux ou
-plusieurs départements.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L723-22 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 14
-
-
-###### Article 1018
-
-Une assemblée générale centrale de la mutualité sociale agricole, commune à la caisse centrale de secours mutuels agricoles
-et à la caisse centrale d'allocations familiales agricoles, est formée des délégués élus par les conseils d'administration de
-la mutualité sociale agricole, à raison de deux délégués appartenant au premier collège, d'un délégué appartenant au deuxième
-collège et d'un délégué appartenant au troisième collège.
-
-L'assemblée générale élit dans son sein le conseil central d'administration de la mutualité sociale agricole qui comprend
-seize membres, dont huit appartenant au premier collège, quatre appartenant au deuxième collège et quatre appartenant au
-troisième collège.
-
-Le conseil central d'administration de la mutualité sociale agricole comporte, en outre, deux représentants des familles
-désignés par l'union nationale des associations familiales sur la proposition des associations familiales rurales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L723-23 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 16
-
-
-###### Article 1019
-
-Si les élections ont lieu un jour ouvrable, l'employeur doit permettre à son personnel de participer aux élections. Le temps
-consacré à ces opérations est considéré comme temps de travail rémunéré comme tel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L723-24 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1949-06-18 art. 19
-
-
-###### Article 1020
-
-Les dispositions des articles 3, 4, 5, 6, 8, 9, 12 et 13 de la loi du 29 juillet 1913, ayant pour objet d'assurer le secret
-et la liberté du vote, ainsi que la sincérité des opérations électorales, sont applicables aux élections prévues au présent
-chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L723-25 (Ab)
-
-	**Cite**:
-
-	  - Loi n°1913-07-29 art. 3, art. 4, art. 5, art. 6, art. 8, art. 9, art. 12, art. 13
-
-	**Anciens textes**:
-
-	  - Loi n°1949-06-18 art. 20
-
-
-###### Article 1022
-
-Les caisses de mutualité sociale agricole supportent les dépenses administratives nécessitées par les opérations électorales
-visées au présent chapitre, ainsi que les frais de déplacement et de séjour des délégués à l'assemblée générale
-départementale.
-
-Les caisses centrales de secours mutuels agricoles et d'allocations familiales agricoles supportent les dépenses
-administratives nécessitées par les opérations électorales visées à l'article 1018.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L723-36 (V)
-	  - Code rural - art. L723-37 (V)
-
-	**Cite**:
-
-	  - Code rural 1018
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 22
-
-
-###### Article 1023
-
-L'employeur qui refuse à un salarié l'autorisation de quitter le travail pour exprimer son vote est passible d'une amende de
-80 à 160 F par salarié pour lequel l'infraction a été commise.
-
-Les articles 31 à 52 du décret organique du 2 février 1852, l'article 6 de la loi du 7 juillet 1874 et les articles 1er, 2,
-3, 4, 10 et 11 de la loi du 31 mars 1914 relatifs aux pénalités en cas de fraude électorale et de corruption dans les
-opérations électorales sont applicables.
-
-**Liens relatifs à cet article**
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L723-39 (M)
 
-	**Cite**:
 
-	  - Décret n°1852-02-02 art. 31 à 52
-	  - Loi n°1874-07-07 art. 6
-	  - Loi n°1914-03-31 art. 1, art. 2, art. 3, art. 4, art. 10, art. 11
+###### Article 1023-1
 
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1949-06-08 art. 26
-
-
-### Chapitre Ier : Elections composition et fonctionnement des assemblées générales et des conseils d'administration.
-
-###### Article 1021
-
-Les contestations sur la validité des opérations électorales sont portées, dans le délai de quinze jours a dater de
-l'élection, devant le juge du tribunal d'instance du canton où à lieu l'élection. Elles sont introduites par simple
-déclaration au greffe.
-
-Le juge du tribunal d'instance statue dans les quinze jours de cette réclamation sans frais ni forme de procédure et sur
-simple avertissement donné trois jours à l'avance à toutes les parties intéressées.
-
-La décision du juge du tribunal d'instance est rendue en dernier ressort. Elle peut être déférée à la cour de cassation.
-
-Le pourvoi n'est recevable que s'il est formé dans les dix jours de la notification. Il n'est pas suspensif. Il est formé par
-simple requête, déposée au greffe du tribunal d'instance, dénoncée au défendeur dans les dix jours qui suivent. Il est
-dispensé du ministère d'un avocat et jugé d'urgence sans frais ni amende.
-
-Les pièces et mémoires fournis par les parties sont transmis sans frais par le greffier du tribunal d'instance au greffier de
-la cour de cassation.
+Les mesures d'application du présent chapitre sont prises par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code rural - art. L723-38 (M)
+	  - Code rural 1023-2
+
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Nouveaux textes**:
+	**Créé par**:
 
-	  - Code rural - art. L723-26 (V)
+	  - Loi n°84-1 1984-01-02 art. 1 JORF 3 janvier 1984
 
-	**Anciens textes**:
+	**Transféré par**:
 
-	  - Loi n°1949-06-08 art. 21
+	  - Loi n°87-588 du 30 juillet 1987 - art. 18 () JORF 31 juillet 1987
 
 
 ### Chapitre II : Assurances sociales
@@ -21500,38 +21671,29 @@ assurances complémentaires de l'assurance maladie, maternité et vieillesse dan
 
 ###### Article 1050
 
-Les salariés mentionnés à l'article 1144 du code rural (alinéas 1° à 7°, 9° et 10°) peuvent bénéficier auprès des caisses de
-prévoyance fonctionnant avec l'autorisation et sous le contrôle du ministre chargé de l'agriculture d'avantages s'ajoutant à
-ceux prévus par la section 3 du chapitre II du présent titre.
+Les salariés mentionnés à l'article 1144 du présent code peuvent bénéficier auprès des caisses de prévoyance fonctionnant
+avec l'autorisation et sous le contrôle du ministre chargé de l'agriculture d'avantages s'ajoutant à ceux qui résultent du
+régime des assurances sociales agricoles, du régime d'assurance obligatoire contre les accidents du travail et les maladies
+professionnelles, de la législation applicables dans les départements d'outre-mer, conformément au livre XI du code de la
+sécurité sociale et des assurances volontaires prévues par le titre Ier du livre XII du code de la sécurité sociale.
 
 Les caisses de prévoyance peuvent grouper tout ou partie des salariés d'une ou plusieurs entreprises.
 
 Les accords ayant pour objet l'institution d'un régime complémentaire de prévoyance et de retraite en faveur des salariés
 mentionnés aux alinéas ci-dessus ainsi que les accords ayant pour objet de modifier ou de compléter le régime ainsi créé
-peuvent être rendus obligatoires par arrêté du ministre chargé de l'agriculture pour tous les employeurs et travailleurs
-compris dans leur champ d'application professionnel et territorial.
-
-Les dispositions des alinéas 1er et 3 ci-dessus sont également applicables aux métayers mentionnés à l'article 1144, alinéa
-8°.
+peuvent être rendus obligatoires suivant les modalités prévues aux articles L. 133-1 à L. 133-4, L. 133-6, L. 133-8 à L.
+133-16 du code du travail par arrêté du ministre chargé de l'agriculture pour tous les employeurs et travailleurs compris
+dans leur champ d'application professionnel et territorial.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 1144
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1952-07-25 art. 1, art. 2, art. 3
-
 	**Modifié par**:
 
-	  - Loi n°73-970 du 18 octobre 1973 - art. 1 () JORF 19 octobre 1973
-	  - Loi n°76-1213 1976-12-24 art. 1 JORF 28 décembre 1976
+	  - Loi n°84-2 du 2 janvier 1984 - art. 18 () JORF 3 janvier 1984
 
 	**Cité par**:
 
@@ -21542,6 +21704,12 @@ Les dispositions des alinéas 1er et 3 ci-dessus sont également applicables aux
 	**Nouveaux textes**:
 
 	  - Code rural - art. L727-2 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L133-6 (M)
+	  - Code du travail L133-1 à L133-4, L133-6, L133-8 à L133-16
+	  - Code rural 1144
 
 
 ###### Article 1051
@@ -23551,6 +23719,26 @@ professions.
 	  - Loi n°2003-591 2003-07-02 art. 31
 
 
+###### Article 1108
+
+L'organisation autonome des professions agricoles est constituée :
+
+Par des caisses départementales ou pluridépartementales d'assurance vieillesse agricole dont la circonscription coïncide avec
+celle des caisses d'assurances sociales et d'allocations familiales agricoles ;
+
+Par une caisse nationale d'assurance vieillesse agricole.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 5 JORF 3 janvier 1984
+
+
 ###### Article 1109
 
 Pour certaines professions connexes à l'agriculture, il peut être créé une ou plusieurs sections autonomes dont la structure
@@ -23908,32 +24096,27 @@ forfaitaire dont bénéficiait ou aurait bénéficié l'assuré.
 ###### Article 1122-2
 
 Dans le cas de divorce, lors du décès d'une personne visée au premier alinéa de l'article 1122 et au premier alinéa de
-l'article 1122-1, la retraite de réversion prévue auxdits articles est attribuée à l'ancien conjoint divorcé ou répartie
-entre celui-ci et le conjoint survivant dans les mêmes conditions que celles de l'article 351-2 du code de la sécurité
-sociale, selon des modalités fixées par décret.
+l'article 1122-1, la retraite de réversion prévue auxdits articles est attribuée ou répartie  dans les mêmes conditions que
+celles de l'article 351-2 du code de la sécurité sociale, selon des modalités fixées par décret.
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code rural - art. L732-47 (M)
+
 	**Cite**:
 
-	  - Code rural 1122, 1122-1
 	  - Code de la sécurité sociale 351-2
+	  - Code rural 1122, 1122-1
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 11 II JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Modifié par**:
 
-	  - Loi n°78-753 1978-07-17 art. 41 JORF 18 juillet 1978
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L732-47 (M)
+	  - Loi n°84-2 du 2 janvier 1984 - art. 19 () JORF 3 janvier 1984
 
 
 ###### Article 1122-2-1
@@ -24254,6 +24437,31 @@ Les caisses départementales ou pluridépartementales de mutualité sociale agri
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1137
+
+La caisse nationale d'assurance vieillesse agricole est chargée notamment :
+
+De coordonner l'action des caisses départementales ;
+
+De contrôler leur gestion ;
+
+De répartir les sommes provenant des ressources indirectes ;
+
+D'exécuter tous travaux nécessités par l'application des dispositions du présent chapitre et d'assurer la compensation des
+charges dans les conditions déterminées par un règlement intérieur, adopté en assemblée générale centrale de la mutualité
+sociale agricole.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 6 JORF 3 janvier 1984
 
 
 ###### Article 1138
@@ -28356,19 +28564,57 @@ d'administration des caisses de réassurances mutuelles agricoles.
 
 ###### Article 1238
 
-Les conseils d'administration des organismes de mutualité agricole sont élus pour six ans. Ses membres sont renouvelables par
-moitié tous les trois ans, par voie de tirage au sort ; le tirage a lieu au plus tard quinze jours après l'élection des
-conseils. Les membres sortants sont rééligibles.
+Les conseils d'administration des caisses de réassurances mutuelles agricoles sont élus pour six ans.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L771-2
+	  - Code rural - art. L771-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 2 JORF 3 janvier 1984
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1239
+
+Les fonctions de membres des conseils d'administration des caisses de réassurances mutuelles agricoles  sont gratuites.
+Toutefois, les membres des conseils d'administration peuvent être remboursés de leurs frais de déplacement et de séjour et
+indemnisés de la perte de leur temps de travail sur la base du salaire de l'ouvrier agricole le mieux rémunéré du
+département.
+
+Le personnel salarié ne peut pas faire partie du conseil d'administration de l'organisme qui l'emploie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-1 1984-01-02 art. 3 JORF 3 janvier 1984
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
-	  - Code rural - art. L771-2 (V)
+	  - Code rural - art. L771-3 (V)
+	  - Code rural L771-3
 
 
 ###### Article 1240
@@ -28393,63 +28639,6 @@ emprisonnement de six mois au moins et de deux ans au plus ou par l'une de ces d
 
 	  - Code rural - art. L723-44 (M)
 	  - Code rural - art. L771-4 (V)
-
-
-###### Article 1240-1
-
-En cas d'irrégularités graves, de mauvaise gestion ou de carence du conseil d'administration d'un organisme de mutualité
-sociale agricole, ce conseil peut être suspendu ou dissous par un arrêté du ministre de l'agriculture qui nomme un
-administrateur provisoire.
-
-Si les irrégularités ou la mauvaise gestion sont imputables à un ou plusieurs membres du conseil d'administration, ceux-ci
-peuvent être révoqués, après avis dudit conseil, par arrêté du ministre de l'agriculture.
-
-Les administrateurs révoqués ainsi que les membres d'un conseil d'administration qui a été dissous ne peuvent faire partie
-d'un conseil d'administration, à quelque titre que ce soit, pendant une durée de quatre ans à compter de la révocation ou de
-la dissolution.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Créé par**:
-
-	  - Loi n°67-1172 1967-12-22 art. 13 JORF 29 décembre 1967
-
-	**Abrogé par**:
-
-	  - Loi n°84-1 1984-01-02 art. 5 JORF 3 janvier 1984
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L723-41 (V)
-
-
-###### Article 1240-2
-
-Sont passibles d'une amende de 360 F à 20 000 F et d'un emprisonnement de un mois à six mois les administrateurs, directeurs
-et agents des organismes de mutualité sociale agricole en cas de fraude ou de fausse déclaration, dans l'encaissement ou dans
-la gestion, le tout sans préjudice de plus fortes peines s'il y échet.
-
-Le maximum des deux peines sera toujours appliqué au délinquant lorsqu'il aura déjà subi une condamnation pour la même
-infraction et le tribunal pourra ordonner l'insertion du nouveau jugement dans un ou plusieurs journaux de la localité, le
-tout aux frais du condamné sans que le coût de l'insertion puisse dépasser 50 F.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Créé par**:
-
-	  - Loi n°67-1172 1967-12-22 art. 13 JORF 29 décembre 1967
-
-	**Abrogé par**:
-
-	  - Loi n°84-1 1984-01-02 art. 5 JORF 3 janvier 1984
 
 
 ###### Article 1241
@@ -29142,22 +29331,6 @@ réparation accordée, éventuellement revalorisé dans les conditions fixées p
 
 	  - Décret n°55-433 1955-04-16
 	  - Loi n°2003-591 2003-07-02 art. 31
-
-
-###### Article 1256
-
-Un décret fixe les conditions d'application des dispositions relatives aux élections de la mutualité agricole dans les
-départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-1 1984-01-02 art. 5 JORF 3 janvier 1984
 
 
 ###### Article 1257
