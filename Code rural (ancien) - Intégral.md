@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1973-07-05
+Version Consolidée au 1973-08-12
 
 ###### Article 162
 
@@ -20701,6 +20701,36 @@ l'accident.
 
 	  - Décret n°55-433 1955-04-16
 	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1233
+
+La victime d'un accident du travail survenu avant le 1er avril 1943 dont l'infirmité résultant de l'accident nécessite un
+appareil de prothèse ou d'orthopédie a droit à la fourniture et au renouvellement de cet appareil dans les conditions prévues
+par la législation en vigueur antérieurement au 1er juillet 1973.
+
+Le droit à l'appareillage est fixé, sans appel, par ordonnance du président du tribunal de grande instance de la résidence du
+mutilé.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L753-22 (M)
+	  - Code rural L753-22
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Décret n°73-803 1973-08-09 art. 12 JORF 12 août 1973
 
 	**Abrogé par**:
 
