@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1997-03-20
+Version Consolidée au 1997-04-24
 
 # Livre Ier : Régime du sol
 
@@ -5793,6 +5793,79 @@ prononcée.
 	**Abrogé par**:
 
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 334-1
+
+Est puni de la peine prévue pour les contraventions de la 5e classe le fait pour le responsable d'un abattoir ou d'un
+établissement préparant ou manipulant des denrées animales ou d'origine animale de ne pas confier le traitement de ses
+déchets d'origine animale à un établissement agréé ou enregistré pour cette activité.
+
+En cas de récidive, la peine d'amende prévue pour la récidive de la contravention de 5e classe est applicable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°97-391 1997-04-22 art. 1 JORF 24 avril 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 334-2
+
+Est puni de la peine prévue pour les contraventions de 3e classe le fait de jeter en tous lieux des cadavres de moins de 40
+kg.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°97-391 1997-04-22 art. 1 JORF 24 avril 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 334-3
+
+Les personnes morales peuvent être déclarées responsables des infractions prévues aux articles 334-1 et 334-2, dans les
+conditions prévues à l'article 121-2 du code pénal. Elles encourent la peine d'amende selon les modalités prévues à l'article
+131-41 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-41 (V)
+	  - Code rural 334-1, 334-2
+
+	**Créé par**:
+
+	  - Loi n°97-391 1997-04-22 art. 1 JORF 24 avril 1997
 
 
 ###### Article 335
