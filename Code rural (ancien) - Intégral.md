@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1980-12-31
+Version Consolidée au 1981-01-01
 
 ###### Article 162
 
@@ -20090,6 +20090,30 @@ des législations sociales agricoles, selon les modalités fixées par décret e
 	  - Code de la sécurité sociale L259, L260, L266, L266-1, L269, L271, L275, L286, L286-1, L287, L288, L289, L293, L403 à L408
 
 
+###### Article 1040-1
+
+Les dispositions des articles L. 364-1 à L. 364-5 du code de la sécurité sociale sont applicables aux bénéficiaires des
+assurances sociales agricoles selon des modalités fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°80-546 du 17 juillet 1980 - art. 5 () JORF 18 juillet 1980 en vigueur le 1er janvier 1981
+
+	**Abrogé par**:
+
+	  - Loi n°88-1202 du 30 décembre 1988 - art. 43 () JORF 31 décembre 1988
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L364-1 à L364-5
+
+
 ###### Article 1041
 
 Les frais dus par les caisses de mutualité sociale agricole pour les assurés indigents et leurs ayants droit au titre des
@@ -20958,6 +20982,49 @@ justifié que moins de trois années se sont écoulées depuis qu'ils ont quitt�
 
 	  - Code rural - art. L731-28 (V)
 	  - Code rural - art. L741-7 (V)
+
+
+###### Article 1074
+
+Bénéficient d'un abattement de cotisation :
+
+a) Les exploitants n'employant pas de main-d'oeuvre familiale ou salariée et dont l'âge moyen des conjoints est de soixante-
+cinq ans, cet âge étant ramené à soixante ans pour les personnes seules ;
+
+b) Les exploitants agricoles n'exerçant qu'une activité réduite en raison d'une invalidité durant depuis plus de six mois et
+entraînant une incapacité de travail d'au moins 66 p. 100 ;
+
+c) Les exploitants agricoles ayant élevé au moins quatre enfants jusqu'à l'âge de quatorze ans, à condition qu'ils n'aient
+pas bénéficié, pendant au moins cinq ans, des prestations familiales.
+
+L'ensemble de ces abattements porte sur la partie des cotisations correspondant à 1180 F de revenu cadastral.
+
+Un abattement de 1180 F sur le revenu cadastral est accordé aux chefs de famille ayant élevé au moins cinq enfants jusqu'à
+l'âge de quatorze ans.
+
+Au-delà du cinquième enfant et par enfant élevé jusqu'à l'âge de quatorze ans, est accordé un supplément d'abattement de 236
+F sur le revenu cadastral.
+
+Le bénéfice de ces abattements est étendu aux artisans ruraux qui ont élevé cinq enfants et plus dans les conditions fixées
+par arrêté du ministre de l'agriculture après avis de la commission supérieure des prestations familiales agricoles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1939-07-29 art. 27
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°81-541 1981-05-12 art. 1 JORF 15 mai 1981 en vigueur le 1er janvier 1981
+
+	**Abrogé par**:
+
+	  - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
 
 
 ###### Article 1075
