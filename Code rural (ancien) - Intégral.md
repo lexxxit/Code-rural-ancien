@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1967-12-20
+Version Consolidée au 1967-12-22
 
 ###### Article 162
 
@@ -16141,6 +16141,44 @@ supérieurs du ministère de l'agriculture.
 ### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées
 
 #### Section 2 : Prestations.
+
+###### Article 1106-4
+
+Il est créé un fonds spécial d'action sociale destiné à promouvoir et à développer une action sociale en faveur de l'ensemble
+des bénéficiaires du présent chapitre et, particulièrement, des plus défavorisés.
+
+Ce fonds, géré par la mutualité agricole, est administré par un comité national et des comités départementaux d'action
+sociale où sont représentés exclusivement les organismes assureurs compte tenu du nombre de leurs adhérents.
+
+Un décret détermine les conditions d'application du présent article et notamment la part des cotisations complémentaires
+prévues à l'article 1003-8 affectée au financement du fonds spécial, les diverses catégories de prestations supplémentaires
+pouvant être allouées, les règles de fonctionnement du fonds spécial, la composition et le rôle du comité national et des
+comités départementaux.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L726-2 (M)
+	  - Code rural L726-2
+
+	**Cite**:
+
+	  - Code rural 1003-8
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°67-1114 1967-12-21 art. 65 JORF 22 décembre 1967
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
 
 ###### Article 1106-5
 
