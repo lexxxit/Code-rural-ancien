@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1992-01-01
+Version Consolidée au 1992-01-04
 
 ###### Article 40-3
 
@@ -4560,27 +4560,22 @@ Les maires peuvent, sous l'autorité des préfets, prendre toutes les mesures n�
 
 La dérivation des eaux d'un cours d'eau non domanial, d'une source ou d'eaux souterraines, entreprise dans un but d'intérêt
 général par une collectivité publique ou son concessionnaire, par une association syndicale ou par tout autre établissement
-public, est autorisée par un acte déclarant d'utilité publique les travaux. Cet acte détermine le volume d'eau maximum
-susceptible d'être prélevé, ainsi que les conditions auxquelles le prélèvement est subordonné, conformément aux prescriptions
-qui sont fixées par le ministre de l'agriculture, en vue de sauvegarder les intérêts généraux dont il a la charge.
-
-Lorsque la déclaration d'utilité publique est prononcée par décret, celui-ci est revêtu du contreseing du ministre de
-l'agriculture.
+public, est autorisée par un acte déclarant d'utilité publique les travaux.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-10-30 art. 4
-	  - Décret-loi 1938-05-24 art. 1
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+	  - Loi n°92-3 1992-01-03 art. 46 JORF 4 janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 	**Nouveaux textes**:
 
@@ -6402,13 +6397,10 @@ plus-value des terres après le dessèchement ; elle donne son avis sur l'organi
 
 Les départements, les communes ainsi que les groupements de ces collectivités et les syndicats mixtes créés en application de
 l'article L. 166-1 du code des communes peuvent prescrire ou exécuter les travaux entrant dans les catégories ci-dessous
-définies, lorsqu'ils présentent, du point de vue agricole ou forestier ou du point de vue de l'aménagement des eaux, un
-caractère d'intérêt général ou d'urgence :
+définies, lorsqu'ils présentent, du point de vue agricole ou forestier, un caractère d'intérêt général ou d'urgence :
 
 1° Lutte contre l'érosion et les avalanches, défense contre les torrents, reboisement et aménagement des versants, défense
 contre les incendies et réalisation de travaux de desserte forestière ;
-
-2° Défense des rives et du fond des rivières non domaniales ;
 
 3° Curage, approfondissement, redressement et régularisation des canaux et cours d'eau non domaniaux et des canaux de
 dessèchement et d'irrigation ;
@@ -6418,9 +6410,6 @@ dessèchement et d'irrigation ;
 5° Assainissement des terres humides et insalubres ;
 
 6° Irrigation, épandage, colmatage et limonage ;
-
-7° Aménagement, soit du bassin d'un cours d'eau non domanial ou d'une partie de ce bassin, soit seulement d'un cours d'eau
-non domanial ou d'une section de celui-ci.
 
 Les personnes morales mentionnées au premier alinéa prennent en charge les travaux qu'elles ont prescrits ou exécutés. Elles
 peuvent toutefois, dans les conditions prévues à l'article 176, faire participer aux dépenses de premier établissement,
@@ -6435,8 +6424,8 @@ le propriétaire ou la personne morale, prononce le transfert de propriété et 
 
 	**Cite**:
 
-	  - Code rural 176
 	  - CODE DES COMMUNES. - art. L166-1 (M)
+	  - Code rural 176
 
 	**Codifié par**:
 
@@ -6444,7 +6433,11 @@ le propriétaire ou la personne morale, prononce le transfert de propriété et 
 
 	**Modifié par**:
 
-	  - Loi n°85-1273 du 4 décembre 1985 - art. 24 () JORF 5 décembre 1985
+	  - Loi n°92-3 1992-01-03 art. 46 II JORF 4 janvier 1992
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
 ###### Article 176
@@ -17692,15 +17685,13 @@ Il est créé un fonds additionnel d'action sociale destiné à apporter une con
 départementales et pluridépartementales de mutualité sociale agricole en vue de leur permettre de développer leur action
 concernant les services ménager pour les personnes âgées.
 
-Ce fonds est alimenté par une cotisation additionnelle aux cotisations complémentaires prévues à l'article 1003-8. Cette
-cotisation est établie par décret conformément à la règle posée au deuxième alinéa de l'article 1003-8. Les réserves
-disponibles au 31 décembre 1981, du fonds créé par l'article 76 de la loi n° 76-1232 du 29 décembre 1976 sont affectés à ce
-fonds.
+Ce fonds est alimenté par un prélèvement sur le produit des cotisations affectées aux dépenses complémentaires prévues à
+l'article 1003-8, au titre des régimes d'assurance vieillesse des salariés et des non-salariés agricoles.
 
 Le budget de ce fonds est fixé annuellement par un arrêté du ministre de l'agriculture et du ministre du budget, au vu de
 propositions du conseil central d'administration de la mutualité sociale agricole et après avis de conseil supérieur des
-prestations sociales agricoles. Cet arrêté détermine également la répartition des crédits entre les caisses de mutualité
-sociale agricole.
+prestations sociales agricoles. Cet arrêté détermine également le montant du prélèvement, la part prélevée sur chacun des
+régimes des salariés et des non-salariés et la répartition des crédits entre les caisses de mutualité sociale agricole.
 
 A l'occasion de l'examen du budget, un rapport est présenté au conseil supérieur des prestations sociales agricoles sur
 l'effort accompli par les caisses, dans le cadre de leur action sanitaire et sociale, concernant les services ménagers pour
@@ -17714,19 +17705,25 @@ Le fonds prévu au présent article est géré par la mutualité sociale agricol
 	**Cite**:
 
 	  - Code rural 1003-8
-	  - Loi n°76-1232 du 29 décembre 1976 - art. 76, v. init.
+
+	**Nouveaux textes**:
+
+	  - Code rural L726-3
+	  - Code rural - art. L726-3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°80-1094 1980-12-30 art. 76 JORF 31 décembre 1980 en vigueur le 1er janvier 1982
+	  - Loi n°91-1407 1991-12-31 art. 7 I, II JORF 4 janvier 1992
+	  - Loi n°91-1407 du 31 décembre 1991 - art. 7 () JORF 4 janvier 1992
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L726-3 (Ab)
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1003-9
@@ -17857,6 +17854,11 @@ V. - A titre transitoire, les cotisations dues au titre de l'année 1990 seront 
 1988 et les cotisations dues au titre de l'année 1991 seront calculées sur la base de la moyenne des revenus des années 1988
 et 1989.
 
+VI. - Par dérogation aux dispositions du premier alinéa du II du présent article, les chefs d'exploitation ou d'entreprise
+agricole âgés de plus de cinquante-cinq ans peuvent, dans des conditions fixées par décret, opter jusqu'à la date de
+liquidation de leur retraite pour une assiette de cotisations constituée de leurs revenus professionnels tels que définis au
+présent article et afférents à l'année précédant celle au titre de laquelle les cotisations sont dues.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -17864,9 +17866,9 @@ et 1989.
 	  - CGI 62, 72 D
 	  - Code rural 1060
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-85 du 23 janvier 1990 - art. 61 (V) JORF 25 janvier 1990
+	  - Loi n°91-1407 du 31 décembre 1991 - art. 13 () JORF 4 janvier 1992
 
 	**Nouveaux textes**:
 
@@ -19737,14 +19739,27 @@ due par celles-ci est calculée en pourcentage des rémunérations brutes versé
 
 ###### Article 1062
 
-L'exploitant agricole ou l'artisan rural verse à la caisse de mutualité sociale agricole à laquelle il est affilié une
-cotisation unique, valable à la fois pour lui-même et pour les salariés qu'il occupe.
+Le chef d'exploitation ou d'entreprise agricoles ou l'artisan rural verse à la caisse de mutualité sociale agricole à
+laquelle il est affilié :
+
+1° une cotisation pour lui-même ;
+
+2° une cotisation pour les salariés que, le cas échéant, il emploie.
+
+**Nota:**
+
+Nota : Loi n° 91-1407 du 31 décembre 1991 art. 1 II : à compter du 1er janvier 1994, les cotisations, versées au titre des
+prestations familiales, mentionnées à l'article 1062 du code rural, à charge des chefs d'exploitation ou d'entreprise
+agricoles et des artisans ruraux sont constituées de deux éléments.
+
+Le premier est calculé selon les modalités prévues à l'article 1063.
+
+Le second est calculé, pour la cotisation versée par l'exploitant pour lui-même, en pourcentage des revenus professionnels ou
+de l'assiette forfaitaire, dans les conditions définies à l'article 1003-12 du même code et selon un taux défini par décret
+et, pour la cotisation versée pour les salariés que, le cas échéant, il emploie, en pourcentage de leurs rémunérations
+brutes, selon des modalités fixées par décret.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-07-29 art. 26 al. 1
 
 	**Codifié par**:
 
@@ -19752,8 +19767,7 @@ cotisation unique, valable à la fois pour lui-même et pour les salariés qu'il
 
 	**Modifié par**:
 
-	  - Ordonnance 58-1374 1958-12-30 art. 17 JORF 31 décembre 1958
-	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+	  - Loi n°91-1407 du 31 décembre 1991 - art. 1 (Ab) JORF 4 janvier 1992
 
 	**Nouveaux textes**:
 
@@ -20806,9 +20820,12 @@ l'article 1065.
 
 ###### Article 1106-6-1
 
-I. - Les cotisations des aides familiaux et des associés d'exploitation mentionnés au troisième alinéa (2°) du paragraphe I
-de l'article 1106-1 sont calculées en pourcentage des cotisations dues pour eux-mêmes par les chefs d'exploitation ou
-d'entreprise.
+I. - Les cotisations des aides familiaux et des associés d'exploitation mentionnés au 2° du I de l'article 1106-1 sont
+calculées en pourcentage des cotisations dues pour eux-mêmes par les chefs d'exploitation ou d'entreprise. Leur taux est fixé
+par décret.
+
+Ces cotisations ne peuvent excéder le montant de la cotisation d'un chef d'exploitation ou d'entreprise percevant un revenu,
+fixé par décret par référence au salaire minimum de croissance.
 
 II. - Les cotisations dues par les retraités sont calculées en pourcentage des pensions de retraite servies pendant l'année
 en cours par le régime de base et le régime complémentaire institué par l'article 1122-7 à l'exclusion des bonifications ou
@@ -20825,20 +20842,32 @@ fixées par décret.
 
 	  - Code rural 1106-1, 1122-7, 1234-3
 
+	**Nouveaux textes**:
+
+	  - Code rural L731-36
+	  - Code rural L731-37
+	  - Code rural L731-38
+	  - Code rural - art. L731-36 (V)
+	  - Code rural - art. L731-37 (V)
+	  - Code rural - art. L731-38 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
 	**Cité par**:
 
 	  - Décret n°78-360 du 8 mars 1978 - art. 1 (V)
 	  - Code de la sécurité sociale. - art. L136-5 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-85 du 23 janvier 1990 - art. 77 () JORF 25 janvier 1990
+	  - Loi n°91-1407 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L731-36 (V)
-	  - Code rural - art. L731-37 (V)
-	  - Code rural - art. L731-38 (M)
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1106-6-2
@@ -21516,7 +21545,7 @@ non salarié les professions énumérées à l'article 1060 :
 1° Soit, pour ceux qui ne peuvent bénéficier d'une pension de retraite, une allocation dans les conditions prévues aux
 articles 1111 à 1120 inclus s'ils ont exercé cette activité pendant quinze ans au moins ;
 
-2° Soit une pension de retraite dans les conditions prévues aux articles 1120-1 à 1122-5.
+2° Soit une pension de retraite dans les conditions prévues au paragraphe 2 de la présente section.
 
 Par dérogation aux prescriptions du premier alinéa du présent article, l'interruption d'activité résultant d'un fait de
 guerre ou de maladie ou d'infirmité graves empêchant toute activité professionnelle ne privera pas le requérant du droit à
@@ -21534,12 +21563,16 @@ l'article 3 modifié de la loi n° 48-101 du 17 janvier 1948.
 
 	**Cite**:
 
-	  - Code rural 1060, 1111 à 1120, 1120-1 à 1122-5
+	  - Code rural 1060, 1111 à 1120
 	  - Loi n°48-101 du 17 janvier 1948 - art. 3, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
 
 	**Modifié par**:
 
-	  - Loi n°86-19 1986-01-06 art. 7 I JORF 8 janvier 1986
+	  - Loi n°91-1407 du 31 décembre 1991 - art. 11 () JORF 4 janvier 1992
 
 	**Nouveaux textes**:
 
@@ -21873,15 +21906,24 @@ pas bénéficiaires des dispositions des chapitres V et VI du titre III du code 
 et les membres de la famille vivant sur l'exploitation sont présumés, sauf preuve contraire, participer à la mise en valeur
 de celle-ci.
 
+Lorsqu'un ménage d'exploitants a opté, selon des modalités fixées par décret, pendant une période donnée, pour un partage à
+parts égales des points obtenus en contrepartie des cotisations visées aux b et c de l'article 1123, le conjoint du chef
+d'exploitation ou d'entreprise agricole obtient, outre la retraite forfaitaire mentionnée au précédent alinéa, une retraite
+proportionnelle calculée dans les conditions prévues au 2° de l'article 1121.
+
 Le conjoint survivant des personnes mentionnées à l'alinéa précédent a droit, dans les conditions fixées au premier alinéa de
 l'article 1122, à une retraite de réversion d'un montant égal à celui de la retraite forfaitaire dont bénéficiait ou aurait
 pu bénéficier l'assuré.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
 	**Modifié par**:
 
-	  - Loi n°90-85 du 23 janvier 1990 - art. 78 () JORF 25 janvier 1990
+	  - Loi n°91-1407 du 31 décembre 1991 - art. 12 () JORF 4 janvier 1992
 
 	**Cité par**:
 
@@ -21895,7 +21937,7 @@ pu bénéficier l'assuré.
 
 	**Cite**:
 
-	  - Code rural 1121, 1122
+	  - Code rural 1121, 1122, 1123
 
 
 ###### Article 1122-2
@@ -23478,10 +23520,6 @@ vue de la transformation, du conditionnement et de la commercialisation des prod
 constituent le prolongement de l'acte de production ou dans les structures d'accueil touristique qui ont pour support
 l'exploitation.
 
-Sans préjudice de l'application de l'article 2 de la loi n° 88-1202 du 30 décembre 1988 précitée, un décret détermine, le cas
-échéant, les critères permettant d'apprécier le caractère accessoire de l'activité touristique. Ce décret doit être adapté à
-la spécificité de la montagne.
-
 2° Les ouvriers et employés occupés dans les établissements de conchyliculture et de pisciculture et établissements
 assimilés, à l'exception de ceux qui relèvent du régime social des marins ;
 
@@ -23551,11 +23589,11 @@ d'un gérant sont considérées comme possédées par ce dernier.
 
 	**Cite**:
 
+	  - Code rural 1025, 1060
 	  - Loi n°71-575 du 16 juillet 1971 - art. 37 (V)
 	  - Loi n°84-579 1984-07-09
 	  - Loi n°84-1285 du 31 décembre 1984 - art. 4, v. init.
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 2 (M)
-	  - Code rural 1025, 1060
+	  - Loi n°88-1202 1988-12-30
 
 	**Cité par**:
 
@@ -23566,9 +23604,7 @@ d'un gérant sont considérées comme possédées par ce dernier.
 
 	**Modifié par**:
 
-	  - Loi n°90-85 du 23 janvier 1990 - art. 67 () JORF 25 janvier 1990
-	  - Loi n°90-85 du 23 janvier 1990 - art. 70 (V) JORF 25 janvier 1990
-	  - Loi n°90-85 du 23 janvier 1990 - art. 82 () JORF 25 janvier 1990
+	  - Loi n°91-1407 du 31 décembre 1991 - art. 8 () JORF 4 janvier 1992
 
 	**Nouveaux textes**:
 
