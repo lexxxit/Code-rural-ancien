@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1992-12-12
+Version Consolidée au 1993-01-01
 
 ###### Article 1143-2
 
@@ -11459,6 +11459,35 @@ des décrets pris pour l'application du présent article, est punie de la peine 
 	  - Code rural - art. L713-5 (M)
 
 
+###### Article 992-1
+
+En cas de litige relatif à l'existence ou au nombre d'heures de travail effectuées, l'employeur doit fournir au juge les
+éléments de nature à justifier les horaires effectivement réalisés par le salarié. Au vu de ces éléments et de ceux fournis
+par le salarié à l'appui de sa demande, le juge forme sa conviction après avoir ordonné, en cas de besoin, toutes les mesures
+d'instruction qu'il estime utiles.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L713-21
+	  - Code rural - art. L713-21 (V)
+	  - Code rural - art. L713-6 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°92-1446 du 31 décembre 1992 - art. 9 () JORF 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 992-2
 
 Les heures supplémentaires effectuées au-delà de la durée hebdomadaire du travail fixée par l'article 992 ou de la durée
@@ -17165,27 +17194,34 @@ professionnels ou sur l'assiette forfaitaire définis à l'article 1003-12.
 
 ###### Article 1124
 
-La cotisation prévue au a de l'article 1123 varie suivant l'importance et la nature des exploitations ou des entreprises
-agricoles ; elle est fixée par décret.
+La cotisation mentionnée au a de l'article 1123 est calculée, dans la limite du plafond prévu à l'article L. 241-3 du code de
+la sécurité sociale, en pourcentage des revenus professionnels du chef d'exploitation ou d'entreprise ou de l'assiette
+forfaitaire, tels qu'ils sont définis à l'article 1003-12 du présent code. Son taux est fixé par décret.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 1123
+	  - Code rural 1003-12, 1123
+	  - Code de la sécurité sociale. - art. L241-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural L731-42
+	  - Code rural - art. L731-42 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°90-85 du 23 janvier 1990 - art. 78 () JORF 25 janvier 1990
-	  - Loi n°90-85 du 23 janvier 1990 - art. 80 () JORF 25 janvier 1990
+	  - Loi n°91-1407 du 31 décembre 1991 - art. 4 (V) JORF 4 janvier 1992 en vigueur le 1er janvier 1993
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L731-42 (M)
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1125
