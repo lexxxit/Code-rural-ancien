@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1990-01-25
+Version Consolidée au 1990-07-08
 
 ###### Article 40-3
 
@@ -11210,70 +11210,6 @@ procès-verbal, affirment par serment la sincérité de leurs opérations.
 	**Abrogé par**:
 
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
-
-
-###### Article 291
-
-En ce qui concerne la tuberculose, le délai de garantie, tant pour la présentation de la requête que pour l'assignation du
-vendeur, est de quinze jours francs, non compris le jour de la livraison.
-
-Aucune action principale ou récursoire n'est possible après l'expiration du délai qui ne peut être prolongé à raison de la
-distance.
-
-Les actions en rédhibition ou en remboursement de prix après abattage sont portées devant le juge du tribunal d'instance du
-domicile du vendeur qui statue sans conciliation préalable, mais à charge d'appel au cas où la valeur de l'animal vendu
-dépasse la limite de sa compétence en dernier ressort.
-
-La procédure d'expertise est suivie conformément aux dispositions du présent titre, sous réserve du délai spécial de garantie
-fixé ci-dessus. Elle ne sera obligatoire que pour les actions en rédhibition.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-572 du 28 juin 1990 - art. 6 (Ab) JORF 8 juillet 1990
-	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1933-07-07 art. 6
-
-
-###### Article 292
-
-Le vendeur est appelé à l'expertise à moins qu'il n'en soit ordonné autrement par le juge du tribunal d'instance, à raison de
-l'urgence et de l'éloignement.
-
-La citation à l'expertise doit être donnée au vendeur dans les délais déterminés par l'article 289 ; elle énonce qu'il y sera
-procédé même en son absence.
-
-Si le vendeur a été appelé à l'expertise, la demande peut être signifiée dans les trois jours à compter de la clôture du
-procès-verbal dont copie est signifiée en tête de l'exploit.
-
-Si le vendeur n'a pas été appelé à l'expertise, la demande doit être faite dans les délais fixés par l'article 289.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 289
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°90-572 du 28 juin 1990 - art. 6 (Ab) JORF 8 juillet 1990
-	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1884-08-02 art. 8
 
 
 ###### Article 293
