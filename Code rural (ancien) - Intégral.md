@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1961-12-22
+Version Consolidée au 1962-06-21
 
 ###### Article 162
 
@@ -10118,41 +10118,6 @@ Un décret fixe en tant que de besoin, les conditions d'application des articles
 	**Abrogé par**:
 
 	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
-
-
-##### Paragraphe 6 : Prêts aux sociétés d'assurances et de réassurances mutuelles contre la grêle.
-
-###### Article 683
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-
-###### Article 684
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-
-###### Article 685
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
 
 
 #### Section 3 : Crédit à long terme individuel.
