@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1972-05-02
+Version Consolidée au 1972-06-30
 
 ###### Article 162
 
@@ -8728,17 +8728,6 @@ frais, sans pouvoir toutefois donner lieu à la contrainte par corps.
 	**Abrogé par**:
 
 	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
-
-
-###### Article 392
-
-La procédure de l'amende de composition ne s'applique pas aux contraventions prévues au présent titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
 
 
 ### Chapitre III : De la destruction des animaux nuisibles.
