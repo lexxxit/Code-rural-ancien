@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1991-07-12
+Version Consolidée au 1991-08-01
 
 ###### Article 40-3
 
@@ -23488,21 +23488,34 @@ chapitre.
 ###### Article 1142-17
 
 Un décret fixe les conditions dans lesquelles les cotisations prévues à l'article 1142-15 sont majorées pour la couverture
-des frais de gestion.
+des frais de gestion et pour le financement de l'action sociale prévue aux articles L. 752-7 et L. 752-8 du code de la
+sécurité sociale.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L762-11 (VT)
 
 	**Cite**:
 
 	  - Code rural 1142-15
+	  - Code de la sécurité sociale. - art. L752-7 (M)
+	  - Code de la sécurité sociale. - art. L752-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural L762-11
+	  - Code rural - art. L762-11 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°91-738 du 31 juillet 1991 - art. 15 () JORF 1er août 1991
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1142-18
@@ -23555,13 +23568,28 @@ Le paiement des allocations familiales est subordonné à la justification du ve
 ###### Article 1142-20
 
 Le budget annexe des prestations sociales agricoles comporte, en recettes et en dépenses, les opérations résultant du présent
-chapitre, à l'exclusion des dépenses de gestion et des recettes correspondantes.
+chapitre, à l'exclusion des dépenses de gestion et des recettes correspondantes ainsi que des dépenses et des recettes
+concernant l'action sociale prévue aux articles L. 752-7 et L. 752-8 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°91-738 du 31 juillet 1991 - art. 15 () JORF 1er août 1991
+
+	**Abrogé par**:
+
+	  - Loi - art. 103 () JORF 31 décembre 2000
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L752-7 (M)
+	  - Code de la sécurité sociale. - art. L752-8 (M)
+	  - Code rural annexe
 
 
 ###### Article 1142-21
@@ -23569,10 +23597,19 @@ chapitre, à l'exclusion des dépenses de gestion et des recettes correspondante
 Un décret fixe les conditions dans lesquelles est assurée la couverture par chaque caisse des dépenses résultant de
 l'application du présent chapitre. Il précise notamment les conditions dans lesquelles sont mises à la disposition des
 caisses par la caisse centrale d'allocations familiales mutuelles agricoles les sommes nécessaires au règlement des
-prestations prévues à l'article 1142-12, ainsi que les conditions dans lesquelles est assurée la couverture des frais de
-gestion exposés par les caisses.
+prestations prévues à l'article 1142-12, ainsi que les conditions dans lesquelles sont assurés la couverture des frais de
+gestion exposés par les caisses et le financement de l'action sociale prévue aux articles L. 752-7 et L. 752-8 du code de la
+sécurité sociale.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°91-738 du 31 juillet 1991 - art. 15 () JORF 1er août 1991
 
 	**Nouveaux textes**:
 
@@ -23580,11 +23617,39 @@ gestion exposés par les caisses.
 
 	**Cite**:
 
+	  - Code de la sécurité sociale. - art. L752-7 (M)
+	  - Code de la sécurité sociale. - art. L752-8 (M)
 	  - Code rural 1142-12
+
+
+###### Article 1142-22
+
+Les dispositions législatives applicables en matière de sécurité sociale dans les départements d'outre-mer en ce qui concerne
+le recouvrement des cotisations sont étendues au régime des allocations familiales des exploitants agricoles.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L762-5
+	  - Code rural - art. L762-5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°69-1162 1969-12-24 art. 1 JORF 27 décembre 1969
+
+	**Modifié par**:
+
+	  - Loi n°91-738 du 31 juillet 1991 - art. 15 () JORF 1er août 1991
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1142-23
