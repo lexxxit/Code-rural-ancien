@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1992-07-07
+Version Consolidée au 1992-07-14
 
 ###### Article 40-3
 
@@ -13569,15 +13569,33 @@ production agricole et l'équipement agricole et rural effectuées par leurs soc
 
 ###### Article 616
 
-Les caisses de crédit agricole mutuel admettent comme sociétaires les membres des groupements visés à l'article suivant, 1° à
-7°, les collectivités énumérées audit article ainsi que les artisans ruraux n'employant pas plus de deux ouvriers de façon
-permanente.
+Sans préjudice de l'application des dispositions de l'article 3 bis de la loi n° 47-1775 du 10 septembre 1947 portant statut
+de la coopération, les caisses de crédit agricole mutuel admettent comme sociétaires les membres des groupements visés à
+l'article suivant, 1° à 7°, les collectivités énumérées audit article ainsi que les artisans ruraux n'employant pas plus de
+deux ouvriers de façon permanente.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 1947-09-10 art. 3 bis
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°92-643 du 13 juillet 1992 - art. 54 () JORF 14 juillet 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L512-22 (V)
 
 
 ###### Article 617
@@ -13664,30 +13682,28 @@ sociétaires au moyen de parts.
 Ces parts sont nominatives. Elles sont négociables, mais leur cession est soumise à l'agrément du conseil d'administration de
 la caisse.
 
-Le taux de l'intérêt de ces parts ne peut dépasser le taux mentionné à l'article 14 de la loi n° 47-1775 du 10 septembre 1947
-portant statut de la coopération.
-
-Aucun dividende n'est attribué aux parts sociales et, en cas de dissolution, leur valeur de remboursement ne peut excéder
-celle fixée lors de la constitution de la société.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°47-1775 du 10 septembre 1947 - art. 14 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°88-50 1988-01-18 art. 14 I, II JORF 19 janvier 1988
-	  - Loi n°88-50 du 18 janvier 1988 - art. 14 () JORF 19 janvier 1988
+	  - Loi n°92-643 du 13 juillet 1992 - art. 55 () JORF 14 juillet 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Cité par**:
 
 	  - Code rural ancien - art. 626 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L512-23 (V)
 
 
 ###### Article 619
@@ -14239,21 +14255,29 @@ Le bilan, le compte de pertes et profits et le projet de répartition des excéd
 agricole mutuel doivent être soumis à l'approbation de la caisse nationale de crédit agricole un mois au moins avant la tenue
 de l'assemblée générale.
 
-En aucun cas, il ne peut être attribué aux parts sociales, dans la limite du taux maximum fixé à l'article 618, 3e alinéa, un
-intérêt supérieur à celui qui a été approuvé par la caisse nationale de crédit agricole.
+En aucun cas, il ne peut être attribué aux parts sociales un intérêt supérieur à celui qui a été approuvé par la caisse
+nationale de crédit agricole.
 
 Les comptes annuels des caisses locales sont soumis, dans les mêmes conditions, à l'approbation des caisses régionales de
 crédit agricole mutuel.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural 618
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°92-643 du 13 juillet 1992 - art. 56 () JORF 14 juillet 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. R512-11 (V)
 
 
 ###### Article 644
