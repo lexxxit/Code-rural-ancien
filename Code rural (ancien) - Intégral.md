@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1959-12-27
+Version Consolidée au 1960-05-13
 
 ###### Article 162
 
@@ -11001,6 +11001,70 @@ modalités d'application du présent chapitre.
 
 ## Titre II : Mutualité sociale agricole
 
+###### Article 1002
+
+Dans leurs circonscriptions respectives départementales ou pluri-départementales, les caisses mutuelles d'assurances sociales
+agricoles, les caisses mutuelles d'allocations familiales agricoles et les caisses mutuelles d'assurance vieillesse agricoles
+sont fusionnées dans des organismes uniques qui prennent la dénomination de caisse de mutualité sociale agricole.
+
+Les caisses de mutualité sociale agricole sont dotées de la personnalité civile et régies par les articles 1235 du code rural
+et 1045 du code général des impôts. Elles sont chargées de la gestion des services antérieurement confiés aux caisses
+mutuelles d'allocations familiales agricoles et aux caisses mutuelles d'assurance vieillesse agricoles. Dans cette gestion,
+il ne pourra être apporté aucune modification à l'affectation définitive des ressources attribuées à chacun des régimes
+précédemment gérés par ces caisses.
+
+Les statuts et règlements intérieurs des caisses de mutualité sociale agricole sont approuvés par le ministre de
+l'agriculture après avis de l'union des caisses centrales de la mutualité agricole.
+
+Les caisses de mutualité sociale agricole comprennent un service de recouvrement, contrôle et contentieux et des sections
+dont les opérations font l'objet de comptabilités distinctes dans des conditions fixées par décret pris sur le rapport du
+ministre de l'agriculture et du ministre de l'économie et des finances.
+
+Les caisses comprennent obligatoirement les sections suivantes :
+
+a) Assurances sociales obligatoires ;
+
+b) Prestations familiales ;
+
+c) Assurance vieillesse agricole.
+
+Les caisses de mutualité sociale agricole peuvent, en outre, créer, une section d'action sanitaire et sociale et, après
+autorisation du ministre de l'agriculture, toute section dont la création paraîtrait nécessaire.
+
+Le service du recouvrement, contrôle et contentieux est notamment chargé de la liquidation et du recouvrement des cotisations
+dues par les professionnels de l'agriculture. Il en met le produit à la disposition des sections intéressées. Les caisses de
+mutualité sociale agricole peuvent, sous leur responsabilité, créer des échelons locaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1045
+	  - Code rural 1235
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°60-452 1960-05-12 art. 52 JORF 13 mai 1960
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L152-1 (V)
+	  - Code de la sécurité sociale. - art. L153-3 (V)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L723-1 (V)
+	  - Code rural - art. L723-2 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1941-04-05 art. 3
+
+
 ###### Article 1003
 
 Les caisses de mutualité sociale agricole, la caisse centrale de secours mutuels agricoles, la caisse centrale d'allocations
@@ -11511,6 +11575,33 @@ suffrages exprimés au premier tour ou la majorité relative au second tour.
 	**Anciens textes**:
 
 	  - Loi n°1949-06-08 art. 11
+
+
+###### Article 1014
+
+Les délégués cantonaux forment l'assemblée générale départementale de la mutualité sociale agricole. Lorsque la
+circonscription des caisses de mutualité sociale agricole s'étend sur deux ou plusieurs départements, l'assemblée générale
+comprend les délégués cantonaux des départements de la circonscription.
+
+Les délégués cantonaux sont élus pour six ans et renouvelables par moitié tous les trois ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°60-452 du 12 mai 1960 - art. 54 (V) JORF 13 mai 1960
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L723-19 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1949-06-08 art. 12
 
 
 ###### Article 1015
@@ -12798,27 +12889,39 @@ artisanal.
 	  - Loi n°70-365 1970-04-29 art. 4 JORF 30 avril 1970
 
 
-#### Section 5 : Organisation administrative et financière.
+#### Section 4 : Prestations.
 
-###### Article 1093
+###### Article 1091-1
 
-(texte abrogé).
+A compter du 1er janvier 1956, le bénéfice des prestations familiales au titre de salarié ne peut être accordé qu'aux
+personnes inscrites à une caisse de mutualité sociale agricole et dont la situation est régulière à l'égard de cet organisme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Décret n°1938-05-31 art. 14, art. 20
-	  - Décret n°1939-07-29 art. 30
+	  - Code rural L742-2
+	  - Code rural - art. L742-2 (V)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Anciens textes**:
+
+	  - Loi n°55-1045 1955-08-06 art. 4
+
+	**Modifié par**:
+
+	  - Décret n°60-452 du 12 mai 1960 - art. 54 (V) JORF 13 mai 1960
 
 	**Abrogé par**:
 
-	  - Décret n°60-452 du 12 mai 1960 - art. 55 (V) JORF 13 mai 1960
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
+
+#### Section 5 : Organisation administrative et financière.
 
 ###### Article 1094
 
