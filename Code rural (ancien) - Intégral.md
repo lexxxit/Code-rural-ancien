@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1961-05-19
+Version Consolidée au 1961-08-03
 
 ###### Article 162
 
@@ -1176,6 +1176,196 @@ tierce opposition, de la part des intéressés qui ne sont pas intervenus à l'i
 
 	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
 	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+### Chapitre X : De la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.
+
+###### Article 58-17
+
+Le préfet, après avoir recueilli les observations du propriétaire, pris l'avis d'une commission dont la composition est fixée
+par décret peut, de sa propre initiative ou à la demande de tiers, mettre en demeure tout propriétaire de terres incultes, de
+terres laissées à l'abandon, de terres insuffisamment exploitées, soit de les mettre en valeur, soit de les vendre en vue de
+faire accéder un certain nombre d'agriculteurs à la petite propriété rurale.
+
+Le décret appelé à fixer la composition de la commission adaptera aux conditions locales les dispositions relatives à la
+composition de la commission départementale de réorganisation foncière et de remembrement et à celle de la commission
+départementale des cumuls et réunions d'exploitations agricoles.
+
+Le préfet, dans les mêmes conditions, peut mettre en demeure tout titulaire du droit d'exploitation de terres incultes, de
+terres laissées à l'abandon ou de terres insuffisamment exploitées, si ce titulaire est autre que le propriétaire, soit de
+les mettre en valeur, soit de renoncer à son droit d'exploitation.
+
+Le préfet détermine, selon le cas, celle des mesures prévues aux premier et troisième alinéas à laquelle s'applique la mise
+en demeure.
+
+Le préfet fixe le délai dans lequel la mise en demeure doit être suivie d'effet. Si elle concerne la mise en valeur, il fixe
+également les conditions de celle-ci.
+
+Si le titulaire du droit d'exploitation, autre que le propriétaire, renonce à son droit, le propriétaire reprend, sans
+indemnité de ce fait, la disposition de ses terres ainsi que celle des bâtiments nécessaires à leur exploitation, les mesures
+prévues au premier alinéa du présent article pouvant alors lui être appliquées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+
+
+###### Article 58-18
+
+Le préfet, après avis de la commission prévue à l'article 58-17, peut provoquer l'expropriation des terres incultes, des
+terres laissées à l'abandon et des terres insuffisamment exploitées, en vue de leur mise en valeur agricole. L'Etat cédera à
+cette fin les terres expropriées ou les mettra lui-même en valeur. Si l'Etat fait procéder à des aménagements sur ces terres,
+l'indemnité d'expropriation peut, sous réserve de l'accord du propriétaire, consister en la restitution d'une partie des
+terres ainsi aménagées.
+
+L'Etat peut se substituer, pour la réalisation des opérations prévues à l'alinéa précédent sous le contrôle technique de ses
+services, les sociétés d'Etat prévues à l'article 2 de la loi n° 46-860 du 30 avril 1946, les institutions de crédit agricole
+mutuel prévues au chapitre VI du titre Ier du code rural ou les sociétés d'aménagement foncier et d'établissement rural
+prévues à l'article 15 de la loi n° 60-808 du 5 août 1960 d'orientation agricole et, pour le département de la Réunion, les
+organismes chargés, en métropole, de l'application de la législation sur les migrations rurales après adaptation de cette
+dernière aux conditions géographiques de ce département. L'intervention de ces organismes peut être conjointe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 58-17
+	  - Loi n°46-860 du 30 avril 1946 - art. 2 (V)
+	  - Loi n°60-808 1960-08-05 art. 15
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+
+
+###### Article 58-19
+
+Seront réputées insuffisamment exploitées pour l'application des articles 58-17 et 58-18 les terres dont l'utilisation
+agricole sera inférieure aux normes qui seront fixées, par catégories de terres, par le préfet, après avis de la commission
+prévue à l'article 58-17 et de la chambre d'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 58-17, 58-18
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+
+
+###### Article 58-20
+
+Nul ne peut obtenir ou conserver l'exploitation des terres en application des articles 58-17 et 58-18 sansavoir accepté un
+cahier des charges.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 58-17, 58-18
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+
+
+###### Article 58-21
+
+En cas de cession de jouissance en application de l'article 58-17 :
+
+- l'Etat n'encourt aucune responsabilité du fait du cessionnaire ;
+
+- le propriétaire peut dans la mesure de son intérêt poursuivre devant les tribunaux l'exécution des clauses stipulées par le
+préfet et rechercher le cessionnaire pour les dommages causés aux terres ou à leurs accessoires ;
+
+- le cessionnaire qui a apporté des améliorations au fonds loué a droit, à l'expiration de la cession, à une indemnité due
+par le propriétaire.
+
+Les contestations relatives à l'interprétation et à l'exécution des cahiers des charges sont portées devant le tribunal
+d'instance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 58-17
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+
+
+###### Article 58-22
+
+Les fonctionnaires et agents chargés de veiller à l'application du présent chapitre ont un droit de visite sur les terres et
+peuvent demander aux intéressés toutes explications qu'ils jugeraient utiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+
+
+###### Article 58-23
+
+Les opérations résultant de l'application des articles 58-17 et 58-18 peuvent faire l'objet de l'aide financière de l'Etat
+sous forme de subventions et de prêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+
+
+###### Article 58-24
+
+Des décrets en Conseil d'Etat, pris après consultation des conseils généraux et, pour les questions entrant dans leurs
+attributions, des chambres d'agriculture, détermineront, en tant que de besoin, les conditions d'application du présent
+chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
 
 
 ## Titre II : Des chemins ruraux et des chemins d'exploitation
@@ -3299,6 +3489,186 @@ l'opposition du propriétaire résidant.
 	**Anciens textes**:
 
 	  - Loi n°1941-04-17 art. 5
+
+
+## Titre VIII : De l'aménagement des superficies des exploitations et propriétés agricoles dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.
+
+###### Article 188-10
+
+Sont soumis à autorisation préalable, dans les conditions déterminées par le décret prévu à l'article 188-17, les cumuls et
+les réunions d'exploitations agricoles qui auraient pour effet de porter la superficie de l'ensemble considéré au-delà d'une
+limite fixée comme il est indiqué à l'article 188-14.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 188-17, 188-14
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 aout 1984
+
+
+###### Article 188-11
+
+Sont soumis à autorisation préalable, dans les conditions déterminées par le décret prévu à l'article 188-17, tous les
+transferts entre vifs de propriétés à titre gratuit ou onéreux, portant sur des fonds agricoles d'une superficie supérieure à
+une limite fixée comme il est indiqué à l'article 188-14 ou ayant pour effet de porter au-delà de ladite limite la superficie
+des propriétés agricoles appartenant au bénéficiaire du transfert.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 188-14, 188-17
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
+
+
+###### Article 188-12
+
+Quiconque désire, soit procéder à un cumul ou à une réunion d'exploitations agricoles tombant sous le coup de l'article
+188-10, soit bénéficier d'un transfert de propriété de fonds agricole tombant sous le coup de l'article 188-11, doit adresser
+une demande d'autorisation au préfet.
+
+Le préfet statue sur la demande après avoir recueilli les observations du demandeur, avoir fait procéder à toutes enquêtes
+qu'il juge nécessaires et avoir pris l'avis d'une commission dont la composition est fixée par le décret prévu à l'article
+58-17.
+
+Si, dans le délai de trois mois à compter de la réception de la demande, le préfet n'a pas notifié sa décision, il est réputé
+avoir accordé l'autorisation demandée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 58-17, 188-10, 188-11
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
+
+
+###### Article 188-13
+
+Le préfet, après avoir recueilli les observations de l'intéressé, pris l'avis de la commission prévue à l'article 188-12,
+peut mettre en demeure tout propriétaire d'un fonds agricole qu'il exploite et dont la superficie est supérieure à une limite
+fixée comme il est indiqué à l'article 188-14 de donner à ferme ou colonat partiaire la superficie excédentaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 188-12, 188-14
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
+
+
+###### Article 188-14
+
+Les superficies limites respectivement prévues aux articles 188-10, 188-11, 188-13 sont fixées par le préfet après avis de la
+commission prévue à l'article 188-12. Les arrêtés préfectoraux fixant ces limites sont soumis à l'approbation du ministre
+chargé des départements d'outre-mer et du ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 188-10, 188-11, 188-12, 188-13
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
+
+
+###### Article 188-15
+
+En cas de location consentie en infraction des dispositions de l'article 188-10, le contrat est obligatoirement résilié à la
+demande, le cas échéant, du préfet.
+
+En cas de transfert de propriété accompli en infraction aux dispositions des articles 188-10 et 188-11, le préfet, après avis
+de la commission prévue à l'article 188-12, peut exercer, au profit de l'Etat, un droit de retrait sur le fonds qui en fait
+l'objet.
+
+La décision d'exercer le droit de retrait est notifiée par acte extrajudiciaire. Elle doit l'être dans les six mois de
+l'enregistrement de l'acte portant transfert de propriété.
+
+L'indemnité est liquidée comme en matière d'expropriation, sans pouvoir excéder le prix ou la valeur exprimé dans l'acte de
+transfert de propriété.
+
+Si la mise en demeure prévue à l'article 188-13 n'a pas été suivie d'effet dans le délai imparti, le préfet, après avis de la
+même commission, peut provoquer l'expropriation de la superficie excédentaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 188-10, 188-11, 188-12, 188-13
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
+
+
+###### Article 188-16
+
+Ne sont pas soumises aux dispositions du présent titre les superficies qui en auraient été exemptées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
+
+
+###### Article 188-17
+
+Des décrets en Conseil d'Etat, pris après consultation des conseils généraux et des chambres d'agriculture pour les questions
+entrant dans leurs attributions, détermineront, en tant que de besoin, les conditions d'application du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°84-741 du 1 août 1984 - art. 10 (V) JORF 2 août 1992
 
 
 # Livre II : Des animaux et des végétaux
