@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1963-03-20
+Version Consolidée au 1963-05-25
 
 ###### Article 162
 
@@ -10458,32 +10458,6 @@ Un décret fixe en tant que de besoin, les conditions d'application des articles
 
 
 #### Section 3 : Crédit à long terme individuel.
-
-###### Article 687
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Décret n°60-1061 1960-09-24 art. 4 JORF 4 octobre 1960
-
-
-###### Article 688
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
 
 ###### Article 689
 
