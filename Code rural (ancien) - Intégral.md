@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1958-12-24
+Version Consolidée au 1958-12-25
 
 ###### Article 162
 
@@ -6602,6 +6602,23 @@ mention de cette formalité, le tout sous peine de nullité du procès-verbal.
 	**Anciens textes**:
 
 	  - Loi n°1829-04-15 art. 44
+
+
+###### Article 461
+
+Les préposés des eaux et forêts et les ingénieurs et agents qualifiés des services de la navigation, ainsi que les gardes-
+pêche commissionnés par décision ministérielle, sont dispensés d'affirmer les procès-verbaux qu'ils ont eux-mêmes rédigés et
+signés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1921-12-29 Décret 1934-06-30
 
 
 ###### Article 462
