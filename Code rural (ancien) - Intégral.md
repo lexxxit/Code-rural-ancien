@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1998-07-09
+Version Consolidée au 1998-09-15
 
 # Livre Ier : Régime du sol
 
@@ -4765,6 +4765,39 @@ Les décisions des chambres de discipline sont portées sans délai à la connai
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
+###### Article 309-7-1
+
+Nonobstant les dispositions des articles 309 et 340 du présent code, à défaut de vétérinaire établi dans la collectivité
+territoriale de Saint-Pierre-et-Miquelon, l'exercice de la médecine et de la chirurgie des animaux y est assuré par des
+fonctionnaires ou agents de l'Etat ou de cette collectivité territoriale agréés par le ministre en charge de l'agriculture
+après avis de l'ordre des vétérinaires. Les dispositions des articles L. 610 et L. 613 du chapitre II du livre VI du code de
+la santé publique en ce qu'elles concernent les docteurs vétérinaires sont applicables à ces personnels.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 309, 340
+	  - Code de la santé publique - art. L610 (M)
+	  - Code de la santé publique - art. L613 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 17 (V) JORF 4 septembre 1998 en vigueur le 15 septembre 1998
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 4 () JORF 4 septembre 1998 en vigueur le 15 septembre 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
 ###### Article 309-8
 
 Un décret en Conseil d'Etat définira les conditions d'application des articles 309-1 à 309-7.
@@ -5715,6 +5748,8 @@ titulaires d'une licence d'inséminateur pour l'espèce équine et spécialement
 de leurs attributions sous l'autorité médicale d'un vétérinaire ou d'un docteur vétérinaire, pour la réalisation de constats
 de gestation, notamment par échographie, des femelles équines.
 
+9° Les fonctionnaires ou agents mentionnés à l'article 309-7-1 et intervenant dans les limites prévues par ledit article.
+
 b) Les castrations des animaux autres que les équidés et les carnivores domestiques ;
 
 c) Les soins de première urgence autres que ceux nécessités par les maladies contagieuses.
@@ -5723,7 +5758,7 @@ c) Les soins de première urgence autres que ceux nécessités par les maladies 
 
 	**Cite**:
 
-	  - Code rural 340, 311-1
+	  - Code rural 340, 311-1, 309-7-1
 	  - Loi n°66-1005 1966-12-28
 
 	**Codifié par**:
@@ -5732,7 +5767,8 @@ c) Les soins de première urgence autres que ceux nécessités par les maladies 
 
 	**Modifié par**:
 
-	  - Loi n°95-95 du 1 février 1995 - art. 76 () JORF 2 février 1995
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 17 (V) JORF 4 septembre 1998 en vigueur le 15 septembre 1998
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 4 () JORF 4 septembre 1998 en vigueur le 15 septembre 1998
 
 
 ###### Article 341
