@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1989-01-14
+Version Consolidée au 1989-06-14
 
 ###### Article 40-3
 
@@ -11394,6 +11394,26 @@ qu'après la décision rendue par l'autorité administrative compétente.
 	**Abrogé par**:
 
 	  - Décret n°98-558 du 2 juillet 1998 - art. 32 () JORF 5 juillet 1998
+
+
+###### Article 324-1
+
+Des décrets en Conseil d'Etat déterminent, en tant que de besoin, les conditions d'application du titre VIII du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 32 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ## Titre IX : Des pénalités.
