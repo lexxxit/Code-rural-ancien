@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1993-08-29
+Version Consolidée au 1993-12-21
 
 ###### Article 1143-2
 
@@ -10873,9 +10873,10 @@ heures, sauf dérogation dans des conditions fixées par les décrets ci-dessous
 
 Des décrets fixent, en tant que de besoin, les modalités d'application de l'alinéa précédent pour l'ensemble des activités ou
 pour certaines d'entre elles, par profession ou par catégorie professionnelle, pour l'ensemble des départements ou pour une
-partie d'entre eux. Ces décrets fixent notamment l'aménagement et la répartition des horaires de travail, les dérogations
-permanentes ou temporaires applicables dans certains cas ou pour certains emplois, les modalités de récupération des heures
-de travail perdues et les mesures de contrôle de ces diverses dispositions.
+partie d'entre eux. Ces décrets fixent notamment l'aménagement et la répartition des horaires de travail, les périodes de
+repos, les conditions de recours aux astreintes, les dérogations permanentes ou temporaires applicables dans certains cas ou
+pour certains emplois, les modalités de récupération des heures de travail perdues et les mesures de contrôle de ces diverses
+dispositions.
 
 Ces décrets sont pris et révisés après avis de la section agricole spécialisée de la commission supérieure des conventions
 collectives et des organisations professionnelles et syndicales d'employeurs et de salariés intéressés et au vu, le cas
@@ -10889,9 +10890,6 @@ ces décrets auxquelles il avait été dérogé redeviennent applicables.
 
 En l'absence des décrets susindiqués, les modalités d'application du premier alinéa du présent article peuvent être fixées
 par convention collective ou accord collectif étendus.
-
-L'application des dispositions de l'alinéa précédent ne porte aucune atteinte aux usages et aux conventions collectives de
-travail qui fixeraient des limites inférieures.
 
 La durée du travail ci-dessus fixée s'entend du travail effectif, à l'exclusion du temps nécessaire à l'habillage, aux casse-
 croûte et aux repas ainsi que des périodes d'inaction, dans les types d'activité ou pour les catégories professionnelles
@@ -10916,7 +10914,7 @@ des décrets pris pour l'application du présent article, est punie de la peine 
 
 	**Modifié par**:
 
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 48 (V) JORF 31 décembre 1988
+	  - Loi n°93-1313 1993-12-20 art. 46 III JORF 21 décembre 1993
 
 	**Nouveaux textes**:
 
@@ -10992,20 +10990,15 @@ la peine d'amende prévue pour les contraventions de la 4e classe.
 Les heures supplémentaires de travail prévues à l'article précédent ouvrent droit à un repos compensateur dans les conditions
 définies ci-après.
 
-Dans les entreprises de plus de dix salariés, la durée de ce repos compensateur est égale à 20 p. 100 du temps de travail
+Dans les entreprises de plus de dix salariés, la durée de ce repos compensateur est égale à 50 p. 100 du temps de travail
 accompli en heures supplémentaires au-delà de quarante-deux heures.
 
 Dans les établissements énumérés au 7° de l'article 1144 qui n'ont pas une activité de production agricole, les heures
 supplémentaires effectuées au-delà du contingent fixé par le décret mentionné à l'article 993-2 ouvrent droit à un repos
 compensateur obligatoire dont la durée est égale à 50 p. 100 de ces heures supplémentaires pour les établissements de dix
-salariés au plus et à 100 p. 100 pour les établissements de plus de dix salariés. Dans les établissements de plus de dix
-salariés assujettis à une convention ou à un accord collectif étendu prévoyant un contingent supérieur au contingent fixé par
-décret, le repos compensateur est d'une durée égale à 50 p. 100 des heures supplémentaires effectuées au-delà du contingent
-fixé par décret et à 100 p. 100 des heures supplémentaires effectuées au-delà du contingent prévu par la convention ou
-l'accord collectif étendu. Pour bénéficier de ces dernières dispositions, les branches et les entreprises concernées doivent
-procéder à un examen négocié de la nature et du niveau des emplois dans le cadre des négociations annuelles prévues aux
-articles L. 132-12 et L. 132-27 du code du travail. Le repos prévu au deuxième alinéa du présent article n'est pas applicable
-aux heures supplémentaires ayant ouvert droit au repos compensateur prévu au présent alinéa.
+salariés au plus et à 100 p. 100 pour les établissements de plus de dix salariés. Le repos prévu au deuxième alinéa du
+présent article n'est pas applicable aux heures supplémentaires ayant ouvert droit au repos compensateur prévu au présent
+alinéa.
 
 Par dérogation aux dispositions du second alinéa du présent article, la durée du repos compensateur peut, en ce qui concerne
 les entreprises ou exploitations occupant des salariés définis aux 1° à 3°, 5°, 6°, 9° et 10° de l'article 1144, et les
@@ -11017,8 +11010,8 @@ convention ou cet accord.
 
 **Nota:**
 
-Nota : Décret 91-830 du 27 août 1991 art. 1 : toute infraction aux dispositions du présent article du code rural est punie de
-la peine d'amende prévue pour les contraventions de la 4e classe.
+Nota - Décret 91-830 du 27 août 1991, art. 1 : toute infraction aux dispositions du présent article du code rural est punie
+de la peine d'amende prévue pour les contraventions de la 4e classe.
 
 **Liens relatifs à cet article**
 
@@ -11028,7 +11021,7 @@ la peine d'amende prévue pour les contraventions de la 4e classe.
 
 	**Modifié par**:
 
-	  - Loi n°90-9 du 2 janvier 1990 - art. 2 () JORF 4 janvier 1990
+	  - Loi n°93-1313 1993-12-20 art. 42 IV JORF 21 décembre 1993
 
 	**Nouveaux textes**:
 
@@ -11037,8 +11030,6 @@ la peine d'amende prévue pour les contraventions de la 4e classe.
 
 	**Cite**:
 
-	  - Code du travail - art. L132-12 (M)
-	  - Code du travail - art. L132-27 (M)
 	  - Code rural 993-2, 1144
 
 
@@ -11236,15 +11227,8 @@ des décrets pris pour l'application du présent article, est punie de la peine 
 
 ###### Article 995
 
-Dans les activités et professions non couvertes par les décrets prévus à l'article 992, un décret en Conseil d'Etat fixe les
-obligations mises à la charge des employeurs en vue de permettre le contrôle de l'application des dispositions légales et
-conventionnelles relatives à la durée et à l'aménagement du temps de travail.
-
-**Nota:**
-
-Nota : Décret 91-830 du 27 août 1991 art. 1 : toute infraction aux dispositions du présent article du code rural et à celles
-des décrets pris pour l'application du présent article, est punie de la peine d'amende prévue pour les contraventions de la
-4e classe.
+Un décret en Conseil d'Etat fixe les obligations mises à la charge des employeurs en vue de permettre le contrôle de
+l'application des dispositions légales et conventionnelles relatives à la durée et à l'aménagement du temps de travail.
 
 **Liens relatifs à cet article**
 
@@ -11252,22 +11236,23 @@ des décrets pris pour l'application du présent article, est punie de la peine 
 
 	  - Code rural 992
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Loi n°48-401 1948-03-10 art. 4
+	  - Code rural L713-20
+	  - Code rural - art. L713-20 (V)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°74-1116 1974-12-27 art. 1 JORF 29 décembre 1974
-	  - Ordonnance 82-109 1982-01-30 art. 8 JORF 31 janvier 1982 en vigueur le 1er février 1982
+	  - Loi n°93-1313 1993-12-20 art. 48 JORF 21 décembre 1993
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L713-20 (V)
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 996
@@ -11328,8 +11313,10 @@ En outre, le repos hebdomadaire peut être donné par roulement lorsque le trava
 
 a) Pour des raisons techniques,
 
-b) Pour des raisons économiques à condition qu'une convention ou un accord collectif étendu ait prévu une telle
-organisation. 
+b) Pour des raisons économiques à condition qu'une convention ou un accord collectif étendu ou une convention ou un accord
+d'entreprise ait prévu une telle organisation. A défaut de convention ou d'accord collectif étendu ou de convention ou
+d'accord d'entreprise, un décret en Conseil d'Etat peut prévoir les conditions dans lesquelles cette dérogation peut être
+accordée.
 
 En cas de circonstances exceptionnelles, notamment de travaux dont l'exécution ne peut être différée, le repos hebdomadaire
 peut être suspendu pour une durée limitée ; les intéressés bénéficieront, au moment choisi d'un commun accord entre
@@ -11353,7 +11340,7 @@ politique sociale agricoles.
 
 	**Modifié par**:
 
-	  - Loi n°91-1 du 3 janvier 1991 - art. 20 (V) JORF 5 janvier 1991
+	  - Loi n°93-1313 1993-12-20 art. 44 III JORF 21 décembre 1993
 
 	**Nouveaux textes**:
 
