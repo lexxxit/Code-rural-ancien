@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1985-01-05
+Version Consolidée au 1985-01-10
 
 ###### Article 162
 
@@ -109,6 +109,9 @@ Les limites territoriales de l'aménagement peuvent comprendre des parties de te
 commission communale estime que l'aménagement comporte, au sens du présent titre, un intérêt pour les propriétaires ou les
 exploitants de ces parties de territoire.
 
+En zone de montagne, cette constitution est de droit lorsqu'elle est demandée à l'occasion de l'élaboration ou de la révision
+d'un plan d'occupation des sols par l'une des catégories de personnes ou par les services visés au premier alinéa ci-dessus.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -117,9 +120,11 @@ exploitants de ces parties de territoire.
 
 	**Modifié par**:
 
-	  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
-	  - Loi n°75-621 1975-07-11 art. 1 JORF 12 juillet 1975
-	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+	  - Loi n°85-30 du 9 janvier 1985 - art. 70 () JORF 10 janvier 1985
+
+	**Abrogé par**:
+
+	  - Loi n°85-1496 du 31 décembre 1985 - art. 1 () JORF 3 janvier 1986
 
 
 ###### Article 2
@@ -228,8 +233,8 @@ d'aménagement foncier.
 
 Elle fixe en conséquence :
 
-a) Le ou les périmètres à l'intérieur desquels elle est d'avis de procéder aux opérations de remembrement définies au
-chapitre III du présent titre ;
+a) Le ou les périmètres à l'intérieur desquels elle est d'avis de procéder aux opérations de remembrement ou de remembrement-
+aménagement définies au chapitre III du présent titre ;
 
 b) Le ou les périmètres à l'intérieur desquels elle est d'avis que les opérations de réorganisation foncière définies au
 chapitre II du présent titre seront suffisantes ;
@@ -272,15 +277,9 @@ l'agriculture.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1941-03-09 art. 3
-
 	**Modifié par**:
 
-	  - Loi n°60-808 du 5 août 1960 - art. 7 (Ab) JORF 7 août 1960
-	  - Loi n°75-621 1975-07-11 art. 1 II, III JORF 12 juillet 1975
-	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+	  - Loi n°85-30 du 9 janvier 1985 - art. 21 () JORF 10 janvier 1985
 
 
 ###### Article 4
@@ -401,7 +400,7 @@ déterminés conformément aux dispositions du décret sur les conseils supérie
 
 La commission communale fait établir tous documents qu'elle estime nécessaires pour apprécier la situation des exploitations
 agricoles de la commune en vue de l'application du présent titre et, en particulier, en vue de déterminer l'existence et
-l'assiette des parcelles abandonnées.
+l'assiette des parcelles abandonnées, incultes ou manifestement sous-exploitées.
 
 Ces documents comprennent notamment :
 
@@ -409,10 +408,11 @@ A. - Un plan parcellaire, établi d'après le cadastre et après reconnaissance 
 
 1° La consistance des propriétés rurales de la zone intéressée aux opérations ;
 
-2° L'emplacement des parcelles qui constituent l'ensemble des propriétés avec bâtiments, abandonnées ou incultes depuis au
-moins trois ans ;
+2° L'emplacement des parcelles qui constituent l'ensemble des propriétés avec bâtiments, abandonnées, incultes ou
+manifestement sous-exploitées depuis au moins trois ans ;
 
-3° L'emplacement des parcelles abandonnées ou incultes depuis au moins trois ans sans bâtiment ;
+3° L'emplacement des parcelles abandonnées, incultes ou manifestement sous-exploitées depuis au moins trois ans sans
+bâtiment ;
 
 4° Les parcelles enclavées ;
 
@@ -427,9 +427,9 @@ B. - 1° Un état parcellaire des propriétés d'après le cadastre et après re
 de propriété les références cadastrales : section, numéro, surface, nature, classement, les nom et adresse du propriétaire
 enregistré par le cadastre, du locataire ou de l'exploitant ;
 
-2° Un état alphabétique des propriétaires des exploitations pourvues de bâtiments, abandonnées ou incultes depuis au moins
-trois ans ainsi que des parcelles abandonnées ou incultes depuis au moins trois ans, non rattachées à une exploitation
-agricole figurant sur l'état précité ;
+2° Un état alphabétique des propriétaires des exploitations pourvues de bâtiments, abandonnées, incultes ou manifestement
+sous-exploitées depuis au moins trois ans ainsi que des parcelles abandonnées, incultes ou manifestement sous-exploitées
+depuis au moin trois ans, non rattachées à une exploitation agricole figurant sur l'état précité ;
 
 3° Un état des chemins ruraux publics reconnus ou non reconnus ;
 
@@ -443,11 +443,7 @@ agricole figurant sur l'état précité ;
 
 	**Modifié par**:
 
-	  - Décret n°78-1071 1978-11-08 art. 15, art. 16 JORF 11 novembre 1978
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-09 art. 7
+	  - Loi n°85-30 du 9 janvier 1985 - art. 27 () JORF 10 janvier 1985
 
 
 ###### Article 10
@@ -485,7 +481,8 @@ n'auraient pas été indiqués sur les documents publiés et ne se seraient pas 
 
 La commission communale peut décider l'incorporation à des exploitations limitrophes, soit par voie d'échange avec paiement
 ou non d'une soulte, soit par voie d'autorisation d'exploiter dans les conditions prévues aux articles 39 et suivants du
-présent code, de tout ou partie des parcelles abandonnées ou incultes dont les propriétaires sont connus.
+présent code, de tout ou partie des parcelles abandonnées, incultes ou manifestement sous-exploitées dont les propriétaires
+sont connus.
 
 **Liens relatifs à cet article**
 
@@ -497,20 +494,16 @@ présent code, de tout ou partie des parcelles abandonnées ou incultes dont les
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1941-03-09 art. 9
-
 	**Modifié par**:
 
-	  - Loi n°78-10 1978-01-04 art. 4 JORF 5 janvier 1978
+	  - Loi n°85-30 du 9 janvier 1985 - art. 27 () JORF 10 janvier 1985
 
 
 ###### Article 12
 
-La commission communale propose au préfet la meilleure utilisation des terres abandonnées ou incultes depuis au moins trois
-ans. Elle peut en proposer le groupement de manière à constituer des lots de parcelles suffisants pour former des
-exploitations paysannes familiales, autant que possible d'un seul tenant par nature de culture.
+La commission communale propose au préfet la meilleure utilisation des terres abandonnées, incultes ou manifestement sous-
+exploitées depuis au moins trois ans. Elle peut en proposer le groupement de manière à constituer des lots de parcelles
+suffisants pour former des exploitations paysannes familiales, autant que possible d'un seul tenant par nature de culture.
 
 Les parcelles rattachées à ces lots seront expropriées.
 
@@ -520,13 +513,9 @@ Les parcelles rattachées à ces lots seront expropriées.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1941-03-09 art. 10
-
 	**Modifié par**:
 
-	  - Loi n°78-10 1978-01-04 art. 5 JORF 5 janvier
+	  - Loi n°85-30 1985-01-10 art. 27 II JORF 10 janvier 1985
 
 
 ###### Article 14
@@ -668,6 +657,10 @@ rural du périmètre dans lequel il est mis en oeuvre.
 Sauf accord des propriétaires et exploitants intéressés, le nouveau lotissement ne peut allonger la distance moyenne des
 terres au centre d'exploitation principal, si ce n'est dans la mesure nécessaire au regroupement parcellaire.
 
+Lorsqu'a été ordonné un remembrement-aménagement en vertu de l'article 19-1, les dispositions des deuxième et troisième
+alinéas du présent article relatives à l'amélioration des conditions d'exploitation ne s'appliquent qu'aux terres agricoles
+visées au II dudit article.
+
 Le département assure le règlement des dépenses relatives aux opérations de réorganisation foncière et de remembrement.
 L'ingénieur en chef du génie rural est ordonnateur des dépenses.
 
@@ -695,34 +688,30 @@ prendre en charge les frais engagés. Le remembrement est alors assimilé aux tr
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Arrêté du 14 février 2008 - art. 18 (Ab)
+
+	**Cite**:
+
+	  - Code rural 19-1
+	  - Loi n°62-933 1962-08-08 art. 10
+
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
 	**Modifié par**:
 
-	  - Décret n°63-611 1963-06-24 art. 2 JORF 28 juin 1963
-	  - Loi n°75-621 1975-07-11 art. 4 I, II JORF 12 juillet 1975
-	  - Loi n°83-8 1983-07-07 art. 32 JORF 9 janvier 1983
-
-	**Cité par**:
-
-	  - Arrêté du 14 février 2008 - art. 18 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-09
-
-	**Cite**:
-
-	  - Loi n°62-933 1962-08-08 art. 10
+	  - Loi n°85-30 du 9 janvier 1985 - art. 22 () JORF 10 janvier 1985
 
 
 ###### Article 19-1
 
-I. - Lorsque l'élaboration d'un document d'urbanisme et un remembrement rural sont prescrits, la procédure de remembrement-
-aménagement peut être ordonnée par l'autorité administrative après avis de la commission communale d'aménagement foncier et
-après accord du conseil municipal.
+I. - Lorsque, dans une ou plusieurs communes, l'élaboration ou la révision d'un plan d'occupation des sols est prescrite et
+qu'une commission communale ou intercommunale est instituée, le représentant de l'Etat dans le département, après accord du
+ou des conseils municipaux, ordonne le remembrement-aménagement dans les conditions prévues à l'article 3 et en fixe le
+périmètre.
 
 II. - Dans le périmètre de remembrement-aménagement, la part de surface agricole affectée à l'urbanisation et à la
 constitution de réserves foncières destinées aux équipements collectifs et aux zones d'activité détermine le pourcentage de
@@ -735,17 +724,103 @@ de qualité supérieure ou comportant des équipements spéciaux importants.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code rural 3
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 22 () JORF 10 janvier 1985
+
+
+###### Article 19-2
+
+Si la commune le demande, l'équivalent des terres qu'elle apporte au remembrement-aménagement lui est attribué dans la
+surface affectée à l'urbanisation. Cette attribution ne peut toutefois excéder la moitié de ladite surface. Les attributions
+aux autres propriétaires sont faites, selon le pourcentage défini au II de l'article 19-1, sur la superficie restante.
+
+Les terres attribuées à la société d'aménagement foncier et d'établissement rural dans la surface affectée à l'urbanisation
+sont cédées par cette société dans les conditions prévues au troisième alinéa de l'article 15 de la loi n° 60-808 du 5 août
+1960 précitée.
+
+Tout propriétaire peut demander à la commission communale d'aménagement foncier la totalité de ses attributions en terrains
+agricoles. La demande peut être rejetée si elle est de nature à compromettre la bonne réalisation de l'opération de
+remembrement-aménagement. Un décret en Conseil d'Etat fixera les conditions de présentation et d'instruction des demandes,
+ainsi que le moment des opérations où les demandes ne seront plus recevables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 19-1
+	  - Loi n°60-808 1960-08-05 art. 15
+
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
 	**Créé par**:
 
-	  - Loi n°80-502 du 4 juillet 1980 - art. 76 () JORF 5 juillet 1980
+	  - Loi n°85-30 du 9 janvier 1985 - art. 22 () JORF 10 janvier 1985
 
 	**Nouveaux textes**:
 
-	  - Code rural - art. L123-18 (M)
+	  - Code rural - art. L123-19 (M)
+
+
+###### Article 19-3
+
+La commission communale d'aménagement foncier, après accord du conseil municipal, peut décider que l'attribution de terrains
+dans la surface affectée à l'urbanisation entraîne de plein droit, dès la clôture des opérations de remembrement, l'adhésion
+du propriétaire à une association foncière urbaine, dont elle détermine le périmètre.
+
+Lorsqu'une association foncière urbaine n'est pas créée, les terrains sur lesquels il ne peut être construit, en raison de
+leur forme ou de leur surface non conformes aux prescriptions édictées par le règlement du plan d'occupation des sols, sont
+regroupés et attribués en indivision, en une ou plusieurs parcelles constructibles au regard dudit règlement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 22 () JORF 10 janvier 1985
+
+
+###### Article 19-4
+
+Si une association foncière urbaine n'est pas créée, les travaux de voirie et d'équipement en réseaux divers de la surface
+affectée à l'urbanisation sont décidés par la commission communale d'aménagement foncier et exécutés, aux frais des
+propriétaires, par l'association foncière visée à l'article 27.
+
+La répartition des dépenses entre les propriétaires de terrains intéressés est faite dans les conditions prévues à l'article
+25.
+
+L'assiette des ouvrages collectifs est prélevée sans indemnité sur la totalité de la surface à l'urbanisation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 27, 25
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 22 () JORF 10 janvier 1985
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L123-23 (M)
 
 
 ###### Article 20
@@ -805,6 +880,8 @@ Chaque propriétaire doit recevoir, par la nouvelle distribution, une superficie
 productivité réelle, à celle des terrains qu'il a apportés, déduction faite de la surface nécessaire aux ouvrages collectifs
 visés à l'article 25 du présent code, et compte tenu des servitudes maintenues ou créées.
 
+En cas de remembrement-aménagement, ces dispositions sont applicables sur l'ensemble du périmètre.
+
 Lorsque des terrains ne peuvent être réattribués conformément aux dispositions de l'article 20 du présent code, en raison de
 la création des aires nécessaires aux ouvrages collectifs communaux, il peut être attribué une valeur d'échange tenant compte
 de leur valeur vénale.
@@ -853,15 +930,9 @@ Exceptionnellement, une soulte en nature peut être attribuée avec l'accord des
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1941-03-09
-
 	**Modifié par**:
 
-	  - Loi n°60-792 1960-08-02 art. 1 JORF 4 août 1960
-	  - Loi n°75-621 1975-07-11 art. 6 I JORF 12 juillet 1975
-	  - Loi n°83-8 du 7 janvier 1983 - art. 32 (V) JORF 9 janvier 1983
+	  - Loi n°85-30 du 9 janvier 1985 - art. 22 () JORF 10 janvier 1985
 
 
 ###### Article 21-1
@@ -920,7 +991,9 @@ L'arrêté du préfet est publié en même temps que l'arrêté ordonnant le dé
 
 ###### Article 23
 
-Sauf exception justifiée, il n'est créé qu'une seule parcelle par propriétaire dans une masse de répartition.
+Sauf exception justifiée, il n'est créé qu'une seule parcelle par propriétaire dans une masse de répartition. Il peut
+toutefois être dérogé à cette obligation  dans la surface affectée à l'urbanisation à l'intérieur d'un périmètre de
+remembrement-aménagement.
 
 **Liens relatifs à cet article**
 
@@ -928,13 +1001,9 @@ Sauf exception justifiée, il n'est créé qu'une seule parcelle par propriétai
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1941-03-09
-
 	**Modifié par**:
 
-	  - Loi n°75-621 1975-07-11 art. 8 JORF 12 juillet 1975
+	  - Loi n°85-30 du 9 janvier 1985 - art. 22 () JORF 10 janvier 1985
 
 
 ###### Article 23-1
@@ -1112,7 +1181,7 @@ propriétaires des parcelles à remembrer une association foncière dont les rè
 fixées par le règlement d'administration publique prévu à l'article 54.
 
 Cette association a pour objet la prise en charge, la gestion et l'entretien des chemins d'exploitation et des ouvrages visés
-aux 1°, 3° et 4° de l'article 25.
+à l'article 19-4 et aux 1°, 3° et 4° de l'article 25.
 
 Lorsque ces chemins et ces ouvrages présentent un intérêt commun pour plusieurs associations foncières, celles-ci peuvent se
 constituer pour la mission ci-dessus en unions d'associations foncières autorisées par arrêté préfectoral.
@@ -1123,19 +1192,15 @@ L'adhésion à cette union est donnée valablement par les bureaux des associati
 
 	**Cite**:
 
-	  - Code rural 25, 54
+	  - Code rural 25, 54, 19-4
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1941-03-09
-
 	**Modifié par**:
 
-	  - Loi n°60-792 1960-08-02 art. 5 JORF 4 août 1960
+	  - Loi n°85-30 du 9 janvier 1985 - art. 22 () JORF 10 janvier 1985
 
 
 ###### Article 28
@@ -1149,7 +1214,12 @@ des articles 114 et suivants du présent code ;
 2° Exécuter tous travaux d'élargissement, de régularisation et de redressement des cours d'eau non domaniaux, même non
 accessoires des travaux de curage. Les articles 120 et 121 sont applicables. Si les travaux intéressent la salubrité
 publique, une partie de la dépense peut être mise à la charge d'une ou plusieurs communes intéressées dans les conditions qui
-sont fixées par le règlement d'administration publique prévu à l'article 54.
+sont fixées par le règlement d'administration publique prévu à l'article 54 ;
+
+3° Assurer temporairement, à la demande des propriétaires de terrains attribués dans la surface affectée à l'urbanisation à
+l'intérieur d'un périmètre de remembrement-aménagement et après accord, le cas échéant, de l'association foncière urbaine,
+l'exploitation agricole de ces terrains. L'association foncière peut à cette fin conclure, pour le compte des propriétaires,
+des conventions qui ne relèvent pas de la législation sur le fermage.
 
 Si les travaux visés aux 1° et 2° intéressent la totalité des propriétés comprises dans le périmètre de remembrement, une
 assemblée générale des propriétaires est convoquée. L'adoption du projet de travaux ne peut avoir lieu qu'aux majorités
@@ -1184,14 +1254,9 @@ prévues par les décrets du 8 août 1935 et du 30 octobre 1935.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1941-03-09 art. 25 bis
-
 	**Modifié par**:
 
-	  - Loi n°64-1245 1964-12-16 art. 27 II JORF 18 décembre 1964
-	  - Loi n°75-621 1975-07-11 art. 12 JORF 12 juillet 1975
+	  - Loi n°85-30 du 9 janvier 1985 - art. 22 () JORF 10 janvier 1985
 
 
 ###### Article 29
@@ -1706,27 +1771,41 @@ Un règlement d'administration publique détermine les conditions d'application 
 
 ###### Article 39
 
-I. - Sans préjudice de l'application des dispositions du titre VII du livre Ier du présent code relatives aux cumuls et
-réunions d'exploitations agricoles, toute personne physique ou morale peut demander au préfet l'autorisation d'exploiter un
-fonds susceptible d'une mise en valeur agricole ou pastorale inculte depuis au moins trois ans.
+I. - Sans préjudice de l'application des dispositions du titre VII du livre Ier du présent code relatives au contrôle des
+structures des exploitations agricoles, toute personne physique ou morale peut demander au représentant de l'Etat dans le
+département l'autorisation d'exploiter une parcelle susceptible d'une mise en valeur agricole ou pastorale et inculte ou
+manifestement sous-exploitée depuis au moins trois ans par comparaison avec les conditions d'exploitation des parcelles de
+valeur culturale similaire des exploitations agricoles à caractère familial situées à proximité, lorsque, dans l'un ou
+l'autre cas, aucune raison de force majeure ne peut justifier cette situation. Le délai de trois ans visé au-dessus est
+réduit à deux ans en zone de montagne.
 
-Le préfet saisit la commission départementale de réorganisation foncière et de remembrement qui, après procédure
-contradictoire, se prononce sur l'état d'inculture du fonds. Cette décision fait l'objet d'une publicité organisée par décret
-permettant à d'éventuels demandeurs de se faire connaître du propriétaire.
+Le représentant de l'Etat dans le département saisit la commission départementale d'aménagement foncier qui se prononce,
+après procédure contradictoire, sur l'état d'inculture ou de sous-exploitation manifeste du fonds ainsi que sur les
+possibilités de mise en valeur agricole ou pastorale de celui-ci. Cette décision fait l'objet d'une publicité organisée par
+décret afin de permettre à d'éventuels demandeurs de se faire connaître du propriétaire ou du représentant de l'Etat dans le
+département.
 
-II. - Si l'état d'inculture a été reconnu, le propriétaire et, le cas échéant, le titulaire du droit d'exploitation sont mis
-en demeure par le préfet de mettre en valeur le fonds inculte.
+II. - Si l'état d'inculture ou de sous-exploitation manifeste a été reconnu et que le fonds en cause ne fait pas partie des
+biens dont le défrichement est soumis à autorisation, le propriétaire et, le cas échéant, le titulaire du droit
+d'exploitation sont mis en demeure par le représentant de l'Etat dans le département de mettre en valeur le fonds.
 
-Dans un délai de deux mois à compter de la signification de la mise en demeure, le propriétaire ou le titulaire du droit
+A la demande du représentant de l'Etat dans le département, le juge du tribunal d'instance du lieu de la situation des biens
+peut désigner un mandataire chargé de représenter, dans la procédure tendant à la mise en valeur des terres incultes ou
+manifestement sous-exploitées, le propriétaire ou les indivisaires dont l'identité ou l'adresse n'a pu être déterminée. S'il
+ne peut désigner un indivisaire comme mandataire, le juge peut confier ces fonctions à toute autre personne physique ou
+morale. Il peut à tout moment remplacer le mandataire ou mettre fin à sa mission.
+
+Dans un délai de deux mois à compter de la notification de la mise en demeure, le propriétaire ou le titulaire du droit
 d'exploitation fait connaître au préfet, par lettre recommandée avec demande d'avis de réception, qu'il s'engage à mettre en
-valeur le fonds inculte dans un délai d'un an ou qu'il renonce. L'absence de réponse vaut renonciation.
+valeur le fonds inculte ou manifestement sous-exploité dans un délai d'un an ou qu'il renonce. L'absence de réponse vaut
+renonciation. S'il s'engage à mettre en valeur le fonds, il doit joindre à sa réponse un plan de remise en valeur.
 
 Lorsque le fonds est loué, le propriétaire peut en reprendre la disposition, sans indemnité, pour le mettre lui-même en
 valeur ou le donner à bail à un tiers si le titulaire du droit d'exploitation a renoncé expressément ou tacitement ou s'il
 n'a pas effectivement mis en valeur le fonds dans le délai d'un an visé ci-dessus. Le propriétaire dispose pour exercer cette
 reprise d'un délai de deux mois à compter de la date du fait qui lui en a ouvert le droit.
 
-Le fonds repris doit être effectivement mis en valeur dans l'année qui suit la date de la reprise par le propriétaire.
+Le fonds repris doit être effectivement mis en valeur dans e l'année qui suit la date de la reprise par le propriétaire.
 
 Pendant les délais susvisés, tout boisement est soumis à autorisation préfectorale sauf dans les zones à vocation forestière
 définies en application de l'article 52-1.
@@ -1735,13 +1814,18 @@ Lorsque le propriétaire et, le cas échéant, le titulaire du droit d'exploitat
 lorsque le fonds n'a pas effectivement été mis en valeur dans les délais prévus au présent article, le préfet le constate par
 arrêté dans un délai défini par décret.
 
-L'arrêté prévu à l'alinéa qui précède est notifié au demandeur qui doit confirmer sa demande.
+L'arrêté prévu à l'alinéa précédent est notifié au propriétaire, i aux demandeurs qui doivent confirmer leur demande en
+adressant un plan de remise en valeur et, en zone de montagne, à la société d'aménagement foncier et d'établissement rural.
 
-III. - A défaut d'accord amiable entre le demandeur et le propriétaire, le tribunal paritaire de baux ruraux apprécie s'il y
-a lieu d'accorder le droit d'exploitation sollicité et, dans l'affirmative, fixe les conditions de jouissance et le montant
-du fermage conformément aux dispositions du titre premier du livre VI du présent code qui sont applicables de plein droit,
-sans permettre la vente sur pied de récoltes d'herbe ou de foin, le propriétaire ayant la faculté de demander qu'il soit fait
-application des dispositions des articles 870-24 à 870-29. Le tribunal peut ordonner l'exécution provisoire.
+III. - Le représentant de l'Etat dans le département peut attribuer, après avis de la commission départementale des
+structures agricoles et de la commission départementale d'aménagement foncier sur le plan de remise en valeur, l'autorisation
+d'exploiter. En cas de pluralité de demandes, cette autorisation est attribuée en priorité à un agriculteur qui s'installe
+ou, à défaut, à un exploitant agricole à titre principal. A défaut d'accord amiable entr le demandeur désigné par le
+représentant de l'Etat et le propriétaire ainsi que lorsqu'un mandataire a été désigné en application du deuxième alinéa du
+paragraphe II ci-dessus, le tribunal paritaire des baux ruraux fixe les conditions de jouissance et le montant du fermage
+conformément aux dispositions du titre premier du livre VI du présent code qui sont applicables de plein droit, le
+propriétaire ayant la faculté de demander qu'il soit fait application des dispositions des articles L. 416-1 à L. 416-19. Le
+tribunal peut ordonner l'exécution provisoire.
 
 Sous peine de résiliation, le fonds doit être mis en valeur dans le délai d'un an à compter de la date à laquelle la décision
 est devenue exécutoire.
@@ -1761,34 +1845,40 @@ Nonobstant les dispositions de l'article 830-1, il ne peut être accordé d'inde
 d'exploiter ayant porté sur des parcelles dont la destination agricole pouvait être changée en vertu de documents d'urbanisme
 rendus publics ou approuvés, la résiliation intervient avant la fin de la troisième année du bail.
 
+Lorsque le bien faisant l'objet d'une autorisation d'exploiter est indivis, chaque indivisaire reçoit la part du fermage
+correspondant à ses droits dans l'indivision, établis par le titre de propriété, les énonciationc cadastrales ou, à défaut,
+par tous moyens de preuve. Le montant du fermage dû aux ayants droit dont l'identité ou l'adresse est demeurée inconnue est
+déposé par le mandataire qui leur a été désigné chez un dépositaire agréé pour recevoir les capitaux appartenant à des
+mineurs.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 52-1, 830-1, 870-24 à 870-29
+	  - Code rural 52-1, 830-1, L416-1 à L416-19
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1942-02-19 art. 2, art. 3
-
 	**Modifié par**:
 
-	  - Loi n°60-808 du 5 août 1960 - art. 19 () JORF 7 août 1960
-	  - Loi n°78-10 1978-01-04 art. 1 JORF 5 janvier 1978
+	  - Loi n°85-30 du 9 janvier 1985 - art. 23 () JORF 10 janvier 1985
 
 
 ###### Article 40
 
-I. - Le préfet, après avis du conseil général et de la chambre d'agriculture, charge la commission départementale de
-réorganisation foncière et de remembrement de recenser les périmètres dans lesquels il est d'intérêt général de remettre en
-valeur des fonds incultes. Dans ces périmètres, arrêtés par le préfet, la commission communale ou intercommunale de
-réorganisation foncière et de remembrement, complétée par trois personnes qualifiées en matière d'aménagement forestier,
-dresse l'état des fonds incultes depuis au moins trois ans dont elle juge la mise en valeur agricole, pastorale ou forestière
-possible et opportune.
+I. - Le représentant de l'Etat dans le département, à la demande du président du conseil général ou de sa propre initiative,
+charge la commission départementale d'aménagement foncier de recenser les périmètres dans lesquels il serait d'intérêt
+général de remettre en valeur des parcelles incultes ou manifestement sous-exploitées depuis plus de trois ans sans raison de
+force majeure. Ce délai est réduit à deux ans en zone de montagne. Le représentant de l'Etat dans le département présente
+pour avis, au conseil général et à la chambre d'agriculture, le rapport de la commission départementale d'aménagement foncier
+et arrête les périmètres dans lesquels la commission communale ou intercommunale d'aménagement foncier, complétée par trois
+personnes qualifiées en matière d'aménagement forestier, dresse l'état des parcelles dont elle juge la mise en valeur
+agricole, pastorale ou forestière possible et opportune, à l'exclusion des biens dont le défrichement est soumis à
+autorisation. La commission communale ou intercommunale formule éventuellement des propositions sur les interdictions ou
+réglementations des plantations et semis d'essences forestières susceptibles d'être ordonnées sur ces parcelles par le
+représentant de l'Etat dans le département.
 
 Les intéressés, propriétaires ou exploitants, sont entendus comme en matière de remembrement.
 
@@ -1798,18 +1888,21 @@ revisé tous les trois ans et publié dans les communes intéressées.
 Un extrait est notifié pour ce qui le concerne à chaque propriétaire et, s'il y a lieu, à chaque titulaire du droit
 d'exploitation.
 
-La notification de l'extrait vaut mise en demeure dans les conditions prévues au paragraphe II de l'article 39.
+La notification de l'extrait vaut mise en demeure dans les conditions prévues au paragraphe II de l'article 39. Lorsque
+l'identité ou l'adresse du propriétaire ou des indivisaires n'a pu être déterminée, les dispositions du deuxième alinéa du II
+de l'article 39 sont appliquées.
 
 Le préfet procède, en outre, dans les conditions déterminées par décret, à une publicité destinée à faire connaître aux
 bénéficiaires éventuels la faculté qui leur est offerte de demander l'attribution d'une autorisation d'exploiter. Si une ou
-plusieurs demandes d'attribution ont été formulées, le préfet en informe le propriétaire.
+plusieurs demandes d'attribution ont été formulées, le préfet en informe le propriétaire et, dans les zones de montagne, la
+société d'aménagement foncier et d'établissement rural.
 
 II. - Lorsque le propriétaire et, le cas échéant, le titulaire du droit d'exploitation, ont renoncé expressément ou
 tacitement à exploiter le fonds, ou lorsque celui-ci n'a pas effectivement été mis en valeur dans les délais prévus au II de
 l'article 39, le préfet le constate par arrêté dans un délai déterminé par décret.
 
 Le préfet peut dès lors attribuer, après avis de la commission départementale des structures, l'autorisation d'exploiter à
-l'un des demandeurs.
+l'un des demandeurs ayant présenté un plan de remise en valeur.
 
 L'autorisation d'exploiter emporte de plein droit l'existence d'un bail à ferme soumis aux dispositions du titre premier du
 livre VI du présent code sans permettre la vente sur pied de la récolte d'herbe ou de foin. A défaut d'accord amiable, le
@@ -1817,7 +1910,7 @@ tribunal paritaire de baux ruraux fixe les conditions de la jouissance et le pri
 faculté de demander qu'il soit fait application des articles 870-24 à 870-29. Le fonds doit être mis en valeur dans un délai
 d'un an, sous peine de résiliation.
 
-Les dispositions des alinéas 3 à 6 du paragraphe III de l'article 39 sont applicables.
+Les dispositions des troisième à septième alinéas du paragraphe III de l'article 39 sont applicables.
 
 III. - Le préfet peut aussi provoquer l'acquisition amiable ou, à défaut et après avis de la commission départementale des
 structures, l'expropriation des fonds visés au premier alinéa du II ci-dessus, au profit de l'Etat, des collectivités et
@@ -1834,14 +1927,59 @@ structures, l'expropriation des fonds visés au premier alinéa du II ci-dessus,
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1942-02-19 art. 4, art. 5, art. 6
-
 	**Modifié par**:
 
-	  - Loi n°60-808 du 5 août 1960 - art. 19 () JORF 7 août 1960
-	  - Loi n°78-10 1978-01-04 art. 2 JORF 5 janvier 1978
+	  - Loi n°85-30 du 9 janvier 1985 - art. 24 () JORF 10 janvier 1985
+
+
+###### Article 40-1
+
+Dans les zones de montagne, la société d'aménagement foncier et d'établissement rural territorialement compétente peut
+demander à bénéficier de l'autorisation d'exploiter prévue aux articles 39 et 40 du présent code.
+
+Cette demande ne peut être effectuée qu'à la condition qu'une collectivité publique se soit engagée à devenir titulaire du
+bail dans les délais prévus à l'alinéa suivant, à défaut de candidats. Cette collectivité peut librement céder le bail ou
+sous-louer, nonobstant les dispositions de l'article L. 411-35 du présent code.
+
+Si cette autorisation lui est accordée, cette société doit, nonobstant les dispositions de l'article L. 411-35 du présent
+code, céder le bail dans les délais prévus à l'article 17 de la loi n° 60-808 du 5 août 1960 précitée. Cependant, le délai de
+cession est ramené à deux ans si le bail est conclu en application des dispositions de l'article 39.
+
+La cession de bail ou la sous-location mentionnées ci-dessus doit intervenir, en priorité, au profit d'un agriculteur qui
+s'installe ou, à défaut, d'un agriculteur à titre principal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 39, 40, L411-35
+	  - Loi n°60-808 du 5 août 1960 - art. 17 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 25 () JORF 10 janvier 1985
+
+
+###### Article 40-2
+
+La durée pendant laquelle le fonds doit être resté inculte ou manifestement sous-exploité peut être réduite, sans aller en
+deçà d'un an, pour les communes et pour les natures de cultures pérennes, notamment la vigne et les arbres fruitiers, dont la
+liste aura été arrêtée par le représentant de l'Etat dans le département après avis de la commission départementale
+d'aménagement foncier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 26 () JORF 10 janvier 1985
 
 
 ###### Article 41
@@ -1898,12 +2036,12 @@ chargés par le ministre de l'agriculture, sous son contrôle, de faciliter l'é
 
 ###### Article 43
 
-Les contestations relatives à la constatation de l'état d'inculture prévue à l'article 39 sont portées devant le tribunal
-paritaire de baux ruraux.
+Les contestations relatives à la constatation de l'état d'inculture ou de sous-exploitation manifeste prévue à l'article 39
+sont portées devant le tribunal paritaire de baux ruraux.
 
-Les contestations relatives à l'état des fonds incultes dressé en application de l'article 40 et à l'autorisation d'exploiter
-accordée par le préfet en vertu de ce même article, sont portées devant le tribunal administratif. Celui-ci peut ordonner le
-sursis à l'exécution.
+Les contestations relatives à l'état des fonds incultes ou manifestement sous-exploités dressé en application de l'article 40
+et à l'autorisation d'exploiter accordée par le préfet en vertu de ce même article, sont portées devant le tribunal
+administratif. Celui-ci peut ordonner le sursis à l'exécution.
 
 **Liens relatifs à cet article**
 
@@ -1915,14 +2053,9 @@ sursis à l'exécution.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1942-02-19 art. 13
-
 	**Modifié par**:
 
-	  - Loi n°60-808 du 5 août 1960 - art. 19 () JORF 7 août 1960
-	  - Loi n°78-10 1978-01-04 art. 6 JORF 5 janvier 1978
+	  - Loi n°85-30 du 9 janvier 1985 - art. 28 () JORF 10 janvier 1985
 
 
 ###### Article 44
@@ -2683,54 +2816,117 @@ tierce opposition, de la part des intéressés qui ne sont pas intervenus à l'i
 
 ###### Article 58-17
 
-Le préfet, après avoir recueilli les observations du propriétaire, pris l'avis d'une commission dont la composition est fixée
-par décret peut, de sa propre initiative ou à la demande de tiers, mettre en demeure tout propriétaire de terres incultes, de
-terres laissées à l'abandon, de terres insuffisamment exploitées, soit de les mettre en valeur, soit de les vendre en vue de
-faire accéder un certain nombre d'agriculteurs à la petite propriété rurale.
+I. - De sa propre initiative ou à la demande du président du conseil général, le représentant de l'Etat dans le département,
+après enquête destinée à recueillir les observations des propriétaires et exploitants, sollicite l'avis de la commission
+départementale d'aménagement foncier prévue par l'article 5 du présent code sur l'opportunité de mettre en oeuvre la
+procédure définie ci-après :
 
-Le décret appelé à fixer la composition de la commission adaptera aux conditions locales les dispositions relatives à la
-composition de la commission départementale de réorganisation foncière et de remembrement et à celle de la commission
-départementale des cumuls et réunions d'exploitations agricoles.
+Le représentant de l'Etat met en demeure tout titulaire du droit d'exploitaiton de parcelles susceptibles d'une remise en
+état et incultes ou manifestement sous-exploitées depuis au moins trois ans par comparaison avec les conditions
+d'exploitation des parcelles de valeur culturale similaire des exploitations agricoles à caractère familial situées à
+proximité, lorsque, dans l'un ou l'autre cas, aucune raison de force majeure ne peut justifier cette situation, soit de les
+mettre en valeur, soit de renoncer à son droit d'exploitation. Le délai de trois ans visé ci-dessus est réduit à deux ans
+dans les zones de montagne.
 
-Le préfet, dans les mêmes conditions, peut mettre en demeure tout titulaire du droit d'exploitation de terres incultes, de
-terres laissées à l'abandon ou de terres insuffisamment exploitées, si ce titulaire est autre que le propriétaire, soit de
-les mettre en valeur, soit de renoncer à son droit d'exploitation.
+Le représentant de l'Etat dans le département met également en demeure le propriétaire de telles terres s'il en est lui-même
+l'exploitant soit de les mettre en valeur, soit de les donner à bail.
 
-Le préfet détermine, selon le cas, celle des mesures prévues aux premier et troisième alinéas à laquelle s'applique la mise
-en demeure.
+Si l'identité ou l'adresse du titulaire du droit d'exploitation est inconnue de l'administration ou si le titulaire du droit
+d'exploitation a renoncé à son droit, n'a pas mis en valeur le fonds dans le délai fixé par la mise en demeure ou, après
+l'expiration de ce délai, a laissé à nouveau les terres dans un état de sous-exploitation manifeste, le propriétaire reprend,
+sans indemnité de ce fait, la disposition de ses terres ainsi que celle des bâtiments nécessaires à leur exploitation et la
+mise en demeure visée à l'alinéa précédent lui est alors notifiée.
 
-Le préfet fixe le délai dans lequel la mise en demeure doit être suivie d'effet. Si elle concerne la mise en valeur, il fixe
-également les conditions de celle-ci.
+A la requête du représentant de l'Etat dans le département, le juge du tribunal d'instance du lieu de la situation des biens
+peut désigner un mandataire chargé de représenter, dans la procédure tendant à la mise en valeur des terres incultes ou
+manifestement sous-exploitées, le propriétaire ou les indivisaires dont l'enquête n'a pas permis de déterminer l'adresse ou
+l'identité. S'il ne peut désigner un indivisaire comme mandataire, le juge peut confier ces fonctions à toute personne
+physique ou morale. Il peut à tout moment remplacer le mandataire ou mettre fin à sa mission.
 
-Si le titulaire du droit d'exploitation, autre que le propriétaire, renonce à son droit, le propriétaire reprend, sans
-indemnité de ce fait, la disposition de ses terres ainsi que celle des bâtiments nécessaires à leur exploitation, les mesures
-prévues au premier alinéa du présent article pouvant alors lui être appliquées.
+Le représentant de l'Etat dans le département fixe le délai dans lequel la mise en demeure doit être suivie d'effet ainsi que
+les conditions de la mise en valeur.
+
+Dans le délai de deux mois à compter de la notification de la mise en demeure, le propriétaire, le mandataire ou le titulaire
+du droit d'exploitation fait connaître au représentant de l'Etat dans le département qu'il s'engage à mettre en valeur le
+fonds ou qu'il renonce. L'absence de réponse vaut renonciation.
+
+II. - Lorsque le propriétaire ou le mandataire a renoncé expressément ou tacitement à mettre en valeur le fonds ou n'a pas,
+dans le délai imparti par la mise en demeure, mis en valeur ou donné à bail ce fonds, le représentant de l'Etat dans le
+département procède à une publicité destinée à faire connaître aux bénéficiaires éventuels la faculté qui leur est offerte de
+demander l'attribution d'une autorisation d'exploiter et peut, après avis de la commission départementale des structures
+agricoles, attribuer cette autorisation. En cas de pluralité de demandes, le droit d'exploiter est attribué en priorité à un
+demandeur agriculteur qui s'installe ou à un exploitant agriculteur qui s'installe ou à un exploitant agricole à titre
+principal.
+
+L'autorisation d'exploiter emporte de plein droit l'existence d'un bail à ferme soumis aux dispositions du titre VI du livre
+IV du présent code. A défaut d'accord amiable entre le propriétaire et le bénéficiaire de l'autorisation, ainsi que dans le
+cas où un mandataire a été désigné, le tribunal paritaire des baux ruraux fixe le prix du fermage.
+
+La société d'aménagement foncier et d'établissement rural peut demander à bénéficier de l'autorisation d'exploiter. Cette
+demande ne peut être effectuée qu'à la condition qu'une collectivité publique se soit engagée, à défaut de candidat, à
+devenir titulaire du bail dans les délais prévus à l'article 17 de la loi n° 60-808 du 5 août 1960 précitée. Cette
+collectivité peut librement céder le bail ou sous-louer, nonobstant les dispositions de l'article L. 461-7 du présent code.
+Si l'autorisation d'exploiter lui est accordée, la société d'aménagement foncier et d'établissement rural doit, nonobstant
+les dispositions dudit article L. 461-7, céder le bail dans les délais prévus à l'article 17 susvisé de la loi n° 60-808 du 5
+août 1960 précitée.
+
+Si l'autorisation d'exploiter porte sur un fonds donné à bail, ledit bail prend fin sans indemnité à la date de notification
+à l'ancien titulaire du droit d'exploitation de l'autorisation donnée au nouveau. La cessation du bail s'effectue dans les
+conditions de droit commun.
+
+Lorsque le bien faisant l'objet d'une autorisation d'exploiter est indivis, chaque indivisaire reçoit la part du fermage
+correspondant à ses droits dans l'indivision, établis par le titre de propriété, les énonciations cadastrales ou, à défaut,
+par tous moyens de preuve. Le montant du fermage dû aux ayants droit dont l'identité ou l'adresse est demeurée inconnue est
+déposé par le mandataire qui leur a été désigné chez un dépositaire agréé pour recevoir les capitaux appartenant à des
+mineurs.
+
+III. - Le représentant de l'Etat dans le département peut, dans les conditions prévues au paragraphe II, accorder, selon les
+cas, une autorisation d'expoiter ou une nouvelle autorisation d'exploiter, lorsque le bail conclu après mise en demeure par
+le propriétaire pour assurer la mise en valeur de ses terres ou résultant d'une autorisation d'exploiter antérieurement
+accordée est résilié ou n'est pas renouvelé.
+
+Le représentant de l'Etat dans le département dispose des mêmes pouvoirs lorsqu'il constate que le propriétaire laisse les
+terres dans un état de sous-exploitation manifeste après l'expiration du délai qui lui a été fixé par la mise en demeure pour
+mettre en valeur ses terres ou que ses terres sont laissées dans cet état par l'exploitant choisi par le propriétaire ou
+désigné par l'administration. L'autorisation d'exploiter ainsi accordée entraîne de plein droit, le cas échéant, la
+résiliation du bail.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 5, 17, L461-7
+	  - Loi n°60-808 du 5 août 1960 - art. 17 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+	  - Loi n°85-30 du 9 janvier 1985 - art. 100 () JORF 10 janvier 1985
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L128-4 (M)
 
 
 ###### Article 58-18
 
-Le préfet, après avis de la commission prévue à l'article 58-17, peut provoquer l'expropriation des terres incultes, des
-terres laissées à l'abandon et des terres insuffisamment exploitées, en vue de leur mise en valeur agricole. L'Etat cédera à
-cette fin les terres expropriées ou les mettra lui-même en valeur. Si l'Etat fait procéder à des aménagements sur ces terres,
-l'indemnité d'expropriation peut, sous réserve de l'accord du propriétaire, consister en la restitution d'une partie des
-terres ainsi aménagées.
+Le représentant de l'Etat dans le département, après avis de la commission prévue à l'article 58-17, peut, à tout moment de
+la procédure, provoquer l'expropriation pour cause d'utilité publique.
 
-L'Etat peut se substituer, pour la réalisation des opérations prévues à l'alinéa précédent sous le contrôle technique de ses
-services, les sociétés d'Etat prévues à l'article 2 de la loi n° 46-860 du 30 avril 1946, les institutions de crédit agricole
-mutuel prévues au chapitre VI du titre Ier du code rural ou les sociétés d'aménagement foncier et d'établissement rural
-prévues à l'article 15 de la loi n° 60-808 du 5 août 1960 d'orientation agricole et, pour le département de la Réunion, les
-organismes chargés, en métropole, de l'application de la législation sur les migrations rurales après adaptation de cette
-dernière aux conditions géographiques de ce département. L'intervention de ces organismes peut être conjointe.
+Le bénéficiaire de l'expropriation pourra céder à cette fin, en propriété ou en jouissance, les terres expropriées. S'il fait
+procéder à des aménagements sur ces terres, l'indemnité d'expropriation peut, sous réserve de l'accord du propriétaire,
+consister en la restitution d'une partie des terres ainsi aménagées.
+
+L'Etat peut confier la réalisation des opérations d'aménagement et de remise en état des terres expropriées aux sociétés
+d'aménagement foncier et d'établissement rural et aux sociétés prévues à l'article 2 de la loi n° 46-860 du 30 avril 1946
+dans des conditions définies par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -2738,42 +2934,42 @@ dernière aux conditions géographiques de ce département. L'intervention de ce
 
 	  - Code rural 58-17
 	  - Loi n°46-860 du 30 avril 1946 - art. 2 (V)
-	  - Loi n°60-808 1960-08-05 art. 15
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+	  - Loi n°85-30 du 9 janvier 1985 - art. 100 () JORF 10 janvier 1985
 
 
 ###### Article 58-19
 
-Seront réputées insuffisamment exploitées pour l'application des articles 58-17 et 58-18 les terres dont l'utilisation
-agricole sera inférieure aux normes qui seront fixées, par catégories de terres, par le préfet, après avis de la commission
-prévue à l'article 58-17 et de la chambre d'agriculture.
+Les contestations relatives à la constatation du caractère inculte ou manifestement sous-exploité des terres sont portées
+devant le tribunal paritaire des baux ruraux.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 58-17, 58-18
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+	  - Loi n°85-30 du 9 janvier 1985 - art. 100 () JORF 10 janvier 1985
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
 ###### Article 58-20
 
-Nul ne peut obtenir ou conserver l'exploitation des terres en application des articles 58-17 et 58-18 sansavoir accepté un
-cahier des charges.
+Nul ne peut obtenir la mise à sa disposition, en propriété ou en jouissance, de terres en application des articles 58-17 et
+58-18 sans avoir accepté un cahier des charges type et, sauf dispense décidée dans les conditions déterminées par arrêté
+préfectoral, sans avoir adhéré à un groupement agréé par le préfet ou, s'il s'agit d'un groupement, sans avoir été agréé par
+le préfet.
 
 **Liens relatifs à cet article**
 
@@ -2785,25 +2981,23 @@ cahier des charges.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+	  - Loi n°85-30 du 9 janvier 1985 - art. 100 () JORF 10 janvier 1985
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
 ###### Article 58-21
 
-En cas de cession de jouissance en application de l'article 58-17 :
-
-- l'Etat n'encourt aucune responsabilité du fait du cessionnaire ;
-
-- le propriétaire peut dans la mesure de son intérêt poursuivre devant les tribunaux l'exécution des clauses stipulées par le
-préfet et rechercher le cessionnaire pour les dommages causés aux terres ou à leurs accessoires ;
-
-- le cessionnaire qui a apporté des améliorations au fonds loué a droit, à l'expiration de la cession, à une indemnité due
-par le propriétaire.
+Si le représentant de l'Etat dans le département constate que les clauses du cahier des charges ne sont pas respectées, il
+peut, dans les conditions prévues au paragraphe II de l'article 58-17, accorder, selon les cas, une autorisation d'exploiter
+ou une nouvelle autorisation d'exploiter.
 
 Les contestations relatives à l'interprétation et à l'exécution des cahiers des charges sont portées devant le tribunal
-d'instance.
+paritaire des baux ruraux.
 
 **Liens relatifs à cet article**
 
@@ -2815,31 +3009,41 @@ d'instance.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+	  - Loi n°85-30 du 9 janvier 1985 - art. 100 () JORF 10 janvier 1985
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
 ###### Article 58-22
 
-Les fonctionnaires et agents chargés de veiller à l'application du présent chapitre ont un droit de visite sur les terres et
-peuvent demander aux intéressés toutes explications qu'ils jugeraient utiles.
+Les dépenses afférentes à l'application des dispositions de l'article 58-17 sont prises en charge par le département.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 58-17
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+	  - Loi n°85-30 du 9 janvier 1985 - art. 100 () JORF 10 janvier 1985
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
 ###### Article 58-23
 
-Les opérations résultant de l'application des articles 58-17 et 58-18 peuvent faire l'objet de l'aide financière de l'Etat
-sous forme de subventions et de prêts.
+Des décrets en Conseil d'Etat détermineront, en tant que de besoin, les conditions d'application du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -2847,26 +3051,13 @@ sous forme de subventions et de prêts.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+	  - Loi n°85-30 du 9 janvier 1985 - art. 100 () JORF 10 janvier 1985
 
+	**Abrogé par**:
 
-###### Article 58-24
-
-Des décrets en Conseil d'Etat, pris après consultation des conseils généraux et, pour les questions entrant dans leurs
-attributions, des chambres d'agriculture, détermineront, en tant que de besoin, les conditions d'application du présent
-chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Créé par**:
-
-	  - Loi n°61-843 1961-08-02 art. 2 JORF 3 août 1961
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
 ## Titre II : Des chemins ruraux et des chemins d'exploitation
@@ -4222,15 +4413,22 @@ Les maisons sont en tout cas exceptées de cette servitude.
 
 En sont également exceptés les cours et jardins attenant aux habitations.
 
+Cette servitude s'applique également en zone de montagne pour obtenir le passage des eaux destinées à l'irrigation par
+aqueduc ou à ciel ouvert dans les mêmes conditions que celles prévues au premier alinéa.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1245 1964-12-16 art. 45 JORF 18 décembre 1964
+	  - Loi n°85-30 du 9 janvier 1985 - art. 38 () JORF 10 janvier 1985
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
 ###### Article 124
@@ -11660,6 +11858,10 @@ Dans les parties des réserves naturelles et des parcs nationaux où la chasse e
 périphériques des parcs nationaux, le ministre chargé de la protection de la nature peut instituer et mettre en oeuvre un
 plan de chasse pour certaines espèces d'animaux.
 
+Dans les zones de montagne, un plan de chasse du grand gibier peut être institué dans les mêmes conditions pour les massifs
+locaux dont les limites sont définies par le représentant de l'Etat dans le département après avis du président de la
+fédération départementale des chasseurs et des communes concernées.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -11670,9 +11872,9 @@ plan de chasse pour certaines espèces d'animaux.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1844-05-03 art. 9 al. 1, al. 2
+	  - Loi n°85-30 du 9 janvier 1985 - art. 39 () JORF 10 janvier 1985
 
 
 ###### Article 373-1
