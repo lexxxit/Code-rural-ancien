@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1983-01-01
+Version Consolidée au 1983-01-09
 
 ###### Article 162
 
@@ -601,7 +601,92 @@ Les échanges imposés par la commission se font, de même que les échanges ami
 	  - Loi n°1941-03-09 art. 14
 
 
+###### Article 18
+
+Tous les documents qui permettent aux commissions communales et départementales de poursuivre leur mission et notamment, les
+états alphabétiques, états parcellaires, plans parcellaires, plans de parcelles abandonnées ou en friches, plans déterminant
+la consistance des exploitations rurales, plans des échanges de culture, sont établis aux frais du département par des
+géomètres agréés sous le contrôle du service du génie rural, et en application de barèmes homologués par arrêté conjoint du
+ministre de l'agriculture et du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 16
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 32 (V) JORF 9 janvier 1983
+
+
 ### Chapitre III : Du remembrement rural.
+
+###### Article 19
+
+Le remembrement, applicable aux propriétés rurales non bâties, se fait au moyen d'une nouvelle distribution des parcelles
+morcelées et dispersées.
+
+Il a principalement pour but, par la constitution d'exploitations rurales d'un seul tenant ou à grandes parcelles bien
+groupées, d'améliorer l'exploitation agricole des biens qui y sont soumis. Il doit également avoir pour objet l'aménagement
+rural du périmètre dans lequel il est mis en oeuvre.
+
+Sauf accord des propriétaires et exploitants intéressés, le nouveau lotissement ne peut allonger la distance moyenne des
+terres au centre d'exploitation principal, si ce n'est dans la mesure nécessaire au regroupement parcellaire.
+
+Le département assure le règlement des dépenses relatives aux opérations de réorganisation foncière et de remembrement.
+L'ingénieur en chef du génie rural est ordonnateur des dépenses.
+
+Toutefois, il est créé au niveau départemental un fonds de concours habilité à recevoir la participation des communes, du
+département, de l'établissement public régional et de tous autres établissements publics. Les opérations financées par ce
+fonds de concours avec ou sans participation du département sont conduites selon les modalités du titre Ier du présent code.
+
+Dans les communes déjà remembrées, lorsque les trois quarts des propriétaires représentant les deux tiers de la surface ou
+lorsque les deux tiers des propriétaires représentant les trois quarts de la surface en font la demande, de nouvelles
+opérations de remembrement peuvent être engagées selon les modalités du titre Ier du livre Ier du présent code, à condition
+que les propriétaires et exploitants intéressés prennent en charge la totalité des frais engagés. La participation des
+intéressés ne peut être exigée, lorsque le remembrement est réalisé en application de l'article 10 de la loi n° 62-933 du 8
+août 1962 complémentaire à la loi d'orientation agricole.
+
+Lorsque les deux tiers des propriétaires représentant la moitié de la surface ou lorsque la moitié des propriétaires
+représentant les deux tiers de la surface en font la demande, le département peut exiger une participation des propriétaires
+et des exploitants.
+
+La participation des intéressés est proportionnelle à la surface à remembrer ; elle est recouvrée dans les six mois suivant
+le transfert de propriété et versée au fonds de concours qui en aura fait l'avance. L'ensemble des participations des
+intéressés ne peut excéder 20 % du coût des opérations de remembrement proprement dit.
+
+Dans les cas visés aux deux alinéas précédents, l'exploitant peut se substituer au propriétaire pour présenter une demande et
+prendre en charge les frais engagés. Le remembrement est alors assimilé aux travaux d'amélioration exécutés par le preneur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°63-611 1963-06-24 art. 2 JORF 28 juin 1963
+	  - Loi n°75-621 1975-07-11 art. 4 I, II JORF 12 juillet 1975
+	  - Loi n°83-8 1983-07-07 art. 32 JORF 9 janvier 1983
+
+	**Cité par**:
+
+	  - Arrêté du 14 février 2008 - art. 18 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09
+
+	**Cite**:
+
+	  - Loi n°62-933 1962-08-08 art. 10
+
 
 ###### Article 19-1
 
@@ -682,6 +767,96 @@ Les dispositions du 4° ci-dessus ne sont pas applicables au remembrement-aména
 	  - Loi n°60-792 1960-08-02 art. 3 JORF 4 août 1960
 	  - Loi n°75-621 1975-07-11 art. 5 JORF 12 juillet 1975
 	  - Loi n°80-502 du 4 juillet 1980 - art. 76 () JORF 5 juillet 1980
+
+
+###### Article 21
+
+Chaque propriétaire doit recevoir, par la nouvelle distribution, une superficie globale équivalente, en valeur de
+productivité réelle, à celle des terrains qu'il a apportés, déduction faite de la surface nécessaire aux ouvrages collectifs
+visés à l'article 25 du présent code, et compte tenu des servitudes maintenues ou créées.
+
+Lorsque des terrains ne peuvent être réattribués conformément aux dispositions de l'article 20 du présent code, en raison de
+la création des aires nécessaires aux ouvrages collectifs communaux, il peut être attribué une valeur d'échange tenant compte
+de leur valeur vénale.
+
+L'attribution d'une soulte en espèces, fixée le cas échéant comme en matière d'expropriation, peut être accordée.
+
+Sauf accord exprès des intéressés, l'équivalence en valeur de productivité réelle doit, en outre, être assurée par la
+commission communale dans chacune des natures de culture qu'elle aura déterminées. Il peut toutefois être dérogé, dans les
+limites qu'aura fixées la commission départementale pour chaque région agricole du département, à l'obligation d'assurer
+l'équivalence par nature de culture.
+
+La commission départementale détermine, à cet effet :
+
+1° Après avis de la chambre d'agriculture, des tolérances exprimées en pourcentage des apports de chaque propriétaire dans
+les différentes natures de culture et ne pouvant excéder 20 % de la valeur des apports d'un même propriétaire dans chacune
+d'elles ;
+
+2° Une surface en deçà de laquelle les apports d'un propriétaire pourront être compensés par des attributions dans une nature
+de culture différente et qui ne peut excéder 50 ares évalués en polyculture, ou 1 % de la surface minimum d'installation si
+celle-ci est supérieure à 50 hectares.
+
+La dérogation prévue au 2° ci-dessus n'est pas applicable, sans leur accord exprès, aux propriétaires dont les apports ne
+comprennent qu'une seule nature de culture.
+
+Le paiement d'une soulte en espèces est autorisé lorsqu'il y a lieu d'indemniser le propriétaire du terrain cédé des plus-
+values transitoires qui s'y trouvent incorporées et qui sont définies par la commission. Le montant de la soulte n'est versé
+directement au bénéficiaire que si l'immeuble qu'il cède est libre de toute charge réelle, à l'exception des servitudes
+maintenues. La dépense engagée par le département au titre du remembrement de la commune comprend dans la limite de 1 % de
+cette dépense les soultes ainsi définies.
+
+Le paiement des soultes en espèces est également autorisé lorsqu'il y a lieu d'indemniser les propriétaires de terrains cédés
+des plus-values à caractère permanent. Dans ce cas, le montant des soultes fixé par la commission communale est versé à
+l'association foncière par l'attributaire des biens comprenant la plus-value. Le recouvrement des soultes auprès de cet
+attributaire s'effectue comme en matière de contributions directes. Le versement des soultes aux propriétaires des terrains
+cédés est assuré par le président de l'association foncière sur décision de la commission communale.
+
+Exceptionnellement, une soulte en nature peut être attribuée avec l'accord des propriétaires intéressés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 25, 20
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09
+
+	**Modifié par**:
+
+	  - Loi n°60-792 1960-08-02 art. 1 JORF 4 août 1960
+	  - Loi n°75-621 1975-07-11 art. 6 I JORF 12 juillet 1975
+	  - Loi n°83-8 du 7 janvier 1983 - art. 32 (V) JORF 9 janvier 1983
+
+
+###### Article 21-1
+
+A l'intérieur du périmètre de remembrement, la commission peut décider la destruction des semis et plantations existant sur
+des parcelles de faible étendue et isolées lorsqu'elle estime que leur maintien est gênant pour la culture.
+
+Elle fixe l'indemnité à verser aux propriétaires de ces parcelles pour reconstitution de semis ou plantations équivalents
+dans les zones de boisement et pour perte d'avenir.
+
+Les frais de destruction et les indemnités, sont pris en charge par le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°75-621 1975-07-11 art. 7 JORF 12 juillet 1975
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 32 (V) JORF 9 janvier 1983
 
 
 ###### Article 22
@@ -769,6 +944,56 @@ Mention de cet affichage est fait par arrêté préfectoral inséré au recueil 
 	**Abrogé par**:
 
 	  - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
+
+
+###### Article 25
+
+La commission communale de remembrement a qualité pour décider à l'occasion des opérations et dans leur périmètre :
+
+1° L'établissement de tous chemins nécessaires pour desservir les parcelles ;
+
+2° L'exécution de travaux tels que l'arrachage de haies, l'arasement de talus, le comblement de fossés, lorsque ces travaux
+présentent un caractère d'intérêt collectif pour l'exploitation du nouvel aménagement parcellaire ;
+
+3° Tous travaux d'amélioration foncière connexes au remembrement, tels que ceux qui sont nécessaires à la sauvegarde des
+équilibres naturels ou qui ont pour objet, notamment, la protection des sols, l'écoulement des eaux nuisibles, la retenue et
+la distribution des eaux utiles ;
+
+4° Les travaux de rectification, de régularisation et de curage de cours d'eau non domaniaux, soit lorsque ces travaux sont
+indispensables à l'établissement d'un lotissement rationnel, soit lorsqu'ils sont utiles au bon écoulement des eaux
+nuisibles, en raison de l'exécution de travaux visés au 3°.
+
+L'assiette des ouvrages visés aux 1°, 3° et 4° est prélevée sans indemnité sur la totalité des terres à remembrer.
+
+Le département assure l'exécution des travaux et le règlement des dépenses des travaux visés aux 1°, 2°, 3° et 4° ; la part
+de dépenses incombant aux propriétaires est déterminée par un arrêté concerté du ministre de l'agriculture et du ministre de
+l'économie et des finances. 
+
+Les conditions dans lesquelles sont fixées les bases de la répartition de la dépense entre les propriétaires intéressés sont
+déterminées par le règlement d'administration publique prévu à l'article 54.
+
+Après leur achèvement, les ouvrages sont remis gratuitement par le département et deviennent la propriété de l'association
+foncière visée à l'article 27.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 54, 27
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 II JORF 18 décembre 1964
+	  - Loi n°75-621 1975-07-11 art. 9 JORF 12 juillet 1975
+	  - Loi n°83-8 du 7 janvier 1983 - art. 32 (V) JORF 9 janvier 1983
 
 
 ###### Article 26
@@ -902,6 +1127,30 @@ prévues par les décrets du 8 août 1935 et du 30 octobre 1935.
 
 	  - Loi n°64-1245 1964-12-16 art. 27 II JORF 18 décembre 1964
 	  - Loi n°75-621 1975-07-11 art. 12 JORF 12 juillet 1975
+
+
+###### Article 29
+
+Les résultats du remembrement sont incorporés dans les documents cadastraux après mise à jour de ces résultats au point de
+vue fiscal.
+
+Si le remembrement est important et s'il s'agit d'une commune dont le cadastre n'a pas été renouvelé, il peut être procédé,
+aux frais du département, à la réfection du cadastre de la commune, soit concurremment avec les opérations de remembrement,
+soit postérieurement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 26
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 32 (V) JORF 9 janvier 1983
 
 
 ###### Article 30
@@ -1057,6 +1306,37 @@ Il en est tenu compte pour la fixation de la valeur d'échange du fonds dominant
 	  - Loi n°1941-03-09 art. 29
 
 
+###### Article 32-1
+
+Sous réserve des droits des tiers, tout propriétaire ou titulaire de droits réels, évincé du fait qu'il n'a pas été tenu
+compte de ses droits sur des parcelles peut, pendant une période de cinq années à compter de l'affichage prévu à l'article
+24, saisir la commission départementale de réorganisation foncière et de remembrement aux fins de rectification des documents
+du remembrement.
+
+Si la commission estime impossible de procéder à ladite rectification, elle attribue à l'intéressé une indemnité
+correspondant à l'intégralité du préjudice subi par lui. La charge de cette indemnité incombe à l'Etat, sous réserve, le cas
+échéant, de l'action récursoire de ce dernier contre les personnes ayant bénéficié de l'erreur commise. Les contestations
+relatives aux indemnités sont jugées comme en matière d'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 24
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°60-792 1960-08-02 art. 9 JORF 4 août 1960
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 32 (V) JORF 9 janvier 1983
+
+
 ###### Article 33
 
 Le locataire d'une parcelle atteinte par le remembrement a le choix ou d'obtenir le report des effets du bail sur les
@@ -1201,6 +1481,26 @@ En cas d'opposition du titulaire de ces droits, l'acte d'échange est soumis, av
 	  - Ordonnance 59-71 1959-01-07 art. 2 JORF 3 janvier 1959
 	  - Loi n°75-621 1975-07-11 art. 14 JORF 12 juillet 1975
 	  - Loi n°80-502 du 4 juillet 1980 - art. 24 () JORF 5 juillet 1980
+
+
+###### Article 38
+
+Les échanges d'immeubles ruraux effectués conformément à l'article 37 et dont la commission départementale de réorganisation
+foncière et de remembrement aura reconnu l'utilité particulière, du point de vue notamment de l'amélioration des conditions
+de l'exploitation agricole, bénéficient d'une participation financière de l'Etat à ceux des frais de l'échange énumérés dans
+un arrêté concerté du ministre de l'agriculture et du ministre des finances, qui fixe également le taux et les modalités de
+cette participation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Ordonnance 59-246 1959-02-04 art. 12 JORF 8 janvier 1959
+	  - Loi n°83-8 du 7 janvier 1983 - art. 32 (V) JORF 9 janvier 1983
 
 
 ###### Article 38-1
