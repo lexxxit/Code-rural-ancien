@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1961-09-26
+Version Consolidée au 1961-11-22
 
 ###### Article 162
 
@@ -7545,6 +7545,34 @@ poissons des espèces prohibées qui sont désignées par les règlements.
 	  - Loi n°1829-04-15 art. 31
 
 
+###### Article 439-2
+
+Il est interdit de colporter, d'offrir à la vente, de vendre ou d'acheter les truites, ombres communs et saumons de fontaine
+capturés dans les eaux libres visées à l'article 401 du présent code.
+
+Toutefois, cette mesure ne s'applique pas aux membres de la fédération nationale des adjudicataires et permissionnaires de la
+pêche aux engins et aux filets lorsqu'ils s'adonnent à la pêche dans les eaux du domaine public ou dans les lacs de retenue
+de barrage où le droit de pêche appartient à l'Etat. Elle ne s'applique pas, non plus, lorsque les poissons susvisés ont été
+capturés dans les lacs du domaine privé dont la liste sera établie par arrêté du ministre de l'agriculture.
+
+Un décret pris sur les propositions du ministre de l'agriculture et du garde des sceaux, ministre de la justice, fixera les
+modalités du contrôle et des pénalités tendant à assurer l'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 401
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+
+
 ###### Article 440
 
 Dans chaque département, il est interdit de mettre en vente, de vendre, d'acheter, de transporter, de colporter, d'exporter
@@ -14380,6 +14408,38 @@ visée à l'alinéa précédent.
 	**Nouveaux textes**:
 
 	  - Code rural - art. L732-20 (M)
+
+
+##### Paragraphe 3 : Allocation complémentaire agricole.
+
+###### Article 1122-3
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°64-1279 1964-12-23 art. 51 JORF 24 décembre 1964
+
+
+###### Article 1122-4
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°64-1279 1964-12-23 art. 51 JORF 24 décembre 1964
 
 
 #### Section 2 : Cotisations.
