@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1996-12-31
+Version Consolidée au 1997-03-20
 
 # Livre Ier : Régime du sol
 
@@ -3377,6 +3377,31 @@ aussitôt informé de cette mise en demeure.
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
+###### Article 268-2
+
+Un arrêté du ministre chargé de l'agriculture fixe les conditions de température, de conservation, d'hygiène du local
+d'entreposage et d'hygiène de fonctionnement pour l'application de l'article 268.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 268
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Décret n°97-251 du 18 mars 1997 - art. 1 () JORF 20 mars 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
 ###### Article 269
 
 Il est interdit de jeter en tous lieux les animaux morts dont la livraison à la personne chargée de l'exécution du service
@@ -3398,6 +3423,33 @@ réglementaire.
 	**Créé par**:
 
 	  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 269-1
+
+Le préfet constate la nécessité d'ordre sanitaire prévue à l'article 266.
+
+Un arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de l'environnement détermine les conditions
+d'enfouissement et d'incinération des cadavres d'animaux ainsi que les procédés autorisés prévus aux articles 266 et 269.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 266, 269
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Décret n°97-251 du 18 mars 1997 - art. 1 () JORF 20 mars 1997
 
 	**Abrogé par**:
 
@@ -3455,6 +3507,32 @@ ne relèvent pas du service public de l'équarrissage. Elles sont assurées sous
 	**Modifié par**:
 
 	  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 271-1
+
+Les entreprises visées à l'article 271 pour lesquelles un agrément ou un enregistrement est nécessaire pour assurer leur
+activité sont agréées ou enregistrées par le préfet sur la base des règles sanitaires fixées par arrêté du ministre chargé de
+l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 271
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Décret n°97-251 du 18 mars 1997 - art. 1 () JORF 20 mars 1997
 
 	**Abrogé par**:
 
