@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1985-01-04
+Version Consolidée au 1985-01-05
 
 ###### Article 162
 
@@ -22173,6 +22173,56 @@ Ces amendes sont recouvrées comme en matière d'amendes pénales par les percep
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1089
+
+Ainsi qu'il est dit aux articles 18, 19, 20 et 21 de la loi du 22 août 1946 non repris par le présent code :
+
+Est passible d'une amende de 1.000 à 2.000 F quiconque se rend coupable de fraudes ou de fausses déclarations pour obtenir ou
+tenter de faire obtenir des prestations qui ne sont pas dues, sans préjudice des peines résultant de l'application d'autres
+lois s'il y échet.
+
+Sera puni d'une amende de 1.000 à 2.000 F, et, en cas de récidive dans un délai d'un an, d'une amende de 2.000 à 20.000 F
+tout intermédiaire convaincu d'avoir offert ou fait offrir ses services moyennant émoluments convenus à l'avance, à un
+allocataire en vue de lui faire obtenir des prestations qui peuvent lui être dues.
+
+Le maximum des deux peines sera toujours appliqué au délinquant lorsqu'il aura subi une condamnation pour la même infraction
+et le tribunal pourra ordonner l'insertion du nouveau jugement dans un ou plusieurs journaux de la localité, le tout aux
+frais du condamné, sans que le coût de l'insertion puisse dépasser 50 F.
+
+Quiconque, par voies de fait, menaces ou manoeuvres concertées, aura organisé ou tenté d'organiser le refus par les
+assujettis de se conformer aux prescriptions de la législation des prestations familiales et notamment de s'affilier à une
+caisse (de sécurité sociale ou) d'allocations familiales, ou de payer des cotisations dues, sera puni d'un emprisonnement de
+trois mois à deux ans et d'une amende de 720 à 20.000 F.
+
+Sera passible d'un emprisonnement d'un mois à six mois et d'une amende de 600 à 1.000 F quiconque aura, par quelque moyen que
+ce soit, incité les assujettis à refuser de se conformer aux prescriptions de la législation des prestations familiales et
+notamment de s'affilier à une caisse (de sécurité sociale ou) d'allocations familiales ou de payer les cotisations dues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°85-17 du 4 janvier 1985 - art. 26 () JORF 5 janvier 1985
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L725-13 (M)
+	  - Code rural - art. L725-14 (Ab)
+	  - Code rural - art. L725-15 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1938-05-31 art. 21
+
+	**Cite**:
+
+	  - Loi n°1946-08-22 art. 18, art. 19, art. 20, art. 21
+
+
 #### Section 4 : Prestations.
 
 ###### Article 1090
@@ -24438,14 +24488,15 @@ Les exploitants agricoles exerçant leur activité dans les départements d'outr
 dans les conditions prévues par le présent chapitre.
 
 Ils bénéficient de l'allocation de rentrée scolaire, de l'allocation de logement, de l'allocation d'éducation spéciale, de
-l'allocation d'orphelin, de l'allocation de parent isolé, du complément familial dans les conditions respectivement prévues
-aux articles L. 532-4, L. 542-1, L. 543-4, L. 543-9, L. 758-2, L. 758-3 du code de la sécurité sociale.
+l'allocation de soutien familial, de l'allocation de parent isolé, du complément familial dans les conditions respectivement
+prévues aux articles L. 523, L. 533, L. 538, L. 544, L. 758-2, L. 758-3 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°55-433 1955-04-16
+	  - Loi n°84-1171 du 22 décembre 1984 - art. 2 () JORF 27 décembre 1984
+	  - Loi n°85-17 du 4 janvier 1985 - art. 26 () JORF 5 janvier 1985
 
 	**Cité par**:
 
@@ -24457,9 +24508,7 @@ aux articles L. 532-4, L. 542-1, L. 543-4, L. 543-9, L. 758-2, L. 758-3 du code 
 
 	**Cite**:
 
-	  - Code de la sécurité sociale L532-4, L542-1, L543-4, L543-9, L758-2, L758-3
-	  - Code de la sécurité sociale. - art. L532-4 (M)
-	  - Code de la sécurité sociale. - art. L542-1 (M)
+	  - Code de la sécurité sociale L523, L533, L538, L544, L758-2, L758-3
 	  - Code de la sécurité sociale. - art. L758-2 (V)
 	  - Code de la sécurité sociale. - art. L758-3 (V)
 
