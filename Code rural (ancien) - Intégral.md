@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1990-01-01
+Version Consolidée au 1990-01-02
 
 ###### Article 40-3
 
@@ -19477,19 +19477,22 @@ assurances complémentaires de l'assurance maladie, maternité et vieillesse dan
 
 ###### Article 1050
 
-Les salariés mentionnés à l'article 1144 du présent code peuvent bénéficier auprès des caisses de prévoyance fonctionnant
-avec l'autorisation et sous le contrôle du ministre chargé de l'agriculture d'avantages s'ajoutant à ceux qui résultent du
-régime des assurances sociales agricoles, du régime d'assurance obligatoire contre les accidents du travail et les maladies
-professionnelles, de la législation applicables dans les départements d'outre-mer, conformément au livre XI du code de la
-sécurité sociale et des assurances volontaires prévues par le titre Ier du livre XII du code de la sécurité sociale.
+Les salariés mentionnés à l'article 1144 du présent code peuvent bénéficier auprès des institutions de retraite ou de
+prévoyance complémentaire fonctionnant avec l'autorisation et sous le contrôle du ministre chargé de l'agriculture
+d'avantages s'ajoutant à ceux qui résultent du régime des assurances sociales agricoles, du régime d'assurance obligatoire
+contre les accidents du travail et les maladies professionnelles, de la législation applicables dans les départements
+d'outre-mer, conformément au livre XI du code de la sécurité sociale et des assurances volontaires prévues par le titre Ier
+du livre XII du code de la sécurité sociale.
 
-Les caisses de prévoyance peuvent grouper tout ou partie des salariés d'une ou plusieurs entreprises.
+Les institutions définies au premier alinéa sont soumises au contrôle de la commission instituée par l'article L. 732-10 du
+code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Code rural 1144
+	  - Code de la sécurité sociale. - art. L732-10 (Ab)
 
 	**Codifié par**:
 
@@ -19497,7 +19500,7 @@ Les caisses de prévoyance peuvent grouper tout ou partie des salariés d'une ou
 
 	**Modifié par**:
 
-	  - Loi n°89-474 1989-07-10 art. 9 I JORF 12 juillet 1989
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 27 () JORF 2 janvier 1990
 
 	**Cité par**:
 
@@ -19515,8 +19518,8 @@ Les caisses de prévoyance peuvent grouper tout ou partie des salariés d'une ou
 Sous réserve des dispositions de l'article 1050, les dispositions du titre III du livre VII du code de la sécurité sociale
 sont applicables aux régimes de retraite et de prévoyance institués en faveur des salariés mentionnés à l'article 1144.
 
-Toutefois, par dérogation aux dispositions du deuxième alinéa de l'article L. 731-9 du code de la sécurité sociale et de
-l'article L. 731-10 du même code, les accords visés au premier alinéa de l'article L. 731-9 précité ayant pour objet
+Toutefois, par dérogation aux dispositions du deuxième alinéa de l'article L. 731-2 du code de la sécurité sociale et de
+l'article L. 731-3 du même code, les accords visés au premier alinéa de l'article L. 731-2 précité ayant pour objet
 l'institution d'un régime complémentaire de prévoyance ou de retraite en faveur des salariés mentionnés à l'article 1144 sont
 étendus par arrêté du ministre chargé de l'agriculture après avis motivé de la sous-commission des conventions et accords de
 la commission nationale de la négociation collective et élargis, en tout ou partie, par arrêté du ministre chargé de
@@ -19530,7 +19533,7 @@ l'agriculture et du ministre chargé du budget sur proposition ou après avis mo
 
 	**Modifié par**:
 
-	  - Loi n°89-474 1989-07-10 art. 9 II JORF 12 juillet 1989
+	  - Loi n°89-1009 du 31 décembre 1989 - art. 27 () JORF 2 janvier 1990
 
 	**Nouveaux textes**:
 
@@ -19538,8 +19541,8 @@ l'agriculture et du ministre chargé du budget sur proposition ou après avis mo
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L731-10 (M)
-	  - Code de la sécurité sociale. - art. L731-9 (M)
+	  - Code de la sécurité sociale. - art. L731-2 (T)
+	  - Code de la sécurité sociale. - art. L731-3 (T)
 	  - Code rural 1050, 1144
 
 
