@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1976-07-13
+Version Consolidée au 1976-11-11
 
 ###### Article 162
 
@@ -8287,32 +8287,6 @@ régulière dans le délai légal et ne prouve que la perte de l'animal provient
 
 
 ## Titre VII : De la production des animaux domestiques
-
-### Chapitre Ier : De la monte
-
-#### Section 1 : De la monte publique des étalons.
-
-###### Article 297
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-
-###### Article 298
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
 
 ### Chapitre II : De l'insémination artificielle.
 
