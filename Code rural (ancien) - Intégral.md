@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1978-07-17
+Version Consolidée au 1978-07-18
 
 ###### Article 162
 
@@ -17990,6 +17990,39 @@ d'immatriculation a la faculté d'adresser à la caisse en vue de solliciter son
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1029
+
+Lorsque les assurés cessent de remplir les conditions prévues par la présente section, il doit être procédé à leur radiation.
+Cette radiation peut être opérée soit sur la demande de l'intéressé ou de l'employeur, sous réserve de la production des
+justifications nécessaires, soit sur l'initiative du service de l'inspection des lois sociales en agriculture. Elle a effet à
+compter du premier jour du trimestre civil suivant.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L722-26
+	  - Code rural - art. L722-26 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-28 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°78-753 1978-07-17 art. 33 JORF 18 juillet 1978
+	  - Loi n°78-753 du 17 juillet 1978 - art. 33
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 1030
 
 Des arrêtés du ministre de l'agriculture précisent les conditions dans lesquelles il est procédé à l'immatriculation et à la
@@ -18240,6 +18273,81 @@ du ministère public et des parties intéressées.
 
 
 #### Section 3 : Prestations.
+
+###### Article 1038
+
+Les caisses de mutualité sociale agricole servent à leurs adhérents, en cas de maladie, d'accident, de maternité et de décès,
+les prestations prévues par leurs statuts.
+
+L'assurance maladie comporte :
+
+1° La couverture des frais de médecine générale et spéciale, des frais de soins et de prothèse dentaire, des frais
+pharmaceutiques et d'appareils, des frais d'analyses et d'examens de laboratoire, des frais d'hospitalisation et de
+traitement dans les établissements de cure de réadaptation fonctionnelle et de rééducation ou d'éducation professionnelle et
+des frais de transport ainsi que des frais d'interventions chirurgicales nécessaires pour l'assuré et les membres de sa
+famille déterminés par règlement d'administration publique y compris la couverture des médicaments, produits et objets
+contraceptifs et des frais d'analyses et d'examens de laboratoire ordonnés en vue de prescriptions contraceptives.
+
+La couverture, sur décision de la commission d'éducation spéciale créée par l'article 6 de la loi n° 75-534 du 30 juin 1975,
+des frais d'hébergement et de traitement des enfants ou adolescents handicapés dans les établissements d'éducation spéciale
+et professionnelle, ainsi que celle des frais de traitement concourant à cette éducation dispensée en dehors de ces
+établissements, à l'exception de la partie de ces frais incombant à l'Etat en application de l'article 5 de la loi n° 75-534
+du 30 juin 1975.
+
+2° L'octroi d'indemnités journalières à l'assuré qui se trouve dans l'incapacité physique, constatée par le médecin traitant,
+de continuer ou de reprendre son travail.
+
+L'assuré choisit librement son praticien.
+
+L'action de l'assuré pour le paiement des prestations de l'assurance maladie se prescrit par deux ans, à compter du premier
+jour du trimestre civil suivant celui auquel se rapportent lesdites prestations ; pour le paiement des prestations de
+l'assurance maternité, elle se prescrit par deux ans à partir de la date de la première constatation médicale de la
+grossesse.
+
+Le versement du capital garanti au titre de l'assurance décès est effectué par priorité aux personnes qui étaient, au jour du
+décès, à la charge effective, totale et permanente de l'assuré.
+
+Si aucune priorité n'est invoquée dans le délai d'un mois suivant le décès de l'assuré, le capital est attribué au conjoint
+survivant non séparé de droit ou de fait ou, à défaut, aux descendants et, dans le cas où le défunt ne laisse ni conjoint
+survivant ni descendant, aux ascendants.
+
+L'article L. 395 du code de la sécurité sociale est applicable aux prestations visées au présent article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-28 art. 13
+	  - Décret n°1935-10-28 art. 25
+	  - Décret n°1935-10-28 art. 6
+	  - Décret n°1935-10-30 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°56-968 1956-09-28 art. 1 JORF 29 septembre 1956
+	  - Ordonnance 58-1374 1958-12-30 art. 8 JORF 31 décembre 1958
+	  - Décret n°60-782 1960-07-30 art. 1 JORF 2 août 1960
+	  - Ordonnance 67-707 1967-08-21 art. 22 JORF 22 août 1967
+	  - Loi n°68-698 1968-07-31 art. 1 JORF 2 août 1968
+	  - Loi n°74-1026 1974-12-04 art. 8 JORF 5 décembre 1974
+	  - Loi n°75-534 du 30 juin 1975 - art. 44 () JORF 1er juillet 1975 en vigueur le 1er septembre 1976
+	  - Loi n°75-534 du 30 juin 1975 - art. 7 (Ab) JORF 1er juillet 1975 en vigueur le 1er septembre 1976
+	  - Loi n°78-753 1978-07-17 art. 32 JORF 18 juillet 1978
+
+	**Cite**:
+
+	  - Loi n°75-534 1975-06-30 art. 5, art. 6
+	  - Loi n°75-534 du 30 juin 1975 - art. 6 (M)
+	  - Code de la sécurité sociale L395
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L742-3 (M)
+
 
 ###### Article 1038-2
 
@@ -20468,6 +20576,39 @@ visée à l'alinéa précédent.
 	  - Code rural - art. L732-20 (M)
 
 
+##### Paragraphe 2 : Retraite.
+
+###### Article 1122-2
+
+Dans le cas de divorce, lors du décès d'une personne visée au premier alinéa de l'article 1122 et au premier alinéa de
+l'article 1122-1, la retraite de réversion prévue auxdits articles est attribuée à l'ancien conjoint divorcé ou répartie
+entre celui-ci et le conjoint survivant dans les mêmes conditions que celles de l'article 351-2 du code de la sécurité
+sociale, selon des modalités fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1122, 1122-1
+	  - Code de la sécurité sociale 351-2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 11 II JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Modifié par**:
+
+	  - Loi n°78-753 1978-07-17 art. 41 JORF 18 juillet 1978
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L732-47 (M)
+
+
 #### Section 2 : Cotisations.
 
 ###### Article 1126
@@ -21309,6 +21450,49 @@ les organes collectifs habilités à utiliser les procédures de recouvrement é
 	  - Code rural - art. L725-6 (V)
 
 
+###### Article 1143-3
+
+I. - Sauf le cas de fraude ou de fausse déclaration, les cotisations dues au titre des régimes de protection sociale agricole
+visés au livre VII du présent code, à l'exception de celles qui concernent l'assurance accident des personnes non salariées
+de l'agriculture, et les pénalités de retard y afférentes, se prescrivent par cinq ans à compter de l'expiration de l'année
+civile au titre de laquelle elles sont dues. Les actions résultant de l'application de l'article 1143-2 se prescrivent par
+cinq ans à compter de la mise en demeure.
+
+II. - La demande de remboursement des cotisations visée au I ci-dessus se prescrit par deux ans à compter de la date à
+laquelle lesdites cotisations ont été acquittées.
+
+En cas de remboursement, les organismes mentionnés à l'alinéa précédent sont en droit de demander le reversement des
+prestations servies à l'assuré : ladite demande doit être faite dans un délai maximum de deux ans à compter du remboursement
+desdites cotisations.
+
+Toutefois, lorsque la demande de remboursement des cotisations indûment versées n'a pas été formulée dans le délai de deux
+ans prévu au premier alinéa ci-dessus, le bénéfice des prestations servies, ainsi que les droits à l'assurance vieillesse
+restent acquis à l'assuré, sauf cas de fraude ou de fausse déclaration.
+
+III. - Les délais de prescription prévus aux articles L. 67 et L. 395 du code de la sécurité sociale sont applicables aux
+actions intentées par les organismes payeurs des régimes de protection sociale agricole en recouvrement des prestations
+indûment payées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1143-2
+	  - Code de la sécurité sociale L67, L395
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°78-753 1978-07-17 art. 33 II JORF 18 juillet 1978
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L725-7 (M)
+
+
 ###### Article 1143-4
 
 En cas de carence d'une caisse de mutualité sociale agricole ou d'un organisme visé à l'article 1106-9, l'autorité
@@ -21418,6 +21602,44 @@ de l'exploitation agricole.
 	  - Code rural - art. L722-20 (M)
 	  - Code rural - art. L722-3 (M)
 	  - Code rural - art. L751-1 (M)
+
+
+###### Article 1145
+
+Bénéficient également du présent régime :
+
+1° Les élèves des établissements d'enseignement technique et de formation professionnelle agricoles pour les accidents
+survenus par le fait ou à l'occasion de cet enseignement ou de cette formation ;
+
+2° Les personnes qui participent bénévolement au fonctionnement d'organismes à objet social sans caractère lucratif créés au
+profit des professions agricoles en vertu ou pour l'application d'un texte législatif ou réglementaire, lorsqu'elles ne
+bénéficient pas à un autre titre des dispositions du présent chapitre. La liste des organismes prévus par la présente
+disposition est établie par décret ;
+
+3° Les salariés agricoles désignés, en application de l'article L. 990-8 du code du travail, pour siéger dans une commission,
+un conseil ou un comité administratifs ou paritaires, pour les accidents survenus par le fait ou à l'occasion de leurs
+missions.
+
+En ce qui concerne les personnes visées au présent article, des décrets déterminent à qui incombent les obligations de
+l'employeur et fixent les bases des cotisations et celles des indemnités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°78-754 1978-07-17 art. 13 III JORF 18 juillet 1978
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-1 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L990-8 (T)
 
 
 ###### Article 1146
@@ -23466,6 +23688,38 @@ La victime choisit librement son praticien, son pharmacien et l'établissement d
 
 	  - Décret n°55-433 1955-04-16
 	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-7
+
+L'action de l'assuré pour le paiement des prestations prévues par le présent chapitre se prescrit par deux ans à compter de
+la date de l'accident ou de la constatation médicale, soit de la maladie professionnelle, soit de l'aggravation de l'état de
+l'assuré entraînant l'inaptitude totale à l'exercice de la profession agricole.
+
+Sauf en cas de fraude ou de fausse déclaration, l'action intentée par un organisme payeur en recouvrement des prestations
+indûment versées se prescrit également par deux ans à compter du paiement desdites prestations entre les mains du
+bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L752-9
+	  - Code rural - art. L752-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°78-753 1978-07-17 art. 34 JORF 18 juillet 1978
+	  - Loi n°78-753 du 17 juillet 1978 - art. 34
 
 	**Abrogé par**:
 
