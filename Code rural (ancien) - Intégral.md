@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1958-10-11
+Version Consolidée au 1958-10-24
 
 ###### Article 162
 
@@ -400,6 +400,33 @@ remembrement.
 
 	  - Loi n°92-1283 du 11 décembre 1992 - art. 3 (V) JORF 12 décembre 1992
 	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 56
+
+Les travaux énumérés ci-après et exécutés directement par les particuliers en vue et à l'occasion de la réorganisation de la
+propriété foncière et du remembrement peuvent bénéficier, dans les conditions prévues par un arrêté conjoint du ministre des
+finances et du ministre de l'agriculture, d'une subvention de l'Etat dont le maximum est fixé par un arrêté du ministre des
+finances :
+
+- reconstruction, à des emplacements nouveaux notifiés par le service du génie rural, de bâtiments agricoles dont le
+remembrement entraîne le déplacement ;
+
+- reconstruction d'enclos, de parcs à bestiaux et exécution de travaux divers dont le remembrement a pu modifier la
+consistance ou exiger l'exécution ;
+
+- établissement et aménagement de chemins d'intérêt agricole et travaux d'améliorations foncières connexes et de reboisement
+exécutés par l'association foncière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1944-04-29 art. 1, art. 2
 
 
 ###### Article 56-1
@@ -1466,6 +1493,26 @@ collectivités locales intéressées, des travaux d'équipement rural excédant 
 	**Anciens textes**:
 
 	  - Loi n°1951-06-07 art. 2, art. 4
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 141
+
+Le sol acquis à l'amiable ou par expropriation et les ouvrages réalisés font partie du domaine privé de l'Etat jusqu'à leur
+remise aux organismes visés à l'article suivant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1951-06-07 art. 5
 
 	**Abrogé par**:
 
