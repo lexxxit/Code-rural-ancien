@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1976-01-03
+Version Consolidée au 1976-06-17
 
 ###### Article 162
 
@@ -8017,36 +8017,6 @@ régulière dans le délai légal et ne prouve que la perte de l'animal provient
 ### Chapitre Ier : De la monte
 
 #### Section 1 : De la monte publique des étalons.
-
-###### Article 295
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°76-522 1976-06-16 art. 1 JORF 17 juin 1976
-
-
-###### Article 296
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°76-522 1976-06-16 art. 1 JORF 17 juin 1976
-
 
 ###### Article 297
 
