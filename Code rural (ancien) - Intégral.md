@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1985-07-26
+Version Consolidée au 1985-10-01
 
 ###### Article 162
 
@@ -47,6 +47,39 @@ l'effectif d'une espèce sensible dans le département ou la région intéressé
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+
+###### Article 375
+
+Celui qui aura chassé sur le terrain d'autrui sans consentement, si ce terrain est attenant à une maison habitée ou servant à
+l'habitation, et s'il est entouré d'une clôture continue faisant obstacle à toute communication avec les héritages voisins,
+sera puni d'une amende de 180 F à 15.000 F et pourra l'être d'un emprisonnement de six jours à trois mois.
+
+Si le délit a été commis pendant la nuit, le délinquant sera puni d'une amende de 360 F à 15.000 F et pourra l'être d'un
+emprisonnement de trois mois à deux ans, sans préjudice dans l'un et l'autre cas, s'il y a lieu, de plus fortes peines
+prononcées par le code pénal.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L228-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1844-05-03 art. 12
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur le 1er octobre 1985
 
 
 ###### Article 1143-2
@@ -10882,6 +10915,58 @@ Les contrevenants aux dispositions de l'article 218 seront punis des peines pré
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
+###### Article 329
+
+Seront punis d'un emprisonnement de deux mois à six mois et d'une amende de 360 à 15.000 F :
+
+1° Ceux qui, au mépris des défenses de l'administration, auront laissé leurs animaux infectés communiquer avec d'autres ;
+
+2° Ceux qui auraient vendu ou mis en vente des animaux qu'ils savaient atteints ou soupçonnés d'être atteints de maladies
+contagieuses ;
+
+3° Ceux qui, sans permission de l'autorité, auront déterré ou sciemment acheté des cadavres ou débris des animaux morts de
+maladies contagieuses quelles qu'elles soient ou abattus comme atteints de la peste bovine, du charbon, de la morve et de la
+rage ;
+
+4° Ceux qui, même avant l'arrêté d'interdiction, auront importé en France des animaux qu'ils savaient atteints de maladies
+contagieuses ou avoir été exposés à la contagion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1881-07-21 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+
+
+###### Article 330
+
+Seront punis d'un emprisonnement de six mois à trois ans et d'une amende de 240 à 15.000 F :
+
+1° Ceux qui auront vendu ou mis en vente de la viande provenant d'animaux qu'ils savaient morts de maladies contagieuses
+quelles qu'elles soient, ou abattus comme atteints de la peste bovine, du charbon, de la morve et de la rage ;
+
+2° Ceux qui se seront rendus coupables des délits prévus par les articles précédents s'il est résulté de ces délits une
+contagion parmi les autres animaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1881-07-21 art. 32
+
+
 ###### Article 333
 
 Si la condamnation pour infraction prévue aux articles 328 à 332 remonte à moins d'une année ou si cette infraction a été
@@ -10906,6 +10991,32 @@ titre que ce soit, les peines peuvent être portées au double du maximum fixé 
 	**Abrogé par**:
 
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 339
+
+Quiconque aura transporté, remis, à titre gratuit ou onéreux, de la semence d'animaux domestiques ou aura sciemment procédé à
+une insémination artificielle en infraction aux dispositions prévues par l'article 308 sera puni d'une amende de 600 à 15.000
+F. Le tribunal pourra en outre prononcer la confiscation du matériel ayant servi à la récolte, la vente, la conservation, le
+transport et l'utilisation de la semence, ainsi que des reproducteurs mâles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 308
+
+	**Anciens textes**:
+
+	  - Loi n°46-1055 du 15 mai 1946 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
 
 
 ###### Article 340
@@ -10963,6 +11074,34 @@ des catégories désignées en application de l'article 311-1.
 	  - Loi n°71-450 1971-06-16 art. 2 JORF 17 juin 1971
 	  - Loi n°79-6 1979-01-02 art. 2 JORF 3 janvier 1979
 	  - Loi n°82-899 du 20 octobre 1982 - art. 4 () JORF 21 octobre 1982
+
+
+###### Article 341
+
+Toute personne qui aura fait une fausse déclaration en vue de son inscription au tableau de l'ordre des vétérinaires, sera
+punie d'un emprisonnement de un à trois mois et d'une amende de 3 600 à 20 000 F, ou de l'une de ces deux peines seulement.
+
+Sera puni d'un emprisonnement de six jours à six mois et d'une amende de 300 à 15 000 F ou de l'une de ces deux peines
+seulement, tout vétérinaire ou docteur vétérinaire qui, ayant fait l'objet d'une des sanctions ou mesures administratives
+visées à l'article 317, participerait à l'activité d'un conseil régional ou du conseil supérieur de l'ordre des vétérinaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 317
+
+	**Anciens textes**:
+
+	  - Loi n°47-1564 1947-08-23 art. 22, art. 23
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
 
 
 ## Titre X : De la protection des végétaux.
@@ -11981,9 +12120,90 @@ Un décret fixera les modalités d'application du présent article.
 
 ### Chapitre II : Des pénalités.
 
+###### Article 374
+
+Seront punis d'une amende de 2.500 à 5.000 F :
+
+1° Ceux qui auront chassé sans permis de chasse ou sans licence de chasse valables pour le temps et le lieu où ils chassent ;
+
+2° Ceux qui auront chassé sur le terrain d'autrui sans le consentement du propriétaire ;
+
+L'amende pourra être portée au double si le délit a été commis sur des terres non dépouillées de leurs fruits ou s'il a été
+commis sur un terrain entouré d'une clôture continue faisant obstacle à toutes communications avec les héritages voisins,
+mais non attenant à une habitation.
+
+Pourra ne pas être considéré comme délit de chasse le fait du passage des chiens courants sur l'héritage d'autrui, lorsque
+ces chiens seront à la suite d'un gibier lancé sur la propriété de leur maître, sauf l'action civile, s'il y a lieu, en cas
+de dommages ;
+
+3° Ceux qui auront contrevenu aux arrêtés réglementaires concernant la divagation des chiens, les oiseaux de passage, le
+gibier d'eau, la chasse en temps de neige, l'emploi des chiens lévriers, ou aux arrêtés concernant la destruction des oiseaux
+ou de toute espèce de gibier ainsi que celle des animaux nuisibles et malfaisants, ou encore aux arrêtés autorisant la
+reprise du gibier vivant dans un but de repeuplement ;
+
+4° Ceux qui, en temps de fermeture, auront sans droit, enlevé des nids, pris ou détruit, colporté ou mis en vente, vendu ou
+acheté, transporté ou exporté les oeufs ou les couvées de perdrix, faisans, caille et de tous oiseaux, ainsi que les portées
+ou petits de tous animaux qui n'auraient pas été déclarés nuisibles par les arrêtés du ministre de l'agriculture ;
+
+5° Les fermiers de la chasse, soit dans les bois soumis au régime forestier, soit sur les propriétés dont la chasse est louée
+au profit des communes ou établissements publics, qui auront contrevenu aux clauses et conditions de leurs cahiers des
+charges, relatives à la chasse ;
+
+6° Ceux qui, en temps d'ouverture, auront transporté sans autorisation du gibier vivant ;
+
+7° Les chasseurs et les personnes les accompagnant qui se seront opposés à la visite de leurs carniers, sacs ou poches à
+gibier.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural R228-1, R228-3, R228-4, R228-6, R228-8, R228-14, R228-18, R228-15, R228-21
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+
+	**Anciens textes**:
+
+	  - Loi n°1844-05-03 art. 11
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 2, art. 3 JORF 4 novembre 1989
+
+
+###### Article 374-1
+
+Seront punis d'une amende de 30 à 250 F ceux qui auront chassé sans être porteurs de leur permis de chasser ou de la licence
+de chasse valables pour le temps et le lieu où ils chassent.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural R228-5
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
 ###### Article 376
 
-Seront punis d'une amende de 1.200 à 3.000 F et pourront, en outre, l'être d'un emprisonnement de dix jours à un mois :
+Seront punis d'une amende de 2.500 à 5.000 F et pourront, en outre, l'être d'un emprisonnement de dix jours à un mois :
 
 1° Ceux qui auront chassé en temps prohibé ou dans les réserves de chasse approuvées par le ministre de l'agriculture ou
 établies en application des dispositions de l'article 373-1 ;
@@ -12000,7 +12220,9 @@ d'engins ou d'instruments prohibés ;
 
 5° ceux qui auront employé des drogues ou appâts qui sont de nature à enivrer le gibier ou à le détruire ;
 
-6° Ceux qui auront chassé avec appeaux, appelants ou chanterelles.
+6° Ceux qui auront chassé avec appeaux, appelants ou chanterelles,sauf dans les cas autorisés en application du quatrième
+alinéa, 1°, de l'article 373 en ce qui concerne la chasse aux oiseaux de passage et du premier alinéa de l'article 393
+relatif à la destruction des animaux malfaisants ou nuisibles.
 
 Les peines déterminées par le présent article pourront être portées au double contre ceux qui auront chassé pendant la nuit,
 sur le terrain d'autrui et par l'un des moyens spécifiés au 2°, si les chasseurs étaient munis d'une arme apparente ou
@@ -12016,13 +12238,21 @@ ainsi que par les chefs de district et agents techniques des eaux et forêts.
 
 	  - Code rural 373, 373-1, 374, 393
 
+	**Nouveaux textes**:
+
+	  - Code rural L224-5, L228-2, L228-5, L228-6, L228-7, L228-9, L228-13, R228-2, R228-9, R228-10, R228-11, R228-12, R228-22, R228-23
+
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1844-05-03 art. 13
+	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
 
 
 ###### Article 377
@@ -12447,6 +12677,40 @@ son permis.
 	**Abrogé par**:
 
 	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
+###### Article 388-2
+
+Toute personne qui chasse soit après avoir été privée du droit d'obtenir ou de conserver un permis de chasser par application
+de l'article 381, soit après avoir reçu notification de l'ordonnance prononçant la suspension du permis de chasser par
+application de l'article 388-1 sera punie d'un emprisonnement de dix jours à trois mois et d'une amende de 500 F à 15.000 F
+ou de l'une de ces deux peines seulement.
+
+Sera punie des mêmes peines toute personne qui, ayant été privée du droit de conserver un permis de chasser par application
+de l'article 381 ou qui, ayant reçu notification de l'ordonnance prononçant la suspension du permis de chasser par
+application de l'article 381-1 refusera de remettre son permis à l'agent de l'autorité chargé de l'exécution de la décision.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 381, 381-1, 388-1
+
+	**Nouveaux textes**:
+
+	  - Code rural L228-3, L228-4
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur le 1er octobre 1985
 
 
 ###### Article 389
