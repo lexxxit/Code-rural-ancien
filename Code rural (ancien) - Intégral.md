@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1997-12-31
+Version Consolidée au 1998-01-01
 
 # Livre Ier : Régime du sol
 
@@ -14036,8 +14036,8 @@ rémunérations brutes des salariés, selon des modalités fixées par décret.
 
 ###### Article 1062-1
 
-Les dispositions des articles L. 241-6-1, L. 241-6-2, L. 241-6-3 et L. 241-13 du code de la sécurité sociale sont applicables
-aux gains et rémunérations versés aux salariés visés à l'article 1144.
+Les dispositions des articles L. 241-6-2 et L. 241-13 du code de la sécurité sociale sont applicables aux gains et
+rémunérations versés aux salariés visés à l'article 1144.
 
 **Liens relatifs à cet article**
 
@@ -14047,7 +14047,8 @@ aux gains et rémunérations versés aux salariés visés à l'article 1144.
 
 	**Modifié par**:
 
-	  - Loi n°95-1346 1995-12-30 art. 113 Finances pour 1996 JORF 31 décembre 1995
+	  - Loi - art. 115 (V) JORF 31 décembre 1997 en vigueur le 1er janvier 1998
+	  - Loi n°97-1269 1997-12-30 art. 115 VI, IX Finances pour 1998 JORF 31 décembre 1997 en vigueur le 1er janvier 1998
 
 	**Nouveaux textes**:
 
@@ -14056,18 +14057,16 @@ aux gains et rémunérations versés aux salariés visés à l'article 1144.
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L241-13 (M)
-	  - Code de la sécurité sociale. - art. L241-6-1 (M)
 	  - Code de la sécurité sociale. - art. L241-6-2 (M)
-	  - Code de la sécurité sociale. - art. L241-6-3 (M)
 	  - Code rural 1144
 
 
 ###### Article 1062-2
 
-A compter du 1er octobre 1996 et jusqu'au 31 décembre 1997, et par dérogation aux dispositions de l'article 1062-1, les gains
-et rémunérations versés au cours d'un mois civil aux travailleurs occasionnels définis au treizième alinéa de l'article 1031
-sont exonérés de cotisations d'allocations familiales lorsqu'ils sont inférieurs ou égaux à 169 fois le salaire minimum de
-croissance majoré de 50 p. 100.
+A compter du 1er octobre 1996, et par dérogation aux dispositions de l'article 1062-1, les gains et rémunérations versés au
+cours d'un mois civil aux travailleurs occasionnels définis au treizième alinéa de l'article 1031 sont exonérés de
+cotisations d'allocations familiales lorsqu'ils sont inférieurs ou égaux à 169 fois le salaire minimum de croissance majoré
+de 50 p. 100.
 
 Pour les gains et rémunérations supérieurs à ce montant  et inférieurs ou égaux à 169 fois le salaire minimum de croissance
 majoré de 60 p. 100, le montant de la cotisation d'allocations familiales est réduit de moitié.
@@ -14082,24 +14081,30 @@ l'exception des taux réduits en application du treizième alinéa de l'article 
 
 	  - Code rural 1062-1, 1031
 
+	**Nouveaux textes**:
+
+	  - Code rural L741-5
+	  - Code rural - art. L741-5 (V)
+
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°95-1346 1995-12-30 art. 113 Finances pour 1996 JORF 31 décembre 1995
+	  - Loi - art. 115 (V) JORF 31 décembre 1997 en vigueur le 1er janvier 1998
+	  - Loi n°97-1269 1997-12-30 art. 115 VII, IX Finances pour 1998 JORF 31 décembre 1997 en vigueur le 1er janvier 1998
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L741-5 (V)
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1062-3
 
-A compter du 1er octobre 1996 et jusqu'au 31 décembre 1997, les gains et rémunérations versés au cours d'un mois civil sont
-exonérés de cotisations d'allocations familiales lorsqu'ils sont supérieurs à 169 fois le salaire minimum de croissance
-majoré de 21 % et inférieurs ou égaux à 169 fois le salaire minimum de croissance majoré de 50 %.
+A compter du 1er octobre 1996, les gains et rémunérations versés au cours d'un mois civil sont exonérés de cotisations
+d'allocations familiales lorsqu'ils sont inférieurs ou égaux à 169 fois le salaire minimum de croissance majoré de 50 %.
 
 Pour les gains et rémunérations supérieurs à 169 fois le salaire minimum de croissance majoré de 50 % et inférieurs ou égaux
 à 169 fois le salaire minimum de croissance majoré de 60 %, le montant de la cotisation  d'allocations familiales est réduit
@@ -14115,17 +14120,24 @@ surface minimum d'installation ou d'une équivalence à la surface minimum d'ins
 
 	  - Code rural 1062-2
 
+	**Nouveaux textes**:
+
+	  - Code rural L741-6
+	  - Code rural - art. L741-6 (Ab)
+
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°95-1346 1995-12-30 art. 113 Finances pour 1996 JORF 31 décembre 1995
+	  - Loi - art. 115 (V) JORF 31 décembre 1997 en vigueur le 1er janvier 1998
+	  - Loi n°97-1269 1997-12-30 art. 115 VII, VIII, IX Finances pour 1998 JORF 31 décembre 1997 en vigueur le 1er janvier 1998
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L741-6 (Ab)
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1064
