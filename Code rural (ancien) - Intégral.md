@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1990-12-30
+Version Consolidée au 1991-01-01
 
 ###### Article 40-3
 
@@ -24208,9 +24208,8 @@ antérieurement au 1er janvier 1955.
 
 ###### Article 1154
 
-La cotisation due à la caisse de mutualité sociale agricole par chaque employeur est assise, dans la limite d'un plafond, sur
-les rémunérations soumises à cotisations d'assurances sociales agricoles, qui sont perçues par ses ouvriers, employés ou
-assimilés bénéficiant du régime.
+La cotisation due à la caisse de mutualité sociale agricole par chaque employeur est assise, sur les rémunérations soumises à
+cotisations d'assurances sociales agricoles, qui sont perçues par ses ouvriers, employés ou assimilés bénéficiant du régime.
 
 Cette cotisation est versée auprès de la caisse de mutualité sociale agricole.
 
@@ -24221,6 +24220,10 @@ Un décret en Conseil d'Etat précisera, en tant que de besoin, les conditions d
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°90-86 1990-01-23 art. 1 VI, VIII JORF 25 janvier 1990 en vigueur le 1er janvier 1991
 
 	**Nouveaux textes**:
 
