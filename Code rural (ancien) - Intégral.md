@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1968-08-25
+Version Consolidée au 1969-12-27
 
 ###### Article 162
 
@@ -16495,6 +16495,46 @@ dans les conditions et sous les réserves précisées aux articles suivants.
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1106-18
+
+Pour l'application de l'article 1106-1, 1°, l'exploitation doit être située dans un département d'outre-mer et avoir une
+superficie au moins égale, dans chaque département, au minimum prévu à l'article 1142-13 du présent code.
+
+Dans le bail à métayage ou colonat partiaire, le bailleur et le preneur sont considérés, pour l'application de l'alinéa
+précédent, comme mettant chacun en valeur la totalité de l'exploitation.
+
+Les dispositions du présent chapitre s'appliquent aux anciens exploitants et à leurs conjoints titulaires de la retraite de
+vieillesse prévue à l'article 1142-3 du présent code ainsi qu'aux titulaires de l'allocation de vieillesse prévue au même
+article lorsqu'ils sont membres de la famille de l'exploitant et qu'ils ont donné lieu à cotisation pendant au moins cinq
+ans. Toutefois, le bénéfice du présent alinéa n'est accordé aux intéressés que lorsqu'ils entraient, à la date à laquelle ils
+ont abandonné l'exploitation ou l'entreprise, dans les catégories des personnes visées par les dispositions combinées du
+premier alinéa du présent article et de l'article 1106-1, 1° ou 2°.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-17 (V)
+	  - Code rural L762-17
+
+	**Cite**:
+
+	  - Code rural 1106-1, 1142-3, 1142-13
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°69-1162 1969-12-24 art. 5 JORF 27 décembre 1969
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 1106-19
 
 Au titre des assurances maladie et maternité, les prestations auxquelles peuvent prétendre les bénéficiaires du présent
@@ -16523,6 +16563,54 @@ du régime institué par le chapitre III-1 du présent titre.
 	**Cite**:
 
 	  - Code rural 1106-2
+
+
+###### Article 1106-20
+
+Le budget annexe des prestations sociales agricoles comprend les recettes et les dépenses instituées par le présent chapitre,
+à l'exclusion de celles qui sont relatives aux frais de gestion et à l'action sociale.
+
+Le montant des cotisations dues pour la couverture des risques obligatoirement assurés en application du présent chapitre
+ainsi que leurs modalités d'appel et d'exigibilité sont fixés par décret. Le même décret fixe les conditions dans lesquelles
+les cotisations sont majorées pour la couverture des frais de gestion et d'action sociale.
+
+Dans le bail à métayage ou colonat partiaire, la cotisation est partagée entre le preneur et le bailleur dans les conditions
+prévues à l'article 1142-6, troisième alinéa, du présent code pour le partage de la cotisation cadastrale de l'assurance
+vieillesse.
+
+Les dispositions des articles 1106-7, I, 1°, 1106-7, II, 1° et 1106-12, deuxième alinéa, s'appliquent aux personnes visées à
+l'article 1106-18, troisième alinéa.
+
+Pour l'application de l'article 1106-7, II, 1°, et de l'article 1106-12, deuxième alinéa, la superficie exploitée doit être
+inférieure au minimum prévu à l'article 1142-13 du présent code.
+
+Bénéficient d'une exonération totale de cotisations les titulaires de l'allocation de vieillesse agricole âgés de moins de
+soixante-cinq ans qui, hormis la condition d'âge, remplissent les conditions d'obtention de l'allocation supplémentaire du
+fonds national de solidarité.
+
+Les assurés vivant sur l'exploitation ou l'entreprise et participant à sa mise en valeur bénéficient d'une exonération
+partielle pour les cotisations dues de leur chef, lorsque la superficie réelle pondérée de l'exploitation, compte tenu de la
+nature des cultures, est inférieure à un minimum fixé par décret. Le même décret fixe les différents taux d'exonération
+suivant l'importance de la superficie réelle pondérée, dans les limites prévues à l'article 1106-8, I (deuxième alinéa).
+
+Dans le bail à métayage ou colonat partiaire, la superficie réelle pondérée retenue pour l'application au preneur des
+dispositions de l'alinéa précédent, est égale aux deux tiers de la superficie totale de l'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°69-1162 1969-12-24 art. 5 JORF 27 décembre 1969
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-21 (V)
+	  - Code rural - art. L762-22 (VT)
+	  - Code rural - art. L762-23 (VT)
 
 
 ###### Article 1106-21
@@ -17018,6 +17106,31 @@ exploitants agricoles des départements d'outre-mer dans les conditions et sous 
 	  - Code rural - art. R113-1 (V)
 
 
+###### Article 1142-2
+
+Est considéré comme exploitant agricole pour l'application du présent chapitre toute personne exploitant en une qualité autre
+que celle de salarié des terres dont la superficie est au moins égale dans chaque département au minimum prévu à l'article
+1142-13 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°69-1162 1969-12-24 art. 5 JORF 27 décembre 1969
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-28 (V)
+
+	**Cite**:
+
+	  - Code rural 1142-13
+
+
 ###### Article 1142-4
 
 L'allocation n'est due aux personnes continuant leur exploitation que si les terres exploitées ne dépassent pas une
@@ -17162,6 +17275,246 @@ celles du présent chapitre.
 	**Cite**:
 
 	  - Code rural 1107, 1109, 1110, 1111, 1114, 1121, 1122-4, 1125 à 1135
+
+
+### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.
+
+###### Article 1142-13
+
+Est considérée comme exploitant agricole pour l'application du présent chapitre toute personne exploitant en une qualité
+autre que celle de salarié des terres dont la superficie est au moins égale dans chaque département à un minimum fixé par
+décret, compte tenu de la nature des cultures.
+
+Dans le bail à métayage ou colonat partiaire, le bailleur et le preneur sont considérés, pour l'application de l'alinéa
+précédent, comme mettant chacun en valeur la totalité de l'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-7 (V)
+
+
+###### Article 1142-14
+
+Les allocations familiales dont bénéficient les exploitants agricoles des départements d'outre-mer sont celles prévues à
+l'article L. 758 du code de la sécurité sociale.
+
+Le nombre de journées de travail servant de base au calcul des allocations est déterminé par décret en fonction de la surface
+cultivée et de la nature des cultures.
+
+Un arrêté interministériel fixe, pour chaque département, le montant des allocations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L758
+
+
+###### Article 1142-15
+
+Les cotisations varient, dans la limite d'une superficie maximum de 6 hectares pondérés en fonction de la surface de
+l'exploitation et de la nature des cultures. Un décret fixe dans chaque département le taux des cotisations.
+
+Dans le bail à métayage ou colonat partiaire, le preneur et le bailleur sont tenus l'un et l'autre au paiement de ces
+cotisations qui sont partagées entre eux selon une proportion fixée par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-9 (V)
+
+
+###### Article 1142-16
+
+Les exonérations de cotisations prévues à l'article 1073 b et e et accordées dans les conditions précisées à l'article 1079
+sont applicables au régime institué par le présent chapitre.
+
+Les superficies pondérées exploitées correspondant dans les départements d'outre-mer au montant de revenu cadastral figurant
+à l'article 1073 sont, pour l'application de l'alinéa précédent, fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-10 (V)
+
+	**Cite**:
+
+	  - Code rural 1073, 1079
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1142-17
+
+Un décret fixe les conditions dans lesquelles les cotisations prévues à l'article 1142-15 sont majorées pour la couverture
+des frais de gestion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-11 (VT)
+
+	**Cite**:
+
+	  - Code rural 1142-15
+
+
+###### Article 1142-18
+
+Dans chacun des départements intéressés, la caisse d'allocations familiales visée à l'article L. 752-1 du code de la sécurité
+sociale assure la gestion du régime institué au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L762-1
+	  - Code rural - art. L762-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L752-1 (M)
+
+
+###### Article 1142-19
+
+Le paiement des allocations familiales est subordonné à la justification du versement préalable des cotisations échues.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L762-8
+	  - Code rural - art. L762-8 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1142-20
+
+Le budget annexe des prestations sociales agricoles comporte, en recettes et en dépenses, les opérations résultant du présent
+chapitre, à l'exclusion des dépenses de gestion et des recettes correspondantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1142-21
+
+Un décret fixe les conditions dans lesquelles est assurée la couverture par chaque caisse des dépenses résultant de
+l'application du présent chapitre. Il précise notamment les conditions dans lesquelles sont mises à la disposition des
+caisses par la caisse centrale d'allocations familiales mutuelles agricoles les sommes nécessaires au règlement des
+prestations prévues à l'article 1142-12, ainsi que les conditions dans lesquelles est assurée la couverture des frais de
+gestion exposés par les caisses.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-12 (V)
+
+	**Cite**:
+
+	  - Code rural 1142-12
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1142-23
+
+Les dispositions législatives relatives à la procédure pénale et aux sanctions pénales prévues au chapitre III du titre V du
+livre Ier du code de la sécurité sociale sont étendues au régime d'allocations familiales institué par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-5 (V)
+	  - Code rural L762-5
+
+
+###### Article 1142-24
+
+Les chefs d'exploitation ou d'entreprise et les bénéficiaires des allocations familiales sont tenus de recevoir à toute
+époque les directeurs régionaux et départementaux et les inspecteurs de la sécurité sociale ainsi que les agents de contrôle
+assermentés des caisses d'allocations familiales qui se présentent pour vérifier l'application régulière des dispositions du
+présent chapitre.
+
+Ces fonctionnaires et agents ont accès dans les exploitations et entreprises intéressées et peuvent demander communication
+sur place de tous documents et pièces nécessaires à l'accomplissement de leur mission de contrôle.
+
+Les dispositions du code pénal qui prévoient et répriment les actes de résistance, les outrages et les violences contre les
+officiers de police judiciaire sont applicables à ceux qui se rendent coupables de faits de même nature à l'égard de ces
+fonctionnaires ou agents.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L762-3
+	  - Code rural - art. L762-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ## Titre III : Accidents du travail et risques agricoles
