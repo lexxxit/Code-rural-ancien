@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1961-04-01
+Version Consolidée au 1961-05-19
 
 ###### Article 162
 
@@ -4337,6 +4337,27 @@ vaccination contre la fièvre aphteuse.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+
+###### Article 236
+
+Les inoculations et le marquage sont effectués par les vétérinaires sanitaires à un tarif fixé par arrêté préfectoral après
+avis des organisations professionnelles agricoles et vétérinaires. Ce tarif est fixé forfaitairement par animal, compte tenu
+des frais d'intervention et de déplacement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-313 1953-04-11 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°61-494 1961-05-15 art. 1 JORF 19 mai 1961
 
 
 ###### Article 238
