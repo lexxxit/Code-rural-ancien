@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1992-06-18
+Version Consolidée au 1992-07-07
 
 ###### Article 40-3
 
@@ -6964,6 +6964,10 @@ b) De priver une exploitation agricole d'un bâtiment essentiel à son fonctionn
 biens dont la distance par rapport au siège de l'exploitation du demandeur est supérieur à un maximum fixé par le schéma
 directeur départemental des structures agricoles, sans que ce maximum puisse être inférieur à cinq kilomètres.
 
+4° A titre transitoire et jusqu'au 30 juin 1993, les créations ou extensions de capacité des ateliers hors sol, au-delà d'un
+seuil de capacité de production et selon des modalités fixées par décret, susceptibles de remettre en cause l'équilibre des
+structures sociales qui caractérisent cette activité.
+
 III. - Sont soumise à déclaration préalable les opérations effectuées dans les cas ci-après :
 
 1° Lorsque les biens pour lesquels la déclaration est présentée par le propriétaire jusqu'à quatre fois la surface minimum
@@ -7007,7 +7011,7 @@ l'exploitation est reprise par le conjoint participant à l'exploitation ou y ay
 années antérieures au décès ou à l'incapacité ou au départ à la retraite ;
 
 6° Lorsque la réunion d'exploitations agricoles résulte de la réunion entre les mains de l'un d'entre eux des biens que
-chacun des deux époux méttait en valeur avant leur mariage
+chacun des deux époux méttait en valeur avant leur mariage ;
 
 7° Pour les cessions d'immeubles opérées par une société d'aménagement foncier et d'établissement rural lorsqu'elles relèvent
 de la procédure définie aux paragraphes I et II ci-dessus, sauf en cas de suppression d'une unité économique indépendante
@@ -7028,15 +7032,17 @@ autres que ceux servant à l'élevage piscicole.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code rural 188-4, L411-59
+
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
 	**Modifié par**:
 
-	  - Loi n°84-741 du 1 août 1984 - art. 1 () JORF 2 août 1984
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 20 () JORF 31 décembre 1988
-	  - Loi n°90-85 du 23 janvier 1990 - art. 3 () JORF 25 janvier 1990
+	  - Loi n°92-613 du 6 juillet 1992 - art. 14 () JORF 7 juillet 1992
 
 
 ###### Article 188-3
