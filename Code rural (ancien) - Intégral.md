@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1977-12-30
+Version Consolidée au 1977-12-31
 
 ###### Article 162
 
@@ -836,6 +836,45 @@ chargés par le ministre de l'agriculture, sous son contrôle, de faciliter l'é
 	**Modifié par**:
 
 	  - Loi n°60-808 du 5 août 1960 - art. 19 () JORF 7 août 1960
+
+
+### Chapitre VI : Aménagement agricole et forestier
+
+#### Section 3 : Dispositions pénales.
+
+###### Article 53
+
+Quiconque entravera la mise en culture de la parcelle ou de l'exploitation concédée ou qui fera utilisation irrégulière ou
+frauduleuse d'une avance consentie par application de l'article 22 de la loi du 19 février 1942 sera puni d'emprisonnement
+d'un mois à un an et d'une amende de (100 F à 8000 F) ou de l'une de ces deux peines seulement.
+
+Toute personne qui entravera la procédure de réquisition prévue à l'article 49, ou n'aura pas respecté les engagements prévus
+à l'article 50 (4°), sera punie d'un emprisonnement de quinze jours à six mois et d'une amende de 200 F à 500 F (2 F à 5 F)
+ou de l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 49, 50
+	  - Loi n°1942-02-19 art. 22
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1942-02-19 art. 32
+	  - Loi n°52-895 1952-07-26 art. 23
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
+
+	**Abrogé par**:
+
+	  - Loi n°85-1496 du 31 décembre 1985 - art. 14 () JORF 3 janvier 1986
 
 
 ### Chapitre VI : Semis et plantations forestières.
@@ -11332,6 +11371,61 @@ fleuves, rivières, canaux affluant à la mer :
 	**Anciens textes**:
 
 	  - Loi n°1865-05-31
+
+
+###### Article 434
+
+Quiconque aura jeté dans les eaux des drogues ou appâts de nature à enivrer le poisson ou à le détruire sera puni d'une
+amende de 500 à 20.000 F et d'un emprisonnement d'un à cinq ans ou de l'une de ces deux peines seulement.
+
+Ceux qui, en vue de capturer ou détruire le poisson, se servent d'explosifs, de procédés d'électrocution ou de produits ou
+moyens similaires, seront punis des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
+	  - Ordonnance 59-25 1959-01-03 art. 1 JORF 6 janvier 1959
+
+
+###### Article 434-1
+
+Quiconque aura jeté, déversé ou laissé écouler dans les cours d'eau, directement ou indirectement, des substances
+quelconques, dont l'action ou les réactions ont détruit le poisson ou nui à sa nutrition, à sa reproduction ou à sa valeur
+alimentaire, sera puni d'une amende de 500 à 800 F et d'un emprisonnement de dix jours à un an ou de l'une de ces deux
+peines.
+
+En ce qui concerne les entreprises relevant de la loi du 19 décembre 1917 relative aux établissements dangereux, insalubres
+ou incommodes, l'avis de l'inspecteur départemental des établissements classés est obligatoirement demandé, avant toute
+transaction ou poursuite judiciaire, sur les conditions dans lesquelles le contrevenant a appliqué les dispositions de la loi
+précitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Loi n°1917-12-19
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977
+
+	**Créé par**:
+
+	  - Ordonnance 59-25 1959-01-03 art. 2 JORF 6 janvier 1959
 
 
 ###### Article 439
