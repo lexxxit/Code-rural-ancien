@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1966-05-27
+Version Consolidée au 1966-06-24
 
 ###### Article 162
 
@@ -17196,6 +17196,70 @@ Les allocations sont à la charge des caisses qui les ont liquidées.
 	**Cite**:
 
 	  - Code rural 1231
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+
+###### Article 1254
+
+Les dispositions de l'article 1253 sont également applicables aux assurés des professions agricoles et forestières visés à
+l'article 1251, victimes d'accidents survenus ou de maladies constatées alors que lesdits accidents ou maladies ne pouvaient
+donner lieu à indemnisation aux termes de la législation alors en vigueur, ou à leurs ayants droit, lorsqu'ils apportent la
+preuve qu'ils auraient rempli et continuent à remplir l'ensemble des conditions exigées pour obtenir une rente par les
+dispositions nouvelles modifiant ou complétant ladite législation.
+
+Toutefois, l'allocation prend effet de la date de présentation de la demande.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1253, 1251
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+
+###### Article 1254-1
+
+Les bénéficiaires des articles 1253 et 1254, dont le droit à l'appareillage a été reconnu dans les formes légales, reçoivent
+les appareils de prothèse ou d'orthopédie nécessaires en raison de leur infirmité, suivant les modalités techniques de
+fourniture, de réparation et de renouvellement prévues pour les victimes d'accidents du travail régis par le livre IV du code
+de la sécurité sociale.
+
+Les caisses statuent sur le droit à l'appareillage dans les conditions fixées à l'article 1253 et supportent les dépenses
+résultant de l'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1253, 1254
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+
+###### Article 1255
+
+Dans les cas visés aux articles 1253, 1254 et 1254-1, la caisse d'assurances-accidents ou, selon le cas, l'Etat employeur
+sont subrogés dans les droits que la victime pourrait faire valoir contre les tiers responsables.
+
+Si l'accident ou la maladie a donné lieu à réparation, l'allocation est réduite du montant de la rente correspondant à la
+réparation accordée, éventuellement revalorisé dans les conditions fixées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1253, 1254, 1254-1
 
 	**Codifié par**:
 
