@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1994-01-01
+Version Consolidée au 1994-01-19
 
 ###### Article 1143-2
 
@@ -15486,6 +15486,11 @@ Le défaut de versement des cotisations n'exclut les assurés du bénéfice de l
 mois à compter de la mise en demeure faite par lettre recommandée avec accusé de réception. La mise en demeure devra, à peine
 de nullité, rappeler les termes du présent alinéa.
 
+Nonobstant l'application des dispositions de l'alinéa précédent, le chef d'exploitation ou d'entreprise dont l'exploitation
+ou l'entreprise fait l'objet d'une liquidation judiciaire et qui ne remplit plus les conditions pour relever d'un régime
+d'assurance maladie obligatoire peut bénéficier, à compter du jugement de liquidation judiciaire, des dispositions de
+l'article L. 161-8 du code de la sécurité sociale.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -15494,7 +15499,7 @@ de nullité, rappeler les termes du présent alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°70-365 1970-04-29 art. 4 JORF 30 avril 1970
+	  - Loi n°94-43 du 18 janvier 1994 - art. 73 () JORF 19 janvier 1994
 
 	**Nouveaux textes**:
 
@@ -15503,6 +15508,7 @@ de nullité, rappeler les termes du présent alinéa.
 
 	**Cite**:
 
+	  - Code de la sécurité sociale. - art. L161-8 (M)
 	  - Code rural 1106-1
 
 
@@ -22546,18 +22552,25 @@ transitoires prévues par le décret du 12 juin 1946.
 Les dispositions du second alinéa de l'article L. 242-13 du code de la sécurité sociale sont applicables aux assurés des
 professions agricoles et forestières.
 
+Dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, une cotisation d'assurance maladie peut être assise sur les
+rémunérations ou gains perçus par les assurés des professions agricoles et forestières.
+
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L761-2 (V)
 
 	**Cite**:
 
-	  - Code rural 1258, 1263, 1024 à 1026
+	  - Code de la sécurité sociale. - art. L242-13 (M)
+	  - Code rural 1258, 1263, 1024 à 1026, 1031-1, 1038-1
 	  - Décret n°46-1400 1946-06-12
 	  - Ordonnance 45-2250 1945-10-04 art. 32, art. 33 à 35, art. 39, art. 40
 	  - Ordonnance 45-2454 1945-10-19 art. 115, art. 116, art. 117, art. 118, art. 119, art. 120, art. 121, art. 127
 	  - Ordonnance n°45-2454 du 19 octobre 1945 - art. 116 (V)
 	  - Loi n°46-2339 1946-10-24
 	  - Loi n°46-2913 1946-12-22 art. 7
-	  - Code de la sécurité sociale. - art. L242-13 (M)
 
 	**Codifié par**:
 
@@ -22565,11 +22578,7 @@ professions agricoles et forestières.
 
 	**Modifié par**:
 
-	  - Loi n°87-588 du 30 juillet 1987 - art. 3 () JORF 31 juillet 1987
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L761-2 (V)
+	  - Loi n°94-43 du 18 janvier 1994 - art. 66 (V) JORF 19 janvier 1994
 
 
 ###### Article 1258
