@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1993-01-30
+Version Consolidée au 1993-07-13
 
 ###### Article 1143-2
 
@@ -1171,7 +1171,7 @@ b) De priver une exploitation agricole d'un bâtiment essentiel à son fonctionn
 biens dont la distance par rapport au siège de l'exploitation du demandeur est supérieur à un maximum fixé par le schéma
 directeur départemental des structures agricoles, sans que ce maximum puisse être inférieur à cinq kilomètres.
 
-4° A titre transitoire et jusqu'au 30 juin 1993, les créations ou extensions de capacité des ateliers hors sol, au-delà d'un
+4° A titre transitoire et jusqu'au 30 juin 1996, les créations ou extensions de capacité des ateliers hors sol, au-delà d'un
 seuil de capacité de production et selon des modalités fixées par décret, susceptibles de remettre en cause l'équilibre des
 structures sociales qui caractérisent cette activité.
 
@@ -1249,7 +1249,11 @@ autres que ceux servant à l'élevage piscicole.
 
 	**Modifié par**:
 
-	  - Loi n°92-613 du 6 juillet 1992 - art. 14 () JORF 7 juillet 1992
+	  - Loi n°93-895 du 6 juillet 1993 - art. 1 () JORF 13 juillet 1993
+
+	**Abrogé par**:
+
+	  - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
 
 
 ###### Article 188-3
