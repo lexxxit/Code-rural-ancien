@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1992-07-14
+Version Consolidée au 1992-09-08
 
 ###### Article 40-3
 
@@ -13868,6 +13868,10 @@ Ils fixent la nature et l'étendue de leurs opérations, les règles à suivre p
 de la société, la composition du capital, la proportion dans laquelle chacun des membres peut contribuer à la constitution de
 ce capital et les conditions dans lesquelles il peut se retirer.
 
+Ils peuvent prévoir la possibilité pour les caisses de crédit agricole mutuel d'admettre comme sociétaires les personnes pour
+lesquelles elles ont effectué une des opérations visées aux articles 1er, 5, 6 et 7 de la loi n° 84-46 du 24 janvier 1984
+relative à l'activité et au contrôle des établissements de crédit.
+
 Ils règlent l'étendue et les conditions de la responsabilité qui incombe à chacun des sociétaires dans les engagements pris
 par la caisse, conformément aux dispositions de l'article 621.
 
@@ -13879,10 +13883,17 @@ Les statuts des caisses de crédit agricole mutuel doivent en outre, rappeler ex
 	**Cite**:
 
 	  - Code rural 618, 621, 637, 640, 647
+	  - Loi n°84-46 1984-01-24 art. 1, art. 5, art. 6, art. 7
+	  - Loi n°84-46 du 24 janvier 1984 - art. 6 (M)
+	  - Loi n°84-46 du 24 janvier 1984 - art. 7 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°92-916 du 2 septembre 1992 - art. 1 () JORF 8 septembre 1992
 
 
 ###### Article 627
