@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1996-12-29
+Version Consolidée au 1996-12-31
 
 # Livre Ier : Régime du sol
 
@@ -3135,6 +3135,100 @@ L'exécution de ce service public de l'équarrissage est assurée selon les moda
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
+###### Article 264-1
+
+Le préfet est chargé, dans chaque département, de l'exécution du service public de l'équarrissage et passe à cet effet, selon
+les procédures définies par le code des marchés publics, les marchés nécessaires, dont il est la personne responsable au sens
+de l'article 44 de ce dernier code.
+
+Toutefois, lorsque la nature des opérations le justifie, un marché unique peut être passé avec la même entreprise pour
+plusieurs départements. En ce cas, le marché désigne le préfet responsable au sens de l'article 44.
+
+La durée de ces marchés ne peut excéder cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des marchés publics 44
+
+	**Nouveaux textes**:
+
+	  - Code rural 264-2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Décret n°96-1229 du 27 décembre 1996 - art. 1 () JORF 31 décembre 1996
+
+
+###### Article 264-2
+
+Les marchés mentionnés à l'article 264-1 comportent, notamment, un cahier des clauses administratives particulières et un
+cahier des clauses techniques particulières qui doivent être conformes à des documents types établis par arrêté du ministre
+chargé de l'agriculture.
+
+Le cahier des clauses administratives particulières définit notamment :
+
+- la nature des prestations faisant l'objet du marché en spécifiant si celles-ci doivent être assurées par une entreprise
+unique ou peuvent être confiées à un groupement d'entreprises conjointes ;
+
+- le mode de rémunération des opérations dont l'exécution est confiée au titulaire du marché, laquelle est exclusive de toute
+rémunération perçue auprès des usagers du service public ;
+
+- les informations qui doivent être fournies à l'administration par le titulaire du marché pour apprécier la qualité et le
+coût du service ;
+
+- les modalités d'information du public sur les conditions d'organisation et de fonctionnement du service.
+
+Le cahier des clauses techniques particulières définit les conditions techniques de collecte, de transport, de transformation
+et, le cas échéant, de destruction des cadavres d'animaux et déchets d'abattoirs, dans le respect des garanties sanitaires
+assuré, notamment, par une séparation appropriée des différents types de déchets aux divers stades d'exécution du service et
+par l'établissement de documents permettant le contrôle des opérations réalisées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 264-1
+
+	**Nouveaux textes**:
+
+	  - Code rural 264-3
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Décret n°96-1229 du 27 décembre 1996 - art. 1 () JORF 31 décembre 1996
+
+
+###### Article 264-3
+
+Dans chaque commune, l'arrêté du préfet portant à la connaissance du public les noms et adresses des titulaires de marchés
+chargés de la collecte des cadavres d'animaux et des déchets d'abattoirs, ainsi que toutes informations permettant de joindre
+ceux-ci sans délai, est affiché à la mairie. Un extrait de cet arrêté est également publié dans un organe de presse local.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural 264-4
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Décret n°96-1229 du 27 décembre 1996 - art. 1 () JORF 31 décembre 1996
+
+
 ###### Article 265
 
 I. - Sous réserve des dispositions de l'article 266, il est interdit d'enfouir, de jeter en quelque lieu que ce soit ou
@@ -3244,6 +3338,39 @@ protéger, pendant ce délai, les intérêts sanitaires.
 	**Modifié par**:
 
 	  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 268-1
+
+Lorsqu'un cadavre d'animal n'a pas été enlevé dans le délai de vingt-quatre heures imparti par l'article 268, avis en est
+donné sans délai par le propriétaire ou le détenteur au maire de la commune sur le territoire de laquelle se trouve ce
+cadavre. Le maire met le titulaire du marché chargé de la collecte en demeure d'enlever ce cadavre immédiatement. Il informe
+aussitôt le préfet de cette mise en demeure.
+
+Lorsque le propriétaire de cadavres d'animaux reste inconnu à l'expiration d'un délai de douze heures après leur découverte,
+le maire de la commune sur le territoire de laquelle se trouve ce cadavre en avise le titulaire du marché chargé de la
+collecte et l'invite à procéder à l'enlèvement de ce cadavre dans les vingt-quatre heures. Faute pour le titulaire d'avoir
+satisfait à cette demande, il est mis en demeure par le maire de procéder immédiatement à l'enlèvement. Le préfet est
+aussitôt informé de cette mise en demeure.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 268
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Décret n°96-1229 du 27 décembre 1996 - art. 2 () JORF 31 décembre 1996
 
 	**Abrogé par**:
 
@@ -16022,6 +16149,73 @@ salariées des professions agricoles.
 
 	  - Code de la sécurité sociale. - art. L351-15 (M)
 	  - Code de la sécurité sociale. - art. L351-16 (M)
+
+
+###### Article 1121-3
+
+I. - Les chefs d'exploitation ou d'entreprise agricoles dont la retraite servie à titre personnel prend effet postérieurement
+au 31 décembre 1996 et qui justifient, dans le régime des personnes non salariées agricoles et dans un ou plusieurs autres
+régimes obligatoires, d'une durée d'assurance et de périodes reconnues équivalentes au moins égale à celle requise en
+application de l'article L. 351-1 du code de la sécurité sociale pour ouvrir droit à une pension à taux plein du régime
+général de la sécurité sociale, ainsi que d'une durée minimum effectuée en qualité de chef d'exploitation ou d'entreprise
+agricoles à titre exclusif ou principal, peuvent bénéficier d'une majoration de leur retraite proportionnelle. Cette
+majoration a pour objet de porter le montant de celle-ci à un minimum qui est fixé par décret et qui tient compte de la durée
+d'assurance en tant que chef d'exploitation ou d'entreprise agricoles à titre exclusif ou principal. Ce décret fixe également
+les conditions dans lesquelles des années d'activité accomplies en qualité d'aide familial majeur pourront être assimilées à
+des années de chef d'exploitation pour déterminer ladite majoration.
+
+II. - Les chefs d'exploitation ou d'entreprise agricoles, dont la retraite a pris effet avant le 1er janvier 1997 et qui
+justifient de périodes minimum d'activité non salariée agricole et d'assurance en tant que chef d'exploitation ou
+d'entreprise agricoles accomplies à titre exclusif ou principal, peuvent bénéficier d'une majoration de la retraite
+proportionnelle qui leur est servie à titre personnel. Cette majoration a pour objet de porter le montant de celle-ci à un
+minimum qui est fixé par décret et qui tient compte de leurs périodes d'assurance en tant que chef d'exploitation ou
+d'entreprise agricoles et d'activité non salariée agricole accomplies à titre exclusif ou principal. Ce même décret précise
+les modalités suivant lesquelles seront déterminées les périodes d'assurance précédemment mentionnées.
+
+III. - Les dispositions des I et II prennent effet au 1er janvier 1997. Toutefois, à titre transitoire, la majoration
+résultant de l'application desdites dispositions est prise en compte à concurrence du tiers pour les pensions versées au
+titre de l'année 1997 et des deux tiers pour les pensions versées au titre de l'année 1998.
+
+IV. - Les personnes dont la retraite a pris effet ou prendra effet avant le 31 décembre 1997 bénéficient, à compter du 1er
+janvier 1997 ou de la date de prise d'effet de leur retraite, d'une majoration de la retraite forfaitaire qui leur est servie
+à titre personnel, lorsqu'elles justifient de périodes de cotisation à ladite retraite ou de périodes assimilées déterminées
+par décret et qu'elles ne sont pas titulaires d'une retraite proportionnelle ou sont titulaires d'une retraite
+proportionnelle inférieure aux minima fixés en application du I ci-dessus pour celles prenant leur retraite en 1997 et du II
+ci-dessus pour celles dont la retraite a pris effet avant le 31 décembre 1996. Le montant de cette majoration, qui prend
+effet progressivement en 1997 et 1998, est fixé par décret en tenant compte des durées justifiées par l'intéressé au titre du
+présent alinéa.
+
+La majoration de la retraite forfaitaire prévue au présent paragraphe n'est pas cumulable avec la majoration de la retraite
+proportionnelle prévue aux I et II ci-dessus dont les dispositions sont appliquées en priorité.
+
+Toutefois, dans les cas où l'application de la majoration de la retraite forfaitaire s'avère plus favorable à l'intéressé, il
+bénéficie des dispositions du premier alinéa du présent paragraphe, dans des conditions et limites qui sont fixées par décret
+en fonction de sa retraite proportionnelle et de ses périodes d'assurance en qualité de chef d'exploitation ou d'entreprise
+agricoles visées aux I ou II ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 125 () JORF 31 décembre 1996
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L732-30 (M)
+	  - Code rural L732-30
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L351-1 (M)
 
 
 ###### Article 1122
