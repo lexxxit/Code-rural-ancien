@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1972-01-06
+Version Consolidée au 1972-05-02
 
 ###### Article 162
 
@@ -8240,6 +8240,37 @@ modalités de liquidation et de recouvrement des contributions prévues ci-dessu
 	  - Loi n°93-1444 du 31 décembre 1993 - art. 20 () JORF 5 janvier 1994 en vigueur le 1er janvier 1994
 
 
+###### Article 371
+
+Le ministre de l'agriculture, assisté du conseil national de la chasse et de la faune sauvage, détermine, par arrêtés publiés
+au moins dix jours à l'avance, les jours et heures des ouvertures et les jours des clôtures des chasses, soit à tir, soit à
+courre, à cor et à cri, soit au vol, dans chaque département.
+
+Il pourra, dans le même délai, sur l'avis du conseil national de la chasse et de la faune sauvage, retarder la date de
+l'ouverture et avancer la date de la clôture de la chasse, à l'égard d'une espèce de gibier déterminée.
+
+Il pourra, en outre, dans les mêmes conditions, retarder l'ouverture de la chasse pour toute espèce de gibier, dans tout ou
+partie des bois et forêts classés en vertu de l'article 181 du code forestier en prévision des dangers d'incendie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°86-571 1986-03-14 art. 1 JORF 18 mars 1986
+
+	**Cite**:
+
+	  - Code forestier 181
+
+	**Anciens textes**:
+
+	  - Loi n°1844-05-03 art. 3
+
+
 ###### Article 371-1
 
 Le ministre de l'agriculture, le conseil national de la chasse et de la faune entendu, peut, en vue d'assurer la survivance
@@ -8712,6 +8743,28 @@ La procédure de l'amende de composition ne s'applique pas aux contraventions pr
 
 ### Chapitre III : De la destruction des animaux nuisibles.
 
+###### Article 393
+
+Le ministre de l'agriculture, assisté du conseil national de la chasse et de la faune sauvage, prend des arrêtés pour
+déterminer les espèces d'animaux malfaisants ou nuisibles que le propriétaire, possesseur ou fermier peut, en tout temps,
+détruire sur ses terres et les conditions d'exercice de ce droit.
+
+Indépendamment des dispositions prévues à l'alinéa précédent, tout propriétaire ou fermier peut repousser ou détruire, même
+avec des armes à feu, mais à l'exclusion du collet et de la fosse, les bêtes fauves qui porteraient dommages à ses
+propriétés ; toutefois, il n'est pas autorisé à détruire les sangliers ni, dans les départements où est institué un plan de
+chasse en application de l'article 373, les grands gibiers faisant l'objet de ce plan.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 373
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
 ###### Article 394
 
 Sans préjudice des dispositions de l'article 90, 9°, de la loi municipale du 5 avril 1884, modifiée par la loi du 2 avril
@@ -8827,20 +8880,54 @@ Le conseil supérieur de la chasse est doté de la personnalité civile et de l'
 	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
 
 
-###### Article 399
+###### Article 398
 
-Les dépenses de fonctionnement des conseils régionaux de la chasse sont couvertes à l'aide des ressources dont dispose le
-conseil supérieur de la chasse.
-
-Les conseils régionaux de la chasse donnent leur avis sur toutes les questions ayant trait à l'organisation et à
-l'amélioration de la chasse ainsi que sur la réglementation de la chasse à établir dans leurs régions respectives ; leurs
-propositions sont transmises au conseil supérieur de la chasse.
+Le budget des fédérations départementales est, avant d'être exécuté, soumis à l'ingénieur des eaux et forêts chargé du
+contrôle technique et financier. Il a notamment le droit d'y inscrire les dépenses obligatoires résultant de la disposition
+ci-dessus. La gestion d'office de ce budget peut, en outre, lui être confiée le cas échéant.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L221-6
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-06-28 art. 4
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
+###### Article 400
+
+Les conseils régionaux de la chasse et les fédérations départementales des chasseurs sont soumis au contrôle financier
+institué par le décret du 25 octobre 1935.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L221-7, R221-26
+
+	**Cite**:
+
+	  - Décret n°1935-10-25
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°89-804 du 27 octobre 1989 - art. 2 (V) JORF 4 novembre 1989
+	  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
 
 	**Anciens textes**:
 
