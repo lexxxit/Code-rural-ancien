@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 2000-01-01
+Version Consolidée au 2000-02-01
 
 # Livre Ier : Régime du sol
 
@@ -12180,9 +12180,10 @@ l'accomplissement de leur mission de contrôle.
 
 ###### Article 992
 
-La durée légale du travail effectif des salariés agricoles et similaires énumérés à l'article 1144 (1° à 3°, 5° à 7°, 9° et
-10°) est fixée à trente-neuf heures par semaine. La durée quotidienne du travail effectif, par salarié ne peut excéder dix
-heures, sauf dérogation dans des conditions fixées par les décrets ci-dessous prévus.
+La durée légale du travail effectif des salariés agricoles énumérés à l'article 1144 (1° à 3°, 5° à 7°, 9° et 10°) est fixée
+à trente-cinq heures par semaine sauf pour ceux employés par les établissements publics administratifs cités au 7° dudit
+article. La durée quotidienne du travail effectif, par salarié ne peut excéder dix heures, sauf dérogation dans des
+conditions fixées par les décrets ci-dessous prévus.
 
 Des décrets fixent, en tant que de besoin, les modalités d'application de l'alinéa précédent pour l'ensemble des activités ou
 pour certaines d'entre elles, par profession ou par catégorie professionnelle, pour l'ensemble des départements ou pour une
@@ -12204,10 +12205,22 @@ ces décrets auxquelles il avait été dérogé redeviennent applicables.
 En l'absence des décrets susindiqués, les modalités d'application du premier alinéa du présent article peuvent être fixées
 par convention collective ou accord collectif étendus.
 
-La durée du travail ci-dessus fixée s'entend du travail effectif, à l'exclusion du temps nécessaire à l'habillage, aux casse-
-croûte et aux repas ainsi que des périodes d'inaction, dans les types d'activité ou pour les catégories professionnelles
-déterminées par décret. Ce temps ou ces périodes peuvent toutefois être rémunérés conformément aux usages et aux conventions
-collectives.
+La durée du travail effectif est le temps pendant lequel le salarié est à la disposition de l'employeur et doit se conformer
+à ses directives, sans pouvoir vaquer librement à des occupations personnelles.
+
+Le temps nécessaire à la restauration ainsi que les temps consacrés aux pauses sont considérés comme du temps de travail
+effectif lorsque les critères définis à l'alinéa précédent sont réunis. Même s'ils ne sont pas reconnus comme du temps de
+travail, ils peuvent faire l'objet d'une rémunération par voie conventionnelle ou contractuelle.
+
+Sans préjudice des clauses des conventions collectives, des usages ou des dispositions du contrat de travail l'assimilant à
+du temps de travail effectif, le temps nécessaire à l'habillage et au déshabillage fait l'objet de contreparties, soit sous
+forme de repos, soit financières, devant être déterminées par convention ou accord collectif ou à défaut par le contrat de
+travail, lorsque le port d'une tenue de travail est imposé sur le lieu de travail par des dispositions législatives ou
+réglementaires, par des clauses conventionnelles, le règlement intérieur ou le contrat de travail.
+
+Une durée équivalente à la durée légale peut être instituée dans les professions et pour des emplois déterminés comportant
+des périodes d'inaction soit par décret, pris après conclusion d'une convention ou d'un accord de branche, soit par décret en
+Conseil d'Etat. Ces périodes sont rémunérées conformément aux usages ou aux conventions ou accords collectifs.
 
 **Nota:**
 
@@ -12221,19 +12234,72 @@ des décrets pris pour l'application du présent article, est punie de la peine 
 
 	  - Code rural 1144
 
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°93-1313 1993-12-20 art. 46 III JORF 21 décembre 1993
-
 	**Nouveaux textes**:
 
+	  - Code rural L713-2
+	  - Code rural L713-3
+	  - Code rural L713-5
 	  - Code rural - art. L713-2 (M)
 	  - Code rural - art. L713-3 (M)
 	  - Code rural - art. L713-5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-37 2000-01-19 art. 33 II (prise en compte du temps nécessaire à l'habillage, date d'effet au 1er janvier 2001), III (date d'effet de la réduction du temps de travail en fonction des effectifs)
+
+	**Modifié par**:
+
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 33 () JORF 20 janvier 2000 en vigueur le 1er février 2000
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 992 bis
+
+Une période d'astreinte s'entend comme une période pendant laquelle le salarié, sans être à la disposition permanente et
+immédiate de l'employeur, a l'obligation de demeurer à son domicile ou à proximité afin d'être en mesure d'intervenir pour
+effectuer un travail au service de l'entreprise, la durée de cette intervention étant considérée comme un temps de travail
+effectif.
+
+Ces astreintes sont mises en place par des conventions ou accords collectifs étendus ou des accords d'entreprise ou
+d'établissement, qui en fixent le mode d'organisation ainsi que la compensation financière ou sous forme de repos à laquelle
+elles donnent lieu. A défaut de conclusion d'une convention ou accord, les conditions dans lesquelles les astreintes sont
+organisées et les compensations financières ou en repos auxquelles elles donnent lieu sont fixées par l'employeur après
+information et consultation du comité d'entreprise ou, en l'absence de comité d'entreprise, des délégués du personnel s'il en
+existe, et après information de l'inspecteur du travail.
+
+La programmation individuelle des périodes d'astreinte doit être portée à la connaissance de chaque salarié concerné quinze
+jours à l'avance, sauf circonstances exceptionnelles et sous réserve que le salarié en soit averti au moins un jour franc à
+l'avance. En fin de mois, l'employeur doit remettre à chaque salarié concerné un document récapitulant le nombre d'heures
+d'astreinte effectuées par celui-ci au cours du mois écoulé ainsi que la compensation correspondante. Ce document, qui est
+tenu à la disposition des agents de contrôle de l'inspection du travail, est conservé pendant une durée d'un an.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L713-5
+	  - Code rural - art. L713-5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 33 () JORF 20 janvier 2000 en vigueur le 1er février 2000
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 992-1
@@ -12267,35 +12333,104 @@ d'instruction qu'il estime utiles.
 
 ###### Article 992-2
 
-Les heures supplémentaires effectuées au-delà de la durée hebdomadaire du travail fixée par l'article 992 ou de la durée
-considérée comme équivalente, en application du dernier alinéa de cet article, donnent lieu à une majoration de :
+Dans les établissements ou les exploitations assujettis à la réglementation de la durée du travail, les heures
+supplémentaires effectuées au-delà de la durée hebdomadaire du travail fixée par l'article 992 ou de la durée considérée
+comme équivalente sont régies par les dispositions suivantes :
 
-25 p. 100 pour les huit premières heures ;
+I. - Chacune des quatre premières heures supplémentaires (Dispositions déclarées non conformes à la Constitution par décision
+du Conseil constitutionnel n° 99-423 DC du 13 janvier 2000) donne lieu à une bonification de 25 %.
 
-50 p. 100 pour les heures suivantes.
+(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 99-423 DC du 13 janvier
+2000).
 
-**Nota:**
+Une convention ou un accord collectif étendu ou une convention ou un accord d'entreprise ou d'établissement détermine les
+modalités de la bonification qui peut donner lieu soit à l'attribution d'un repos, pris selon les modalités définies à
+l'article 993-1, soit au versement d'une majoration de salaire équivalente. A défaut de convention ou d'accord, la
+bonification est attribuée sous forme de repos.
 
-Nota : Décret 91-830 du 27 août 1991 art. 1 : toute infraction aux dispositions du présent article du code rural est punie de
-la peine d'amende prévue pour les contraventions de la 4e classe.
+(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 99-423 DC du 13 janvier
+2000).
+
+(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 99-423 DC du 13 janvier
+2000).
+
+(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 99-423 DC du 13 janvier
+2000).
+
+II. - Chacune des quatre heures supplémentaires effectuées au-delà de la quatrième donne lieu à une majoration de salaire de
+25 % et les heures suivantes à une majoration de 50 %.
+
+III. - Une convention ou un accord collectif étendu ou une convention ou un accord d'établissement peut, sans préjudice des
+dispositions de l'article 993, prévoir le remplacement de tout ou partie du paiement des heures supplémentaires, ainsi que
+des majorations prévues au II ci-dessus, par un repos compensateur équivalent.
+
+Dans les entreprises ou exploitations non assujetties à l'obligation visée par l'article L. 132-27 du code du travail, ce
+remplacement est subordonné en l'absence de convention ou d'accord collectif étendu à l'absence d'opposition, lorsqu'ils
+existent, du comité d'entreprise ou des délégués du personnel.
+
+La convention ou l'accord d'entreprise ou le texte soumis à l'avis du comité d'entreprise ou des délégués du personnel
+mentionné aux deux alinéas précédents peut adapter les conditions et les modalités d'attribution et de prise du repos
+compensateur à l'entreprise ou l'exploitation.
+
+Ne s'imputent pas sur le contingent annuel d'heures supplémentaires prévu à l'article 993-2 les heures supplémentaires
+donnant lieu à un repos équivalent à leur paiement et aux bonifications ou majorations y afférentes.
+
+Les heures supplémentaires se décomptent par semaine civile qui débute le lundi à 0 heure et se termine le dimanche à 24
+heures. Toutefois, un accord d'entreprise peut prévoir que la semaine civile débute le dimanche à 0 heure et se termine le
+samedi à 24 heures.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 992
+	  - Code rural 992, 993, 993-1, 993-2
+	  - Code du travail - art. L132-27 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural L713-7
+	  - Code rural - art. L713-7 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 33 () JORF 20 janvier 2000 en vigueur le 1er février 2000
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 992-3
+
+Les dispositions des articles L. 212-3, L. 212-7-1 et L. 221-16-1 du code du travail sont applicables aux salariés mentionnés
+à l'article 992.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Créé par**:
 
-	  - Ordonnance 82-109 1982-01-30 art. 3 JORF 31 janvier 1982 en vigueur le 1er février 1982
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 33 () JORF 20 janvier 2000 en vigueur le 1er février 2000
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L713-7 (M)
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code du travail - art. L212-3 (Ab)
+	  - Code du travail - art. L212-7-1 (AbD)
+	  - Code du travail - art. L221-16-1 (AbD)
+	  - Code rural 992
 
 
 ###### Article 993
@@ -12357,11 +12492,10 @@ de la peine d'amende prévue pour les contraventions de la 4e classe.
 
 ###### Article 993-1
 
-Le repos prévu aux 2e et 3e alinéas de l'article 993 ne peut être pris que par journée entière, chacune étant réputée
-correspondre à huit heures de repos compensateur, à la convenance du salarié, en dehors d'une période fixée par voie
-réglementaire. Ce repos qui est assimilé à une période de travail effectif pour le calcul des droits du salarié, donne lieu à
-une indemnisation qui ne doit entrainer aucune diminution par rapport à la rémunération que le salarié aurait perçu s'il
-avait accompli son travail.
+Le repos prévu aux deuxième, troisième et quatrième alinéas de l'article 993 peut être pris selon deux formules, la journée
+entière ou la demi-journée, à la convenance du salarié, en dehors d'une période définie par voie réglementaire. Ce repos qui
+est assimilé à une période de travail effectif pour le calcul des droits du salarié, donne lieu à une indemnisation qui ne
+doit entrainer aucune diminution par rapport à la rémunération que le salarié aurait perçu s'il avait accompli son travail.
 
 Un décret détermine, pour les travailleurs des entreprises qui ne relèvent pas d'un accord conclu, en ce domaine, entre des
 organisations syndicales d'employeurs et de salariés les plus représentatives au plan national :
@@ -12374,9 +12508,10 @@ Les conditions dans lesquelles l'attribution du repos compensateur peut être di
 fonctionnement de l'entreprise ou de l'exploitation.
 
 Le repos compensateur doit obligatoirement être pris dans un délai maximum de deux mois suivant l'ouverture du droit sous
-réserve des cas de report définis par décret. L'absence de demande de prise du repos par le salarié ne peut entraîner la
-perte de son droit au repos. Dans ce cas, l'employeur est tenu de lui demander de prendre effectivement ses repos dans un
-délai maximum d'un an.
+réserve des cas de report définis par décret. Une convention ou un accord collectif étendu ou une convention ou un accord
+d'entreprise ou d'établissement peut fixer un délai supérieur dans la limite de six mois. L'absence de demande de prise du
+repos par le salarié ne peut entraîner la perte de son droit au repos. Dans ce cas, l'employeur est tenu de lui demander de
+prendre effectivement ses repos dans un délai maximum d'un an.
 
 A défaut d'accord entre des organisations syndicales d'employeurs et de salariés les plus représentatives au plan national,
 un décret fixe également les modalités d'application du présent article en cas d'activités saisonnières.
@@ -12396,31 +12531,44 @@ de la peine d'amende prévue pour les contraventions de la 4e classe.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°98-461 1998-06-13 art. 8 VI, VII JORF 14 juin 1998
-	  - Loi n°98-461 du 13 juin 1998 - art. 8 () JORF 14 juin 1998
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L713-9 (M)
-
 	**Cite**:
 
 	  - Code rural 993
+
+	**Nouveaux textes**:
+
+	  - Code rural L713-9
+	  - Code rural - art. L713-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°2000-37 2000-01-19 art. 33 VII, VIII JORF 20 janvier 2000 en vigueur le 1er février 2000
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 33 () JORF 20 janvier 2000 en vigueur le 1er février 2000
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 993-2
 
 Un décret détermine un contingent annuel d'heures supplémentaires pouvant être effectuées après information, s'ils existent,
-du comité d'entreprise ou, à défaut, des délégués du personnel.
+du comité d'entreprise ou, à défaut, des délégués du personnel. Ce contingent est réduit lorsque la durée hebdomadaire de
+travail varie dans des conditions prévues par une convention ou un accord collectif définis à l'article L. 212-8 du code du
+travail. Toutefois, cette réduction n'est pas applicable lorsque la convention ou l'accord collectif prévoit une variation de
+la durée hebdomadaire de travail dans les limites de trente et une à trente-neuf heures ou un nombre d'heures au-delà de la
+durée légale hebdomadaire inférieur ou égal à soixante-dix heures par an.
 
 Un contingent supérieur ou inférieur à celui qui est ci-dessus prévu peut être fixé par une convention collective ou un
 accord collectif étendus.
+
+Pour le calcul du contingent fixé par le décret prévu au premier alinéa et du contingent mentionné au deuxième alinéa, sont
+prises en compte les heures effectuées au-delà de trente-cinq heures par semaine.
 
 A défaut de détermination du contingent par voie conventionnelle, les modalités de son utilisation doivent donner lieu, au
 moins une fois par an, à une consultation du comité d'entreprise ou des délégués du personnel, s'ils existent, à moins que
@@ -12428,22 +12576,33 @@ celles-ci ne soient prévues par une convention ou un accord d'entreprise.
 
 **Nota:**
 
-Nota : Décret 91-830 du 27 août 1991 art. 1 : toute infraction aux dispositions du présent article du code rural est punie de
-la peine d'amende prévue pour les contraventions de la 4e classe.
+Nota - Décret 91-830 du 27 août 1991, art. 1 : toute infraction aux dispositions du présent article du code rural est punie
+de la peine d'amende prévue pour les contraventions de la 4e classe.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L713-11
+	  - Code rural - art. L713-11 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 82-109 1982-01-30 art. 6 JORF 31 janvier 1982 en vigueur le 1er février 1982
+	  - Loi n°2000-37 2000-01-19 art. 33 IX, X JORF 20 janvier 2000 en vigueur le 1er février 2000
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 33 () JORF 20 janvier 2000 en vigueur le 1er février 2000
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L713-11 (M)
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code du travail - art. L212-8 (Ab)
 
 
 ###### Article 993-3
@@ -12484,12 +12643,14 @@ la peine d'amende prévue pour les contraventions de la 4e classe.
 
 ###### Article 994
 
-L'exécution d'heures supplémentaires ne peut avoir pour effet de porter à plus de quarante-six heures la durée moyenne
+L'exécution d'heures supplémentaires ne peut avoir pour effet de porter à plus de quarante-quatre heures la durée moyenne
 hebdomadaire de travail calculée sur une période quelconque de douze semaines consécutives, et à plus de quarante-huit heures
 la durée de travail au cours d'une même semaine.
 
 A titre exceptionnel, pour certains types d'activités, dans certaines régions ou dans certaines entreprises, des dérogations
-applicables à des périodes déterminées peuvent être apportées à la limite de quarante-six heures fixée ci-dessus.
+applicables à des périodes déterminées peuvent être apportées à la limite de quarante-quatre heures fixée ci-dessus. Un
+décret pris après conclusion d'une convention ou d'un accord collectif de branche peut prévoir que la durée hebdomadaire
+calculée sur une période de douze semaines consécutives ne peut dépasser quarante-six heures.
 
 En outre, en cas de circonstances exceptionnelles, notamment de travaux dont l'exécution ne peut être différée, certaines
 entreprises peuvent être autorisées à dépasser, pendant une période limitée, le plafond de quarante-huit heures fixé au
@@ -12500,9 +12661,9 @@ entreprises d'un même secteur, l'autorisation accordée peut concerner l'ensemb
 Le comité d'entreprise ou, à défaut, les délégués du personnel donnent leur avis sur ces dérogations. Cet avis est transmis à
 l'inspecteur des lois sociales en agriculture.
 
-Toutefois, pour les entreprises et exploitations agricoles occupant des salariés définis aux 1°, 2°, 3°, 5°, 6° 9° et 10° de
+Toutefois, pour les entreprises et exploitations agricoles occupant des salariés définis aux 1°, 2°, 3°, 5°, 6°, 9° et 10° de
 l'article 1144, ainsi que les établissements figurant au 7° du même article qui ont une activité de production agricole, la
-limite de quarante-six heures est calculée sur une période de douze mois consécutifs ; dans les mêmes entreprises, et
+limite de quarante-quatre heures est calculée sur une période de douze mois consécutifs ; dans les mêmes entreprises, et
 exploitations et établissements, le plafond de soixante heures mentionné au troisième alinéa du présent article peut être
 dépassé à la condition que le nombre d'heures supplémentaires effectuées au-delà de ce plafond n'excède pas soixante heures
 au cours d'une période de douze mois consécutifs.
@@ -12519,6 +12680,15 @@ des décrets pris pour l'application du présent article, est punie de la peine 
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code rural 1144
+
+	**Nouveaux textes**:
+
+	  - Code rural L713-13
+	  - Code rural - art. L713-13 (V)
+
 	**Anciens textes**:
 
 	  - Loi n°48-401 1948-03-10 art. 3
@@ -12526,21 +12696,15 @@ des décrets pris pour l'application du présent article, est punie de la peine 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°71-1049 1971-12-24 art. 3 JORF 28 décembre 1971
-	  - Loi n°74-1116 1974-12-27 art. 1 JORF 28 décembre 1974
-	  - Loi n°75-1253 1975-12-27 art. 3 JORF 30 décembre 1975
-	  - Ordonnance 82-109 1982-01-30 art. 7 JORF 31 janvier 1982 en vigueur le 1er février 1982
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 33 () JORF 20 janvier 2000 en vigueur le 1er février 2000
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L713-13 (V)
-
-	**Cite**:
-
-	  - Code rural 1144
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 995
@@ -12611,7 +12775,7 @@ ou d'un jour précédant les congés annuels ;
 ###### Article 997
 
 Chaque semaine, le salarié agricole ou similaire a droit à un repos, à prendre le dimanche, d'une durée minimale de vingt-
-quatre heures consécutives.
+quatre heures consécutives auquel s'ajoute le repos prévu à l'article 997-2 du présent code.
 
 Lorsque le travail du dimanche est indispensable au fonctionnement de l'entreprise, le repos hebdomadaire peut être donné
 pour tout ou partie du personnel, soit toute l'année, soit à certaines époques de l'année seulement, suivant l'une des
@@ -12650,20 +12814,41 @@ deuxième, troisième, quatrième et cinquième alinéas. Dans les autres cas, l
 ces dérogations devra en faire la demande au chef du service départemental de l'inspection du travail, de l'emploi et de la
 politique sociale agricoles.
 
+Les jeunes travailleurs de moins de dix-huit ans ainsi que les jeunes de moins de dix-huit ans qui accomplissent des stages
+d'initiation ou d'application en milieu professionnel dans le cadre d'un enseignement alterné ou d'un cursus scolaire
+bénéficient de deux jours de repos consécutifs.
+
+Lorsque les caractéristiques particulières de l'activité le justifient, une convention ou un accord collectif étendu peut
+définir les conditions dans lesquelles il peut être dérogé aux dispositions du précédent alinéa pour les jeunes libérés de
+l'obligation scolaire, sous réserve qu'ils bénéficient d'une période minimale de repos de trente-six heures consécutives. A
+défaut d'accord, un décret en Conseil d'Etat définit les conditions dans lesquelles cette dérogation peut être accordée par
+l'inspecteur du travail.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°93-1313 1993-12-20 art. 44 III JORF 21 décembre 1993
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L714-1 (M)
 	  - Code rural - art. L714-2 (M)
+	  - Code rural L714-1
+	  - Code rural L714-2
+
+	**Cite**:
+
+	  - Code rural 997-2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 33 () JORF 20 janvier 2000 en vigueur le 1er février 2000
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 997-1
@@ -12707,6 +12892,44 @@ la dérogation prévue au premier alinéa peut être accordée.
 	**Créé par**:
 
 	  - Loi n°91-1 du 3 janvier 1991 - art. 20 (V) JORF 5 janvier 1991
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 997-2
+
+Tout salarié bénéficie d'un repos quotidien d'une durée minimale de onze heures consécutives.
+
+Une convention ou un accord collectif étendu peut déroger aux dispositions de l'alinéa précédent, dans des conditions fixées
+par décret, notamment pour des activités caractérisées par la nécessité d'assurer une continuité du service ou par des
+périodes d'intervention fractionnées.
+
+Ce décret prévoit également les conditions dans lesquelles il peut être dérogé aux dispositions du premier alinéa à défaut de
+convention ou d'accord collectif étendu, et en cas de travaux urgents en raison d'un accident ou d'une menace d'accident ou
+de surcroît exceptionnel d'activité.
+
+Aucun temps de travail quotidien ne peut atteindre six heures sans que le salarié bénéficie d'un temps de pause d'une durée
+minimale de vingt minutes, sauf dispositions conventionnelles plus favorables fixant un temps de pause supérieur.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L714-5 (M)
+	  - Code rural - art. L714-6 (VD)
+	  - Code rural L714-5
+	  - Code rural L714-6
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 33 () JORF 20 janvier 2000 en vigueur le 1er février 2000
 
 	**Abrogé par**:
 
@@ -15256,8 +15479,8 @@ travailleur occasionnel le salarié employé pendant une durée n'excédant pas,
 
 Un décret fixe les taux réduits ainsi que la durée maximale d'emploi y ouvrant droit.
 
-Les dispositions de l'article L. 241-13 du code de la sécurité sociale sont applicables aux cotisations dues au titre des
-salariés mentionnés à l'article 1144.
+Les dispositions des articles L. 241-13 et L. 241-13-1 du code de la sécurité sociale sont applicables aux cotisations dues
+au titre des salariés mentionnés à l'article 1144.
 
 **Liens relatifs à cet article**
 
@@ -15272,20 +15495,21 @@ salariés mentionnés à l'article 1144.
 	  - Code de la sécurité sociale. - art. L136-7-1 (M)
 	  - Code de la sécurité sociale. - art. L241-11 (M)
 	  - Code de la sécurité sociale. - art. L241-13 (M)
+	  - Code de la sécurité sociale. - art. L241-13-1 (M)
 	  - Code rural 1033-1 à 1036, 1143 à 1143-5, 1144
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 9 V
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°99-1140 du 29 décembre 1999 - art. 2 () JORF 30 décembre 1999
-	  - Loi n°99-1140 du 29 décembre 1999 - art. 9 (V) JORF 30 décembre 1999
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 33 () JORF 20 janvier 2000 en vigueur le 1er février 2000
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 	**Cité par**:
 
@@ -15304,6 +15528,17 @@ salariés mentionnés à l'article 1144.
 	  - Code rural - art. L741-21 (V)
 	  - Code rural - art. L741-22 (V)
 	  - Code rural - art. L741-9 (M)
+	  - Code rural L741-13
+	  - Code rural L741-14
+	  - Code rural L741-15
+	  - Code rural L741-16
+	  - Code rural L741-17
+	  - Code rural L741-19
+	  - Code rural L741-20
+	  - Code rural L741-21
+	  - Code rural L741-22
+	  - Code rural L741-23
+	  - Code rural L741-9
 
 
 ###### Article 1031-1
@@ -16190,29 +16425,35 @@ indemnités qui est assujettie à l'impôt sur le revenu en application de l'art
 
 ###### Article 1062-1
 
-Les dispositions des articles L. 241-6-2 et L. 241-13 du code de la sécurité sociale sont applicables aux gains et
-rémunérations versés aux salariés visés à l'article 1144.
+Les dispositions des articles L. 241-6-2, L. 241-13 et L. 241-13-1 du code de la sécurité sociale sont applicables aux gains
+et rémunérations versés aux salariés visés à l'article 1144.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1144
+	  - Code de la sécurité sociale. - art. L241-13 (M)
+	  - Code de la sécurité sociale. - art. L241-13-1 (M)
+	  - Code de la sécurité sociale. - art. L241-6-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural L741-4
+	  - Code rural - art. L741-4 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi - art. 115 (V) JORF 31 décembre 1997 en vigueur le 1er janvier 1998
-	  - Loi n°97-1269 1997-12-30 art. 115 VI, IX Finances pour 1998 JORF 31 décembre 1997 en vigueur le 1er janvier 1998
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 33 () JORF 20 janvier 2000 en vigueur le 1er février 2000
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L741-4 (M)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L241-13 (M)
-	  - Code de la sécurité sociale. - art. L241-6-2 (M)
-	  - Code rural 1144
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1062-2
@@ -21536,27 +21777,34 @@ forfaitaire d'accidents du travail.
 
 ###### Article 1157-1
 
-Les dispositions de l'article L. 241-13 du code de la sécurité sociale sont applicables aux cotisations dues au titre des
-salariés mentionnés à l'article 1144.
+Les dispositions des articles L. 241-13 et L. 241-13-1 du code de la sécurité sociale sont applicables aux cotisations dues
+au titre des salariés mentionnés à l'article 1144.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1144
+	  - Code de la sécurité sociale. - art. L241-13 (M)
+	  - Code de la sécurité sociale. - art. L241-13-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-17
+	  - Code rural - art. L751-17 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°95-882 du 4 août 1995 - art. 1 (V) JORF 5 août 1995
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 33 () JORF 20 janvier 2000 en vigueur le 1er février 2000
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L751-17 (M)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L241-13 (M)
-	  - Code rural 1144
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1158
