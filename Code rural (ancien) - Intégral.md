@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1996-05-04
+Version Consolidée au 1996-07-06
 
 # Livre Ier : Régime du sol
 
@@ -14808,9 +14808,9 @@ L'assurance prévue au présent chapitre prend en charge la couverture partielle
 féminin mentionnées aux 1°, 2°, 4° et 5° du I de l'article 1106-1 pour assurer leur remplacement dans les travaux de
 l'exploitation agricole lorsque, prenant part de manière constante à ces travaux, elles sont empêchées de les accomplir en
 raison de la maternité ou de l'arrivée à leur foyer d'un enfant confié en vue de son adoption par un service d'aide sociale à
-l'enfance ou par une oeuvre d'adoption autorisée. Le bénéfice de l'allocation de remplacement ci-dessus prévue est également
-accordé aux non salariées agricoles visées à l'article 1106-1 (1°, 2° et 5°) qui perçoivent leurs prestations du régime de
-leur activité salariée, au prorata de leur activité à temps partiel sur l'exploitation lorsqu'elles répondent à des
+l'enfance ou par un organisme autorisé pour l'adoption. Le bénéfice de l'allocation de remplacement ci-dessus prévue est
+également accordé aux non salariées agricoles visées à l'article 1106-1 (1°, 2° et 5°) qui perçoivent leurs prestations du
+régime de leur activité salariée, au prorata de leur activité à temps partiel sur l'exploitation lorsqu'elles répondent à des
 conditions de durée maximale d'activité salariée précisées par le décret en Conseil d'Etat prévu ci-après.
 
 L'allocation de remplacement est également accordée aux femmes visées à l'alinéa précédent titulaires de l'agrément mentionné
@@ -14833,7 +14833,7 @@ Les dépenses afférentes au service de cette prestation sont financées par la 
 
 	**Modifié par**:
 
-	  - Loi n°94-629 du 25 juillet 1994 - art. 25 () JORF 26 juillet 1994
+	  - Loi n°96-604 du 5 juillet 1996 - art. 57 () JORF 6 juillet 1996
 
 	**Nouveaux textes**:
 
