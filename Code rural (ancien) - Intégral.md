@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1991-01-20
+Version Consolidée au 1991-03-28
 
 ###### Article 40-3
 
@@ -14048,31 +14048,6 @@ leurs membres.
 	**Abrogé par**:
 
 	  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-
-###### Article 659
-
-Les caisses de crédit agricole mutuel placées sous le contrôle de la caisse nationale de crédit agricole escomptent les
-effets créés par les coopératives de céréales et avalisés par l'office national interprofessionnel des céréales dans les
-conditions définies à l'article 23 du code du blé annexé au décret du 23 novembre 1937.
-
-Ces effets sont réescomptés par la banque de France à la demande desdites caisses ou de la caisse nationale de crédit
-agricole.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1937-11-23
-	  - Code du blé - art. 23 (V)
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°91-317 du 25 mars 1991 - art. 8 () JORF 28 mars 1991
 
 
 ###### Article 660
