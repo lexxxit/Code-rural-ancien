@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1996-07-06
+Version Consolidée au 1996-12-27
 
 # Livre Ier : Régime du sol
 
@@ -3109,184 +3109,50 @@ préjudice des sanctions pénales qui pourront comporter la confiscation des som
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre II : De l'équarrissage des animaux.
+### Chapitre II : De l'équarrissage.
 
 ###### Article 264
 
-Les propriétaires ou détenteurs d'un ou plusieurs animaux morts pesant au total plus de 40 kg sont tenus d'avertir dans les
-plus brefs délais l'équarrisseur autorisé d'avoir à procéder à l'enlèvement du ou des cadavres.
+La collecte et l'élimination des cadavres d'animaux ainsi que celles des viandes et abats saisis à l'abattoir reconnus
+impropres à la consommation humaine et animale constituent une mission de service public qui relève de la compétence de
+l'Etat.
 
-Sous réserve des dispositions de l'article 265, ce ou ces cadavres d'animaux doivent être enlevés dans un délai de vingt-
-quatre heures après réception de l'avis du propriétaire ou du détenteur.
-
-Si, dans un délai de vingt-quatre heures, l'équarrisseur n'a pas procédé audit enlèvement, les propriétaires ou détenteurs
-sont tenus d'en aviser le maire de la commune où se trouvent les cadavres.
-
-Dans le cas où le propriétaire de cadavres d'animaux reste inconnu après un délai de douze heures, le maire fait procéder par
-un équarrisseur à l'enlèvement de ces cadavres.
+L'exécution de ce service public de l'équarrissage est assurée selon les modalités fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 265
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1942-02-02 art. 5
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°75-1336 1975-12-31 art. 1 JORF 3 janvier 1976
+	  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 265
 
-Dans les zones de pâturage estival en montagne et en cas de force majeure ou de nécessité d'ordre sanitaire, constatée par le
-directeur des services vétérinaires du département, il est procédé à la destruction, par incinération ou procédé chimique
-autorisé et à l'enfouissement des cadavres sur place ou dans un enclos communal, dans des conditions déterminées conformément
-à l'article 275.
+I. - Sous réserve des dispositions de l'article 266, il est interdit d'enfouir, de jeter en quelque lieu que ce soit ou
+d'incinérer les cadavres d'animaux ou lots de cadavres d'animaux pesant au total plus de 40 kilogrammes. Leur propriétaire ou
+leur détenteur doit les mettre, en entier et non dépouillés, à la disposition de la personne chargée de l'exécution du
+service public de l'équarrissage. Toutefois, lorsqu'il est reconnu indispensable par un vétérinaire de pratiquer sur place
+l'autopsie d'un animal, le propriétaire ou le détenteur du cadavre est tenu de remettre à la personne chargée de l'exécution
+du service public de l'équarrissage, en un seul lot, toutes les parties de l'animal qui n'ont pas été prélevées à des fins
+d'analyse.
 
-Il est interdit de jeter en tous lieux les animaux morts dont la livraison à un équarrisseur n'est pas rendue obligatoire ;
-leur destruction doit être assurée par enfouissement, incinération ou procédé chimique autorisé et dans des conditions
-déterminées conformément à l'article 275.
+Ces mesures s'appliquent sans limitation de poids, dans les abattoirs, aux cadavres d'animaux de toutes espèces morts avant
+abattage ainsi qu'aux viandes et abats saisis à l'abattoir reconnus impropres à la consommation humaine et animale.
 
-**Liens relatifs à cet article**
+Le ministre chargé de l'agriculture détermine les mesures nécessaires à l'application de ces dispositions.
 
-	**Cite**:
-
-	  - Code rural 275
-
-	**Anciens textes**:
-
-	  - Loi n°55-336 1955-03-31
-	  - Loi n°1942-02-02 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°75-1336 1975-12-31 art. 2 JORF 3 janvier 1976
-
-
-###### Article 266
-
-L'enlèvement et la destruction des cadavres et déchets d'origine animale constituent un service d'utilité publique.
-
-Autour de chaque établissement d'équarrissage dont l'ouverture a été autorisée, un périmètre est délimité par arrêté
-préfectoral sur rapport du directeur des services vétérinaires du département, après avis de la profession. Si le périmètre
-doit s'étendre sur le territoire de départements différents, chaque préfet intéressé détermine, comme ci-dessus, la fraction
-du périmètre correspondant à son département.
-
-Dans chaque département, la totalité du territoire doit être couverte par l'aire d'activité d'un ou de plusieurs
-équarrisseurs et doit comprendre, si nécessaire, un ou plusieurs dépôts de stockage.
-
-Sous réserve des dispositions de l'article 265, il est interdit d'enfouir, de jeter en quelque lieu que ce soit, ou
-d'incinérer, les cadavres d'animaux ou lots de cadavres d'animaux pesant au total plus de 40 kg. Leur propriétaire ou leur
-détenteur doit les mettre, en entier et non dépouillés, à la disposition de l'équarrisseur établi dans ledit périmètre.
-Toutefois, lorsqu'il est reconnu indispensable par un vétérinaire de pratiquer sur place l'autopsie d'un animal, le
-propriétaire ou le détenteur du cadavre est tenu de remettre à l'équarrisseur en un seul lot, toutes les parties de l'animal
-qui n'ont pas été prélevées à des fins d'analyse.
-
-Ces mesures s'appliquent sans limitation de poids aux viandes, abats et denrées animales ou d'origine animale, sous toutes
-leurs formes, impropres à la consommation, saisis par les services d'inspection vétérinaire à l'intérieur des périmètres
-cités ci-dessus ainsi qu'aux sous-produits d'abattage non récupérés à l'exception, d'une part, des viandes et abats saisis
-comme impropres à la consommation humaine mais dont l'utilisation à l'état cru ou après transformation peut être autorisée en
-vue d'assurer l'alimentation des animaux ou pour la préparation de produits destinés à l'opothérapie et, d'autre part, des
-sous-produits destinés aux industries de transformation.
-
-Le ministre de l'agriculture détermine par arrêté toutes les mesures nécessaires à l'application des dispositions prévues à
-l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 265
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1942-02-02 art. 7
-
-	**Modifié par**:
-
-	  - Loi n°75-1336 1975-12-31 art. 3 JORF 3 janvier 1976
-
-
-###### Article 267
-
-Les installations spécialisées, fonctionnant en annexe d'un abattoir avant la date de promulgation de la présente loi pour la
-préparation industrielle des débris animaux reconnus impropres à la consommation humaine, sont maintenues en activité.
-
-Les viandes et abats saisis et les sous-produits divers traités dans un tel atelier ne pourront provenir que de l'abattoir en
-annexe duquel cet atelier est autorisé.
-
-Des mesures particulières sont fixées par arrêté du ministère de l'agriculture concernant ces installations, afin qu'elles
-satisfassent obligatoirement aux conditions d'hygiène imposées aux équarrissages.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1942-02-02 art. 8
-
-	**Modifié par**:
-
-	  - Loi n°75-1336 1975-12-31 art. 4 JORF 3 janvier 1976
-
-
-###### Article 268
-
-L'ouverture d'un atelier destiné à la fabrication de farines animales en annexe d'un abattoir ne peut être autorisée par le
-préfet que dans le cas où les abattages annuels effectués dans cet établissement dépassent un tonnage minimum de viande fixé
-par arrêté du ministre de l'agriculture et sous réserve de l'pplication des dispositions du deuxième alinéa de l'article 267.
-
-Lorsque l'abattoir se trouve dans le périmètre d'un équarrissage dont les aménagements et les équipements sont reconnus
-suffisants pour recueillir et traiter en tous temps, dans les conditions réglementaires, la totalité des viandes et abats
-saisis, des sous-produits divers et des déchets provenant de cet abattoir, l'autorisation prévue à l'alinéa premier est
-accordée par arrêté du ministre de l'agriculture.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural annexe, 267
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1942-02-02 art. 9
-
-	**Modifié par**:
-
-	  - Loi n°75-1336 1975-12-31 art. 5 JORF 3 janvier 1976
-
-
-###### Article 270
-
-Dans la limite de leur périmètre, les équarrisseurs sont tenus de procéder dans les abattoirs à l'enlèvement des viandes
-saisies ainsi que des sous-produits visés à l'article 266, cinquième alinéa. Ils doivent également procéder à l'enlèvement
-des saisies diverses d'origine animale, déposées dans les postes sanitaires vétérinaires désignés par le préfet.
-
-Le délai d'enlèvement est de quarante-huit heures. Toutefois, il peut être porté à cinq jours si, dans les lieux précités,
-l'entreposage est effectué à une température égale ou inférieure à + 2 °C.
+II. - Les personnes qui possèdent ou détiennent le cadavre d'un animal peuvent le remettre à une personne agréée pour
+l'élimination des cadavres d'animaux dans les conditions prévues par décret en Conseil d'Etat. Dans ce cas, les prestations
+délivrées ne relèvent pas du service public de l'équarrissage.
 
 **Liens relatifs à cet article**
 
@@ -3297,124 +3163,175 @@ l'entreposage est effectué à une température égale ou inférieure à + 2 °C
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1942-02-02 art. 11
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°75-1336 1975-12-31 art. 6 JORF 3 janvier 1976
+	  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-###### Article 271
+###### Article 266
 
-La profession d'équarrisseur est incompatible avec toutes les professions ayant pour objet le commerce des viandes et
-produits carnés destinés à l'alimentation humaine ainsi qu'avec les professions de négociant en bétail et de marchand de
-chevaux.
+Dans les zones de pâturage estival en montagne et en cas de force majeure ou de nécessité d'ordre sanitaire, constatée par
+l'autorité administrative, il est procédé à la destruction, par incinération ou procédé autorisé, et à l'enfouissement des
+cadavres sur place ou dans un enclos communal, dans les conditions déterminées par voie réglementaire.
 
-Un agent appartenant à une administration chargée de l'inspection des ateliers d'équarrissage et des dépôts de cadavres ne
-peut exercer la profession d'équarrisseur. Il est, en outre, interdit à cet agent d'avoir des intérêts dans un établissement
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 267
+
+Les propriétaires ou détenteurs d'un cadavre d'animal ou d'un lot de cadavres d'animaux pesant au total plus de quarante
+kilogrammes sont tenus d'avertir dans les plus brefs délais la personne chargée de l'exécution du service public de
+l'équarrissage d'avoir à procéder à l'enlèvement du ou des cadavres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 268
+
+Sous réserve des dispositions de l'article 266, le ou les cadavres d'animaux visés à l'article 267 doivent être enlevés dans
+un délai de vingt-quatre heures après réception de l'avis du propriétaire ou du détenteur. Si, dans ce délai, il n'a pas été
+procédé à l'enlèvement, les propriétaires ou détenteurs sont tenus d'en aviser l'autorité administrative. Dans ce cas, ou
+lorsque le propriétaire de cadavres d'animaux reste inconnu à l'expiration d'un délai de douze heures après leur découverte,
+il est procédé à l'enlèvement de ces cadavres dans des conditions déterminées par voie réglementaire.
+
+Dans les cas visés au deuxième alinéa du I de l'article 265, le délai d'enlèvement est de quarante-huit heures. Toutefois, il
+peut être porté à cinq jours lorsque l'entreposage répond à des conditions, définies par voie réglementaire, propres à
+protéger, pendant ce délai, les intérêts sanitaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 265, 266, 267
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 269
+
+Il est interdit de jeter en tous lieux les animaux morts dont la livraison à la personne chargée de l'exécution du service
+public de l'équarrissage n'est pas rendue obligatoire par les dispositions du I de l'article 265 et de l'article 266. Leur
+destruction doit être assurée par enfouissement, incinération ou procédé autorisé et dans des conditions déterminées par voie
+réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 265, 266
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 270
+
+L'exercice de la mission d'équarrissage définie à l'article 264 du code rural est incompatible avec toute activité de
+commerce et de transport d'animaux, de viandes ou de produits carnés destinés à la consommation humaine.
+
+Toute personne chargée d'une mission d'inspection des ateliers d'équarrissage et des dépôts de cadavres d'animaux ne peut
+exercer la mission d'équarrissage. Il est en outre interdit à cette personne d'avoir des intérêts dans un établissement
 d'équarrissage.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1942-02-02 art. 12
-
-	**Modifié par**:
-
-	  - Loi n°75-1336 1975-12-31 art. 7 JORF 3 janvier 1976
-
-
-###### Article 273
-
-Les équarrisseurs autorisés peuvent en outre être soumis aux mesures édictées par des arrêtés concertés du ministre de
-l'agriculture et du ministre de la qualité de la vie, en vue du traitement de toutes les matières d'origine animale
-introduites dans leurs établissements.
-
-**Liens relatifs à cet article**
+	  - Code rural 264
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1942-02-02 art. 14
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
-
-	  - Loi n°75-1336 1975-12-31 art. 9 JORF 3 janvier 1976
-
-	**Abrogé par**:
 
 	  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
 
+	**Abrogé par**:
 
-###### Article 274
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
-Le préfet fixe chaque fois qu'il est nécessaire le prix de chacune des catégories de cadavres et des sous-produits divers en
-provenance des abattoirs et des établissements où sont entreposées, préparées ou exposées pour la vente des denrées animales
-ou d'origine animale et destinées à l'équarrissage, ainsi que, le cas échéant, les modalités financières d'enlèvement des
-mêmes produits lorsque les conditions économiques interdisent une exploitation normale de l'équarrissage, après avoir pris
-l'avis d'une commission de neuf membres comprenant un conseiller général, un maire, le directeur des services vétérinaires du
-département, le directeur départemental de l'agriculture, le directeur du service des prix, deux agriculteurs-éleveurs, un
-représentant du commerce en gros des viandes et un représentant de l'industrie de l'équarrissage.
 
-Chaque équarrisseur est tenu de présenter devant cette commission tous les documents comptables relatifs à l'activité du ou
-des établissements où sont traitées les matières premières collectées à l'intérieur de son périmètre.
+###### Article 271
 
-Cette commission peut être consultée par le préfet sur tous les problèmes départementaux relatifs à l'équarrissage.
+L'élimination des saisies vétérinaires autres que celles visées à l'article 264 ainsi que celles des déchets d'origine
+animale provenant d'abattoirs ou d'établissements de manipulation ou de préparation de denrées animales ou d'origine animale
+ne relèvent pas du service public de l'équarrissage. Elles sont assurées sous la seule responsabilité de ces abattoirs et
+établissements. Sauf s'ils sont eux-mêmes agréés ou enregistrés à cette fin, ils sont tenus d'en confier le traitement à des
+établissements agréés ou enregistrés pour cette activité par l'autorité administrative.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 264
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1898-06-21 art. 53, art. 54
-	  - Loi n°1942-02-02 art. 15
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°75-1336 1975-12-31 art. 10 JORF 3 janvier 1976
+	  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
 
 	**Abrogé par**:
 
-	  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
-
-
-###### Article 275
-
-Sauf disposition contraire, les conditions d'application du présent chapitre sont fixées, s'il y a lieu, par des arrêtés
-conjoints des ministres chargés de l'agriculture et de la qualité de la vie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Décret n°65-543 1965-07-08 art. 20 JORF 9 juillet 1965
-	  - Loi n°75-1336 1975-12-31 art. 11 JORF 3 janvier 1976
-
-	**Anciens textes**:
-
-	  - Loi n°1942-02-02 art. 16
-
-	**Abrogé par**:
-
-	  - Loi n°96-1139 du 26 décembre 1996 - art. 2 () JORF 27 décembre 1996
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ## Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale
@@ -5635,40 +5552,42 @@ titre que ce soit, les peines peuvent être portées au double du maximum fixé 
 
 ###### Article 334
 
-Seront punis de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe :
+Seront punis de l'amende prévue pour les contraventions de la 5e classe :
 
-a) Ceux qui n'auront pas effectué les déclarations prescrites à l'article 264 ou qui n'auront pas remis à l'équarrisseur les
-cadavres d'animaux ou les viandes visées au même article ;
+a) Ceux qui n'auront pas effectué les déclarations prescrites à l'article 267 ou qui n'auront pas remis à la personne chargée
+de l'exécution du service public de l'équarrissage les cadavres d'animaux ou les viandes visées au même article ;
 
-b) Les équarrisseurs qui n'auront pas procédé aux enlèvements dans les délais prescrits aux articles 264 et 270 ;
+b) Les personnes chargées de l'éxecution du service public de l'équarrissage qui n'auront pas procédé aux enlèvements dans
+les délais prescrits à l'article 268 ;
 
-c) Tout équarrisseur qui se livrera au commerce des viandes et produits carnés destinés à l'alimentation humaine ou au négoce
-du bétail et des chevaux ;
+c) Toute personne chargée d'une mission d'équarrissage qui exercera l'une des activités visées au premier alinéa de l'article
+270 ;
 
 d) Tout inspecteur d'un service d'inspection des viandes, tout préposé à ce service, tout inspecteur d'un atelier
 d'équarrissage qui exercera la profession d'équarrisseur ou aura des intérêts directs ou indirects dans un atelier
-d'équarrissage ;
+d'équarrissage.
 
-e) Tout équarrisseur qui aura contrevenu aux dispositions des arrêtés pris par le ministre de l'agriculture et le ministre de
-la qualité de la vie, en exécution des articles 273 et 275.
-
-Dans les cas de récidive ou d'infractions commises de mauvaise foi, une peine d'un à six mois d'emprisonnement pourra être
+Dans les cas de récidive ou d'infractions commises de mauvaise foi, une peine de six mois d'emprisonnement pourra être
 prononcée.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code rural 267, 268, 270
+
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°96-1139 du 26 décembre 1996 - art. 4 () JORF 27 décembre 1996
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code pénal - art. 131-13 (M)
-	  - Code rural 264, 270, 273, 275
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 335
