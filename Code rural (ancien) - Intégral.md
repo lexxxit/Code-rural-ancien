@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1980-07-20
+Version Consolidée au 1980-07-23
 
 ###### Article 162
 
@@ -11271,6 +11271,50 @@ Un décret fixera les modalités d'application du présent article.
 
 ### Chapitre II : Des pénalités.
 
+###### Article 376
+
+Seront punis d'une amende de 1.200 à 3.000 F et pourront, en outre, l'être d'un emprisonnement de dix jours à un mois :
+
+1° Ceux qui auront chassé en temps prohibé ou dans les réserves de chasse approuvées par le ministre de l'agriculture ou
+établies en application des dispositions de l'article 373-1 ;
+
+2° Ceux qui auront chassé pendant la nuit ou à l'aide d'engins et instruments prohibés, ou par d'autres moyens que ceux qui
+sont autorisés par les articles 373 et 393 ;
+
+3° Ceux qui seront détenteurs ou ceux qui seront trouvés munis ou porteurs, hors de leur domicile, de filets, engins ou
+autres instruments de chasse prohibés ;
+
+4° Ceux qui, en temps où la chasse est prohibée, auront mis en vente, vendu, acheté, transporté ou colporté du gibier, ou
+ceux qui, en toute saison, auront mis en vente, vendu, transporté, colporté ou même acheté sciemment du gibier tué à l'aide
+d'engins ou d'instruments prohibés ;
+
+5° ceux qui auront employé des drogues ou appâts qui sont de nature à enivrer le gibier ou à le détruire ;
+
+6° Ceux qui auront chassé avec appeaux, appelants ou chanterelles.
+
+Les peines déterminées par le présent article pourront être portées au double contre ceux qui auront chassé pendant la nuit,
+sur le terrain d'autrui et par l'un des moyens spécifiés au 2°, si les chasseurs étaient munis d'une arme apparente ou
+cachée.
+
+Les peines déterminées par l'article 374 et par le présent article seront toujours portées au maximum lorsque les délits
+auront été commis par les gardes champêtres ou forestiers des communes, par les gardes forestiers des établissements publics
+ainsi que par les chefs de district et agents techniques des eaux et forêts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 373, 373-1, 374, 393
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1844-05-03 art. 13
+
+
 ###### Article 377
 
 Les peines déterminées par les trois articles qui précèdent pourront être portées au double si le délinquant était en état de
@@ -12732,6 +12776,108 @@ fleuves, rivières, canaux affluant à la mer :
 	  - Loi n°1865-05-31
 
 
+###### Article 431
+
+Des décrets déterminent :
+
+1° Les temps, saisons, heures pendant lesquels la pêche est interdite dans les rivières et cours d'eau quelconques ;
+
+2° Les dimensions au-dessous desquelles les poissons de certaines espèces qui sont désignées ne peuvent être pêchés et
+doivent être rejetés en rivière ;
+
+3° Les dimensions des filets, engins et instruments de pêche dont l'usage est permis dans les divers départements pour la
+pêche des différentes espèces de poissons ;
+
+4° Le mode de vérification des mailles des filets autorisés pour la pêche de chaque espèce de poisson ;
+
+5° Les filets, engins et instruments de pêche qui sont défendus comme étant de nature à nuire au repeuplement des rivières ;
+
+6° Les procédés et modes de pêche qui, étant aussi de nature à nuire au repeuplement des rivières, doivent être prohibés ;
+
+7° Les espèces de poissons avec lesquelles il est défendu d'appâter les hameçons, nasses, filets ou autres engins ;
+
+8° Le classement des cours d'eau en deux catégories :
+
+La première catégorie comprenant ceux qui sont principalement peuplés de truites, ainsi que ceux où il paraît désirable
+d'assurer une protection spéciale des poissons de cette espèce ;
+
+La seconde catégorie comprenant tous les autres cours d'eau.
+
+Un arrêté du ministre chargé des travaux publics, des transports et du tourisme peut interdire de pêcher, en tout temps, sur
+certains ouvrages de navigation ainsi qu'aux abords desdits ouvrages, dans les limites qui seront précisées par ledit arrêté
+et qui seront signalées par des panneaux indicateurs.
+
+Toute infraction aux dispositions de l'alinéa ci-dessus sera punie d'une amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15 art. 26
+	  - Loi n°1865-05-31 art. 9 al. 2
+
+	**Modifié par**:
+
+	  - Loi n°56-465 1956-05-07 art. 2 JORF 9 mai 1956
+	  - Loi n°57-362 1957-03-23 art. 4 JORF 24 mars 1957
+
+
+###### Article 432
+
+Sera puni d'une amende de 600 à 1.200 F indépendamment des dommages-intérêts :
+
+1° Tout individu qui se livrera à la pêche d'eau douce sans la permission de celui à qui le droit de pêche appartient ;
+
+2° Tout individu qui, dans les eaux définies aux articles 402 et 410, se livrera à la pêche sans observer les conditions
+spécifiées par lesdits articles.
+
+En outre, le poisson sera saisi ; il sera, s'il est vivant, remis à l'eau ; s'il est mort, vendu sans délai dans les formes
+prescrites par l'article 458. Si le poisson n'a pu être saisi, le délinquant sera tenu d'en payer la valeur.
+
+De plus, la confiscation des filets et engins de pêche pourra être prononcée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 402, 410, 458
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15 art. 5 ter
+
+
+###### Article 433
+
+Il est interdit de placer dans les rivières domaniales, canaux et ruisseaux, aucun barrage, appareil ou établissement
+quelconque de pêcherie ayant pour objet d'empêcher entièrement le passage du poisson.
+
+Les délinquants seront condamnés à une amende de 1.200 à 3.000 F et, en outre, aux dommages-intérêts ; et les appareils ou
+établissements de pêche seront saisis et détruits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15
+
+	**Modifié par**:
+
+	  - Loi n°65-1245 1965-12-16 art. 34 JORF 18 décembre 1964
+
+
 ###### Article 434
 
 Quiconque aura jeté dans les eaux des drogues ou appâts de nature à enivrer le poisson ou à le détruire sera puni d'une
@@ -12787,6 +12933,93 @@ précitée.
 	  - Ordonnance 59-25 1959-01-03 art. 2 JORF 6 janvier 1959
 
 
+###### Article 435
+
+Quiconque se livrera à la pêche pendant les temps, saisons et heures prohibés par les règlements sera puni d'une amende de
+1.200 à 3.000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15
+
+
+###### Article 436
+
+Une amende de 600 à 1.200 F sera prononcée contre ceux qui feront usage, en quelque temps et en quelque fleuve, rivière,
+canal ou ruisseau que ce soit, de l'un des procédés ou modes de pêche ou de l'un des instruments ou engins de pêche prohibés
+par les règlements. Si le délit a eu lieu pendant le temps du frai, l'amende sera de 1.200 à 3.000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15
+
+
+###### Article 437
+
+Les mêmes peines sont prononcées contre ceux qui se serviront, pour une autre pêche, de filets permis seulement pour celle du
+poisson de petite espèce.
+
+Ceux qui seront trouvés porteurs ou munis, hors de leur domicile, d'engins ou instruments de pêche prohibés, pourront être
+condamnés à une amende qui n'excédera pas 600 F et à la confiscation des engins ou instruments de pêche, à moins que ces
+engins ou instruments ne soient destinés à la pêche dans les étangs ou réservoirs définis à l'article 438.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 438
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15
+
+
+###### Article 438
+
+Quiconque pêchera, colportera ou débitera des poissons qui n'auront point les dimensions déterminées par les règlements sera
+puni d'une amende de 600 à 1.200 F et de la confiscation desdits poissons.
+
+Sont néanmoins exceptées de cette disposition les ventes de poissons provenant des étangs ou réservoirs, mais quiconque
+colporte ou débite ces poissons est tenu de justifier de leur origine, dans les conditions qui sont fixées par un décret.
+
+Sont considérés comme des étangs ou réservoirs :
+
+1° Les fossés ou canaux appartenant à des particuliers, dès que leurs eaux cessent naturellement de communiquer avec des
+rivières ;
+
+2° Les enclos licitement aménagés en vertu des dispositions de l'article 427.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 427
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15
+
+
 ###### Article 439
 
 La même peine sera prononcée contre les pêcheurs qui appâteront leurs hameçons, nasses, filets ou autres engins, avec des
@@ -12801,6 +13034,35 @@ poissons des espèces prohibées qui sont désignées par les règlements.
 	**Anciens textes**:
 
 	  - Loi n°1829-04-15 art. 31
+
+
+###### Article 439-1
+
+Il est interdit, sous peine d'une amende de 200 à 3.000 F, d'introduire dans les eaux visées à l'article 401 du présent code,
+des poissons et crustacés qui seront reconnus, par décret, comme particulièrement nuisibles.
+
+La même peine sera prononcée contre ceux qui, sans l'autorisation du ministre chargé de l'agriculture, introduiraient, dans
+lesdites eaux, des poissons et crustacés non encore représentés dans les eaux libres du territoire. Un arrêté du ministre
+chargé de l'agriculture établira la liste des espèces qui y sont représentées.
+
+En outre, il est interdit, sous peine d'une amende de 600 à 1.200 F, d'introduire, dans celles de ces eaux qui seront
+classées dans la première catégorie, des poissons des espèces suivantes :
+
+brochet, perche, sandre et black-bass.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 401
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
 
 
 ###### Article 439-2
@@ -12923,6 +13185,51 @@ Les dispositions relatives à la pêche et au transport des poissons s'appliquen
 	**Anciens textes**:
 
 	  - Loi n°1865-05-31 art. 8
+
+
+###### Article 444
+
+Les contremaîtres, les employés de balisage et les mariniers qui fréquentent les fleuves, rivières et canaux domaniaux ne
+peuvent, sous peine d'une amende de 600 à 1.200 F et de la confiscation des engins et filets, avoir dans leurs bateaux ou
+équipages aucun filet ou engin de pêche en dehors de ceux destinés à la pêche à la ligne flottante.
+
+Ils ne peuvent pêcher de leur bateau qu'à la ligne flottante tenue à la main, pêche au lancer exceptée et à la condition de
+conformer aux prescriptions du présent titre.
+
+Ils sont tenus de souffrir la visite, sur leurs bateaux et équipages, des agents chargés de la police de la pêche, aux lieux
+où ils abordent. L'amende prévue ci-dessus sera prononcée contre ceux qui s'opposeront à cette visite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°57-362 1957-03-23 art. 6 JORF 24 mars 1957
+	  - Loi n°64-1245 1964-12-16 art. 34 JORF 18 décembre 1964
+
+
+###### Article 445
+
+Les fermiers de la pêche ou les porteurs de licences, les membres des associations de pêche et tous pêcheurs en général, sont
+tenus d'amener leurs bateaux et de faire l'ouverture de leurs loges, hangars, bannetons, huches, paniers et autres réservoirs
+et boutiques à poissons, à toute réquisition des agents préposés à la surveillance de la pêche, à l'effet de constater les
+contraventions éventuellement commises aux dispositions du présent titre.
+
+Ceux qui s'opposeront à la visite ou refuseront l'ouverture de leur boutique à poissons seront, pour ce seul fait, punis
+d'une amende de 1.200 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15 art. 34
 
 
 ### Chapitre II : Des poursuites au nom de l'administration.
