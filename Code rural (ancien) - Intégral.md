@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1971-12-30
+Version Consolidée au 1972-01-05
 
 ###### Article 162
 
@@ -10047,6 +10047,32 @@ Le délai ne court que du moment de l'affirmation pour les procès-verbaux qui s
 	  - Loi n°1829-04-15 art. 46
 
 
+###### Article 464
+
+Les infractions en matière de pêche fluviale sont, suivant les pénalités encourues, de la compétence des tribunaux
+correctionnels ou des tribunaux de police. Dans le cas où le tribunal de police est compétent, un avertissement préalable et
+sans frais est adressé aux personnes poursuivies ou civilement responsables.
+
+Les jugements rendus par les tribunaux de police sont susceptibles d'appel quel que soit le montant des condamnations
+encourues. Cet appel est porté devant les cours d'appel. Il est interjeté et jugé dans les formes et conditions établies par
+les articles 546 et suivants du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°57-362 1957-03-23 art. 7 JORF 24 mars 1957
+	  - Loi n°72-5 1972-01-03 art. 7 JORF 5 janvier 1972
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 546 (M)
+
+
 ###### Article 465
 
 L'acte de citation doit, à peine de nullité, contenir la copie du procès-verbal et de l'acte d'affirmation.
@@ -15598,6 +15624,25 @@ du ministère public et des parties intéressées.
 
 #### Section 3 : Prestations.
 
+###### Article 1038-1
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°72-4 1972-01-03 art. 2 JORF 5 janvier 1972
+
+	**Abrogé par**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 58 (Ab) JORF 1er juillet 1975 en vigueur le 1er janvier 1978
+
+
 ###### Article 1039
 
 Un décret pris en conseil des ministres après avis du Conseil d'Etat, sur la proposition du ministre chargé des affaires
@@ -19249,6 +19294,38 @@ emprisonnement de six mois au moins et de deux ans au plus ou par l'une de ces d
 	  - Code rural - art. L771-4 (V)
 
 
+###### Article 1240-1
+
+En cas d'irrégularités graves, de mauvaise gestion ou de carence du conseil d'administration d'un organisme de mutualité
+sociale agricole, ce conseil peut être suspendu ou dissous par un arrêté du ministre de l'agriculture qui nomme un
+administrateur provisoire.
+
+Si les irrégularités ou la mauvaise gestion sont imputables à un ou plusieurs membres du conseil d'administration, ceux-ci
+peuvent être révoqués, après avis dudit conseil, par arrêté du ministre de l'agriculture.
+
+Les administrateurs révoqués ainsi que les membres d'un conseil d'administration qui a été dissous ne peuvent faire partie
+d'un conseil d'administration, à quelque titre que ce soit, pendant une durée de quatre ans à compter de la révocation ou de
+la dissolution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°67-1172 1967-12-22 art. 13 JORF 29 décembre 1967
+
+	**Abrogé par**:
+
+	  - Loi n°84-1 1984-01-02 art. 5 JORF 3 janvier 1984
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L723-41 (V)
+
+
 ###### Article 1240-2
 
 Sont passibles d'une amende de 360 F à 20 000 F et d'un emprisonnement de un mois à six mois les administrateurs, directeurs
@@ -19741,6 +19818,47 @@ départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
 	  - Loi n°84-1 1984-01-02 art. 5 JORF 3 janvier 1984
 
 
+###### Article 1257
+
+Sous réserve des dispositions des articles 1258 et 1263, sont applicables, en matière d'assurances sociales en ce qui
+concerne les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, à titre transitoire et jusqu'à intervention de la loi
+prévue par l'article 7 de la loi du 22 décembre 1946, aux membres des professions agricoles et forestières définies aux
+articles 1024 à 1026 :
+
+Les titres Ier à V inclus et les articles 115 (§ 2 à 4), 116, 117, 118 (§ 1er) 119, 120, 121 et 127 de l'ordonnance n°
+45-2454 du 19 octobre 1945 modifiée ;
+
+Les titres IV à VI inclus de l'ordonnance du 4 octobre 1945 modifiée, à l'exclusion des trois premiers alinéas de l'article
+32 et des articles 33 à 35, 39 et 40 ;
+
+La loi du 24 octobre 1946 modifiée.
+
+Un décret pris sur le rapport du ministre de l'agriculture fixera dans quelles conditions seront applicables les dispositions
+transitoires prévues par le décret du 12 juin 1946.
+
+Les dispositions des articles 1031-1 et 1038-1 sont applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L761-2 (V)
+
+	**Cite**:
+
+	  - Code rural 1258, 1263, 1024 à 1026, 1031-1, 1038-1
+	  - Décret n°46-1400 1946-06-12
+	  - Ordonnance 45-2250 1945-10-04 art. 32, art. 33 à 35, art. 39, art. 40
+	  - Ordonnance 45-2454 1945-10-19 art. 115, art. 116, art. 117, art. 118, art. 119, art. 120, art. 121, art. 127
+	  - Ordonnance n°45-2454 du 19 octobre 1945 - art. 116 (V)
+	  - Loi n°46-2339 1946-10-24
+	  - Loi n°46-2913 1946-12-22 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
 ###### Article 1258
 
 Les assurés qui, avant le 5 juin 1951, ont relevé du code local des assurances sociales du 19 juillet 1911 et de la loi du 20
@@ -19775,6 +19893,44 @@ L'option exercée par l'assuré est déterminante pour le calcul des prestations
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1259
+
+Le taux des cotisations patronales ou ouvrières est fixé par décret pris en application de la loi du 17 août 1948 sur le
+rapport du ministre de l'agriculture et du ministre des finances.
+
+L'employeur est tenu, sous peine des sanctions prévues à l'article 46 de l'ordonnance du 4 octobre 1945, d'établir une
+déclaration à la caisse d'assurances sociales agricoles intéressée dans les conditions fixées par le décret susvisé.
+
+Les dispositions de l'article 1033-1 sont applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°48-1268 1948-08-17
+	  - Code rural 1033-1
+	  - Ordonnance 45-2450 1945-10-04 art. 46
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L761-6 (V)
+	  - Code rural - art. L761-7 (V)
+	  - Code rural - art. L761-8 (V)
+	  - Code rural D761-15
+	  - Code rural L761-6
+	  - Code rural L761-7
+	  - Code rural L761-8
 
 
 ###### Article 1260
