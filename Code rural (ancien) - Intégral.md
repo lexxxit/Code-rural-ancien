@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1975-05-30
+Version Consolidée au 1975-07-01
 
 ###### Article 162
 
@@ -6174,6 +6174,56 @@ dans le même troupeau, ou en contact avec des animaux atteints de péripneumoni
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
+###### Article 232
+
+La rage, lorsqu'elle est constatée chez les animaux de quelque espèce qu'ils soient, entraîne l'abattage, qui ne peut être
+différé sous aucun prétexte.
+
+Les animaux domestiques suspects de rage et ceux qu'ils auraient pu contaminer, hormis le cas où ils se trouvent déjà soumis
+à des mesures de police sanitaire par l'effet d'un arrêté portant déclaration d'infection rendu par application de l'article
+228, sont placés, par arrêté du préfet, sous la surveillance des services vétérinaires. Cet arrêté peut entraîner
+l'application des mesures énumérées au 1° et 4° de l'article 228.
+
+Tout propriétaire, toute personne ayant à quelque titre que ce soit la charge des soins ou la garde d'un animal domestique
+ayant été en contact, soit par morsure ou par griffure, soit de tout autre manière, avec un animal reconnu enragé ou suspect
+de l'être, est tenu d'en faire immédiatement la déclaration au maire de la commune où se trouve l'animal ainsi contaminé.
+
+Les carnivores domestiques ayant été en contact avec un animal reconnu enragé sont abattus. Il en est de même pour tout autre
+animal domestique mordu ou griffé par un animal reconnu enragé. Toutefois, à la demande expresse de leur propriétaire, les
+chiens, les herbivores et les porcins valablement vaccinés contre la rage pourront, dans certains cas et sous certaines
+réserves, être conservés. Ces cas et ces réserves sont déterminés par un arrêté ministériel, ainsi que les conditions et
+modalités requises pour que la vaccination soit considérée comme valable.
+
+L'abattage des animaux domestiques suspects et de ceux qu'ils auraient pu contaminer de rage peut être ordonné, dans tous les
+cas, si ces animaux se montrent dangereux ou si le respect des mesures de police sanitaire qui leur sont applicables ne peut
+être ou n'est pas assuré.
+
+L'abattage des animaux domestiques visés aux alinéas 1, 4 et 5 du présent article est effectué à la diligence des
+propriétaires ou détenteurs ou, dans le cas où ces derniers seraient défaillants, par les agents de la force publique.
+
+Lorsque la rage est constatée sur des animaux sauvages, leur abattage est effectué par les agents de la force publique, les
+lieutenants de louveterie, les agents assermentés chargés de la police de la chasse ou, à défaut, par toute personne
+titulaire d'un permis de chasser à ce requise par le maire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 228
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1898-06-21 art. 38
+
+	**Modifié par**:
+
+	  - Loi n°75-347 du 14 mai 1975 - art. 17 () JORF 15 mai 1975 en vigueur le 1er juillet 1975
+
+
 ###### Article 232-1
 
 Tout animal ayant mordu ou griffé une personne, même s'il n'est pas suspect de rage, est, si l'on peut s'en saisir sans
@@ -6190,6 +6240,29 @@ de les observer dans les vingt-quatre heures.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+
+###### Article 232-2
+
+Dans les territoires définis comme il est dit à l'article 232-1, les chiens et les chats errants dont la capture est
+impossible ou dangereuse sont abattus sur place par les agents de la force publique, les lieutenants de louveterie, les
+agents assermentés chargés de la police de la chasse, ou toute personne titulaire d'un permis de chasser à ce requise par le
+maire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 232-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 232-3
@@ -8569,6 +8642,77 @@ valable.
 	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
 
 
+###### Article 366 bis
+
+Sous réserve des conditions et formalités prescrites par l'article 22 de la loi de finances rectificative pour 1974 (n°
+74-1114 du 27 décembre 1974), le permis de chasser est délivré et visé dans les conditions suivantes :
+
+I. - Le permis de chasser est délivré par le préfet ; il est visé annuellement par le préfet ou par le maire.
+
+Sous les peines prévues à l'article 154 du code pénal, toute personne demandant la délivrance ou le visa d'un permis de
+chasser doit déclarer qu'elle ne tombe pas sous le coup des articles 368 (3°), 369 et 381 du présent code ; s'il y a lieu,
+elle doit en outre, sous les mêmes peines, faire connaître celles des dispositions de l'article 367 qui peuvent lui être
+opposées.
+
+Le permis de chasser délivré ou visé sur une fausse déclaration est nul de plein droit, et il pourra, le cas échéant, être
+fait application des peines prévues contre ceux qui auront chassé sans permis valable.
+
+Un décret en Conseil d'Etat détermine les modalités d'application des alinéas ci-dessus.
+
+II. - Les étrangers non résidents qui en font la demande sont autorisés à chasser sous réserve d'être titulaires et porteurs
+d'une licence de chasse délivrée pour une durée de quarante-huit heures, par le préfet du département où ils chassent, sur
+présentation de l'attestation d'assurance visée ci-après, au paragraphe III.
+
+Il ne pourra être attribué, au cours d'une année, plus de deux licences à une même personne. Le montant de la somme perçue
+lors de la délivrance des licences est versé à l'Office national de la chasse et réparti par celui-ci comme les redevances
+départementales.
+
+Les étrangers non résidents titulaires d'un permis de chasser dûment visé ne pourront valider leur permis qu'en payant la
+redevance cynégétique nationale instituée par l'article 22 de la loi de finances n° 74-1114 du 27 décembre 1974.
+
+III. - La demande de visa doit être accompagnée par une attestation délivrée par une entreprise admise à pratiquer en France
+l'assurance de ce risque et permettant de constater que la responsabilité civile du demandeur est garantie pour une somme
+illimitée et sans qu'aucune déchéance soit opposable aux victimes ou à leurs ayants droit, en raison des accidents corporels
+occasionnés par tout acte de chasse ou tout acte de destruction d'animaux nuisibles. L'assurance devra aussi couvrir, dans
+les mêmes conditions, la responsabilité civile encourue par le chasseur du fait de ses chiens. Le permis cesse d'être
+valable, et il est retiré provisoirement par le préfet, si le contrat d'assurance est résilié ou si la garantie prévue au
+contrat est suspendue pour quelque cause que ce soit : la résiliation du contrat ou la suspension de la garantie doivent être
+notifiée par l'entreprise d'assurance au préfet du département où l'assuré a son domicile. Un décret en Conseil d'Etat fixe
+les modalités d'application du présent alinéa.
+
+A compter du 1er juillet 1975, tout contrat d'assurance couvrant la responsabilité civile des chasseurs est, nonobstant toute
+clause contraire, réputé comporter des garanties au moins équivalentes à celles qui sont fixées par l'alinéa ci-dessus.
+
+Les peines prévues à l'article 388-2 seront appliquées à toute personne qui refusera de remettre son permis de chasser à
+l'agent de l'autorité compétente par application des dispositions du premier alinéa du présent paragraphe III.
+
+IV. - Les personnes frappées de la privation temporaire du droit d'obtenir ou de détenir un permis de chasse ou un permis de
+chasser par décision de justice prise en vertu de l'article 381 du présent code ou de l'article L. 90 du code des débits de
+boissons et des mesures contre l'alcoolisme, et celles dont le permis serait nul de plein droit en application du présent
+article, seront astreintes à l'examen institué à l'article 22 de la loi de finances rectificative pour 1974 (n° 74-1114 du 27
+décembre 1974) avant toute nouvelle délivrance d'un permis de chasser.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des débits de boissons L90
+	  - Code pénal 154
+	  - Code rural 368, 369, 381, 367, 388-2
+
+	**Nouveaux textes**:
+
+	  - Code rural L223-6, L223-8, L223-9, L223-12, L223-18, L223-17, L223-14 L223-15, L223-13, L223-5
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 2, art. 3 JORF 4 novembre 1989
+
+
 ###### Article 366 ter
 
 Le fonds de garantie institué par l'article 15 modifié de la loi n° 51-1508 du 31 décembre 1951 prend en charge, dans les
@@ -8602,6 +8746,167 @@ modalités de liquidation et de recouvrement des contributions prévues ci-dessu
 	**Abrogé par**:
 
 	  - Loi n°93-1444 du 31 décembre 1993 - art. 20 () JORF 5 janvier 1994 en vigueur le 1er janvier 1994
+
+
+###### Article 367
+
+La délivrance et le visa du permis de chasser peuvent être refusés :
+
+1° Aux alcooliques signalés à l'autorité sanitaire comme étant présumés dangereux, par application des dispositions de
+l'article L. 355-2 du code de la santé publique ;
+
+2° A tout individu qui, par une condamnation judiciaire, a été privé de l'un ou de plusieurs des droits énumérés dans
+l'article 42 du code pénal, autres que le droit de port d'armes ;
+
+3° A tout condamné à un emprisonnement de plus de six mois pour rébellion ou violence envers les agents de l'autorité
+publique ;
+
+4° A tout condamné pour délit d'association illicite, de fabrication, débit, distribution de poudre, armes ou autres
+munitions de guerre ; de menaces écrites ou de menaces verbales avec ordre ou sous condition ; d'entraves à la circulation
+des grains ; de dévastation d'arbres ou de récoltes sur pied, de plants venus naturellement ou faits de main d'homme ;
+
+5° A ceux qui ont été condamnés pour vagabondage, mendicité, vol, escroquerie, ou abus de confiance.
+
+La faculté de refuser la délivrance ou le visa du permis de chasser aux condamnés mentionnés aux 3°, 4° et 5° du présent
+article cesse cinq ans après l'expiration de la peine.
+
+Le présent article est applicable aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L223-21
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Code pénal 42
+	  - Code de la santé publique - art. L355-2 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1844-05-03 art. 6
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
+###### Article 368
+
+Le visa du permis de chasser n'est pas accordé :
+
+1° Aux mineurs qui n'ont pas seize ans accomplis ;
+
+2° Aux mineurs non émancipés âgés de plus de seize ans à moins que le visa ne soit demandé pour eux par leur père, mère ou
+tuteur ;
+
+3° Aux majeurs en tutelle, à moins qu'ils ne soient autorisés à chasser par le juge des tutelles.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L223-19
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1844-05-03 art. 7
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
+###### Article 369
+
+Le permis de chasser n'est pas délivré et le visa du permis n'est pas accordé :
+
+1° A ceux qui, par suite d'une condamnation, sont privés du droit de port d'armes ;
+
+2° A ceux qui n'ont pas exécuté les condamnations prononcées contre eux pour des infractions prévues par le présent titre ;
+
+3° A tout condamné en état d'interdiction de séjour ;
+
+4° A toute personne atteinte d'une affection médicale ou d'une infirmité, dont la liste est fixée par décret en Conseil
+d'Etat, rendant dangereuse la pratique de la chasse.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L223-20
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1844-05-03 art. 8
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
+###### Article 370
+
+A condition de satisfaire aux dispositions générales relatives à la délivrance et à la validation du permis de chasser, le
+visa est accordé par le préfet :
+
+1° Aux gardes champêtres avec l'autorisation du maire, aux agents de l'administration des travaux publics commissionnés en
+qualité de garde-pêche du service de la navigation, aux agents assermentés des parcs nationaux et aux gardes chargés de la
+surveillance des réserves naturelles, sous les réserves que le préfet juge éventuellement nécessaires dans l'intérêt de la
+police de la chasse et du service dont relèvent ces agents ;
+
+2° Aux gardes-chasse ainsi qu'aux gardes-pêche commissionnés par décision ministérielle et aux agents assermentés de l'office
+national des forêts, avec l'autorisation de leur employeur, sous les réserves que le préfet juge éventuellement nécessaires
+dans l'intérêt de la police de la chasse ;
+
+3° Aux gardes-chasse maritimes, sous les réserves que l'administration des affaires maritimes de leur résidence
+administrative juge éventuellement nécessaires dans l'intérêt de la police de la chasse et dans celui du service ;
+
+4° Aux gendarmes, sous les réserves que leurs chefs de corps jugent éventuellement nécessaires dans l'intérêt de la police de
+la chasse et de celui du service.
+
+Le permis de chasser visé dans les conditions définies aux alinéas précédents donne la faculté de chasser : pour les agents
+mentionnés au 1° et au 3°, en dehors du territoire dont la surveillance leur a été confiée ; pour les agents mentionnés au
+2°, en dehors d'un territoire fixé par l'autorité qui a délivré la commission ou son délégué. Les peines prévues à l'article
+388-2 seront appliquées auxdits agents qui auront contrevenu aux dispositions du présent alinéa.
+
+En cas de négligence dans leur service, abus ou pour toute autre cause grave, le permis de chasser peut être retiré aux
+agents mentionnés ci-dessus par décision du préfet, sur le rapport de l'autorité dont ils relèvent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 388-2
+
+	**Nouveaux textes**:
+
+	  - Code rural L222-22
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1844-05-03 art. 7
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
 
 
 ###### Article 371
@@ -8851,6 +9156,58 @@ s'il y a lieu, sans préjudice des peines de la récidive.
 	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
 
 
+###### Article 381
+
+En cas de condamnation pour l'une des infractions prévues par le présent titre ou de condamnation pour homicide involontaire
+ou pour coups et blessures involontaires survenus à l'occasion d'une action de chasse ou de destruction d'animaux nuisibles,
+les tribunaux peuvent priver l'auteur de l'infraction du droit de conserver ou d'obtenir un permis de chasser pour un temps
+qui ne peut excéder cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L228-21
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1844-05-03 art. 18
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
+###### Article 381-1
+
+En cas de condamnation pour l'une des infractions définies par les articles 374, 375, 376 et 377, par les textes relatifs à
+la chasse et à la protection de la nature en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle et
+lorsque l'infraction aura été commise avec un véhicule à moteur, les tribunaux peuvent suspendre le permis de conduire des
+auteurs de l'infraction qu'ils soient ou non conducteurs du véhicule, pour un temps qui ne peut excéder trois ans.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 374, 375, 376, 377
+
+	**Nouveaux textes**:
+
+	  - Code rural L228-25
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
 ###### Article 382
 
 Une gratification de 1 F par condamnation, à due concurrence de l'amende prononcée et recouvrée, est accordée aux gardes et
@@ -8893,6 +9250,36 @@ rapports et procès-verbaux, ou à leur appui.
 	**Anciens textes**:
 
 	  - Loi n°1844-05-03 art. 21
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
+###### Article 384
+
+Le Gouvernement exerce la surveillance et la police de la chasse dans l'intérêt général.
+
+Tous les gardes-chasse dépendant de l'office national de la chasse ou des fédérations départementales sont soumis à un statut
+national.
+
+Le ministre chargé de la chasse commissionne les gardes-chasse dépendant de l'office national de la chasse et des gardes-
+chasse dépendant des fédérations départementales des chasseurs pour exercer les fonctions de préposés des eaux et forêts
+chargés spécialement de la police de la chasse dans l'étendue des circonscriptions pour lesquelles ils sont assermentés.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L220-1, L221-8, L228-31
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1844-05-03 art. 22
 
 	**Abrogé par**:
 
@@ -8999,6 +9386,54 @@ tribunal d'instance, lequel s'assurera de leur individualité.
 	**Anciens textes**:
 
 	  - Loi n°1844-05-03 art. 26
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
+###### Article 388-1
+
+Le permis de chasser peut être suspendu par l'autorité judiciaire en cas d'homicide involontaire ou de coups et blessures
+involontaires survenus à l'occasion d'une action de chasse ou de destruction d'animaux nuisibles ou lorsque aura été
+constatée l'une des infractions suivantes telles qu'elles sont définies par les articles 374, 375, 376 et 377, par les textes
+relatifs à la chasse et à la protection de la nature, en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la
+Moselle et par les réglementations relatives au plan de chasse du grand gibier et à la chasse dans les parcs nationaux :
+
+1° La chasse de nuit sur le terrain d'autrui avec un véhicule à moteur ;
+
+2° La chasse dans les réserves approuvées et dans les territoires des parcs nationaux où la chasse est interdite ;
+
+3° La chasse dans des enclos, attenant ou non à des habitations, sans le consentement du propriétaire ;
+
+4° La destruction d'animaux des espèces protégées ;
+
+5° Les infractions au plan de chasse du grand gibier ;
+
+6° Les menaces ou violences contre des personnes, commises à l'occasion de la constatation d'une infraction de chasse.
+
+Dans les cas visés à l'alinéa précédent une copie certifiée conforme du procès-verbal constatant l'une des infractions
+énumérées ci-dessus est adressée directement au juge du tribunal d'instance dans le ressort duquel l'infraction a été
+commise. Le juge peut ordonner immédiatement la suspension du permis de chasser de l'auteur de l'infraction. Cette mesure de
+suspension est notifiée à l'intéressé par la voie administrative et copie de l'ordonnance lui est laissée.
+
+Celle-ci n'a d'effet que jusqu'à la décision statuant en premier ressort sur l'infraction constatée. Toutefois, l'auteur de
+l'infraction peut, à tout moment avant cette décision, demander au juge du tribunal d'instance la restitution provisoire de
+son permis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 374, 375, 376, 377
+
+	**Nouveaux textes**:
+
+	  - Code rural L228-22, L229-34, L228-23, L228-24
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
 
 	**Abrogé par**:
 
@@ -9186,6 +9621,38 @@ surabondant.
 
 
 ### Chapitre IV : Des groupements de chasseurs.
+
+###### Article 396
+
+Nul ne peut obtenir le visa d'un permis de chasser s'il n'est membre d'une fédération départementale des chasseurs dont les
+statuts doivent être conformes au modèle de statuts adoptés par le ministre de l'agriculture.
+
+Ces fédérations départementales des chasseurs ont pour objet la répression du braconnage, la constitution et l'aménagement
+des réserves de chasse, la protection et la reproduction du gibier. Il ne peut exister qu'une fédération départementale des
+chasseurs par département.
+
+Les présidents des fédérations départementales des chasseurs sont nommés pour trois ans par le ministre de l'agriculture. Ils
+sont remplacés dans les mêmes formes en cas de démission, décès ou révocation prononcée par le ministre de l'agriculture. Nul
+ne peut être nommé aux fonctions de président s'il est âgé de moins de vingt-trois ans ou de plus de soixante-douze ans.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L223-10, L221-2, L221-3, L221-4, R321-32
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-06-28 art. 1
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
 
 ###### Article 397
 
