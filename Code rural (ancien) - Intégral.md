@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1960-10-04
+Version Consolidée au 1961-01-27
 
 ###### Article 162
 
@@ -13652,6 +13652,201 @@ Ce fonds est alimenté par des cotisations versées par les caisses.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+
+### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées
+
+#### Section 2 : Prestations.
+
+###### Article 1106-5
+
+L'assuré choisit librement son praticien.
+
+L'action de l'assuré pour le paiement des prestations de l'assurance maladie se prescrit par deux ans, à compter du premier
+jour du trimestre civil suivant celui auquel se rapportent lesdites prestations ; pour le paiement des prestations maternité
+elle se prescrit par deux ans à partir de la date de la première constatation de la grossesse.
+
+Les dispositions des articles 1045 et 1046 sont applicables à l'assurance instituée par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1045, 1046
+
+	**Nouveaux textes**:
+
+	  - Code rural L732-15
+	  - Code rural - art. L732-15 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+#### Section 3 : Financement.
+
+###### Article 1106-8
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°76-1232 1976-12-29 art. 78 III JORF 30 décembre 1976
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L731-40 (V)
+
+
+#### Section 4 : Assujettissement et organisation.
+
+###### Article 1106-9
+
+L'unité du régime d'assurance maladie obligatoire est réalisée par la mutualité sociale agricole, qui effectue la
+compensation, ainsi que les opérations de contrôle y afférentes. Elle centralise toutes les informations nécessaires au
+fonctionnement du régime.
+
+Les personnes entrant dans le champ d'application du présent chapitre sont assurées, à leur choix, soit par les caisses de la
+mutualité sociale agricole, soit par tous organismes d'assurances visés à l'article 1235 du présent code ou au code de la
+mutualité, ou par tous autres organismes d'assurances, dès lors, d'une part, que lesdits organismes auront été habilités par
+arrêtés de leurs ministres de tutelle respectifs et, d'autre part, qu'ils auront adhéré à un règlement approuvé par arrêté du
+ministre de l'agriculture, du ministre du travail et du ministre des finances et des affaires économiques, règlement prévu à
+l'article 1106-10.
+
+Les assujettis pourront contracter librement toutes autres assurances complémentaires ou supplémentaires auprès des
+organismes de mutualité sociale agricole ou de tous organismes visés à l'article 1235 du présent code ou au code de la
+mutualité, ou de tous autres organismes d'assurances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L731-30 (V)
+	  - Code rural - art. L731-32 (VT)
+	  - Code rural L731-30
+	  - Code rural L731-32
+
+	**Cite**:
+
+	  - Code rural 1235, 1106-10
+
+
+###### Article 1106-11
+
+Les caisses de mutualité sociale agricole peuvent passer des contrats avec les sociétés mutualistes ayant créé des oeuvres
+sociales dans les conditions prévues aux articles 75 à 78 du code de la mutualité en vue d'en faire bénéficier leurs
+adhérents.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L723-9
+	  - Code rural - art. L723-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la mutualité 75 à 78
+
+
+###### Article 1106-13
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°70-365 1970-04-29 art. 4 JORF 30 avril 1970
+
+
+###### Article 1106-14
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°70-365 1970-04-29 art. 4 JORF 30 avril 1970
+
+
+###### Article 1106-15
+
+Les dispositions des articles L. 124-1 et L. 124-2 du code de la sécurité sociale sont applicables aux actes, pièces et
+documents relatifs à l'assurance obligatoire instituée par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L124-1 (V)
+	  - Code de la sécurité sociale. - art. L124-2 (V)
+
+
+###### Article 1106-16
+
+Un arrêté du ministre de l'agriculture, du ministre des finances et des affaires économiques et du ministre des postes et
+télécommunications fixe les conditions dans lesquelles bénéficient de la dispense d'affranchissement les correspondances
+relatives au service de l'assurance obligatoire instituée par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°87-39 1987-01-27 art. 13 III, IV JORF 28 janvier en vigueur le 1er janvier 1987
+	  - Loi n°87-39 du 27 janvier 1987 - art. 13 (V) JORF 28 janvier en vigueur le 1er janvier 1987
 
 
 ### Chapitre IV : Assurance vieillesse des personnes non salariées
