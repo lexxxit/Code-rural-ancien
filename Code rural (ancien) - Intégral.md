@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1995-08-05
+Version Consolidée au 1995-12-31
 
 # Livre Ier : Régime du sol
 
@@ -12121,8 +12121,8 @@ b) La fraction des cotisations dues par les assujettis affectées au service des
 sociales et de l'assurance vieillesse des non salariés agricoles ;
 
 c) Les subventions du fonds spécial d'invalidité mentionné à l'article L. 815-3-1 du code de la sécurité sociale ainsi que la
-contribution du fonds institué par l'article L. 135-1 du même code dans les conditions prévues par l'article L. 136-2 du code
-précité ;
+contribution du fonds institué par l'article L. 135-1 du même code dans les conditions prévues par l'article L. 135-2 du code
+précité, à l'exception de son 6° ;
 
 d) Le versement des soldes de compensation résultant de l'application de l'article 2 de la loi n° 74-1094 du 24 décembre
 1974 ;
@@ -12138,17 +12138,21 @@ h) Le versement de l'Etat au titre de l'allocation aux adultes handicapés.
 2. En dépenses :
 
 a) Les versements destinés au paiement par les caisses des prestations familiales, des prestations des assurances sociales et
-des prestations de l'assurance vieillesse des non salariés agricoles y compris les prestations versées en application des
-dispositions du livre IX du code de la sécurité sociale ;
+des prestations de l'assurance vieillesse des non salariés agricoles, y compris les prestations versées en application des
+dispositions du livre IX du code de la sécurité sociale et à l'exception des majorations de pensions accordées en fonction du
+nombre d'enfants pour les ressortissants du régime de protection sociale des personnes non salariées des professions
+agricoles ;
 
-b) (abrogé) ;
+b) Le remboursement de frais de personnels mis par les caisses de mutualité sociale agricole à la disposition des services
+relevant du ministre chargé de l'agriculture et compétents en matière de protection sociale agricole ;
 
 c) Le remboursement au budget général :
 
-- des deux tiers des dépenses de fonctionnement du service de l'inspection des lois sociales en agriculture ;
+- des dépenses de fonctionnement dans la limite maximale des deux tiers desdites dépenses, des services relevant du ministre
+chargé de l'agriculture et compétents en matière de protection sociale agricole ;
 
 - de la rémunération des agents de l'Etat dont l'activité est consacrée au service des prestations sociales agricoles, ainsi
-que les dépenses de matériel correspondantes ;
+que les dépenses de matériels correspondantes ;
 
 d) Les frais de fonctionnement de budget annexe du comité de gestion prévu à l'article 1003-1, de la commission supérieure
 des prestations familiales agricoles et de la commission consultative des assurances sociales agricoles ;
@@ -12159,21 +12163,22 @@ f) Les versements au fonds de réserve visé à l'article 1003-5.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code rural 1003-1, 1003-5
+	  - Loi n°74-1094 du 24 décembre 1974 - art. 2, v. init.
+	  - Code de la sécurité sociale. - art. L135-1 (M)
+	  - Code de la sécurité sociale. - art. L135-2 (MMN)
+	  - Code de la sécurité sociale. - art. L815-3-1 (M)
+
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Cite**:
-
-	  - Loi n°74-1094 du 24 décembre 1974 - art. 2, v. init.
-	  - Code de la sécurité sociale. - art. L135-1 (M)
-	  - Code de la sécurité sociale. - art. L136-2 (M)
-	  - Code de la sécurité sociale. - art. L815-3-1 (M)
-	  - Code rural 1003-1, 1003-5
-
 	**Modifié par**:
 
-	  - Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994
+	  - Loi - art. 30 () JORF 31 décembre 1995
+	  - Loi - art. 31 () JORF 31 décembre 1995
 
 	**Nouveaux textes**:
 
@@ -14539,8 +14544,8 @@ rémunérations brutes des salariés, selon des modalités fixées par décret.
 
 ###### Article 1062-1
 
-Les dispositions des articles L. 241-6-1, L. 241-6-2, L. 241-6-3 du code de la sécurité sociale sont applicables aux gains et
-rémunérations versés aux salariés visés à l'article 1144.
+Les dispositions des articles L. 241-6-1, L. 241-6-2, L. 241-6-3 et L. 241-13 du code de la sécurité sociale sont applicables
+aux gains et rémunérations versés aux salariés visés à l'article 1144.
 
 **Liens relatifs à cet article**
 
@@ -14550,7 +14555,7 @@ rémunérations versés aux salariés visés à l'article 1144.
 
 	**Modifié par**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 59 () JORF 5 février 1995
+	  - Loi n°95-1346 1995-12-30 art. 113 Finances pour 1996 JORF 31 décembre 1995
 
 	**Nouveaux textes**:
 
@@ -14558,10 +14563,77 @@ rémunérations versés aux salariés visés à l'article 1144.
 
 	**Cite**:
 
+	  - Code de la sécurité sociale. - art. L241-13 (M)
 	  - Code de la sécurité sociale. - art. L241-6-1 (M)
 	  - Code de la sécurité sociale. - art. L241-6-2 (M)
 	  - Code de la sécurité sociale. - art. L241-6-3 (M)
 	  - Code rural 1144
+
+
+###### Article 1062-2
+
+A compter du 1er octobre 1996 et jusqu'au 31 décembre 1997, et par dérogation aux dispositions de l'article 1062-1, les gains
+et rémunérations versés au cours d'un mois civil aux travailleurs occasionnels définis au treizième alinéa de l'article 1031
+sont exonérés de cotisations d'allocations familiales lorsqu'ils sont inférieurs ou égaux à 169 fois le salaire minimum de
+croissance majoré de 50 p. 100.
+
+Pour les gains et rémunérations supérieurs à ce montant  et inférieurs ou égaux à 169 fois le salaire minimum de croissance
+majoré de 60 p. 100, le montant de la cotisation d'allocations familiales est réduit de moitié.
+
+Le bénéfice des dispositions du présent article ne peut être cumulé avec celui d'une autre exonération totale ou partielle de
+cotisations patronales ou l'application de taux spécifiques, d'assiettes ou montants forfaitaires de cotisations, à
+l'exception des taux réduits en application du treizième alinéa de l'article 1031.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1062-1, 1031
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°95-1346 1995-12-30 art. 113 Finances pour 1996 JORF 31 décembre 1995
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L741-5 (V)
+
+
+###### Article 1062-3
+
+A compter du 1er octobre 1996 et jusqu'au 31 décembre 1997, les gains et rémunérations versés au cours d'un mois civil sont
+exonérés de cotisations d'allocations familiales lorsqu'ils sont supérieurs à 169 fois le salaire minimum de croissance
+majoré de 21 % et inférieurs ou égaux à 169 fois le salaire minimum de croissance majoré de 50 %.
+
+Pour les gains et rémunérations supérieurs à 169 fois le salaire minimum de croissance majoré de 50 % et inférieurs ou égaux
+à 169 fois le salaire minimum de croissance majoré de 60 %, le montant de la cotisation  d'allocations familiales est réduit
+de moitié.
+
+Les dispositions du présent article sont applicables, sous réserve des dispositions de l'article 1062-2, aux gains et
+rémunérations versés aux salariés par les exploitants agricoles employeurs de main-d'oeuvre assujettis sur la base de la
+surface minimum d'installation ou d'une équivalence à la surface minimum d'installation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1062-2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°95-1346 1995-12-30 art. 113 Finances pour 1996 JORF 31 décembre 1995
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L741-6 (Ab)
 
 
 ###### Article 1064
