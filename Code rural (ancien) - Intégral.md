@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1993-07-23
+Version Consolidée au 1993-07-28
 
 ###### Article 1143-2
 
@@ -14209,6 +14209,31 @@ brutes, selon des modalités fixées par décret.
 
 	  - Code rural - art. L731-25 (V)
 	  - Code rural - art. L741-3 (V)
+
+
+###### Article 1062-1
+
+Les dispositions de l'article L. 241-6-1 du code de la sécurité sociale sont applicables aux gains et rémunérations versés
+aux salariés visés à l'article 1144.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°93-953 du 27 juillet 1993 - art. 3 () JORF 28 juillet 1993
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L741-4 (M)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L241-6-1 (M)
+	  - Code rural 1144
 
 
 ###### Article 1063
