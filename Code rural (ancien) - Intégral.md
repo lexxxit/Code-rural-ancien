@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1998-07-05
+Version Consolidée au 1998-07-09
 
 # Livre Ier : Régime du sol
 
@@ -883,305 +883,6 @@ Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'appli
 
 
 # Livre II : Des animaux et des végétaux
-
-## Titre Ier : Vaine pâture.
-
-###### Article 189
-
-Le droit de vaine pâture appartenant à la généralité des habitants et s'appliquant en même temps à la généralité d'une
-commune ou d'une section de commune, en vertu d'une ancienne loi ou coutume, d'un usage immémorial ou d'un titre, n'est
-reconnu que s'il a fait l'objet avant le 9 juillet 1890 d'une demande de maintien non rejetée par le conseil général ou par
-un décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural L651-1
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1889-07-09 art. 2
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
-
-
-###### Article 190
-
-La vaine pâture s'exerce soit par troupeau séparé, soit au moyen du troupeau en commun, conformément aux usages locaux, sans
-qu'il puisse être dérogé aux dispositions des articles 647 et 648 du code civil et à celles du présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
-
-	**Cite**:
-
-	  - Code civil - art. 647 (V)
-	  - Code civil - art. 648 (V)
-
-	**Nouveaux textes**:
-
-	  - Code rural L651-2
-
-	**Anciens textes**:
-
-	  - Loi n°1889-07-09 art. 4
-
-
-###### Article 191
-
-Dans aucun cas et dans aucun temps, la vaine pâture ne peut s'exercer sur les prairies artificielles.
-
-Elle ne peut avoir lieu sur aucune terre ensemencée ou couverte d'une production quelconque faisant l'objet d'une récolte
-tant que la récolte n'est pas enlevée.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural L651-3
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1889-07-09 art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
-
-
-###### Article 192
-
-Le droit de vaine pâture ne fait jamais obstacle à la faculté que conserve tout propriétaire, soit d'user d'un nouveau mode
-d'assolement ou de culture, soit de se clore. Tout terrain clos est affranchi de la vaine pâture.
-
-Est réputé clos tout terrain entouré soit par une haie vive, soit par un mur, une palissade, un treillage, une haie sèche
-d'une hauteur d'un mètre au moins, soit par un fossé d'un mètre vingt centimètres à l'ouverture et de cinquante centimètres
-de profondeur, soit par des traverses en bois ou des fils métalliques distants entre eux de trente-trois centimètres au plus
-s'élevant à un mètre de hauteur, soit par toute autre clôture continue et équivalente faisant obstacle à l'introduction des
-animaux.
-
-**Nota:**
-
-Nota - Décret n° 2003-851 du 1er septembre 2003 : reprise de la vaine pâture dans l'article R. 651-1.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural L651-4
-	  - Code rural R651-1
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1889-07-09 art. 6
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
-
-
-###### Article 193
-
-L'usage du troupeau en commun n'est pas obligatoire.
-
-Tout ayant droit peut renoncer à cette communauté et faire garder par troupeau séparé le nombre de têtes de bétail qui lui
-est attribué par la répartition générale.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural L651-5
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1889-07-09 art. 7
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
-
-
-###### Article 194
-
-La quantité de bétail, proportionnée à l'étendue du terrain de chacun, est fixée, dans chaque commune ou section de commune,
-entre tous les propriétaires ou fermiers exploitants, domiciliés ou non domiciliés, à tant de têtes par hectare, d'après les
-règlements et usages locaux. En cas de difficulté, il y est pourvu par délibération du conseil municipal soumise à
-l'approbation du préfet.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural L651-6
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1889-07-09 art. 8
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
-
-
-###### Article 195
-
-Tout chef de famille domicilié dans la commune, alors même qu'il n'est ni propriétaire, ni fermier d'une parcelle quelconque
-des terrains soumis à la vaine pâture, peut mettre sur lesdits terrains, soit par troupeau séparé, soit dans le troupeau
-commun, six bêtes à laine et une vache avec son veau, sans préjudice des droits plus étendus qui lui seraient accordés par
-l'usage local ou le titre.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural L651-7
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1889-07-09 art. 9
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
-
-
-###### Article 196
-
-Le droit de vaine pâture doit être exercé directement par les ayants droit et ne peut être cédé.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural L651-8
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1889-07-09 art. 10
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
-
-
-###### Article 197
-
-Les conseils municipaux peuvent, conformément aux articles 68 et 69 de la loi du 5 avril 1884, réglementer le droit de vaine
-pâture, notamment pour en suspendre l'exercice en cas d'épizootie, de dégel ou de pluies torrentielles, pour cantonner les
-troupeaux de différents propriétaires ou les animaux d'espèces différentes, pour interdire la présence d'animaux dangereux ou
-malades dans les troupeaux.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural L651-9
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Cite**:
-
-	  - Loi n°1884-04-05 art. 68, art. 69
-
-	**Anciens textes**:
-
-	  - Loi n°1889-07-09 art. 11
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
-
-
-###### Article 198
-
-Sur la proposition du conseil municipal faite après enquête, le conseil général peut supprimer le droit de vaine pâture. En
-cas de divergence entre le conseil municipal et le conseil général, il est statué par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural L651-10
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1889-07-09 art. 3
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
-
-
-###### Article 199
-
-Néanmoins, la vaine pâture fondée sur un titre, et établie sur un héritage déterminé, soit au profit d'un ou plusieurs
-particuliers, soit au profit de la généralité des habitants d'une commune, est maintenue et continue à s'exercer conformément
-aux droits acquis. Mais le propriétaire de l'héritage grevé peut toujours s'affranchir, soit moyennant une indemnité fixée à
-dire d'experts, soit par voie de cantonnement.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural L651-10
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1889-07-09 art. 12
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
-
 
 ## Titre II : De la garde des animaux domestiques
 
@@ -2910,22 +2611,22 @@ sang des bovidés qui doit être livré à la consommation.
 
 ###### Article 257
 
-Les tueries particulières sont supprimées.
-
-Des abattoirs privés de type industriel peuvent être ouverts s'ils sont prévus au plan d'équipement en abattoirs. Ces
-dispositions s'appliquent aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin.
-
-Un décret pris en Conseil d'Etat détermine les conditions d'application des alinéas précédents.
+Ces dispositions s'appliquent aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°90-85 du 23 janvier 1990 - art. 53 () JORF 25 janvier 1990
+	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 258
@@ -4804,38 +4505,6 @@ régulière dans le délai légal et ne prouve que la perte de l'animal provient
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-## Titre VII : De la production des animaux domestiques
-
-### Chapitre II : De l'insémination artificielle.
-
-###### Article 308
-
-Nul ne peut utiliser, en dehors de son propre élevage, vendre, mettre en vente ou céder à titre gratuit du sperme d'animaux
-domestiques, en vue de l'insémination artificielle, s'il n'est muni d'une licence délivrée par le ministère de l'agriculture.
-
-Les conditions d'attribution des licences sont fixées par règlement d'administration publique pris après avis du comité
-consultatif de l'élevage.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural L652-1
-
-	**Anciens textes**:
-
-	  - Loi n°46-1055 du 15 mai 1946 - art. 1 (Ab)
-	  - Loi n°46-1055 du 15 mai 1946 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
-
-
 ## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.
 
 ###### Article 309
@@ -5976,36 +5645,6 @@ Le tribunal peut ordonner l'affichage ou la diffusion de la décision prononcée
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-###### Article 339
-
-Quiconque aura transporté, remis, à titre gratuit ou onéreux, de la semence d'animaux domestiques ou aura sciemment procédé à
-une insémination artificielle en infraction aux dispositions prévues par l'article 308 sera puni d'une amende de 25 000 F. Le
-tribunal pourra en outre prononcer la confiscation du matériel ayant servi à la récolte, la vente, la conservation, le
-transport et l'utilisation de la semence, ainsi que des reproducteurs mâles.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 308
-
-	**Nouveaux textes**:
-
-	  - Code rural L671-8
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
-
-
 ###### Article 340
 
 Exerce illégalement la médecine ou la chirurgie des animaux :
@@ -7118,40 +6757,6 @@ bovidés qui doit être livré à la consommation".
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-###### Article 364-13
-
-L'article 257 est ainsi rédigé :
-
-"Art. 257 : Les tueries particulières sont supprimées.
-
-"Des abattoirs privés de type industriel peuvent être ouverts, s'ils sont prévus au plan d'équipement en abattoirs de
-Mayotte.
-
-"Un arrêté du représentant du Gouvernement détermine les conditions d'application du présent article".
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 257
-
-	**Nouveaux textes**:
-
-	  - Code rural L683-3
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Créé par**:
-
-	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
-
-
 ###### Article 364-14
 
 La première phrase de l'article 259 est complétée, après les mots : "... ou agents de l'Etat" par les mots : "... ou la
@@ -7232,39 +6837,6 @@ sont remplacés par les mots : "que l'arrêté prévu à l'article 262".
 	**Abrogé par**:
 
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
-
-
-### Section 4 : De l'insémination artificielle.
-
-###### Article 364-17
-
-I. - La licence instituée par le premier alinéa de l'article 308 est délivrée par le représentant du Gouvernement.
-
-II. - Le second alinéa du même article est remplacé par les dispositions suivantes :
-
-"Les conditions d'attribution des licences sont fixées par un arrêté du représentant du Gouvernement".
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 308
-
-	**Nouveaux textes**:
-
-	  - Code rural L683-2
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Créé par**:
-
-	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
-
-	**Abrogé par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
 
 
 ### Section 5 : Des pénalités.
