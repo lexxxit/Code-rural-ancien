@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1964-04-07
+Version Consolidée au 1964-08-25
 
 ###### Article 162
 
@@ -52,25 +52,6 @@ l'effectif d'une espèce sensible dans le département ou la région intéressé
 # Livre Ier : Régime du sol
 
 ## Titre Ier : De l'aménagement foncier
-
-### Chapitre Ier : Dispositions communes aux divers modes d'aménagement foncier
-
-#### Section 5 : Dispositions conservatoires et clôture des opérations.
-
-###### Article 8
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°64-862 du 3 août 1964 - art. 33 (Ab) JORF 25 août 1964
-
 
 ### Chapitre Ier : Des commissions communales et départementales d'aménagement foncier
 
@@ -14566,6 +14547,38 @@ Ce fonds est alimenté par des cotisations versées par les caisses.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1098
+
+Il est créé au ministère de l'agriculture une commission susceptible d'être consultée par le ministre de l'agriculture et de
+présenter toutes suggestions relatives aux allocations familiales agricoles. Cette commission est substituée à la commission
+supérieure des allocations familiales créée par le décret du 31 mai 1938. Elle est constituée par la section des allocations
+familiales du conseil supérieur des prestations sociales et est régie par les dispositions du décret relatif aux conseils
+supérieurs du ministère de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1938-05-31
+
+	**Anciens textes**:
+
+	  - Décret n°1938-05-31 art. 1 al. 2, art. 2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Décret n°64-862 1964-08-03 art. 21 II JORF 25 août 1964
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées
