@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1986-10-03
+Version Consolidée au 1986-12-31
 
 ###### Article 40-3
 
@@ -26846,7 +26846,10 @@ missions ;
 451-1 du code du travail, pour les accidents survenus par le fait ou à l'occasion de cette formation ;
 
 5° Les bénéficiaires des allocations mentionnées au sixième alinéa (4°) de l'article L. 322-4 du code du travail pour les
-accidents survenus par le fait ou à l'occasion des actions favorisant leur reclassement.
+accidents survenus par le fait ou à l'occasion des actions favorisant leur reclassement ;
+
+6° Les bénéficiaires des allocations versées au titre de l'article L. 322-3 du code du travail pour les accidents survenus
+par le fait ou à l'occasion des actions favorisant leur conversion.
 
 En ce qui concerne les personnes visées au présent article, des décrets déterminent à qui incombent les obligations de
 l'employeur et fixent les bases des cotisations et celles des indemnités.
@@ -26855,7 +26858,7 @@ l'employeur et fixent les bases des cotisations et celles des indemnités.
 
 	**Modifié par**:
 
-	  - Loi n°86-76 du 17 janvier 1986 - art. 33 () JORF 18 janvier 1986
+	  - Loi n°86-1320 du 30 décembre 1986 - art. 17 () JORF 31 décembre 1986
 
 	**Nouveaux textes**:
 
@@ -26864,6 +26867,7 @@ l'employeur et fixent les bases des cotisations et celles des indemnités.
 	**Cite**:
 
 	  - Code du travail - art. L236-10 (M)
+	  - Code du travail - art. L322-3 (Ab)
 	  - Code du travail - art. L322-4 (M)
 	  - Code du travail - art. L434-10 (M)
 	  - Code du travail - art. L451-1 (M)
@@ -30964,7 +30968,10 @@ administratifs ou paritaires, pour les accidents survenus par le fait ou à l'oc
 451-1 du code du travail, pour les accidents survenus par le fait ou à l'occasion de cette formation ;
 
 5° Les bénéficiaires des allocations mentionnées au sixième alinéa (4°) de l'article L. 322-4 du code du travail pour les
-accidents survenus par le fait ou à l'occasion des actions favorisant leur reclassement.
+accidents survenus par le fait ou à l'occasion des actions favorisant leur reclassement ;
+
+6° Les bénéficiaires des allocations versées au titre de l'article L. 322-3 du code du travail pour les accidents survenus
+par le fait ou à l'occasion des actions favorisant leur reconversion.
 
 Des décrets fixent les modalités de prise en charge, par les caisses d'assurance-accident agricole des départements du Haut-
 Rhin, du Bas-Rhin et de la Moselle, des risques susceptibles de survenir aux personnes visées au présent article ainsi que
@@ -30975,7 +30982,7 @@ obligations de l'employeur.
 
 	**Modifié par**:
 
-	  - Loi n°86-76 du 17 janvier 1986 - art. 33 () JORF 18 janvier 1986
+	  - Loi n°86-1320 du 30 décembre 1986 - art. 17 () JORF 31 décembre 1986
 
 	**Nouveaux textes**:
 
@@ -30984,6 +30991,7 @@ obligations de l'employeur.
 	**Cite**:
 
 	  - Code du travail - art. L236-10 (M)
+	  - Code du travail - art. L322-3 (Ab)
 	  - Code du travail - art. L322-4 (M)
 	  - Code du travail - art. L434-10 (M)
 	  - Code du travail - art. L451-1 (M)
