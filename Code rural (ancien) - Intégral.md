@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1991-12-31
+Version Consolidée au 1992-01-01
 
 ###### Article 40-3
 
@@ -4153,50 +4153,6 @@ autorisations émanées de l'Administration.
 	  - Code de l'environnement - art. L215-1 (V)
 
 
-###### Article 97-1
-
-Lorsque des travaux d'aménagement, autres que ceux concédés ou autorisés en application de la loi du 16 octobre 1919,
-intéressant un bassin fluvial ou un cours d'eau, ont pour objet ou pour conséquence la régularisation du débit d'un cours
-d'eau non domanial ou l'augmentation de son débit en période d'étiage, l'acte déclaratif d'utilité publique peut affecter à
-certaines utilisations pendant toute l'année une partie du débit de ce cours d'eau.
-
-A cet effet, l'acte déclaratif d'utilité publique fixe :
-
-a) Un débit minimum dit "débit réservé" à maintenir en rivière à l'aval des ouvrages pour chacune des différentes époques de
-l'année afin de sauvegarder les intérêts généraux, la satisfaction des besoins des bénéficiaires de dérivations autorisées et
-ceux des riverains.
-
-L'exploitant a l'obligation de transiter vers l'aval le "débit réservé" qui ne peut être toutefois supérieur au débit naturel
-du cours d'eau à l'amont des ouvrages, pour chacune des époques considérées.
-
-b) Un débit supplémentaire, dit "débit affecté", déterminé compte tenu des tranches d'eau disponibles dans les retenues des
-ouvrages à ces mêmes époques.
-
-Nonobstant les dispositions de l'article 644 du code civil, le droit d'usage du débit affecté appartient à l'Etat.
-
-Un décret en Conseil d'Etat déterminera les conditions d'application du présent article, notamment celles dans lesquelles les
-droits ainsi accordés à l'Etat pourront être concédés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Créé par**:
-
-	  - Loi n°64-1245 1964-12-16 art. 26 JORF 18 décembre 1964
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-
-	**Cite**:
-
-	  - Code civil - art. 644 (V)
-	  - Loi n°1919-10-16
-
-
 ###### Article 98
 
 Le lit des cours d'eau non domaniaux appartient aux propriétaires des deux rives.
@@ -4480,92 +4436,6 @@ joignant qu'à la condition de ne pas préjudicier à l'écoulement et de ne cau
 	  - Code de l'environnement - art. L215-9 (V)
 
 
-###### Article 106
-
-Aucun barrage, aucun ouvrage destiné à l'établissement d'une prise d'eau, d'un moulin ou d'une usine ne peut être entrepris
-dans un de ces cours d'eau sans l'autorisation de l'administration.
-
-Le défaut d'autorisation sera puni d'une amende de 1.000 F à 80.000 F.
-
-En cas de condamnation pour infraction aux dispositions du présent article, le tribunal fixe, s'il y a lieu, les mesures à
-prendre pour faire cesser l'infraction ou en éviter la récidive et le délai dans lequel ces mesures devront être exécutées,
-ainsi qu'une astreinte dans les formes définies à l'article 463 du code rural.
-
-Les décisions d'autorisation ou des arrêtés complémentaire du représentants de l'Etat fixent les dispositions nécessaires
-pour assurer la sécurité des personnes et la protection de l'environnement.
-
-Indépendamment des poursuites pénales qui peuvent être exercées lorsqu'un officier de police judiciaire ou un agent public
-habilité à cet effet a constaté l'inobservation des conditions imposées à l'exploitant d'un des ouvrages soumis à
-autorisation, en application du présent article et nonobstant les dispositions de l'article 26 du code du domaine public
-fluvial et de la navigation intérieure, le représentant de l'Etat peut mettre l'exploitant en demeure de satisfaire à ces
-conditions dans un délai déterminé.
-
-Si, à l'expiration de ce délai, l'exploitant n'a pas obtempéré à cette injonction, le représentant de l'Etat peut :
-
-- soit faire procéder d'office, aux frais de l'exploitant, à l'exécution des mesures prescrites ;
-
-- soit obliger l'exploitant à consigner entre les mains d'un comptable public une somme répondant du montant des travaux ;
-cette somme lui sera restituée au fur et à mesure de l'exécution des travaux ;
-
-- soit décider la mise hors service temporaire de l'ouvrage.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 463
-	  - Code du domaine public fluvial et de la navigation - art. 26 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°87-565 du 22 juillet 1987 - art. 48 () JORF 23 juillet 1987
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-
-	**Anciens textes**:
-
-	  - Loi n°1898-04-08 du 8 avril 1898 - art. 11 (Ab)
-
-
-###### Article 107
-
-Les préfets statuent après enquête sur les demandes ayant pour objet :
-
-1° L'établissement d'ouvrages intéressant le régime ou le mode d'écoulement des eaux ;
-
-2° La régularisation de l'existence des usines et ouvrages établis sans permission et n'ayant pas de titre légal ;
-
-3° La révocation ou la modification des permissions précédemment accordées.
-
-La forme de l'instruction qui doit précéder les arrêtés des préfets est déterminée par un règlement d'administration
-publique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1898-04-08 art. 12
-	  - Loi n°1898-04-08 du 8 avril 1898 - art. 12 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-
-
 ###### Article 109
 
 Les autorisations ou permissions accordées pour l'établissement d'ouvrages ou d'usines sur les cours d'eau non domaniaux
@@ -4684,27 +4554,6 @@ Les maires peuvent, sous l'autorité des préfets, prendre toutes les mesures n�
 
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 16 (Ab)
 	  - Loi n°1898-04-08 art. 16
-
-
-###### Article 112
-
-Le déversement dans un cours d'eau non domanial d'eaux usées provenant d'égouts communaux doit être autorisé par un acte
-déclarant d'utilité publique les travaux. Cet acte doit déterminer les conditions auxquelles le déversement est subordonné en
-vue de sauvegarder les intérêts généraux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-10-30 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
 
 
 ###### Article 113
@@ -5152,154 +5001,6 @@ Il est procédé comme en matière sommaire, et s'il y a lieu à expertise, le t
 
 
 ### Chapitre II-1 : De l'utilisation des eaux d'irrigation.
-
-###### Article 128-1
-
-En vue d'assurer aux irrigants des garanties supplémentaires dans l'exercice de leurs droits et de faciliter le développement
-des irrigations, il peut être institué, sous réserve des conventions particulières ou des dispositions prévues pour la
-réglementation des eaux de la Durance, et notamment celles de la loi du 11 juillet 1907, par décret en Conseil d'Etat, pour
-un bassin ou pour un cours d'eau ou section de cours d'eau désigné par le ministre de l'agriculture, en accord, s'il s'agit
-de cours d'eau domaniaux, avec le ministre chargé des travaux publics, un établissement public administratif compétent pour
-proposer le règlement des problèmes relatifs aux réseaux d'irrigation agricole alimentés par un bassin ou cours d'eau.
-
-L'organisme directeur de cet établissement public doit comporter une représentation majoritaire d'agriculteurs usagers. Il
-est pourvu aux dépenses de l'établissement au moyen de redevances dont l'assiette est déterminée conformément aux
-dispositions du décret créant l'établissement et dont le taux est arrêté par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Cite**:
-
-	  - Loi n°1907-07-11
-
-	**Créé par**:
-
-	  - Loi n°60-792 1960-08-02 art. 19 JORF 4 août 1960
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-
-
-###### Article 128-2
-
-L'établissement public prévu à l'article précédent a qualité pour proposer au préfet de modifier de façon définitive ou
-temporaire les différentes autorisations de prises d'eau pour l'irrigation, de façon à affecter à chaque prise une dotation
-normale en eau, tenant compte de l'utilisation la meilleure de l'eau et respectant les besoins réels, résultant eux-mêmes
-d'éléments tels que la nature des cultures, des sols et du climat, la surface irriguée, les investissements déjà réalisés par
-les particuliers ou les collectivités d'irrigants, les usages de l'eau antérieurs à la date de promulgation de la loi n°
-60-792 du 2 août 1960.
-
-La révision des autorisations intervenues ainsi a lieu dans les conditions du droit commun et sous réserve des droits des
-tiers.
-
-Le préfet peut, en outre, sur proposition de l'établissement public prévu à l'article 128-1, déterminer en cas de pénurie
-d'eau et en fonction de cette pénurie, l'importance des réductions à apporter temporairement au prélèvement autorisé. Les
-prélèvements qui seront autorisés dans ce cas le seront pour assurer l'utilisation de l'eau dans les conditions ci-dessus
-définies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 128-1
-	  - Loi n°60-792 1960-08-02
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Créé par**:
-
-	  - Loi n°60-792 1960-08-02 art. 19 JORF 4 août 1960
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-
-
-###### Article 128-3
-
-Les organisations collectives d'irrigation sont tenues, dans les conditions déterminées par décret en Conseil d'Etat,
-d'effectuer les irrigations conformément aux prescriptions des règlements techniques qui peuvent être établis par le ministre
-de l'agriculture pour les différents modes d'irrigation.
-
-Ces règlements doivent tenir compte des caractéristiques des installations existantes et des nécessités régionales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Créé par**:
-
-	  - Loi n°60-792 1960-08-02 art. 19 JORF 4 août 1960
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-
-
-###### Article 128-4
-
-Le droit à l'arrosage gratuit exercé à l'égard des organisations collectives d'irrigation est limité à la fourniture, pendant
-la période des arrosages, d'une quantité d'eau correspondant à un litre par seconde et par hectare effectivement irrigué, le
-module d'irrigation étant adapté à la nature des sols, des cultures et à l'importance des parcelles.
-
-Les titulaires de droits à l'arrosage gratuit qui établissent que cette limitation met obstacle à l'irrigation rationnelle de
-leurs terres peuvent néanmoins obtenir des autorités qualifiées pour fixer la quantité d'eau mise à la disposition de chaque
-irrigant que celle mise gratuitement à leur disposition soit majorée exceptionnellement dans la mesure nécessaire à cette
-irrigation. Cette limitation ne concerne pas les prélèvements sur la nappe phréatique, sauf décision préfectorale contraire.
-
-Les dispositions du présent article ne sont pas applicables aux arrosages destinés aux zones rizicoles, aux zones viticoles
-menacées par le phylloxéra, ni aux zones de terres salées, dont le périmètre sera délimité par les services agricoles
-départementaux, en accord avec les services du génie rural.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Créé par**:
-
-	  - Loi n°60-792 1960-08-02 art. 19 JORF 4 août 1960
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-
-
-###### Article 128-5
-
-Les dispositions visées par les articles 128-2 à 128-4 ne s'appliquent pas au prélèvement d'eau souterraine réalisé par les
-exploitants sur leur propre terre, tant en ce qui concerne la dotation dont ils disposent que la gratuité des droits sur
-l'eau. Ces dispositions ne remettent pas davantage en cause la gratuité de l'eau dérivée de cours d'eau ne faisant pas partie
-du domaine public de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 128-2 à 128-4
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Créé par**:
-
-	  - Loi n°60-792 1960-08-02 art. 19 JORF 4 août 1960
-
-	**Abrogé par**:
-
-	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
-
 
 ###### Article 128-6
 
@@ -8419,6 +8120,40 @@ ainsi que tout chat dont le propriétaire n'est pas connu et qui est saisi sur l
 	**Créé par**:
 
 	  - Loi n°89-412 du 22 juin 1989 - art. 2 () JORF 24 juin 1989
+
+
+###### Article 213-1 A
+
+Les chiens et les chats conduits en fourrières qui, à l'expiration d'un délai de cinquante jours après leur capture, n'ont
+pas été réclamés par leur propriétaire sont considérés comme abandonnés et deviennent la propriété du gestionnaire de la
+fourrière.
+
+Dans les territoires qui ne sont pas couverts par un arrêté ministériel déclarant une zone atteinte par la rage, la garde des
+chiens et des chats non réclamés peut être confiée, à l'issue des délais de garde en fourrière fixés au premier alinéa de
+l'article 213, à des associations de protection des animaux en vue de la cession de l'animal à un nouveau propriétaire.
+
+Cette cession ne peut intervenir qu'à l'issue du délai de cinquante jours à compter de la capture, au cours duquel l'animal
+doit être périodiquement examiné par un vétérinaire.
+
+Les dispositions du présent article entrent en vigueur le 1er janvier 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 213
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 1 () JORF 24 juin 1989 en vigueur le 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Loi n°99-5 du 6 janvier 1999 - art. 7 (Ab) JORF 7 janvier 1999
 
 
 ###### Article 213-2
@@ -17862,15 +17597,20 @@ IV. - Les cotisations d'allocations familiales, d'assurance vieillesse et d'assu
 d'exploitation ou d'entreprise mentionnés à l'article 1060 (2°, 4° et 5°) ne peuvent être inférieures à des minima définis
 par décret.
 
-V. - Bénéficient d'une exonération totale de cotisations à l'assurance maladie des exploitants agricoles (Amexa), les
+V. - Bénéficient d'une exonération totale des cotisations à l'assurance maladie des exploitants agricoles (Amexa), les
 titulaires de la retraite de vieillesse agricole et les titulaires de la retraite forfaitaire accordée en vertu de l'article
 1122-1 du présent code, percevant l'allocation supplémentaire prévue au livre IX du code de la sécurité sociale, lorsqu'ils
 ont cessé toute activité professionnelle ou exploitent moins de trois hectares, sous réserve des coefficients d'équivalence
 prévus à l'article 188-4 du présent code.
 
-VI. - Des cotisations de solidarité peuvent être exigées des personnes dirigeant une exploitation ou une entreprise agricoles
-dont l'importance est inférieure à celle définie au I ci-dessus et supérieure à un minimum fixé par décret. Les bases de
-calcul de ces cotisations sont déterminées par décret en fonction de l'importance de l'exploitation ou de l'entreprise.
+VI. - Les personnes qui dirigent une exploitation ou une entreprise agricoles dont l'importance est inférieure à celle
+définie au I ci-dessus et supérieure à un minimum fixé par décret ont à leur charge une cotisation de solidarité calculée en
+pourcentage de leurs revenus professionnels ou de l'assiette forfaitaire définis à l'article 1003-12. Son taux est fixé par
+décret.
+
+VII. - Les associés de sociétés de personnes non affiliés au régime des personnes non salariées des professions agricoles et
+percevant des revenus professionnels tels que définis à l'article 1003-12 ont à leur charge une cotisation de solidarité
+calculée en pourcentage de ces revenus. Le taux de la cotisation est déterminé par décret.
 
 **Liens relatifs à cet article**
 
@@ -17886,11 +17626,12 @@ calcul de ces cotisations sont déterminées par décret en fonction de l'import
 
 	  - Loi n°80-502 1980-07-04
 	  - Loi n°88-1202 1988-12-30
-	  - Code rural 188-4, 1060, 1122-1
+	  - Code rural 188-4, 1060, 1003-12, 1122-1
 
 	**Modifié par**:
 
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 37 () JORF 31 décembre 1988
+	  - Loi n°91-1407 1991-12-31 art. 5 I, II JORF 4 janvier 1992 en vigueur le 1er janvier 1992
+	  - Loi n°91-1407 du 31 décembre 1991 - art. 5 () JORF 4 janvier 1992 en vigueur le 1er janvier 1992
 
 	**Nouveaux textes**:
 
@@ -18040,25 +17781,30 @@ conditions d'application des dispositions relatives au budget annexe des prestat
 
 ###### Article 1003-11
 
-La répartition entre les départements de la charge des cotisations prévues aux articles 1062 et 1125 est faite sur la base du
-revenu cadastral des assujettis après application du coefficient d'adaptation défini à l'article 1106-6. Pour la répartition
-de ces cotisations à l'intérieur du département, le représentant de l'Etat dans le département peut tenir compte, sur
+La répartition entre les départements de la charge des cotisations prévues à l'article 1062 est faite sur la base du revenu
+cadastral des assujettis après application du coefficient d'adaptation défini à l'article 1106-6.
+
+Pour la répartition de ces cotisations à l'intérieur du département, le commissaire de la République peut tenir compte, sur
 proposition du comité départemental des prestations sociales agricoles, de toute donnée de caractère économique se rapportant
 à la rentabilité de l'exploitation.
-
-En cas de carence du comité départemental des prestations sociales agricoles, le représentant de l'Etat dans le département
-lui soumet pour avis des projets de décisions.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 1062, 1106-6, 1125
+	  - Code rural 1062, 1106-6
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
 
 	**Modifié par**:
 
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 109 () JORF 30 décembre 1982
-	  - Loi n°90-85 du 23 janvier 1990 - art. 71 () JORF 25 janvier 1990
+	  - Loi n°90-85 du 23 janvier 1990 - art. 62 (V) JORF 25 janvier 1990 en vigueur le 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Loi n°95-95 du 1 février 1995 - art. 67 () JORF 2 février 1995
 
 
 ###### Article 1003-12
@@ -22505,39 +22251,34 @@ agricoles ; elle est fixée par décret.
 
 ###### Article 1125
 
-La cotisation prévue au b de l'article 1123 ci-dessus varie, dans la limite d'un plafond, suivant l'importance et la nature
-des exploitations ou des affaires, dans les conditions déterminées conformément aux dispositions d'un décret pris, sur le
-rapport du ministre de l'agriculture et du ministre chargé du budget, par le représentant de l'Etat dans le département, sur
-proposition du comité départemental des prestations sociales agricoles mentionné à l'article 1063. En cas de carence du
-comité départemental des prestations sociales agricoles, le représentant de l'Etat dans le département lui soumet pour avis
-des projets de décisions.
-
-Le plafond visé ci-dessus est fixé par le décret prévu au deuxième alinéa de l'article 1106-6.
-
-Dans le bail à métayage, le preneur et le bailleur sont tenus au paiement de leurs cotisations respectives selon la
-proportion retenue pour le partage des fruits.
+La cotisation prévue au troisième alinéa (b) de l'article 1123 est calculée, dans la limite du plafond prévu à l'article L.
+241-3 du code de la sécurité sociale, en pourcentage des revenus professionnels du chef d'exploitation ou d'entreprise ou de
+l'assiette forfaitaire définis à l'article 1003-12. Son taux est fixé par décret.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 1123, 1063, 1106-6
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 109 () JORF 30 décembre 1982
-	  - Loi n°90-85 1990-01-23 art. 80 IV, art. 81 I, II, art. 82 III JORF 25 janvier 1990
-	  - Loi n°90-85 du 23 janvier 1990 - art. 80 () JORF 25 janvier 1990
-	  - Loi n°90-85 du 23 janvier 1990 - art. 81 () JORF 25 janvier 1990
-	  - Loi n°90-85 du 23 janvier 1990 - art. 82 () JORF 25 janvier 1990
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L731-42 (M)
+	  - Code rural L731-42
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L241-3 (M)
+	  - Code rural 1123, 1003-12
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°90-85 du 23 janvier 1990 - art. 62 (V) JORF 25 janvier 1990 en vigueur le 1er janvier 1992
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1129
