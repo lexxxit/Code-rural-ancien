@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1966-06-24
+Version Consolidée au 1966-07-13
 
 ###### Article 162
 
@@ -15085,6 +15085,39 @@ puisse dépasser 10 F.
 	**Abrogé par**:
 
 	  - Décret n°68-757 1968-08-16 art. 1 JORF 25 août 1968
+
+
+#### Section 4 : Régime facultatif, régime complémentaire.
+
+###### Article 1049
+
+Les assujettis à la législation sociale agricole peuvent contracter auprès des caisses de mutualité sociale agricole des
+assurances complémentaires de l'assurance maladie, maternité et vieillesse dans les conditions déterminées par un décret.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L727-1 (V)
+	  - Code rural L727-1
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 art. 14
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°61-89 du 25 janvier 1961 - art. 4 () JORF 27 janvier 1961 en vigueur le 1er avril 1961
+	  - Loi n°66-509 1966-07-12 art. 33 JORF 13 juillet 1966
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 #### Section 5 : Organisation administrative et financière.
