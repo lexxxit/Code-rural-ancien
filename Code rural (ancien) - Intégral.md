@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1986-03-18
+Version Consolidée au 1986-10-03
 
 ###### Article 40-3
 
@@ -722,6 +722,44 @@ moment où la décision d'annulation leur a été notifiée.
 
 #### Section 2 : Choix du mode d'aménagement foncier et détermination du périmètre.
 
+###### Article 4
+
+Le département fait établir, sur proposition de la commission communale ou intercommunale, tous documents nécessaires à la
+détermination du ou des modes d'aménagement foncier à mettre en oeuvre.
+
+La commission propose le ou les modes d'aménagement foncier qu'elle juge opportun d'appliquer et le ou les périmètres
+correspondants.
+
+Les limites territoriales de l'aménagement englobant un ou plusieurs périmètres peuvent comprendre des parties de territoire
+de communes limitrophes, dans la limite du dixième du territoire de chacune d'elles ou, avec l'accord du conseil municipal de
+la commune intéressée, du quart du territoire de chacune d'elles, lorsque la commission communale estime que l'aménagement
+comporte, au sens du présent titre, un intérêt pour les propriétaires ou les exploitants de ces parties de territoire.
+
+L'avis de la commission est porté à la connaissance des intéressés dans les conditions fixées par décret en Conseil d'Etat.
+Cet avis mentionne que les propriétaires doivent signaler au président de la commission, dans un délai d'un mois, les
+contestations judiciaires en cours. L'avis de la commission doit, dans ce cas, être notifié aux auteurs de ces contestations
+judiciaires qui pourront intervenir dans les procédures d'aménagement foncier, sous réserve de la reconnaissance ultérieure
+de leurs droits.
+
+Au vu des observations émises par les intéressés, la commission peut proposer les modifications de périmètre qu'elle estime
+fondées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°85-1496 du 31 décembre 1985 - art. 1 () JORF 3 janvier 1986 en vigueur le 3 octobre 1986
+	  - Loi n°85-1496 du 31 décembre 1985 - art. 28 (V) JORF 3 janvier 1986 en vigueur le 3 octobre 1986
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
 ###### Article 4-1
 
 La commission départementale d'aménagement foncier est saisie des propositions de la commission communale ou intercommunale
@@ -1000,66 +1038,6 @@ l'agriculture dont les procès-verbaux font foi jusqu'à preuve contraire.
 	**Abrogé par**:
 
 	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
-
-
-### Chapitre Ier : Des commissions communales et départementales d'aménagement foncier
-
-#### Section 1 : Du comité supérieur consultatif d'aménagement foncier.
-
-###### Article 4
-
-Les décisions prises par la commission communale en vertu des chapitres II et III du présent titre peuvent être portées par
-les intéressés ou par l'ingénieur en chef du génie rural devant une commission départementale d'aménagement foncier.
-
-Le recours doit être formé dans un délai de quinze jours à dater de la notification ou, au plus tard et à défaut de
-notification, dans un délai d'un mois à dater de la publication.
-
-La commission départementale d'aménagement foncier statue dans le délai de deux mois. Elle a qualité pour modifier le
-remembrement ou pour en provoquer la modification ainsi que pour fixer l'ordre dans lequel les travaux de remembrement seront
-effectués dans la commune.
-
-La commission départementale peut imposer à l'association foncière visée à l'article 27 du présent code de réaliser dans un
-délai de six mois à compter de la date du transfert de propriété les accès qui conditionnent la mise en exploitation de
-certaines parcelles. La liste de ces parcelles et la nature des travaux à entreprendre sont arrêtées par la commission
-communale.
-
-Les décisions de la commission départementale ne peuvent être attaquées devant le tribunal administratif que pour
-incompétence, excès de pouvoir, vice de forme ou violation de la loi.
-
-Dans un délai de quinze jours, à compter de la date de la décision de la commission départementale, le président de cette
-commission notifie la décision au préfet.
-
-Le préfet peut, dans un délai de quinze jours à compter de cette notification, porter la décision devant le ministre de
-l'agriculture.
-
-La décision que le préfet n'a pas portée devant le ministre de l'agriculture dans le délai ci-dessus, est exécutoire à
-l'expiration de ce délai.
-
-Le ministre de l'agriculture se prononce après avis du conseil consultatif prévu à l'article 3 dans un délai de trois mois à
-compter de la date du recours du préfet.
-
-Passé ce délai, la décision de la commission départementale sur laquelle il n'a pas été statué par le ministre est
-exécutoire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 3, 27
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-09 art. 4
-
-	**Modifié par**:
-
-	  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
-	  - Loi n°75-621 1975-07-11 art. 3 JORF 12 juillet 1975
-	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
 
 
 ### Chapitre II : De la réorganisation de la propriété foncière
