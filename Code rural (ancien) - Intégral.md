@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1991-01-05
+Version Consolidée au 1991-01-06
 
 ###### Article 40-3
 
@@ -19604,8 +19604,8 @@ du ministère public et des parties intéressées.
 
 ###### Article 1038
 
-Les caisses de mutualité sociale agricole servent aux assurés mentionnés aux articles 1024 et 1025 et à leurs ayants droit en
-cas de maladie, de maternité, d'invalidité, de vieillesse, de veuvage et de décès, les prestations prévues par le code de la
+Les caisses de mutualité sociale agricole servent aux assurés mentionnés à l'article 1144 et à leurs ayants droit en cas de
+maladie, de maternité, d'invalidité, de vieillesse, de veuvage et de décès, les prestations prévues par le code de la
 sécurité sociale. A cet effet, sont applicables au régime des assurances sociales agricoles :
 
 1° Les dispositions suivantes du livre III du code de la sécurité sociale : articles L. 311-5, L. 311-9, L. 311-10, chapitres
@@ -19620,14 +19620,24 @@ Strasbourg.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
 	**Modifié par**:
 
-	  - Loi n°90-85 du 23 janvier 1990 - art. 72 () JORF 25 janvier 1990
-	  - Loi n°90-85 du 23 janvier 1990 - art. 84 () JORF 25 janvier 1990
+	  - Loi n°78-753 du 17 juillet 1978 - art. 32
+	  - Loi n°91-5 du 3 janvier 1991 - art. 28 () JORF 6 janvier 1991
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L742-3 (M)
+	  - Code rural L742-3
 
 	**Cite**:
 
@@ -19637,37 +19647,42 @@ Strasbourg.
 	  - Code de la sécurité sociale. - art. L321-3 (V)
 	  - Code de la sécurité sociale. - art. L383-1 (V)
 	  - Code de la sécurité sociale. - art. L482-1 (V)
+	  - Code de la sécurité sociale. - art. L482-2 (V)
+	  - Code de la sécurité sociale. - art. L482-3 (V)
 	  - Code de la sécurité sociale. - art. L482-4 (V)
-	  - Code rural 1024, 1025
+	  - Code rural 1144
 
 
 ###### Article 1039
 
 Bénéficient pour eux-mêmes et leurs ayants droit des prestations en nature des assurances maladie et maternité du régime des
-assurances sociales agricoles les métayers mentionnés à l'article 1025 ayant cessé leur activité à la suite des procédures
-prévues au chapitre II de la loi n° 88-1202 du 30 décembre 1988 relative à l'adaptation de l'exploitation agricole à son
-environnement économique et social et qui répondent à des conditions d'âge et de durée d'activité fixées par décret. Le
-maintien de ces droits leur est assuré jusqu'à l'âge auquel ils peuvent prétendre à bénéficier de la pension de retraite du
-régime des assurances sociales agricoles.
+assurances sociales agricoles les métayers mentionnés à l'article 1025 ayant cessé leur activité et qui répondent à des
+conditions d'âge et de durée d'activité fixées par décret. Le maintien de ces droits leur est assuré jusqu'à l'âge auquel ils
+peuvent prétendre à bénéficier de la pension de retraite du régime des assurances sociales agricoles.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Code rural 1025
-	  - Loi n°88-1202 1988-12-30
+
+	**Nouveaux textes**:
+
+	  - Code rural L742-4
+	  - Code rural - art. L742-4 (V)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-85 du 23 janvier 1990 - art. 73 () JORF 25 janvier 1990
+	  - Loi n°91-5 du 3 janvier 1991 - art. 29 () JORF 6 janvier 1991
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L742-4 (V)
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1047
@@ -20728,10 +20743,9 @@ l'exploitation ou l'entreprise soit située sur le territoire métropolitain et 
 de l'article 1003-7-1, sous réserve des dérogations visées aux II et III du même article ;
 
 Sont assimilées aux chefs d'exploitation mentionnés à l'alinéa précédent pour le bénéfice des prestations en nature de
-l'assurance maladie et maternité, les personnes ayant cessé leur activité non salariée agricole à la suite des procédures
-prévues au chapitre II de la loi n° 88-1202 du 30 décembre 1988 précitée et qui répondent à des conditions d'âge et de durée
-d'activité professionnelle fixées par décret. Le maintien de ces droits leur est assuré jusqu'à l'âge auquel elles peuvent
-prétendre à bénéficier de la pension de retraite prévue à l'article 1110 ;
+l'assurance maladie et maternité, les personnes ayant cessé leur activité non salariée agricole et qui répondent à des
+conditions d'âge et de durée d'activité professionnelle fixées par décret. Le maintien de ces droits leur est assuré jusqu'à
+l'âge auquel elles peuvent prétendre à bénéficier de la pension de retraite prévue à l'article 1110 ;
 
 2° aux aides familiaux non salariés et associés d'exploitation définis par la loi n° 73-650 du 13 juillet 1973 des chefs
 d'exploitation ou d'entreprise ci-dessus visés.
@@ -20747,7 +20761,7 @@ titulaires de la retraite de base prévue à l'article 1122-1 ;
 couverts à titre personnel par un régime obligatoire d'assurance maladie, maternité ;
 
 b) aux enfants de moins de seize ans à la charge des personnes visées aux 1°, 2°, 3°, 5° et 6° du présent paragraphe ou de
-leur conjoint, qu'ils soient légitimes, naturels reconnus ou non, recueillis, adoptifs ou pupilles de la nation dont l'assuré
+leur conjoint, qu'ils soient légitimes, naturels reconnus ou non, recueillis, adoptifs ou pupilles de la Nation dont l'assuré
 est le tuteur.
 
 Pour l'application du présent chapitre, sont assimilés aux enfants de moins de seize ans :
@@ -20758,7 +20772,7 @@ par voie réglementaire pour les enfants ayant dû interrompre leurs études pou
 Ceux de moins de vingt ans qui sont, par suite d'infirmité ou de maladie chronique, dans l'impossibilité permanente de se
 livrer à une activité rémunératrice ;
 
-Ceux de moins de vingt ans qui bénéficient de l'article L. 528 du code de la sécurité sociale ;
+Ceux de moins de vingt ans qui bénéficient de l'article L. 542-2 du code de la sécurité sociale ;
 
 5° aux membres non salariés de toute société, quelles qu'en soient la forme et la dénomination, lorsque ces membres
 consacrent leur activité, pour le compte de la société, à une exploitation ou entreprise agricole située sur le territoire
@@ -20793,22 +20807,33 @@ titre de l'activité principale. Cette cotisation est assise sur l'ensemble des 
 	**Cite**:
 
 	  - CGI 155
-	  - Code rural 1060, 1003-7-1, 1110, 1122-1, 1234-3, 1106-3
 	  - Décret n°61-294 du 31 mars 1961 - art. 6 (M)
 	  - Loi n°73-650 1973-07-13
 	  - Loi n°77-773 1977-07-12
-	  - Loi n°88-1202 1988-12-30
-	  - Code de la sécurité sociale L528
-
-	**Modifié par**:
-
-	  - Loi n°90-85 du 23 janvier 1990 - art. 76 () JORF 25 janvier 1990
+	  - Code de la sécurité sociale. - art. L542-2 (M)
+	  - Code rural 1060, 1110, 1003-7-1, 1122-1, 1234-3 B, 1106-1, 1106-3
 
 	**Nouveaux textes**:
 
+	  - Code rural L722-10
+	  - Code rural L722-11
+	  - Code rural L722-12
 	  - Code rural - art. L722-10 (M)
 	  - Code rural - art. L722-11 (V)
 	  - Code rural - art. L722-12 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°91-5 du 3 janvier 1991 - art. 29 () JORF 6 janvier 1991
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 #### Section 2 : Prestations.
