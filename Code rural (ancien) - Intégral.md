@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1975-07-16
+Version Consolidée au 1975-08-03
 
 ###### Article 162
 
@@ -15416,9 +15416,13 @@ droits de l'usufruitier.
 
 ### Chapitre Ier : Procédure d'établissement des règlements du travail.
 
-###### Article 984
+###### Article 983
 
-(texte abrogé).
+Il est institué dans chaque département, par arrêté préfectoral, une commission paritaire de travail en agriculture composée
+en nombre égal de représentants des employeurs et des salariés de l'agriculture.
+
+Cette commission est composée de membres titulaires et de membres suppléants, désignés sur la proposition des organisations
+professionnelles les plus représentatives dans les conditions fixées par arrêté du ministre de l'agriculture.
 
 **Liens relatifs à cet article**
 
@@ -15430,13 +15434,13 @@ droits de l'usufruitier.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°75-694 1975-07-30 art. 1 JORF 3 août 1975
 
 	**Nouveaux textes**:
 
-	  - Code rural - art. L716-1 (M)
+	  - Code rural - art. L715-1 (V)
 
 
 ###### Article 985
