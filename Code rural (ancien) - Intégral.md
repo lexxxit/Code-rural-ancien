@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1960-07-31
+Version Consolidée au 1960-08-04
 
 ###### Article 162
 
@@ -208,6 +208,24 @@ L'arrêté du préfet est publié en même temps que l'arrêté ordonnant le dé
 	  - Décret n°55-433 1955-04-16
 
 
+###### Article 23-1
+
+La commission départementale peut, à la demande de la commission communale ou intercommunale, proposer l'envoi en possession
+provisoire des nouvelles parcelles avant l'intervention de sa décision sur les réclamations.
+
+Cet envoi en possession fait l'objet d'un arrêté préfectoral qui doit être publié à la mairie et notifié aux intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°60-792 1960-08-02 art. 2 JORF 4 août 1960
+
+
 ###### Article 24
 
 Le plan définitif du remembrement arrêté par la commission est affiché dans la commune à la diligence du préfet.
@@ -223,6 +241,97 @@ Mention de cet affichage est fait par arrêté préfectoral inséré au recueil 
 	**Anciens textes**:
 
 	  - Loi n°1941-03-09
+
+	**Abrogé par**:
+
+	  - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
+
+
+###### Article 27
+
+Dès que la commission communale s'est prononcée en application de l'article 25, il est constitué obligatoirement entre les
+propriétaires des parcelles à remembrer une association foncière dont les règles de constitution et de fonctionnement sont
+fixées par le règlement d'administration publique prévu à l'article 54.
+
+Cette association a pour objet la prise en charge, la gestion et l'entretien des chemins d'exploitation et des ouvrages visés
+aux 1°, 3° et 4° de l'article 25.
+
+Lorsque ces chemins et ces ouvrages présentent un intérêt commun pour plusieurs associations foncières, celles-ci peuvent se
+constituer pour la mission ci-dessus en unions d'associations foncières autorisées par arrêté préfectoral.
+
+L'adhésion à cette union est donnée valablement par les bureaux des associations foncières.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 25, 54
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09
+
+	**Modifié par**:
+
+	  - Loi n°60-792 1960-08-02 art. 5 JORF 4 août 1960
+
+
+###### Article 30
+
+Du jour du transfert de propriété résultant de la clôture des opérations de remembrement, les immeubles qui en sont l'objet
+ne sont plus soumis qu'à l'exercice des droits et actions nés du chef du nouveau propriétaire.
+
+La date de clôture des opérations est celle du dépôt en mairie du plan définitif du remembrement ; ce dépôt étant constaté
+par un certificat délivré par le maire.
+
+Les contestations sur la propriété d'un immeuble compris dans le remembrement ou sur des droits ou actions relatifs à cet
+immeuble ne font pas obstacle à l'application des décisions, même juridictionnelles, statuant en matière de remembrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 27
+
+	**Modifié par**:
+
+	  - Loi n°60-792 1960-08-02 art. 6 JORF 4 août 1960
+
+
+###### Article 30-1
+
+Au cas d'annulation par le juge administratif d'une décision de la commission départementale de réorganisation foncière et de
+remembrement, les bénéficiaires du transfert de propriété intervenu à la suite de l'affichage en mairie de l'arrêté
+préfectoral ordonnant la clôture des opérations de remembrement demeurent en possession jusqu'à l'affichage en mairie
+consécutif à la nouvelle décision prise par la commission départementale en exécution de ladite annulation. Ils seront dans
+l'obligation, pendant cette période, de conserver l'assolement en vigueur au moment où la décision d'annulation leur sera
+notifiée.
+
+La nouvelle décision de la commission départementale devra intervenir dans le délai d'un an à compter de la date de la
+décision de l'instance administrative saisie en dernier ressort, ou bien, pour les affaires sur lesquelles une décision de
+tribunaux administratifs est devenue définitive, à compter de la date de publication de la loi n° 60-792 du 2 août 1960.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Loi n°60-792 1960-08-02
+
+	**Créé par**:
+
+	  - Loi n°60-792 1960-08-02 art. 8 JORF 4 août 1960
 
 	**Abrogé par**:
 
@@ -337,6 +446,83 @@ ou d'hypothèques, ainsi que les extraits, copies ou expéditions qui en sont d�
 	**Cite**:
 
 	  - CGI 1308
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+### Chapitre IV : De certains échanges en propriété ou en jouissance et de certaines cessions d'immeubles ruraux.
+
+###### Article 38-1
+
+Lorsque la commission départementale de réorganisation foncière et de remembrement, sur la proposition de la commission
+communale et après enquête, a arrêté un plan des échanges des droits d'exploitation des immeubles ruraux bâtis ou non bâtis
+susceptibles d'améliorer les conditions d'exploitation des entreprises agricoles, le préfet peut, au cas où l'accord de
+toutes les parties n'a pu être obtenu, décider, à l'initiative de la commission départementale, sur la demande de l'un des
+intéressés, de rendre obligatoire l'exécution de tout ou partie du plan, à condition que cette exécution porte sur des
+parcelles non exploitées et des immeubles bâtis constituant un simple accessoire du fonds.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-1251 1954-12-20 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°60-792 1960-08-02 art. 13 JORF 4 août 1960
+
+
+###### Article 38-3
+
+Lorsque la commission départementale de réorganisation foncière et de remembrement, sur la proposition de la commission
+communale et après enquête, a arrêté un plan de cessions des bâtiments ruraux et des terres incultes ou vagues situées dans
+leur voisinage immédiat et dont la réalisation par échange, achat ou vente lui paraît de nature, par une meilleure
+utilisation desdits bâtiments et terres, à améliorer les conditions d'exploitation des entreprises agricoles, l'habitat des
+travailleurs ou l'aménagement des villages, le préfet peut, au cas où l'accord de toutes les parties n'a pas été obtenu,
+décider à l'initiative de la commission départementale, sur la demande de l'un des intéressés, de rendre obligatoire
+l'exécution de tout ou partie du plan, à condition que cette exécution porte soit sur des bâtiments en ruine et les terrains
+qui en sont normalement la dépendance, soit sur des terrains incultes ou vagues situés dans le voisinage immédiat de
+bâtiments ruraux lorsque, faute de ces terrains, l'utilisation normale de ces bâtiments nécessaires n'est pas possible.
+
+Le propriétaire de l'immeuble dont la cession est obligatoire en vertu du présent article a, toutefois, la faculté de n'en
+céder que la jouissance.
+
+Les modalités de la cession et son prix sont fixés comme en matière d'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-1251 1954-12-20 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°60-792 1960-08-02 art. 13 JORF 4 août 1960
+
+	**Abrogé par**:
+
+	  - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
+
+
+###### Article 38-8
+
+Un règlement d'administration publique détermine les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-1251 1954-12-20 art. 10
 
 	**Codifié par**:
 
@@ -1111,6 +1297,36 @@ les voies communales.
 	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
+###### Article 68
+
+Les dispositions de l'article 4 de l'ordonnance n° 59-115 du 7 janvier 1959 sont applicables aux délibérations des conseils
+municipaux portant élargissement n'excédant par 2 mètres ou redressement des chemins ruraux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1881-08-20 art. 13, al. 1, al. 2
+
+	**Modifié par**:
+
+	  - Ordonnance 58-997 1958-10-23 art. 56 JORF 24 octobre 1958
+	  - Ordonnance n°59-115 du 7 janvier 1959 - art. 11 () JORF 9 janvier 1959
+	  - Loi n°60-792 1960-08-02 art. 17 JORF 4 août 1960
+
+	**Cite**:
+
+	  - Ordonnance n°59-115 du 7 janvier 1959 - art. 4 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
 ###### Article 69
 
 Lorsqu'un chemin rural cesse d'être affecté à l'usage du public, la vente peut être décidée après enquête par le conseil
@@ -1457,6 +1673,270 @@ Il est procédé comme en matière sommaire, et s'il y a lieu à expertise, le t
 	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
+### Chapitre II-1 : De l'utilisation des eaux d'irrigation.
+
+###### Article 128-1
+
+En vue d'assurer aux irrigants des garanties supplémentaires dans l'exercice de leurs droits et de faciliter le développement
+des irrigations, il peut être institué, sous réserve des conventions particulières ou des dispositions prévues pour la
+réglementation des eaux de la Durance, et notamment celles de la loi du 11 juillet 1907, par décret en Conseil d'Etat, pour
+un bassin ou pour un cours d'eau ou section de cours d'eau désigné par le ministre de l'agriculture, en accord, s'il s'agit
+de cours d'eau domaniaux, avec le ministre chargé des travaux publics, un établissement public administratif compétent pour
+proposer le règlement des problèmes relatifs aux réseaux d'irrigation agricole alimentés par un bassin ou cours d'eau.
+
+L'organisme directeur de cet établissement public doit comporter une représentation majoritaire d'agriculteurs usagers. Il
+est pourvu aux dépenses de l'établissement au moyen de redevances dont l'assiette est déterminée conformément aux
+dispositions du décret créant l'établissement et dont le taux est arrêté par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Loi n°1907-07-11
+
+	**Créé par**:
+
+	  - Loi n°60-792 1960-08-02 art. 19 JORF 4 août 1960
+
+	**Abrogé par**:
+
+	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
+
+
+###### Article 128-2
+
+L'établissement public prévu à l'article précédent a qualité pour proposer au préfet de modifier de façon définitive ou
+temporaire les différentes autorisations de prises d'eau pour l'irrigation, de façon à affecter à chaque prise une dotation
+normale en eau, tenant compte de l'utilisation la meilleure de l'eau et respectant les besoins réels, résultant eux-mêmes
+d'éléments tels que la nature des cultures, des sols et du climat, la surface irriguée, les investissements déjà réalisés par
+les particuliers ou les collectivités d'irrigants, les usages de l'eau antérieurs à la date de promulgation de la loi n°
+60-792 du 2 août 1960.
+
+La révision des autorisations intervenues ainsi a lieu dans les conditions du droit commun et sous réserve des droits des
+tiers.
+
+Le préfet peut, en outre, sur proposition de l'établissement public prévu à l'article 128-1, déterminer en cas de pénurie
+d'eau et en fonction de cette pénurie, l'importance des réductions à apporter temporairement au prélèvement autorisé. Les
+prélèvements qui seront autorisés dans ce cas le seront pour assurer l'utilisation de l'eau dans les conditions ci-dessus
+définies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 128-1
+	  - Loi n°60-792 1960-08-02
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°60-792 1960-08-02 art. 19 JORF 4 août 1960
+
+	**Abrogé par**:
+
+	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
+
+
+###### Article 128-3
+
+Les organisations collectives d'irrigation sont tenues, dans les conditions déterminées par décret en Conseil d'Etat,
+d'effectuer les irrigations conformément aux prescriptions des règlements techniques qui peuvent être établis par le ministre
+de l'agriculture pour les différents modes d'irrigation.
+
+Ces règlements doivent tenir compte des caractéristiques des installations existantes et des nécessités régionales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°60-792 1960-08-02 art. 19 JORF 4 août 1960
+
+	**Abrogé par**:
+
+	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
+
+
+###### Article 128-4
+
+Le droit à l'arrosage gratuit exercé à l'égard des organisations collectives d'irrigation est limité à la fourniture, pendant
+la période des arrosages, d'une quantité d'eau correspondant à un litre par seconde et par hectare effectivement irrigué, le
+module d'irrigation étant adapté à la nature des sols, des cultures et à l'importance des parcelles.
+
+Les titulaires de droits à l'arrosage gratuit qui établissent que cette limitation met obstacle à l'irrigation rationnelle de
+leurs terres peuvent néanmoins obtenir des autorités qualifiées pour fixer la quantité d'eau mise à la disposition de chaque
+irrigant que celle mise gratuitement à leur disposition soit majorée exceptionnellement dans la mesure nécessaire à cette
+irrigation. Cette limitation ne concerne pas les prélèvements sur la nappe phréatique, sauf décision préfectorale contraire.
+
+Les dispositions du présent article ne sont pas applicables aux arrosages destinés aux zones rizicoles, aux zones viticoles
+menacées par le phylloxéra, ni aux zones de terres salées, dont le périmètre sera délimité par les services agricoles
+départementaux, en accord avec les services du génie rural.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°60-792 1960-08-02 art. 19 JORF 4 août 1960
+
+	**Abrogé par**:
+
+	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
+
+
+###### Article 128-5
+
+Les dispositions visées par les articles 128-2 à 128-4 ne s'appliquent pas au prélèvement d'eau souterraine réalisé par les
+exploitants sur leur propre terre, tant en ce qui concerne la dotation dont ils disposent que la gratuité des droits sur
+l'eau. Ces dispositions ne remettent pas davantage en cause la gratuité de l'eau dérivée de cours d'eau ne faisant pas partie
+du domaine public de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 128-2 à 128-4
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°60-792 1960-08-02 art. 19 JORF 4 août 1960
+
+	**Abrogé par**:
+
+	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
+
+
+###### Article 128-6
+
+Les riverains de celles des sections de canaux d'irrigation pour lesquelles l'application des dispositions du présent article
+aura été déclarée d'utilité publique sont tenus de permettre le libre passage et l'emploi sur leurs propriétés, dans la
+limite d'une largeur de quatre mètres à partir de la rive, des engins mécaniques servant aux opérations d'entretien. Ils
+doivent également permettre en certains endroits le dépôt des produits de curage et de faucardement. A ces endroits, la zone
+grevée de servitude peut atteindre le double de la largeur existant entre les crêtes des berges opposées du canal reprofilé.
+
+Les terrains bâtis ou clos de murs, les cours et jardins attenant aux habitations à la date de publication de l'acte
+prescrivant l'enquête préalable à la déclaration d'utilité publique sont exonérés des servitudes de passage et de dépôt.
+
+Si le propriétaire le requiert, l'expropriation des terrains grevés de la servitude de dépôt est obligatoire.
+
+L'établissement des servitudes donne droit à indemnité.
+
+A l'intérieur des zones soumises aux servitudes, toute nouvelle construction, toute élévation de clôture fixe, toute
+plantation est soumise à autorisation préfectorale.
+
+Les constructions, clôtures ou plantations édifiées sans cette autorisation pourront être supprimées à la diligence du
+gestionnaire du canal, à ce habilité par le préfet.
+
+Les propriétaires de clôtures, arbres et arbustes existant dans les zones grevées de servitudes antérieurement à la
+publication de l'acte prescrivant l'enquête peuvent être mis en demeure par le préfet de supprimer ces clôtures, arbres et
+arbustes. Cette suppression ouvre droit à indemnité. En cas d'inexécution, les clôtures, arbres et arbustes peuvent être
+supprimés aux frais des propriétaires par l'organisme gestionnaire du canal, à ce habilité par le préfet. Cette exécution
+d'office ne fait pas disparaître le droit à indemnité.
+
+Au cas où une clôture, dont la suppression n'est pas ordonnée, doit être déplacée pour permettre le passage des engins
+mécaniques, son déplacement et sa remise en place incombent à la collectivité ou à l'organisme chargé de l'entretien du
+canal.
+
+Les contestations auxquelles peuvent donner lieu l'établissement et l'exercice des servitudes ainsi que la fixation des
+indemnités dues aux propriétaires intéressés sont jugées comme en matière d'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°60-792 1960-08-02 art. 19 JORF 4 août 1960
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 128-7
+
+Il est institué, au profit des collectivités publiques et de leurs concessionnaires ainsi qu'au profit des établissements
+publics, une servitude leur conférant le droit d'établir à demeure, dans les conditions les plus rationnelles et les moins
+dommageables à l'exploitation présente et future, en vue de l'irrigation, des canalisations souterraines dans les terrains
+privés non bâtis, excepté les cours et jardins attenant à des habitations.
+
+L'établissement de cette servitude ouvre droit à indemnité. Les contestations relatives aux indemnités sont jugées comme en
+matière d'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°60-792 1960-08-02 art. 19 JORF 4 août 1960
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 128-8
+
+Lorsqu'une usine en activité installée sur un canal d'irrigation entrave le développement des irrigations, le rachat partiel
+ou total des droits de l'usinier à l'usage de l'eau peut être déclaré d'utilité publique et être opéré par la collectivité
+gestionnaire du canal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°60-792 1960-08-02 art. 19 JORF 4 août 1960
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 128-9
+
+Les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°60-792 1960-08-02 art. 19 JORF 4 août 1960
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
 ### Chapitre III : Des taxes d'irrigation
 
 #### Section 1 : Des taxes.
@@ -1699,6 +2179,36 @@ S'il y a lieu à expertise, il pourra n'être nommé qu'un seul expert.
 	**Anciens textes**:
 
 	  - Loi n°1854-06-10
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 138-1
+
+Les dispositions de l'article 128-6 du présent code relatif à une servitude de passage des engins mécaniques sur les terrains
+bordant certains canaux d'irrigation et à une servitude de dépôts sont applicables à ceux des émissaires d'assainissement
+qui, n'ayant pas le caractère de cours d'eau naturels, ne sont pas visés par la réglementation relative aux servitudes de
+passage sur les berges des cours d'eau non domaniaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 128-6
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°60-792 1960-08-02 art. 20 JORF 4 août 1960
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
 
 	**Abrogé par**:
 
@@ -5915,6 +6425,41 @@ La procédure de l'amende de composition ne s'applique pas aux contraventions pr
 
 
 ### Chapitre III : De la destruction des animaux nuisibles.
+
+###### Article 394
+
+Sans préjudice des dispositions de l'article 90, 9°, de la loi municipale du 5 avril 1884, modifiée par la loi du 2 avril
+1946, il est fait chaque fois qu'il est nécessaire, sur l'ordre du préfet, après avis de l'ingénieur des eaux et forêts, des
+chasses et battues générales ou particulières aux loups, renards, blaireaux et autres animaux nuisibles.
+
+Toutefois, dans les communes situées à proximité des massifs forestiers où les cultures sont menacées périodiquement de
+destruction par les sangliers et dont la liste est établie par arrêté préfectoral, le préfet peut déléguer ses pouvoirs aux
+maires des communes intéressées. Les battues seront organisées sous le contrôle et la responsabilité technique des
+lieutenants de louveterie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1798-02-09 (19 pluviôse An V) art. 2
+
+	**Nouveaux textes**:
+
+	  - Code rural L227-6, L227-7
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Loi n°1884-04-05 art. 90
+	  - Loi n°46-565 1946-04-02
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
 
 ###### Article 395
 
