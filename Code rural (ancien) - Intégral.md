@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1975-07-01
+Version Consolidée au 1975-07-12
 
 ###### Article 162
 
@@ -231,6 +231,25 @@ L'arrêté du préfet est publié en même temps que l'arrêté ordonnant le dé
 	  - Décret n°55-433 1955-04-16
 
 
+###### Article 23
+
+Sauf exception justifiée, il n'est créé qu'une seule parcelle par propriétaire dans une masse de répartition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09
+
+	**Modifié par**:
+
+	  - Loi n°75-621 1975-07-11 art. 8 JORF 12 juillet 1975
+
+
 ###### Article 23-1
 
 La commission départementale peut, à la demande de la commission communale ou intercommunale, proposer l'envoi en possession
@@ -270,6 +289,50 @@ Mention de cet affichage est fait par arrêté préfectoral inséré au recueil 
 	  - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
 
 
+###### Article 26
+
+La commission communale, au cours des opérations de délimitation des ouvrages faisant partie du domaine communal, propose à
+l'approbation du conseil municipal l'état :
+
+1° Des chemins ruraux susceptibles d'être supprimés, dont l'assiette peut être comprise dans les terres à remembrer au titre
+de propriété privée de la commune ;
+
+2° Des modifications de tracé et d'emprise qu'il convient d'apporter au réseau des chemins ruraux et des voies communales.
+
+De même, le conseil municipal indique à la commission communale les voies communales ou les chemins ruraux dont il juge la
+création nécessaire à l'intérieur du périmètre de remembrement.
+
+Le classement, l'ouverture, la modification de tracé et d'emprise des voies communales effectués dans le cadre des
+dispositions du présent article sont prononcés sans enquête. Sont, dans les mêmes conditions, dispensées d'enquête toutes les
+modifications apportées au réseau de chemins ruraux.
+
+Les dépenses d'acquisition de l'assiette, s'il y a lieu, et les frais d'établissement et d'entretien des voies communales ou
+des chemins ruraux modifiés ou créés dans les conditions fixées par le présent article sont à la charge de la commune. Si le
+chemin est en partie limitrophe de deux communes, chacune d'elles supporte par moitié la charge afférente à cette partie. Le
+conseil municipal peut charger l'association foncière de la réorganisation d'une partie ou de la totalité des chemins ruraux,
+ainsi que de l'entretien et de la gestion de ceux-ci.
+
+Les servitudes de passage sur les chemins ruraux supprimés sont supprimées avec eux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09
+
+	**Modifié par**:
+
+	  - Loi n°75-621 1975-07-11 art. 10 JORF 12 juillet 1975
+
+	**Abrogé par**:
+
+	  - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
+
+
 ###### Article 27
 
 Dès que la commission communale s'est prononcée en application de l'article 25, il est constitué obligatoirement entre les
@@ -301,6 +364,62 @@ L'adhésion à cette union est donnée valablement par les bureaux des associati
 	**Modifié par**:
 
 	  - Loi n°60-792 1960-08-02 art. 5 JORF 4 août 1960
+
+
+###### Article 28
+
+Les associations foncières ainsi créées ou leurs unions pourront également :
+
+1° Poursuivre l'exécution, l'entretien et l'exploitation des travaux énumérés à l'article premier de la loi du 21 juin 1865,
+modifiée, sur les associations syndicales, sans préjudice éventuellement des dispositions de l'article 26 de ladite loi et
+des articles 114 et suivants du présent code ;
+
+2° Exécuter tous travaux d'élargissement, de régularisation et de redressement des cours d'eau non domaniaux, même non
+accessoires des travaux de curage. Les articles 120 et 121 sont applicables. Si les travaux intéressent la salubrité
+publique, une partie de la dépense peut être mise à la charge d'une ou plusieurs communes intéressées dans les conditions qui
+sont fixées par le règlement d'administration publique prévu à l'article 54.
+
+Si les travaux visés aux 1° et 2° intéressent la totalité des propriétés comprises dans le périmètre de remembrement, une
+assemblée générale des propriétaires est convoquée. L'adoption du projet de travaux ne peut avoir lieu qu'aux majorités
+prévues par l'article 12 de la loi du 21 juin 1865 modifiée ; si les travaux n'intéressent qu'une partie des propriétés
+remembrées, seuls les propriétaires intéressés sont convoqués en une assemblée générale qui statue dans les conditions ci-
+dessus.
+
+L'association peut en outre étendre son action à des terrains situés à l'extérieur du périmètre de remembrement, sous réserve
+des majorités requises en assemblée générale de tous les propriétaires intéressés.
+
+Le règlement d'administration publique visé à l'article 54 détermine les conditions de convocation et de fonctionnement de
+l'assemblée générale ainsi que celles de la fixation des bases de répartition des dépenses entre les propriétaires selon la
+surface attribuée dans le remembrement, sauf en ce qui concerne les dépenses afférentes aux travaux d'hydraulique qui sont
+réparties selon leur degré d'intérêt ; il fixe également les modalités d'établissement et de recouvrement des taxes.
+
+Lorsqu'il y a lieu à l'établissement des servitudes, conformément aux lois, les contestations sont jugées suivant les
+dispositions de l'article 138.
+
+Les associations foncières ou leurs unions peuvent exproprier les immeubles nécessaires à leurs travaux dans les conditions
+prévues par les décrets du 8 août 1935 et du 30 octobre 1935.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 114, 120, 121, 54, 138
+	  - Décret n°1935-08-08
+	  - Décret n°1935-10-30
+	  - Loi n°1865-06-21 art. 26, art. 12
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 25 bis
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 II JORF 18 décembre 1964
+	  - Loi n°75-621 1975-07-11 art. 12 JORF 12 juillet 1975
 
 
 ###### Article 30
@@ -435,6 +554,60 @@ Il en est de même pour le métayer ou colon partiaire.
 	  - Loi n°1941-03-09 art. 30
 
 
+###### Article 34
+
+En vue de faciliter les opérations de remembrement :
+
+1° Sont interdites à l'intérieur du périmètre de remembrement, à partir de la date de l'arrêté préfectoral prévu à l'article
+3 et jusqu'à la date de clôture des opérations, la préparation et l'exécution de tous travaux susceptibles d'apporter une
+modification à l'état des lieux à la date de l'arrêté précité, notamment les plantations, établissement de clôtures, création
+de fossés ou de chemins, ainsi que l'arrachage des arbres et des haies.
+
+Les opérations interdites sont déterminées par la commission communale et énoncées dans l'arrêté préfectoral ordonnant le
+remembrement.
+
+L'interdiction n'ouvre droit à aucune indemnité.
+
+Les travaux exécutés en violation des dispositions ci-dessus ne sont pas retenus en plus-value dans l'établissement de la
+valeur d'échange des parcelles intéressées et ne donnent pas lieu au paiement d'une soulte éventuelle. La remise en état
+pourra être faite aux frais des contrevenants dans les conditions fixées par le règlement d'administration publique prévu à
+l'article 54, lequel arrête le mode de perception des frais sus énoncés ;
+
+2° A dater de l'arrêté préfectoral prévu à l'article 3, tout projet de mutation de propriété entre vifs doit être porté à la
+connaissance de la commission communale.
+
+Si la commission communale estime que la mutation envisagée est susceptible d'entraver la réalisation du nouveau lotissement,
+la demande de mutation doit être soumise pour décision à la commission départementale.
+
+La demande sur laquelle cette dernière commission n'a pas statué dans un délai de trois mois est considérée comme autorisée.
+
+Le règlement d'administration publique prévu à l'article 54 fixe les conditions de présentation et d'instruction des
+demandes, ainsi que le moment des opérations où les demandes, ainsi que le moment des opérations où les demandes ne seront
+plus recevables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 3, 54
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 30 bis
+
+	**Modifié par**:
+
+	  - Loi n°75-621 1975-07-11 art. 13 JORF 12 juillet 1975
+
+	**Abrogé par**:
+
+	  - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
+
+
 ###### Article 35
 
 En vue de conserver les effets du remembrement, toute division envisagée de parcelles comprises dans le périmètre où le
@@ -531,6 +704,35 @@ Les modalités de la cession et son prix sont fixés comme en matière d'expropr
 	**Modifié par**:
 
 	  - Loi n°60-792 1960-08-02 art. 13 JORF 4 août 1960
+
+	**Abrogé par**:
+
+	  - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
+
+
+###### Article 38-4
+
+Lorsqu'un ou plusieurs participants possédant moins du quart de la superficie envisagée et représentant moins de 50 % de
+l'ensemble des participants fait opposition à un échange multilatéral portant sur un périmètre déterminé, alors que sa
+participation est indispensable à la réalisation du projet, les autres échangistes pourront solliciter l'arbitrage de la
+commission départementale. Celle-ci pourra fixer les conditions dans lesquelles l'échange multilatéral devra être réalisé.
+
+La décision de la commission départementale sera transmise au préfet, qui pourra la rendre exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-1251 1954-12-20 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°60-792 1960-08-02 art. 13 JORF 4 août 1960
+	  - Loi n°75-621 1975-07-11 art. 15 JORF 12 juillet 1975
 
 	**Abrogé par**:
 
