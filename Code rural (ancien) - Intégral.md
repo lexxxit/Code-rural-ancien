@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1994-07-27
+Version Consolidée au 1994-08-10
 
 # Livre Ier : Régime du sol
 
@@ -14149,39 +14149,39 @@ assurances complémentaires de l'assurance maladie, maternité et vieillesse dan
 
 ###### Article 1050
 
-Les salariés mentionnés à l'article 1144 du présent code peuvent bénéficier auprès des institutions de retraite ou de
-prévoyance complémentaire fonctionnant avec l'autorisation et sous le contrôle du ministre chargé de l'agriculture
-d'avantages s'ajoutant à ceux qui résultent du régime des assurances sociales agricoles, du régime d'assurance obligatoire
-contre les accidents du travail et les maladies professionnelles, de la législation applicables dans les départements
-d'outre-mer, conformément au livre XI du code de la sécurité sociale et des assurances volontaires prévues par le titre Ier
-du livre XII du code de la sécurité sociale.
+I. - Les institutions de retraite complémentaire auxquelles, en application de l'article L. 921-1 du code de la sécurité
+sociale, doivent être affiliés les salariés mentionnés à l'article 1144 sont régies par les dispositions du titre II du livre
+IX de ce code. Toutefois, elles fonctionnent avec l'autorisation et sous le contrôle du ministre chargé de l'agriculture.
 
-Les institutions mentionnées au premier alinéa du présent article ne peuvent être simultanément autorisées à constituer :
-
-1° des avantages de retraite complémentaire qui relèvent de l'obligation d'affiliation fixée au premier alinéa de l'article
-L. 731-5 du code de la sécurité sociale ou qui ne sont pas couverts intégralement et à tout moment par des provisions
-techniques, d'une part ;
-
-2° d'autres avantages mentionnés au premier alinéa du présent article, d'autre part.
-
-Les institutions définies au premier alinéa sont soumises au contrôle de la commission instituée par l'article L. 732-10 du
-code de la sécurité sociale.
+II. - Les institutions de prévoyance autorisées avant la date de la publication de la loi n° 94-678 du 8 août 1994 relative à
+la protection sociale complémentaire des salariés et portant transposition des directives n° 92-49 et n° 92-96 des 18 juin et
+10 novembre 1992 du Conseil des communautés européennes par le ministre chargé de l'agriculture à fonctionner exclusivement
+au bénéfice des salariés mentionnés à l'article 1144 sont maintenues. Elles sont régies par les dispositions du titre III du
+livre IX du code de la sécurité sociale et soumises au contrôle de la commission instituée par l'article L. 951-1 de ce code.
+Toutefois, les attributions du ministre chargé de la sécurité sociale en ce qui concerne ces institutions sont dévolues au
+ministre chargé de l'agriculture.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 1144
-	  - Code de la sécurité sociale. - art. L731-5 (M)
-	  - Code de la sécurité sociale. - art. L732-10 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Cite**:
+
+	  - Loi n°94-678 1994-08-08
+	  - Code de la sécurité sociale. - art. L921-1 (M)
+	  - Code de la sécurité sociale. - art. L951-1 (M)
+	  - Code rural 1144
 
 	**Modifié par**:
 
-	  - Loi n°93-121 du 27 janvier 1993 - art. 9 (V) JORF 30 janvier 1993
+	  - Loi n°94-678 du 8 août 1994 - art. 13 () JORF 10 août 1994
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 	**Cité par**:
 
@@ -14192,39 +14192,44 @@ code de la sécurité sociale.
 	**Nouveaux textes**:
 
 	  - Code rural - art. L727-2 (V)
+	  - Code rural L727-2
 
 
 ###### Article 1051
 
-Sous réserve des dispositions de l'article 1050, les dispositions du titre III du livre VII du code de la sécurité sociale
-sont applicables aux régimes de retraite et de prévoyance institués en faveur des salariés mentionnés à l'article 1144.
-
-Toutefois, par dérogation aux dispositions du deuxième alinéa de l'article L. 731-2 du code de la sécurité sociale et de
-l'article L. 731-3 du même code, les accords visés au premier alinéa de l'article L. 731-2 précité ayant pour objet
-l'institution d'un régime complémentaire de prévoyance ou de retraite en faveur des salariés mentionnés à l'article 1144 sont
-étendus par arrêté du ministre chargé de l'agriculture après avis motivé de la sous-commission des conventions et accords de
-la commission nationale de la négociation collective et élargis, en tout ou partie, par arrêté du ministre chargé de
-l'agriculture et du ministre chargé du budget sur proposition ou après avis motivé de la sous-commission précitée.
+Par dérogation aux dispositions des articles L. 911-3 et L. 911-4 du code de la sécurité sociale, les accords collectifs
+ayant pour objet exclusif la détermination des garanties mentionnées à l'article L. 911-1 de ce code au profit des seuls
+salariés mentionnés à l'article 1144 sont étendus par arrêté du ministre chargé de l'agriculture après avis motivé de la
+sous-commission des conventions et accords de la commission nationale de la négociation collective et élargis, en tout ou
+partie, par arrêté du ministre chargé de l'agriculture et du ministre chargé du budget sur proposition ou après avis motivé
+de la sous-commission précitée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°89-1009 du 31 décembre 1989 - art. 27 () JORF 2 janvier 1990
+	  - Loi n°94-678 du 8 août 1994 - art. 13 () JORF 10 août 1994
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L727-3 (V)
+	  - Code rural L727-3
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L731-2 (T)
-	  - Code de la sécurité sociale. - art. L731-3 (T)
-	  - Code rural 1050, 1144
+	  - Code de la sécurité sociale. - art. L911-1 (M)
+	  - Code de la sécurité sociale. - art. L911-3 (M)
+	  - Code de la sécurité sociale. - art. L911-4 (M)
+	  - Code rural 1144
 
 
 #### Section 5 : Organisation administrative et financière.
