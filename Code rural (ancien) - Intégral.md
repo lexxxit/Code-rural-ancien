@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1977-06-10
+Version Consolidée au 1977-12-30
 
 ###### Article 162
 
@@ -20576,6 +20576,38 @@ celles du présent chapitre.
 
 ### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.
 
+###### Article 1142-12
+
+Les exploitants agricoles exerçant leur activité dans les départements d'outre-mer bénéficient des allocations familiales
+dans les conditions prévues par le présent chapitre.
+
+Ils bénéficient de l'allocation de rentrée scolaire, de l'allocation de logement, de l'allocation d'éducation spéciale, de
+l'allocation d'orphelin, de l'allocation de parent isolé, du complément familial dans les conditions respectivement prévues
+aux articles L. 532-4, L. 542-1, L. 543-4, L. 543-9, L. 758-2, L. 758-3 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L755-21 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-6 (M)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L532-4, L542-1, L543-4, L543-9, L758-2, L758-3
+	  - Code de la sécurité sociale. - art. L532-4 (M)
+	  - Code de la sécurité sociale. - art. L542-1 (M)
+	  - Code de la sécurité sociale. - art. L758-2 (V)
+	  - Code de la sécurité sociale. - art. L758-3 (V)
+
+
 ###### Article 1142-13
 
 Est considérée comme exploitant agricole pour l'application du présent chapitre toute personne exploitant en une qualité
@@ -21167,6 +21199,37 @@ Des décrets en Conseil d'Etat fixeront les modalités d'application du premier 
 
 
 #### Section 4 : Organisation administrative et financière.
+
+###### Article 1150
+
+Le régime d'assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles est
+géré par les organismes de mutualité sociale agricole. Il est financé par les contributions des employeurs et par le
+versement du solde de compensation prévu par la loi n° 77-1454 du 29 décembre 1977.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-10
+	  - Code rural - art. L751-10 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Cite**:
+
+	  - Loi n°77-1454 1977-12-29
+
+	**Modifié par**:
+
+	  - Loi n°77-1454 1977-12-29 art. 4 JORF 30 décembre 1977
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
 
 ###### Article 1151
 
