@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1993-12-21
+Version Consolidée au 1994-01-01
 
 ###### Article 1143-2
 
@@ -4720,30 +4720,32 @@ consultatif de l'élevage.
 
 ###### Article 309
 
-Tout vétérinaire de nationalité française ou ressortissant d'un autre Etat membre de la Communauté économique européenne qui
-remplit les conditions d'exercice prévues par la loi n° 82-899 du 20 octobre 1982 relative à l'exercice des activités de
-vétérinaire et qui désire exercer sa profession est tenu, au préalable, de faire enregistrer sans frais son diplôme à la
-préfecture de son département et au greffe du tribunal de grande instance de son arrondissement. L'enregistrement du diplôme
-doit être, préalablement à l'exercice de la profession, suivi de la production d'un certificat d'inscription au tableau de
-l'ordre des vétérinaires délivré par le conseil régional de l'ordre des vétérinaires. Le fait de porter son domicile dans un
-autre département oblige à un nouvel enregistrement du diplôme.
+Tout vétérinaire de nationalité française ou ressortissant d'un autre Etat membre de la Communauté européenne ou d'un autre
+Etat partie à l'accord sur l'Espace économique Européen qui remplit les conditions d'exercice prévues par la loi n° 82-899 du
+20 octobre 1982 relative à l'exercice des activités de vétérinaire et qui désire exercer sa profession est tenu, au
+préalable, de faire enregistrer sans frais son diplôme à la préfecture de son département et au greffe du tribunal de grande
+instance de son arrondissement. L'enregistrement du diplôme doit être, préalablement à l'exercice de la profession, suivi de
+la production d'un certificat d'inscription au tableau de l'ordre des vétérinaires délivré par le conseil régional de l'ordre
+des vétérinaires. Le fait de porter son domicile dans un autre département oblige à un nouvel enregistrement du diplôme.
 
 Dans la limite d'un quota annuel fixé par décret en Conseil d'Etat, le ministre chargé de l'agriculture peut autoriser à
 exercer la médecine et la chirurgie des animaux les personnes de nationalité française ou ressortissantes d'un autre Etat
-membre de la Communauté économique européenne qui, titulaires d'un diplôme, certificat ou titre de vétérinaire émanant de
-pays tiers et figurant sur une liste établie par arrêté du ministre chargé de l'agriculture, ont satisfait à la vérification
-de leurs connaissances en matière de législation sanitaire ou qui, titulaires d'un diplôme, certificat ou titre de
-vétérinaire, émanant d'un pays tiers et n'étant pas inscrit sur cette liste, ont satisfait à la vérification d'ensemble de
-leurs connaissances selon des modalités fixées par décret en Conseil d'Etat.
+membre de la Communauté européenne ou par un autre Etat partie à l'accord sur l'Espace économique Européen qui, titulaires
+d'un diplôme, certificat ou titre de vétérinaire émanant de pays tiers et figurant sur une liste établie par arrêté du
+ministre chargé de l'agriculture, ont satisfait à la vérification de leurs connaissances en matière de législation sanitaire
+ou qui, titulaires d'un diplôme, certificat ou titre de vétérinaire, émanant d'un pays tiers et n'étant pas inscrit sur cette
+liste, ont satisfait à la vérification d'ensemble de leurs connaissances selon des modalités fixées par décret en Conseil
+d'Etat.
 
 Ces autorisations sont délivrées selon l'ordre d'antériorité des demandes.
 
 En outre, l'autorisation d'exercer la médecine et la chirurgie des animaux peut être accordée par décision du ministre chargé
-de l'agriculture à tout ressortissant d'un Etat membre de la Communauté économique européenne titulaire d'un diplôme français
-d'université ou d'un diplôme reconnu comme équivalent délivré par un autre Etat membre de la Communauté économique
-européenne. Cette disposition est applicable jusqu'à l'expiration d'une période de cinq années à compter de l'année d'entrée
-en vigueur de la loi n° 89-412 du 22 juin 1989 modifiant et complétant certaines dispositions du livre II du code rural ainsi
-que certains articles du code de la santé publique.
+de l'agriculture à tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
+l'Espace économique Européen titulaire d'un diplôme français d'université ou d'un diplôme reconnu comme équivalent délivré
+par un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique Européen.
+Cette disposition est applicable jusqu'à l'expiration d'une période de cinq années à compter de l'année d'entrée en vigueur
+de la loi n° 89-412 du 22 juin 1989 modifiant et complétant certaines dispositions du livre II du code rural ainsi que
+certains articles du code de la santé publique.
 
 Préalablement à l'exercice effectif de la profession, les personnes autorisées à pratiquer la médecine et la chirurgie des
 animaux doivent procéder aux formalités d'enregistrement et d'inscription prévues au premier alinéa du présent article.
@@ -4761,18 +4763,19 @@ animaux doivent procéder aux formalités d'enregistrement et d'inscription pré
 
 	**Modifié par**:
 
-	  - Loi n°89-412 du 22 juin 1989 - art. 24 () JORF 24 juin 1989
+	  - Loi n°93-1240 1993-12-31 art. 1 JORF 1er janvier 1994
 
 
 ###### Article 309-1
 
 Par dérogation aux dispositions législatives en vigueur et notamment aux articles 309 et 340, et à condition de posséder la
-nationalité française ou celle d'un des autres Etats membres de la Communauté économique européenne ou d'un Etat dont les
-ressortissants tiennent des conventions ou réglementations internationales le droit de bénéficier des présentes dispositions
-au même titre que les Français, les élèves des écoles vétérinaires françaises, pourvus d'une attestation établissant qu'ils
-ont subi avec succès les examens de fin de troisième année de ces écoles, sont autorisés, dans les conditions définies par le
-présent article et les articles suivants, ainsi que par les règlements pris pour leur exécution, à pratiquer la médecine et
-la chirurgie des animaux en qualité d'assistants de vétérinaires exerçant régulièrement cette médecine et cette chirurgie.
+nationalité française ou celle d'un des autres Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord
+sur l'Espace économique européen ou d'un Etat dont les ressortissants tiennent des conventions ou réglementations
+internationales le droit de bénéficier des présentes dispositions au même titre que les Français, les élèves des écoles
+vétérinaires françaises, pourvus d'une attestation établissant qu'ils ont subi avec succès les examens de fin de troisième
+année de ces écoles, sont autorisés, dans les conditions définies par le présent article et les articles suivants, ainsi que
+par les règlements pris pour leur exécution, à pratiquer la médecine et la chirurgie des animaux en qualité d'assistants de
+vétérinaires exerçant régulièrement cette médecine et cette chirurgie.
 
 Pour l'application du présent article et de l'article suivant, est considéré comme assistant celui qui, en dehors de la
 présence mais sous l'autorité d'un vétérinaire, intervient, à titre médical ou chirurgical, sur les animaux habituellement
@@ -4787,10 +4790,15 @@ soignés par celui-ci, lequel, s'il exerce à titre libéral, continue à assure
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°89-412 du 22 juin 1989 - art. 25 () JORF 24 juin 1989
+	  - Loi n°93-1240 1993-12-31 art. 1 JORF 1er janvier 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 309-2
@@ -7203,47 +7211,6 @@ Nota - Loi n° 2001-616 du 11 juillet 2001, art. 1 (compétence territoriale), a
 	**Abrogé par**:
 
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
-
-
-# Livre III : La chasse et la pêche
-
-## Titre Ier : De la chasse
-
-### Chapitre Ier : De l'exercice du droit de chasse.
-
-###### Article 366 ter
-
-Le fonds de garantie institué par l'article 15 modifié de la loi n° 51-1508 du 31 décembre 1951 prend en charge, dans les
-conditions prévues audit article, l'indemnisation des dommages corporels occasionnés par tous actes de chasse ou de
-destruction des animaux nuisibles, même si ces actes ne sont pas compris dans l'obligation d'assurance instituée par
-l'article 366 bis du code rural, dès lors qu'ils sont le fait d'un auteur soit demeuré inconnu, soit totalement ou
-partiellement insolvable ainsi qu'éventuellement son assureur.
-
-Les dépenses résultant de l'application de l'alinéa précédent sont couvertes par des contributions des sociétés d'assurances,
-des chasseurs assurés et des responsables d'accidents corporels de chasse non bénéficiaires d'une assurance, ainsi que par
-une majoration de 50 p. 100 des amendes, y compris celles qu'une mesure de grâce aurait substituées à l'emprisonnement,
-prononcées pour un acte de chasse effectué sans permis ou dans un lieu, un temps ou au moyen d'engins prohibés.
-
-Un décret en Conseil d'Etat, pris après avis du conseil national des assurances, fixera les conditions d'application du
-présent article. Il déterminera notamment les personnes exclues du bénéfice du fonds de garantie, des obligations et droits
-respectifs ou réciproques dudit fonds, de l'assureur, du responsable de l'accident corporel de chasse, de la victime ou de
-ses ayants droit, les délais assignés pour l'exercice de ces droits ou la mise en jeu de ces obligations, les taux, assiette,
-modalités de liquidation et de recouvrement des contributions prévues ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 366 bis
-	  - Loi n°51-1508 du 31 décembre 1951 - art. 15, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°93-1444 du 31 décembre 1993 - art. 20 () JORF 5 janvier 1994 en vigueur le 1er janvier 1994
 
 
 # Livre IV : Institutions et groupements professionnels agricoles
@@ -14169,20 +14136,15 @@ laquelle il est affilié :
 
 2° une cotisation pour les salariés que, le cas échéant, il emploie.
 
-**Nota:**
-
-Nota : Loi n° 91-1407 du 31 décembre 1991 art. 1 II : à compter du 1er janvier 1994, les cotisations, versées au titre des
-prestations familiales, mentionnées à l'article 1062 du code rural, à charge des chefs d'exploitation ou d'entreprise
-agricoles et des artisans ruraux sont constituées de deux éléments.
-
-Le premier est calculé selon les modalités prévues à l'article 1063.
-
-Le second est calculé, pour la cotisation versée par l'exploitant pour lui-même, en pourcentage des revenus professionnels ou
-de l'assiette forfaitaire, dans les conditions définies à l'article 1003-12 du même code et selon un taux défini par décret
-et, pour la cotisation versée pour les salariés que, le cas échéant, il emploie, en pourcentage de leurs rémunérations
-brutes, selon des modalités fixées par décret.
+La cotisation mentionnée au 1° est calculée en pourcentage des revenus professionnels ou de l'assiette forfaitaire, définis à
+l'article 1003-12, selon un taux fixé par décret. La cotisation mentionnée au 2° est calculée en pourcentage des
+rémunérations brutes des salariés, selon des modalités fixées par décret.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1003-12
 
 	**Codifié par**:
 
@@ -14190,7 +14152,7 @@ brutes, selon des modalités fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°91-1407 du 31 décembre 1991 - art. 1 (Ab) JORF 4 janvier 1992
+	  - Loi n°95-95 du 1 février 1995 - art. 67 () JORF 2 février 1995 en vigueur le 1er janvier 1994
 
 	**Nouveaux textes**:
 
@@ -16210,7 +16172,11 @@ application de l'article L. 344 du code de la sécurité sociale. Le montant tot
 servies à des coexploitants ne peut excéder celui de la pension qui serait servie à un agriculteur dirigeant seul la même
 exploitation. Toutefois, lorsqu'il existe une coexploitation entre époux ou une exploitation agricole à responsabilité
 limitée, le montant des pensions de retraite proportionnelle servies aux époux coexploitants ou aux associés exploitants peut
-être majoré dans des conditions fixées par décret.
+être majoré dans des conditions fixées par décret. La retraite proportionnelle des chefs d'exploitation ou d'entreprise
+agricoles justifiant de conditions minimales de durée d'activité non salariée agricoles et d'assurance en tant que chef
+d'exploitation ou d'entreprise agricoles est calculée ou révisée en tenant compte, selon des modalités fixées par décret, des
+périodes d'assurance accomplies par les intéressés en qualité d'aide familial majeur au sens du 2° de l'article 1106-1. Pour
+les pensions déjà liquidées, ce décret précise les périodes assimilées aux périodes d'assurance précédemment mentionnées.
 
 Pour les assurés qui demandent la liquidation de leurs droits à retraite avant l'âge de soixante-cinq ans et qui ne
 justifient pas, tant dans le régime institué par le présent chapitre que dans un ou plusieurs autres régimes obligatoires,
@@ -16230,18 +16196,17 @@ cotisations versées par des exploitants agricoles au titre des assurances socia
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural 1116, 1123, 1120-2
-	  - Code de la sécurité sociale L344
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
 	**Modifié par**:
 
-	  - Loi n°90-85 du 23 janvier 1990 - art. 80 () JORF 25 janvier 1990
+	  - Loi n°94-43 du 18 janvier 1994 - art. 89 (V) JORF 19 janvier 1994 en vigueur le 1er janvier 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2004-860 du 24 août 2004 - art. 1 () JORF 25 août 2004
 
 	**Nouveaux textes**:
 
@@ -16249,6 +16214,15 @@ cotisations versées par des exploitants agricoles au titre des assurances socia
 	  - Code rural - art. L732-25 (M)
 	  - Code rural - art. L732-26 (M)
 	  - Code rural - art. L732-27 (M)
+	  - Code rural L732-24
+	  - Code rural L732-25
+	  - Code rural L732-26
+	  - Code rural L732-27
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L344
+	  - Code rural 1116, 1123, 1106-1, 1120-2
 
 
 ###### Article 1121-1
@@ -16352,16 +16326,18 @@ Dès lors qu'ils ne justifient pas de leur affiliation à un régime légal ou r
 d'une activité professionnelle personnelle, qu'ils ne sont pas atteints d'une incapacité absolue de travail et qu'ils ne sont
 pas bénéficiaires des dispositions des chapitres V et VI du titre III du code de la famille et de l'aide sociale, le conjoint
 et les membres de la famille vivant sur l'exploitation sont présumés, sauf preuve contraire, participer à la mise en valeur
-de celle-ci.
+de celle-ci. Les membres de la famille âgés d'au moins dix-huit ans et ayant la qualité d'aide familial au sens du 2° de
+l'article 1106-1 ont également droit à la retraite proportionnelle dans les conditions prévues au 2° de l'article 1121 et au
+2° de l'article 1142-5.
 
 Lorsqu'un ménage d'exploitants a opté, selon des modalités fixées par décret, pendant une période donnée, pour un partage à
 parts égales des points obtenus en contrepartie des cotisations visées aux b et c de l'article 1123, le conjoint du chef
 d'exploitation ou d'entreprise agricole obtient, outre la retraite forfaitaire mentionnée au précédent alinéa, une retraite
 proportionnelle calculée dans les conditions prévues au 2° de l'article 1121.
 
-Le conjoint survivant des personnes mentionnées à l'alinéa précédent a droit, dans les conditions fixées au premier alinéa de
-l'article 1122, à une retraite de réversion d'un montant égal à celui de la retraite forfaitaire dont bénéficiait ou aurait
-pu bénéficier l'assuré.
+Le conjoint survivant des personnes mentionnées au premier alinéa du présent article a droit, dans les conditions énoncées au
+premier alinéa de l'article 1122, à une pension de réversion qui se compose de la retraite forfaitaire et, le cas échéant,
+d'un pourcentage fixé par décret de la retraite proportionnelle dont bénéficiait ou eût bénéficié l'assuré.
 
 **Liens relatifs à cet article**
 
@@ -16371,7 +16347,7 @@ pu bénéficier l'assuré.
 
 	**Modifié par**:
 
-	  - Loi n°91-1407 du 31 décembre 1991 - art. 12 () JORF 4 janvier 1992
+	  - Loi n°94-43 du 18 janvier 1994 - art. 89 (V) JORF 19 janvier 1994 en vigueur le 1er janvier 1994
 
 	**Cité par**:
 
@@ -16385,7 +16361,7 @@ pu bénéficier l'assuré.
 
 	**Cite**:
 
-	  - Code rural 1121, 1122, 1123
+	  - Code rural 1121, 1106-1, 1142-5, 1123, 1122
 
 
 ###### Article 1122-2
@@ -16689,8 +16665,8 @@ chef d'exploitation ou d'entreprise ; elles comprennent :
 a) Une cotisation due pour chaque personne non salariée âgée d'au moins dix-huit ans, à l'exception des chefs d'exploitation
 ou d'entreprise mentionnés à l'article 1121-1 ;
 
-b) Une cotisation due pour chaque chef d'exploitation ou d'entreprise. Cette cotisation est calculée dans les conditions
-prévues à l'article 1125 ;
+b) Une cotisation due pour chaque chef d'exploitation ou d'entreprise et une cotisation due pour chaque aide familial majeur
+au sens du 2° de l'article 1106-1. Cette cotisation est calculée dans les conditions prévues à l'article 1125 ;
 
 c) Une cotisation à la charge de chaque chef d'exploitation ou d'entreprise, calculée sur la totalité des revenus
 professionnels ou sur l'assiette forfaitaire définis à l'article 1003-12.
@@ -16699,7 +16675,7 @@ professionnels ou sur l'assiette forfaitaire définis à l'article 1003-12.
 
 	**Cite**:
 
-	  - Code rural 1003-12, 1121-1, 1125
+	  - Code rural 1121-1, 1106-1, 1125, 1003-12
 
 	**Codifié par**:
 
@@ -16707,7 +16683,7 @@ professionnels ou sur l'assiette forfaitaire définis à l'article 1003-12.
 
 	**Modifié par**:
 
-	  - Loi n°91-73 du 18 janvier 1991 - art. 24 () JORF 20 janvier 1991
+	  - Loi n°94-43 du 18 janvier 1994 - art. 89 (V) JORF 19 janvier 1994 en vigueur le 1er janvier 1994
 
 	**Nouveaux textes**:
 
@@ -17150,7 +17126,11 @@ application de l'article L. 344 du code de la sécurité sociale. Le montant tot
 servies à des coexploitants ne peut excéder celui de la pension qui serait servie à un agriculteur dirigeant seul la même
 exploitation. Toutefois, lorsqu'il existe une coexploitation entre époux ou une exploitation agricole à responsabilité
 limitée, le montant des pensions de retraite proportionnelle servies aux époux coexploitants ou aux associés exploitants peut
-être majoré dans des conditions fixées par décret.
+être majoré dans des conditions fixées par décret. La retraite proportionnelle des chefs d'exploitation ou d'entreprise
+agricoles justifiant de conditions minimales de durée d'activité non salariée agricole et d'assurance en tant que chef
+d'exploitation ou d'entreprise agricoles est calculée ou révisée en tenant compte, selon des modalités fixées par décret, des
+périodes d'assurance accomplies par les intéressés en qualité d'aide familial majeur au sens du 2° de l'article 1106-1. Pour
+les pensions déjà liquidées, ce décret précise les périodes assimilées aux périodes d'assurance précédemment mentionnées.
 
 Pour les assurés qui demandent la liquidation de leurs droits à retraite avant l'âge de soixante-cinq ans et qui ne
 justifient pas, tant dans le régime institué par le présent chapitre que dans un ou plusieurs autres régimes obligatoires,
@@ -17169,8 +17149,19 @@ Les conditions d'application des dispositions ci-dessus sont fixées par décret
 
 	**Cite**:
 
-	  - Code rural 1116, 1123, 1120-2
+	  - Code rural 1116, 1123, 1106-1, 1120-2
 	  - Code de la sécurité sociale L344
+
+	**Nouveaux textes**:
+
+	  - Code rural L762-29
+	  - Code rural L762-30
+	  - Code rural L762-31
+	  - Code rural L762-32
+	  - Code rural - art. L762-29 (M)
+	  - Code rural - art. L762-30 (V)
+	  - Code rural - art. L762-31 (VT)
+	  - Code rural - art. L762-32 (VT)
 
 	**Codifié par**:
 
@@ -17178,14 +17169,11 @@ Les conditions d'application des dispositions ci-dessus sont fixées par décret
 
 	**Modifié par**:
 
-	  - Loi n°90-85 du 23 janvier 1990 - art. 80 () JORF 25 janvier 1990
+	  - Loi n°94-43 du 18 janvier 1994 - art. 89 (V) JORF 19 janvier 1994 en vigueur le 1er janvier 1994
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L762-29 (M)
-	  - Code rural - art. L762-30 (V)
-	  - Code rural - art. L762-31 (VT)
-	  - Code rural - art. L762-32 (VT)
+	  - Décret n°2004-861 du 24 août 2004 - art. 1 () JORF 25 août 2004
 
 
 ###### Article 1142-6
