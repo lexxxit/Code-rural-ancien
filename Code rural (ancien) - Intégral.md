@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1955-09-27
+Version Consolidée au 1955-09-28
 
 ###### Article 162
 
@@ -70,6 +70,803 @@ l'effectif d'une espèce sensible dans le département ou la région intéressé
 	**Abrogé par**:
 
 	  - Décret n°64-862 du 3 août 1964 - art. 33 (Ab) JORF 25 août 1964
+
+
+### Chapitre II : De la réorganisation de la propriété foncière
+
+###### Article 10
+
+Les documents sont déposés à la mairie de la commune de la situation des lieux, pour être communiqués à tous les intéressés.
+La date de dépôt est affichée à la porte de la mairie et publiée au moins huit jours à l'avance dans un journal d'annonces du
+département.
+
+Pendant un mois, les documents peuvent être consultés sur place. Passé ce délai, un membre de la commission communale,
+désigné par le président, reçoit pendant trois jours les observations des intéressés et des tiers.
+
+La commission communale ordonne ensuite les rectifications qu'elle estime fondées, compte tenu des explications et
+justifications produites devant elle.
+
+A défaut de toute réclamation, les documents ainsi établis ou rectifiés sont présumés exacts. Sont notamment regardées comme
+définitivement abandonnées et sont utilisées dans les conditions fixées à l'article 12, les parcelles dont les propriétaires
+n'auraient pas été indiqués sur les documents publiés et ne se seraient pas fait connaître au cours de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 12
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 8
+
+
+###### Article 14
+
+Les parcelles abandonnées ou incultes destinées au reboisement sont, soit expropriées au profit de la commune aux fins de
+reboisement, soit, après un remembrement spécial, restituées à leur propriétaire, avec obligation de reboisement dans un
+délai que la commission communale fixe, compte tenu de l'importance de l'opération. Dans le cas où le reboisement n'est pas
+opéré dans le délai fixé, la commission communale avertit les propriétaires par voie d'affiche à la porte de la mairie de la
+situation des biens et par publication dans un journal d'annonces du département, que, faute de commencer les travaux dans un
+délai maximum de six mois après l'achèvement du délai primitif, les terrains seront expropriés au profit de la commune et
+soumis au régime forestier.
+
+Dans ce dernier cas, la commune prend possession des biens expropriés sans paiement préalable. Les formes de l'expropriation,
+les règles d'évaluation de l'indemnité ainsi que les conditions et délais de paiement sont fixés par un règlement
+d'administration publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 12
+
+
+###### Article 15
+
+La commission communale peut décider que sont incorporées à l'exploitation rurale qui les enclave toutes les parcelles
+enclavées. Si une parcelle aboutit sur un chemin et est limitrophe des deux côtés de parcelles appartenant au même
+propriétaire, elle est attribuée à ce propriétaire si la superficie est inférieure à celle qui est fixée par la commission
+comme pouvant être normalement exploitée, compte tenu des cultures pratiquées et des moyens normaux d'exploitation.
+
+L'exploitant qui reçoit la parcelle enclavée ou limitrophe restitue à son propriétaire une surface équivalente en qualité de
+la parcelle incorporée avec paiement d'une soulte, s'il y a lieu, sinon le propriétaire dépossédé est dédommagé par le
+versement d'une somme fixée par la commission communale et représentant la valeur vénale de la propriété.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 13
+
+
+###### Article 16
+
+La commission communale a qualité pour provoquer les échanges ou remembrements amiables.
+
+Elle peut aussi prescrire des échanges qui doivent être obligatoirement réalisés. Elle le fait notamment lorsque la création
+de chemins ou fossés d'assainissement ou le redressement de cours d'eau, rus ou fossés existants doit entraîner la division
+de parcelles ou lorsque des échanges de cultures ont été pratiqués.
+
+Les échanges imposés par la commission se font, de même que les échanges amiables, selon les modalités de l'article 37.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 37
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 14
+
+
+### Chapitre III : Du remembrement rural.
+
+###### Article 22
+
+Les terres situées aux limites communales peuvent être attribuées aux propriétaires des communes limitrophes, ceux-ci devant
+céder, en contrepartie, les terres qu'ils possèdent voisines des exploitations rurales groupées autour du village de la
+commune remembrée.
+
+Lorsque les nécessités du remembrement justifient la modification de la circonscription territoriale des communes, cette
+modification est prononcée par le préfet, sans qu'il y ait lieu de faire application de l'article 2, alinéa 2, de l'article 3
+et des trois premiers alinéas de l'article 5 de l'ordonnance n° 45-2604 du 2 novembre 1945.
+
+L'arrêté du préfet est publié en même temps que l'arrêté ordonnant le dépôt et l'affichage du plan définitif de remembrement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09
+
+	**Cite**:
+
+	  - Ordonnance 45-2604 1945-11-02 art. 2, art. 3, art. 5
+	  - Ordonnance n°45-2604 du 2 novembre 1945 - art. 2 (Ab)
+	  - Ordonnance n°45-2604 du 2 novembre 1945 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+###### Article 24
+
+Le plan définitif du remembrement arrêté par la commission est affiché dans la commune à la diligence du préfet.
+
+Mention de cet affichage est fait par arrêté préfectoral inséré au recueil des actes administratifs de la préfecture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09
+
+	**Abrogé par**:
+
+	  - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
+
+
+###### Article 31
+
+Les droits réels, autres que les servitudes, grevant les immeubles remembrés s'exercent sur les immeubles attribués par le
+remembrement.
+
+Les effets de la publicité foncière légale faite avant le transfert de propriété visé à l'article 30 sont, en ce qui concerne
+les droits réels autres que les privilèges et les hypothèques, conservés à l'égard des immeubles attribués si cette publicité
+est renouvelée dans le délai et dans les conditions qui sont fixés par décret.
+
+Les créances privilégiées et hypothécaires ne conservent leur rang antérieur sur les immeubles attribués par le remembrement
+que si la publicité est elle-même renouvelée dans les conditions et le délai fixés par un décret.
+
+Les mesures d'exécution prises avant le transfert de propriété sont reportées sans frais sur les immeubles attribués dans les
+conditions qui sont fixées par le décret prévu à l'alinéa 2 du présent article.
+
+Si le remembrement donne lieu au versement d'une soulte, les droits des titulaires de droits réels et des créanciers sont
+reportés, à due concurrence, sur le montant de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 30
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 28
+
+
+###### Article 32
+
+Les servitudes existant au profit ou à l'encontre des fonds compris dans le remembrement et qui ne sont pas éteintes par
+application de l'article 703 du code civil subsistent sans modification.
+
+Il en est tenu compte pour la fixation de la valeur d'échange du fonds dominant et du fonds servant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Code civil - art. 703 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 29
+
+
+###### Article 33
+
+Le locataire d'une parcelle atteinte par le remembrement a le choix ou d'obtenir le report des effets du bail sur les
+parcelles acquises en échange par le bailleur, ou d'obtenir la résiliation totale ou partielle du bail, sans indemnité, dans
+la mesure où l'étendue de sa jouissance est diminuée par l'effet du remembrement.
+
+Il en est de même pour le métayer ou colon partiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 30
+
+
+###### Article 35
+
+En vue de conserver les effets du remembrement, toute division envisagée de parcelles comprises dans le périmètre où le
+remembrement a eu lieu, doit être soumise à la commission départementale de réorganisation foncière et de remembrement. La
+commission départementale procède au lotissement, sur les parcelles à diviser, des droits résultant du partage, de telle
+manière que les nouvelles parcelles créées se trouvent dans des conditions d'exploitation comparables à celles de l'immeuble
+divisé, notamment en ce qui concerne les accès.
+
+Tous actes contraires aux dispositions de l'alinéa précédent sont nuls.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 31
+
+
+###### Article 36
+
+Par application de l'article 1308 du code général des impôts et dans les conditions prévues audit article, les plans, procès-
+verbaux, certificats, significations, délibérations, décisions, jugements, contrats, quittances et généralement tous les
+actes ou formalités exclusivement relatifs à l'application du titre I, chapitres I, II, III, VII et VIII du présent livre,
+ayant pour objet de faciliter le remembrement de la propriété rurale, sont exempts de tous droits d'enregistrement, de timbre
+ou d'hypothèques, ainsi que les extraits, copies ou expéditions qui en sont délivrés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1308
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+### Chapitre VII : Dispositions diverses.
+
+###### Article 54
+
+Un règlement d'administration publique détermine les conditions d'exécution des chapitres qui précèdent et notamment, outre
+les modalités d'application des articles 3, 6, 19, 25, 26, 27, 28, 34. La procédure à suivre devant la commission
+départementale, les rapports avec les services des contributions directes et du cadastre, les conditions d'aliénation et de
+concession des lots créés et non attribués, la fixation des bases de répartition entre les intéressés des dépenses relatives
+aux opérations de remembrement, de réorganisation foncière et aux travaux d'améliorations foncières connexes à ces
+opérations, la gestion financière et l'ordonnancement des dépenses.
+
+Un décret détermine les règles de forme applicables aux actes constatant les opérations d'aménagement foncier définies aux
+chapitres II et III ainsi que les opérations d'échanges amiables effectués en application du chapitre IV.
+
+Le même décret fixe également les modalités selon lesquelles sont requis les états d'inscriptions et effectuées les
+formalités de publicité hypothécaire concernant tant les opérations visées à l'alinéa précédent que le transfert des droits
+réels visant les immeubles remembrés ou échangés.
+
+Jusqu'à la date d'entrée en vigueur de ce décret, les états sont requis et les formalités de publicité hypothécaire
+s'effectuent en conformité du titre VIII du décret du 7 janvier 1942.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 3, 6, 19, 25, 26, 27, 28, 34
+	  - Décret n°1942-01-07
+
+	**Anciens textes**:
+
+	  - Décret n°54-1251 1954-12-20 art. 29
+	  - Loi n°1941-03-09 art. 33
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+###### Article 55
+
+Les prescriptions de la loi n° 43-374 du 6 juillet 1943 sont applicables aux opérations de réorganisation foncière et de
+remembrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 34
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 3 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 56-1
+
+Les commissions communales de réorganisation foncière et de remembrement constituées au 20 décembre 1954 continuent à
+fonctionner dans les conditions prévues par la loi du 9 mars 1941, sans qu'il soit procédé à de nouvelles désignations de
+leurs membres.
+
+Le mandat des membres non fonctionnaires des commissions départementales de réorganisation foncière et de remembrement en
+fonctions au 20 décembre 1954 prendra fin dès la désignation de leurs successeurs.
+
+Cette désignation aura lieu dès la présentation aux préfets des listes prévues à l'article 5, établies à la première session
+ordinaire des chambres d'agriculture suivant le premier renouvellement de celles-ci intervenant après le 20 décembre 1954.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 5
+	  - Loi n°1941-03-09
+
+	**Anciens textes**:
+
+	  - Décret n°54-1251 1954-12-20 art. 30
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
+
+
+###### Article 57
+
+Le régime spécial des vacations allouées aux présidents et aux membres non fonctionnaires des commissions communales et des
+commissions départementales de réorganisation foncière et de remembrement, ainsi que le montant de leurs frais et indemnités
+de déplacement est fixé par un arrêté concerté du ministre de l'agriculture et du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-1251 1954-12-20 art. 31
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+### Chapitre VIII : Dispositions particulières à certains départements
+
+#### Section 2 : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
+
+###### Article 58
+
+Les dispositions des chapitres qui précèdent sont applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la
+Moselle, sous réserve des dispositions ci-après.
+
+La commission communale de réorganisation foncière et de remembrement est présidée par le juge du tribunal d'instance ou, à
+son défaut, le juge du tribunal du canton voisin, désigné par le premier président de la cour d'appel du ressort. Elle
+comprend, en sus des membres prévus par l'article 2, le juge du livre foncier dans le ressort duquel se trouve la commune
+intéressée.
+
+Pour l'application du paragraphe B, 1°, de l'article 9, l'état parcellaire des propriétés sera établi d'après le cadastre, le
+livre foncier et ses références, notamment les droits réels y inscrits.
+
+Les résultats du remembrement incorporés aux documents cadastraux en vertu de l'article 29 le sont également au livre
+foncier.
+
+Les remembrements entrepris suivant les dispositions de la loi locale du 30 juillet 1890, dont la liste proposée par la
+commission départementale de réorganisation foncière et de remembrement, est arrêtée par décision commune des ministres des
+finances et de l'agriculture, sont achevés suivant les dispositions de ladite loi, la commission départementale susvisée se
+substituant à la commission de remembrement créée par l'article 2 de l'ordonnance locale du 29 septembre 1891.
+
+Si des remembrements effectués sous l'empire d'une législation autre que celle visée à l'alinéa précédent donnent lieu à
+contestations de la part des intéressés, ils peuvent sur avis de la commission départementale de réorganisation foncière et
+de remembrement, être revisés suivant les dispositions des chapitres qui précèdent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 2, 9, 29
+	  - Loi n°1890-07-30
+	  - Ordonnance 1891-09-29 art. 2
+
+	**Anciens textes**:
+
+	  - Décret n°48-404 1948-03-10 art. 1, art. 2, art. 3, art. 5, art. 7
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+### Chapitre IX : Dispositions spéciales de procédure concernant le partage des terres vaines et vagues de Bretagne.
+
+###### Article 58-1
+
+Dans les départements des Côtes-du-Nord, du Finistère, d'Ille-et-Vilaine, de la Loire-Atlantique et du Morbihan, la procédure
+pour parvenir au partage des terres vaines et vagues dont la propriété, reconnue par l'article 10 de la loi du 28 août 1792,
+est encore indivise, est suivie conformément aux dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Loi n°1792-08-28 art. 10
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-2
+
+Quelle que soit l'importance des terres à partager, la demande est de la compétence, à charge d'appel, du juge du tribunal
+d'instance de la situation des biens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-3
+
+La partie la plus diligente adresse par lettre ou dépose, en personne ou par mandataire, au greffe du tribunal d'instance,
+une requête au juge du tribunal d'instance contenant ses nom, prénoms, profession et domicile, l'objet de la demande et la
+désignation des terres à partager.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-4
+
+Le greffier assure sans délai la publication d'un avis qui vaut, à l'égard de tous ayants droit, citation à comparaître à une
+date fixée par le juge.
+
+Cette publication est faite par affichage à la mairie de chacune des communes intéressées et par insertion dans un ou
+plusieurs journaux désignés par le juge d'instance et habilités à recevoir les annonces judiciaires et légales au lieu du
+tribunal d'instance.
+
+La comparution des parties ne peut avoir lieu avant l'expiration d'un délai de quatre mois à compter de la réception par le
+greffier de la requête visée à l'article 58-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 58-3
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-5
+
+L'avis prévu à l'article précédent contient :
+
+1° Un extrait de la demande de la partie la plus diligente reproduisant les mentions énoncées à l'article 58-3 ;
+
+2° L'indication du juge du tribunal d'instance saisi ;
+
+3° Les jour et heure fixés par le juge pour la comparution ;
+
+4° L'avertissement à tous les ayants droit qu'ils doivent faire parvenir au greffe, dix jours au moins avant la date de la
+comparution, tous renseignements en leur possession sur les droits invoqués par chacun d'eux ;
+
+5° La mention que cet avis vaut citation à l'égard de tous ayants droit.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 58-3
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-6
+
+Les documents justificatifs produits par les parties sont conservés au greffe pendant la durée de la procédure, sauf décision
+contraire du juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-7
+
+Dans la quinzaine de l'affichage à la mairie, le conseil municipal délibère sur les droits de la commune à la propriété de
+tout ou partie des terres à partager. Sa délibération est soumise au préfet dans la huitaine.
+
+A défaut par la commune de faire valoir les droits qu'elle pourrait avoir, le préfet peut les exercer devant le juge du
+tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-8
+
+A la date fixée pour comparaître, le juge du tribunal d'instance entend les parties présentes ou représentées et tente de les
+concilier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-9
+
+En cas de conciliation, le juge du tribunal d'instance dresse procès-verbal de l'arrangement intervenu. Ce procès-verbal a
+force exécutoire. Il doit être rendu public comme il est dit à l'alinéa 3 du présent article.
+
+Le procès-verbal, régulièrement publié, est opposable à tous ayants droit qui, dans le délai d'un an à compter de sa date,
+n'ont pas fait opposition à l'arrangement intervenu.
+
+Le greffier doit assurer sans délai, suivant les modes prévus à l'article 58-4, la publication d'un avis qui contient :
+
+1° La date du procès-verbal ;
+
+2° Les noms, prénoms, professions et domiciles des parties ayant concouru à l'arrangement ;
+
+3° La désignation des terres ayant fait l'objet du partage ;
+
+4° L'avertissement à tous ayants droit que le procès-verbal leur sera opposable si, dans le délai d'un an à compter de la
+date de ce dernier, ils n'ont pas fait opposition à l'arrangement intervenu, par voie de déclaration au greffe, en personne
+ou par mandataire, ou par lettre adressée au greffier. 
+
+En cas d'opposition, le juge tente, à l'expiration du délai d'un an prévu au deuxième alinéa du présent article, de concilier
+les opposants et les parties qui ont déjà comparu. Les parties sont convoquées par les soins du greffier, au moyen d'une
+lettre recommandée avec demande d'avis de réception. Si le juge parvient à les concilier, le partage ainsi effectué est
+opposable à tous intéressés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 58-4
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-10
+
+En cas de non-conciliation, le juge peut ordonner une expertise par un ou plusieurs experts. Il peut également ordonner une
+descente sur les lieux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-11
+
+L'expert désigné donne son avis, tant sur les demandes ou prétentions des parties en cause, que sur les droits des intéressés
+qui ne sont pas dans l'instance et qui croient devoir être admis d'office au partage. Conformément à cet avis et aux bases
+déterminées par le juge, il dresse le projet de partage.
+
+L'expert peut prendre communication au greffe de tous les documents conservés en vertu de l'article 58-6.
+
+Dans les trois mois de sa désignation, son rapport est déposé au greffe où toute personne peut en prendre communication et
+s'en faire délivrer, à ses frais, une copie ou des extraits ; il n'est pas signifié.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 58-6
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-12
+
+A la suite de la visite des lieux, il est, dans tous les cas, dressé un procès-verbal qui est déposé au greffe où toute
+personne peut en prendre communication ou s'en faire délivrer, à ses frais, une copie ou des extraits. Ce procès-verbal n'est
+pas signifié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-13
+
+Avis du dépôt au greffe du rapport d'expert ou du procès-verbal de descente sur les lieux est publié sans délai, par les
+soins du greffier, suivant les modes prévus à l'article 58-4.
+
+Cet avis mentionne la date à laquelle l'audience est poursuivie.
+
+Il précise que toute partie intéressée qui veut intervenir à l'instance doit, dix jours au moins avant la date fixée pour
+l'audience, faire parvenir au greffe tous renseignements en sa possession sur les droits invoqués par elle.
+
+L'audience ne peut avoir lieu avant l'expiration d'un délai de quatre mois à compter du dépôt du rapport ou du procès-verbal.
+
+Si le juge estime qu'il n'y a lieu ni à expertise, ni à descente sur les lieux, sa décision, qui fixe la date de la nouvelle
+audience, est publiée sans délai, par les soins du greffier suivant les modes prévus à l'article 58-4. L'avis contient la
+précision visée au troisième alinéa du présent article. La nouvelle audience ne peut avoir lieu avant l'expiration d'un délai
+de quatre mois à compter de la décision du juge.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 58-4
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-14
+
+A la date fixée conformément à l'article 58-13, le juge du tribunal d'instance statue sur toute contestation éventuelle et
+prononce le partage par un jugement qui a les effets d'un jugement contradictoire à l'égard de tous les intéressés, qu'ils
+soient ou non intervenus à l'instance.
+
+Le partage a lieu par attribution de lots.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 58-13
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-15
+
+Seules les parties qui ont comparu en première instance peuvent interjeter appel ou être intimées sur l'appel.
+
+Le tribunal peut ordonner les mesures d'instruction prévues à l'article 58-10. Les articles 58-11 et 58-12 sont alors
+applicables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 58-10, 58-11, 58-12
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 58-16
+
+Les partages opérés conformément au présent chapitre ne peuvent être l'objet d'aucun recours, notamment par la voie de la
+tierce opposition, de la part des intéressés qui ne sont pas intervenus à l'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
 ## Titre II : Des chemins ruraux et des chemins d'exploitation
@@ -1373,6 +2170,40 @@ choisi par le maître de l'oeuvre ; la part d'honoraires susceptibles d'être ad
 	  - Loi n°1941-04-17 art. 4
 
 
+###### Article 186
+
+Les domaines sur lesquels les bâtiments ont été édifiés avec le concours financier de l'Etat doivent être maintenus en
+exploitation normale.
+
+A défaut, le domaine est immédiatement classé par le préfet comme exploitation abandonnée et susceptible d'être concédé dans
+les conditions prévues aux articles 41 et suivants.
+
+Les bâtiments d'habitation nécessaires à l'installation du concessionnaire sont compris dans la concession nonobstant
+l'opposition du propriétaire résidant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 41
+
+	**Nouveaux textes**:
+
+	  - Code rural R346-7
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
+
+	**Anciens textes**:
+
+	  - Loi n°1941-04-17 art. 5
+
+
 # Livre II : Des animaux et des végétaux
 
 ## Titre Ier : Vaine pâture.
@@ -2376,6 +3207,22 @@ cette vaccination, ainsi que les régions dans lesquelles elle est mise en oeuvr
 	  - Décret n°55-433 1955-04-16
 
 
+###### Article 235
+
+Le ministre de l'agriculture peut, par arrêté, rendre obligatoire l'apposition d'une marque sur les animaux, au moment de la
+vaccination contre la fièvre aphteuse.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-313 1953-04-11 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
 ###### Article 238
 
 Si les disponibilités en vaccins antiaphteux sont insuffisantes pour faire face aux nécessités de la lutte contre une
@@ -3004,6 +3851,37 @@ procès-verbal, affirment par serment la sincérité de leurs opérations.
 	**Anciens textes**:
 
 	  - Loi n°1884-08-02 art. 7
+
+
+###### Article 291
+
+En ce qui concerne la tuberculose, le délai de garantie, tant pour la présentation de la requête que pour l'assignation du
+vendeur, est de quinze jours francs, non compris le jour de la livraison.
+
+Aucune action principale ou récursoire n'est possible après l'expiration du délai qui ne peut être prolongé à raison de la
+distance.
+
+Les actions en rédhibition ou en remboursement de prix après abattage sont portées devant le juge du tribunal d'instance du
+domicile du vendeur qui statue sans conciliation préalable, mais à charge d'appel au cas où la valeur de l'animal vendu
+dépasse la limite de sa compétence en dernier ressort.
+
+La procédure d'expertise est suivie conformément aux dispositions du présent titre, sous réserve du délai spécial de garantie
+fixé ci-dessus. Elle ne sera obligatoire que pour les actions en rédhibition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°90-572 du 28 juin 1990 - art. 6 (Ab) JORF 8 juillet 1990
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1933-07-07 art. 6
 
 
 ###### Article 292
@@ -4149,6 +5027,70 @@ l'application du présent titre en matière de recherche et de constatation des 
 
 ## Titre Ier : De la chasse
 
+### Chapitre Ier : De l'exercice du droit de chasse.
+
+###### Article 373
+
+Dans le temps où la chasse est ouverte, le permis donne à celui qui l'a obtenu le droit de chasser de jour, soit à tir, soit
+à courre, à cor et à cri, soit au vol, suivant les distinctions établies par des arrêtés du ministre de l'agriculture, sur
+ses propres terres et sur les terres d'autrui avec le consentement de celui à qui le droit de chasse appartient.
+
+Tous les autres moyens de chasse, y compris l'avion et l'automobile, même comme moyens de rabat, sont formellement prohibés.
+
+L'utilisation des bourses et furets destinés à prendre les lapins est autorisée dans les départements ou parties de
+départements où le lapin est classé comme animal nuisible. Dans les autres lieux, des autorisations individuelles et
+exceptionnelles, données par les préfets, sont nécessaires pour la capture des lapins avec bourses et furets.
+
+Néanmoins, le ministre de l'agriculture, assisté du Conseil national de la chasse et de la faune sauvage, prend les arrêtés
+pour déterminer :
+
+1° L'époque de la chasse aux oiseaux de passage, autres que la caille, la nomenclature des oiseaux et les modes et procédés
+de chasse pour les diverses espèces ;
+
+2° Le temps pendant lequel il est permis de chasser le gibier d'eau dans les marais, sur les étangs, fleuves et rivières.
+
+Il peut prendre également des arrêtés :
+
+1° Pour prévenir la destruction ou favoriser le repeuplement des oiseaux ou de toute espèce de gibier, et sans qu'il soit
+ainsi dérogé au droit de destruction des bêtes fauves édictée à l'article 393 ;
+
+2° Pour autoriser l'emploi des chiens lévriers pour la destruction des animaux malfaisants ou nuisibles ;
+
+3° Pour interdire la chasse pendant le temps de neige ;
+
+4° Pour instituer et mettre en oeuvre, chaque année, dans les départements intéressés, un plan de chasse du grand gibier
+substituant à la limitation annuelle de la période de chasse le nombre d'animaux à tirer (cerf, chevreuil, daim, chamois,
+isard, bouquetin, et mouflon) sur les territoires de chasse pendant la période de chasse propre à chaque département, telle
+qu'elle est définie au premier alinéa de l'article 371.
+
+L'arrêté du ministre est pris sur proposition du préfet, présentée à la demande conjointe du conservateur des eaux et forêts
+et du président de la fédération départementale des chasseurs.
+
+En cas de calamité, incendie, inondations, gel prolongé, susceptible de provoquer ou de favoriser la destruction du gibier,
+le préfet pourra, pour tout ou partie du département, suspendre, dans un délai de quarante-huit heures, l'exercice de la
+chasse pendant une période de dix jours, soit à tout gibier, soit à certaines espèces de gibier.
+
+Cette période de suspension de dix jours peut être renouvelée, s'il y a lieu, dans le même délai.
+
+Dans les parties des réserves naturelles et des parcs nationaux où la chasse est autorisée ainsi que dans les zones
+périphériques des parcs nationaux, le ministre chargé de la protection de la nature peut instituer et mettre en oeuvre un
+plan de chasse pour certaines espèces d'animaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 393, 371
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1844-05-03 art. 9 al. 1, al. 2
+
+
 ### Chapitre II : Des pénalités.
 
 ###### Article 378
@@ -4953,6 +5895,31 @@ Les dispositions relatives à la pêche et au transport des poissons s'appliquen
 
 ### Chapitre II : Des poursuites au nom de l'administration.
 
+###### Article 446
+
+Le Gouvernement exerce la surveillance et la police de la pêche dans l'intérêt général.
+
+Les ingénieurs et préposés des eaux et forêts, les ingénieurs et agents qualifiés des services de la navigation, les gardes-
+pêche commissionnés par décision ministérielle, les gardes champêtres et tous officiers de police judiciaire constatent les
+délits qui sont spécifiés au présent chapitre en quelque lieu qu'ils soient commis.
+
+Les fonctionnaires qualifiés à cet effet par le gouvernement exercent, conjointement avec les officiers du ministère public,
+toutes les poursuites et actions en réparation de ces délits.
+
+En ce qui concerne le délit spécifié à l'article 432 (1°), les procès-verbaux sont transmis directement au procureur de la
+République.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 432
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
 ###### Article 447
 
 Les infractions concernant la pêche, la vente, l'achat, le transport, le colportage, l'exportation et l'importation des
@@ -5279,6 +6246,30 @@ tribunaux d'instance.
 	  - Loi n°1829-04-15 art. 50
 
 
+###### Article 467
+
+Les fonctionnaires qualifiés visés au troisième alinéa de l'article 446 ont le droit d'exposer l'affaire devant le tribunal
+et sont entendus à l'appui de leurs conclusions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 446
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15 art. 51
+
+
 ###### Article 468
 
 Les délits en matière de pêche seront prouvés, soit par procès-verbaux, soit par témoins à défaut de procès-verbaux ou en cas
@@ -5477,6 +6468,52 @@ consignations, pour être remis à qui il sera ordonné par le tribunal qui stat
 	  - Loi n°1829-04-15 art. 59
 
 
+###### Article 476
+
+Les fonctionnaires qualifiés visés au troisième alinéa de l'article 446 peuvent, au nom de leur administration, interjeter
+appel des jugements et se pourvoir contre les arrêts et jugements en dernier ressort ; mais ils ne peuvent se désister de
+leurs appels sans son autorisation spéciale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 446
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15 art. 60
+
+
+###### Article 477
+
+Le droit attribué à l'administration et à ses fonctionnaires qualifiés de se pourvoir contre les jugements et arrêts par
+appel ou par recours en cassation, est indépendant de la même faculté qui est accordée par la loi au ministère public, lequel
+peut toujours en user, même lorsque l'administration ou ses fonctionnaires auraient acquiescé aux jugements ou arrêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15 art. 61
+
+
 ###### Article 480
 
 Les dispositions du code de procédure pénale sur les poursuites des délits, sur défauts, oppositions, jugements, appels et
@@ -5585,6 +6622,31 @@ et dans l'intérêt des particuliers et des fermiers de la pêche pour les déli
 
 
 ### Chapitre IV : De la transaction et de certaines mesures concernant les condamnations et les peines.
+
+###### Article 485
+
+Pour les infractions prévues au présent chapitre, les administrations chargées de la surveillance de la pêche, représentées
+par leurs ministres ou les agents par eux désignés, auront le droit de transiger avec les justiciables dans les conditions
+fixées par l'article 105 du code forestier et un décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1870-09-07
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989
+
+	**Cite**:
+
+	  - Code forestier 105
+
 
 ###### Article 486
 
@@ -6059,6 +7121,33 @@ La durée des caisses de crédit agricole mutuel est illimitée.
 	**Nouveaux textes**:
 
 	  - Code monétaire et financier - art. L512-28 (V)
+
+
+###### Article 624
+
+Avant toute opération, les statuts, avec la liste complète des administrateurs ou directeurs et des sociétaires indiquant
+leur nom, leur profession, leur domicile, l'association agricole à laquelle ils appartiennent et le montant de leur
+souscription, sont déposés, en double exemplaire, au greffe du tribunal d'instance du canton où la caisse de crédit agricole
+mutuel a son siège principal. Il en est donné récépissé.
+
+La caisse est valablement constituée dès ce dépôt effectué.
+
+Un des exemplaires des statuts et de la liste des membres de la caisse est, par les soins du juge du tribunal d'instance,
+déposé au greffe du tribunal de grande instance.
+
+Chaque année, avant le 1er juin, un administrateur ou le directeur de la caisse dépose, en double exemplaire, au greffe du
+tribunal d'instance du canton une copie du bilan de l'exercice précédent, ainsi que la liste des administrateurs et des
+commissaires aux comptes en fonction à la date dudit dépôt.
+
+Un des exemplaires est transmis par les soins du juge du tribunal d'instance au greffe du tribunal de grande instance.
+
+Les documents déposés au greffe du tribunal d'instance et du tribunal de grande instance sont communiqués à tout requérant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
 
 
 ###### Article 625
@@ -6831,6 +7920,36 @@ Le privilège et les droits qui y sont attachés peuvent être transmis par voie
 
 ##### Paragraphe 2 : Prêts d'installation aux jeunes agriculteurs et aux jeunes artisans ruraux.
 
+###### Article 667
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
+
+
+###### Article 668
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
+
+
 ###### Article 669
 
 (texte abrogé).
@@ -6874,6 +7993,45 @@ Le privilège et les droits qui y sont attachés peuvent être transmis par voie
 	**Abrogé par**:
 
 	  - Décret n°65-577 1965-07-15 art. 3 JORF 17 juillet 1965
+
+
+###### Article 672
+
+Le cheptel vif et mort, ainsi que les récoltes appartenant à l'emprunteur, ou l'outillage lorsqu'il s'agit d'un artisan rural
+sont frappés, au profit du Trésor, d'un privilège spécial qui s'exerce avant tout autre, sauf celui institué par l'article
+1920 du code général des impôts pour le recouvrement des contributions directes.
+
+Tout exploitant qui n'a pas remboursé entièrement le montant du prêt qu'il a reçu ne peut déplacer lesdits cheptels, récoltes
+et outillages sans le consentement de la caisse de crédit agricole. S'il passe outre, le remboursement de la totalité du prêt
+devient immédiatement exigible ; les biens déplacés restent grevés du privilège et peuvent être saisis pourvu que la
+revendication soit faite dans les délais fixés au cinquième alinéa de l'article 2102 (1°) du code civil.
+
+Si les biens revendiqués ont été achetés dans les conditions prévues à l'article 2280 du code civil, le prix qu'ils ont coûté
+doit être remboursé par le saisissant à leur possesseur.
+
+La caisse de crédit agricole mutuel qui a consenti le prêt est subrogée aux droits du Trésor pour l'exercice dudit privilège
+dans les conditions qui sont fixées par un décret pris sur la proposition du ministre de l'agriculture et du ministre des
+finances ; ce décret fixe en outre les modalités d'inscription du privilège.
+
+Les emprunteurs doivent, en outre, contracter au profit de la caisse prêteuse une assurance en cas de décès dans les
+conditions prévues pour les prêts individuels à long terme.
+
+Toutefois, la caisse prêteuse peut autoriser l'emprunteur à ne pas souscrire d'assurance-décès dans le cas où une caution
+jugée suffisante lui est fournie.
+
+Les garanties habituelles prévues pour les prêts à moyen terme ne sont pas exigibles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1920
+	  - Code civil - art. 2102 (M)
+	  - Code civil - art. 2280 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
 
 
 ###### Article 673
@@ -7241,6 +8399,30 @@ hypothèques ou dépôt de titres.
 	**Nouveaux textes**:
 
 	  - Code rural R346-10
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
+
+
+###### Article 696-1
+
+Les dispositions du dernier alinéa de l'article 674-1 sont applicables aux prêts à long terme consentis aux migrants
+agricoles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 674-1
+
+	**Nouveaux textes**:
+
+	  - Code rural R343-20
 
 	**Codifié par**:
 
@@ -7852,7 +9034,49 @@ caisses de crédit agricole mutuel.
 	  - Code monétaire et financier - art. L512-54 (M)
 
 
+###### Article 743
+
+Les sociétés coopératives agricoles et les sociétés d'intérêt collectif agricole doivent, si elles ont obtenu un prêt de la
+caisse nationale de crédit agricole ou un prêt d'une caisse de crédit agricole mutuel, communiquer à la caisse régionale un
+mois au moins avant la tenue de leur assemblée générale annuelle le bilan, le compte d'exploitation et le compte de pertes et
+profits ainsi que le projet d'affectation du solde de ce dernier compte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
 ## Titre IV : Dispositions diverses
+
+### Chapitre Ier : Régime des prêts hypothécaires.
+
+###### Article 745
+
+Sous réserve de l'application du décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité foncière, les dispositions
+du décret du 28 février 1852, modifiées par la loi du 10 juin 1853 et par le décret du 24 mai 1938 sur les sociétés de crédit
+foncier, relatives à la purge des hypothèques légales, à l'expropriation et à la vente en cas de non-paiement des annuités ou
+pour toute autre cause, à la dispense du renouvellement décennal des inscriptions hypothécaires pendant toute la durée des
+prêts, ainsi qu'à la possibilité de garantir successivement, par une inscription unique prise au profit des deux créanciers,
+un prêt à court terme et un prêt à long terme ayant le même objet, sont étendues aux caisses de crédit agricole mutuel, à la
+caisse nationale de crédit agricole ainsi qu'au fonds visé à l'article 699 ci-dessus, pour toutes leurs opérations
+hypothécaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 699
+	  - Décret n°1852-02-28
+	  - Décret n°1938-05-24
+	  - Décret n°55-22 1955-01-04
+	  - Loi n°1853-06-10
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
 
 ### Chapitre II : Prêts aux agriculteurs et artisans ruraux éprouvés par la guerre.
 
@@ -8636,6 +9860,22 @@ Ce rapport est publié au Journal officiel.
 	  - Décret n°55-433 1955-04-16
 
 
+###### Article 789
+
+Un décret détermine les conditions d'application du titre III du livre IV et des titres I, II, III et IV, chapitre Ier, du
+présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
+
+
 # Livre VI : Baux ruraux
 
 ## Titre Ier : Statut du fermage et du métayage
@@ -8854,6 +10094,48 @@ Un arrêté du ministre de l'agriculture fixe les modalités d'application desdi
 
 
 ### Chapitre Ier : Elections des conseils d'administration.
+
+###### Article 1004
+
+Les personnes relevant, au titre d'assujettis, bénéficiaires ou cotisants des caisses de mutualité sociale agricole, forment
+sur le territoire de la commune de leur domicile trois collèges électoraux.
+
+1° Le collège électoral :
+
+a) Des exploitants agricoles, des artisans ruraux et autres travailleurs indépendants des professions connexes à
+l'agriculture n'employant pas de main-d'oeuvre salariée à titre permanent ;
+
+b) Des membres non salariés de leurs familles travaillant sur l'exploitation ou l'entreprise ;
+
+2° Le collège électoral des travailleurs salariés de l'agriculture, de l'artisanat rural et des professions connexes ;
+
+3° Le collège électoral :
+
+a) Des exploitants agricoles, artisans ruraux et autres travailleurs indépendants des professions connexes à l'agriculture
+employant une main-d'oeuvre salariée, à titre permanent ;
+
+b) Des membres non salariés de leurs familles travaillant sur l'exploitation ou l'entreprise ;
+
+c) Des organismes agricoles prévus à l'article 1024.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L723-15 (M)
+
+	**Cite**:
+
+	  - Code rural 1024
+
+	**Anciens textes**:
+
+	  - Loi n°1949-06-08 art. 3
+
 
 ###### Article 1005
 
@@ -9619,6 +10901,33 @@ de la législation sur les accidents du travail.
 	  - Loi n°88-1202 du 30 décembre 1988 - art. 43 () JORF 31 décembre 1988
 
 
+###### Article 1044
+
+L'assuré victime d'un accident du travail, tout en bénéficiant des dispositions du titre III du présent livre, conserve, pour
+toute maladie qui n'est pas la conséquence de l'accident, ainsi qu'en cas de grossesse, ses droits aux prestations des
+assurances sociales agricoles pour lui, son conjoint et les enfants à sa charge, pourvu qu'il remplisse, lors de l'accident,
+les conditions d'ouverture du droit aux prestations.
+
+Toutefois, l'assuré ne peut cumuler le demi-salaire dû en vertu du titre III du présent livre et l'indemnité journalière à
+laquelle il peut prétendre au titre des assurances sociales. A partir de la guérison ou de la consolidation de la blessure
+résultant de l'accident du travail, il reçoit cette indemnité journalière sans déduction de délai de carence si, à cette
+date, la maladie remonte à plus de six jours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-27 art. 20
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°88-1202 du 30 décembre 1988 - art. 43 () JORF 31 décembre 1988
+
+
 ###### Article 1047
 
 Est passible d'une amende de 1.200 à 3.000 F quiconque se rend coupable de fraude ou de fausse déclaration pour obtenir, ou
@@ -9980,6 +11289,40 @@ ci est tenu aux mêmes obligations que les personnes visées à l'article préc�
 
 
 #### Section 2 : Dégrèvements.
+
+###### Article 1075
+
+Sont également exonérés de toute cotisation aux caisses de mutualité sociale agricole :
+
+a) Les exploitants agricoles dont les terres ont subi, par suite de faits de guerre, des dommages tels que la fraction qu'il
+leur est possible d'exploiter ne représente plus effectivement qu'un revenu cadastral n'excédant pas 16 F ;
+
+b) Les exploitants agricoles ayant élevé quatre enfants jusqu'à l'âge de quatorze ans dont les terres ont subi, par suite de
+faits de guerre, des dommages tels que la fraction qu'il leur est possible d'exploiter ne représente effectivement qu'un
+revenu cadastral inférieur à 200 F ;
+
+c) Les exploitants agricoles dont les terres ont subi, par suite de faits de guerre, des dommages tels que la fraction qu'il
+leur est possible d'exploiter ne représente plus effectivement qu'un revenu cadastral inférieur à 200 F à condition qu'ils
+n'utilisent pas habituellement de main-d'oeuvre, même familiale, et que l'âge moyen des deux conjoints dépasse soixante-cinq
+ans (ou, en cas de veuvage, soixante ans pour la veuve) ;
+
+d) Les artisans ruraux et les assujettis, au titre des professions connexes à l'agriculture, si leur activité a subi par
+suite de faits de guerre, une réduction de 50 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1939-07-29 art. 27
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
+
 
 ###### Article 1076
 
@@ -10490,6 +11833,60 @@ et les règles de fonctionnement sont déterminées par des décrets.
 	  - Décret n°55-433 1955-04-16
 
 
+###### Article 1113
+
+L'allocation n'est due que si le total de celle-ci et des ressources personnelles de l'intéressé ou des époux, de quelque
+nature qu'elles soient, n'excède pas les plafonds fixés par le paragraphe Ier de l'article 5 de l'ordonnance n° 45-170 du 2
+février 1945 modifiée.
+
+Il n'est pas tenu compte, dans le calcul des ressources personnelles du requérant, du revenu des terres qu'il exploite
+lorsque celles-ci ont un revenu cadastral inférieur aux limites fixées à l'article 1111.
+
+Lorsque le total de l'allocation et des ressources personnelles du requérant ou des époux dépasse respectivement ces maxima,
+l'allocation est réduite en conséquence. Dans le calcul des ressources personnelles du requérant, il ne sera pas tenu compte
+de la situation de ses enfants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1111
+	  - Ordonnance 45-170 1945-02-02 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1114
+
+En aucun cas, l'application des nouveaux revenus cadastraux ne peut entraîner la suppression de l'allocation attribuée
+précédemment.
+
+Jusqu'à substitution de la retraite à l'allocation, les limites admises pour l'ouverture du droit à celle-ci seront
+calculées, au choix du requérant, soit sur le revenu cadastral résultant du tarif applicable avant le 1er janvier 1953, soit
+sur le revenu cadastral révisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1117
+
+Le montant de l'allocation visé à l'article qui précède peut être fixé à un taux supérieur par décret pris sur le rapport du
+ministre de l'agriculture et du ministre des finances, après avis du conseil d'administration de la caisse nationale
+d'assurance vieillesse agricole.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
 ###### Article 1120
 
 Les assurés ayant cotisé au titre de l'assurance facultative vieillesse dans les conditions prévues à l'article 1049 ont
@@ -10531,6 +11928,27 @@ général des impôts.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1127
+
+Les bénéficiaires, soit de l'allocation ou de la retraite de vieillesse agricole, soit de l'allocation de vieillesse des non
+salariés, soit de l'allocation ou de la retraite des vieux travailleurs salariés, exploitant des terres dont le revenu
+cadastral est inférieur à 60 F, sont exonérés des cotisations prévues aux articles 1124 et 1125.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1124, 1125
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
 
 
 ###### Article 1128
@@ -10624,6 +12042,30 @@ En outre, s'il y a lieu, le tribunal pourra prononcer à l'égard du délinquant
 
 
 #### Section 3 : Organisation administrative et financière.
+
+###### Article 1136
+
+Les caisses départementales ou pluridépartementales de mutualité sociale agricole sont chargées :
+
+1° Du recouvrement des cotisations prévues à l'article 1123 ;
+
+2° De l'attribution et du paiement des rentes, pensions ou allocations prévues à l'article 1110.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1123, 1110
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
 
 ###### Article 1138
 
@@ -11952,6 +13394,24 @@ Un décret pris par le ministre de l'agriculture portant modification dudit rég
 	**Abrogé par**:
 
 	  - Décret n°80-560 du 11 juillet 1980 - art. 1 (V) JORF 20 juillet 1980
+
+
+###### Article 1292
+
+Toutefois les collectivités publiques ou privées pourront être appelées à participer sous la forme de fonds de concours aux
+dépenses d'entretien des locaux et du matériel scolaire des écoles d'agriculture saisonnières et des écoles d'enseignement
+ménager agricole.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Décret n°80-560 du 11 juillet 1980 - art. 3 (V) JORF 20 juillet 1980
 
 
 ###### Article 1293
