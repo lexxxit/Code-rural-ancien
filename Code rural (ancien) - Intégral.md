@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1989-11-04
+Version Consolidée au 1990-01-01
 
 ###### Article 40-3
 
@@ -7425,59 +7425,20 @@ minimum d'installation nationale prévue à l'alinéa précédent.
 
 ###### Article 188-5
 
-L'autorisation prévue à l'article 188-2 est délivrée, après avis de la commission départementale des structures agricoles,
-par l'autorité administrative compétente du département sur le territoire duquel est situé le fonds pour lequel
-l'autorisation d'exploiter est sollicitée, ou en cas d'installation sur plusieurs départements, par l'autorité administrative
-compétente du département sur le territoire duquel est situé le siège de l'exploitation du demandeur.
+La déclaration ou la demande d'autorisation est adressée au représentant de l'Etat dans le département sur le territoire
+duquel est situé le fonds. Lorsque la demande d'autorisation porte sur un fonds n'appartenant pas au demandeur, celui-ci doit
+justifier qu'il en a préalablement informé le propriétaire.
 
-La demande d'autorisation est formulée suivant les modalités fixées par décret. Lorsqu'il s'agit d'une demande portant sur un
-fonds n'appartenant pas au demandeur, celui-ci doit produire à l'appui de sa demande une attestation du propriétaire du fonds
-indiquant que ce dernier est susceptible de donner son bien à bail au demandeur. Le silence du propriétaire vaut refus.
-
-Lorsqu'elle examine une demande d'autorisation, la commission départementale des structures agricoles est tenue :
-
-- de se conformer aux orientations définies dans le schéma directeur départemental des structures agricoles du département
-sur le territoire duquel est situé le siège de l'exploitation du demandeur, notamment pour ce qui concerne l'ordre des
-priorités établi entre l'installation des jeunes agriculteurs et l'agrandissement des exploitations ;
-
-- de convoquer le demandeur ainsi que, s'il y a lieu, le propriétaire et le preneur, et, sur leur demande, de leur
-communiquer au moins huit jours à l'avance les pièces du dossier et d'entendre leurs observations, les intéressés pouvant se
-faire assister ou représenter devant la commission par toute personne de leur choix ;
-
-- de tenir compte, en cas d'agrandissement ou de réunion d'exploitations, de la situation des terres concernées par rapport
-au siège de l'exploitation du demandeur et, le cas échéant, des superficies déjà mises en valeur par le demandeur sur le
-territoire d'un autre département ;
-
-- de prendre en considération la capacité professionnelle du demandeur et, le cas échéant, la situation personnelle du
-preneur en place au regard de la législation relative au contrôle des structures ;
-
-- de tenir compte de la structure parcellaire des exploitations concernées afin d'éviter que des mutations en jouissance ne
-remettent en cause les aménagements obtenus à l'aide de fonds publics.
-
-La commission dispose d'un délai de deux mois à compter de l'enregistrement de la demande pour adresser son avis motivé à
-l'autorité compétente. Dans les quinze jours suivant l'expiration du délai de deux mois mentionné ci-dessus, l'autorité
-compétente statue par décision motivée sur la demande d'autorisation. Cette décision motivée est notifiée au demandeur, ainsi
-qu'au propriétaire s'il est distinct du demandeur, et au preneur en place.
-
-L'autorisation est réputée accordée si la décision n'a pas été notifiée au demandeur dans un délai de deux mois et quinze
-jours à compter de l'enregistrement de la demande.
-
-Le tribunal administratif, saisi d'un recours contre une décision prise en application du présent article, statue en plein
-contentieux, les parties étant dispensées du ministère d'avocat.
-
-Le tribunal administratif et, le cas échéant, le Conseil d'Etat, se prononcent d'urgence. Les recours contentieux contre les
-décisions prises en application du présent article ont un caractère suspensif.
-
-L'autorisation d'exploiter est périmée si son titulaire n'a pas mis en culture le fonds considéré avant l'expiration de
-l'année culturale qui suit la date à laquelle ladite autorisation lui a été notifiée ou, si le fonds est loué, avant
-l'expiration de la troisième année culturale qui suit la demande, sauf si la situation personnelle du demandeur au regard des
-dispositions du présent titre est modifiée.
+La déclaration prévue au paragraphe III de l'article 188-2 est réputée enregistrée et l'opération correspondante peut être
+réalisée si, dans un délai d'un mois à compter de sa réception, le représentant de l'Etat dans le département n'a pas avisé
+le déclarant que l'opération relève du régime d'autorisation prévu aux paragraphes I et II de l'article 188-2 et sera, par
+suite, soumise par ses soins à la procédure définie à l'article 188-5-1.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 188-2
+	  - Code rural 188-2, 188-5-1
 
 	**Codifié par**:
 
@@ -7485,9 +7446,13 @@ dispositions du présent titre est modifiée.
 
 	**Modifié par**:
 
-	  - Loi n°68-1245 1968-12-31 art. 4 JORF 3 janvier 1969
-	  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
-	  - Loi n°80-502 du 4 juillet 1980 - art. 50 () JORF 5 juillet 1980
+	  - Loi n°84-741 du 1 août 1984 - art. 6 () JORF 2 août 1984
+	  - Loi n°84-741 du 1 août 1984 - art. 7 () JORF 2 août 1984
+	  - Loi n°90-85 du 23 janvier 1990 - art. 6 () JORF 25 janvier 1990
+
+	**Abrogé par**:
+
+	  - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
 
 
 ###### Article 188-6
@@ -11952,6 +11917,82 @@ Les contrevenants aux dispositions de l'article 218 seront punis des peines pré
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
+###### Article 326-1
+
+Les infractions aux dispositions de l'article 201-1 seront punies d'une amende de 250 à 600 F.
+
+En cas de récidive de l'infraction aux dispositions du premier alinéa dudit article, l'amende sera de 600 à 1.300 F.
+
+En cas de récidive de l'infraction aux dispositions du deuxième alinéa dudit article, le délit sera porté devant le tribunal
+correctionnel et puni d'une amende de 360 à 20.000 F.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 201-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°56-464 1956-05-07 art. 2 JORF 9 mai 1956
+
+	**Modifié par**:
+
+	  - Loi n°89-469 du 10 juillet 1989 - art. 7 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+
+###### Article 327
+
+Les infractions aux dispositions des articles 220, 221, 222 et 246 seront punies d'une amende de 1.300 à 3.000 F. En cas de
+récidive, une peine d'emprisonnement pendant dix jours au plus pourra être prononcée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 220, 221, 222, 246
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°56-786 1956-08-04 art. 63 JORF 7 août 1956
+	  - Décret n°63-301 du 19 mars 1963 - art. 19 (Ab) JORF 24 mars 1963
+	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Loi n°89-469 du 10 juillet 1989 - art. 7 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+
+###### Article 328
+
+Toute infraction aux articles 226, 228, 229, 231, 232, 233, alinéa 2, sera punie d'un emprisonnement de six jours à deux mois
+et d'une amende de 3.000 à 6.000 F.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 226, 228, 229, 231, 232, 233
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1881-07-21 art. 30
+
+	**Modifié par**:
+
+	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+	  - Loi n°89-469 du 10 juillet 1989 - art. 7 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+
 ###### Article 329
 
 Seront punis d'un emprisonnement de deux mois à six mois et d'une amende de 360 à 15.000 F :
@@ -12004,6 +12045,34 @@ contagion parmi les autres animaux.
 	  - Loi n°1881-07-21 art. 32
 
 
+###### Article 332
+
+Toute infraction aux dispositions des articles 224 à 233, 240, 241 alinéas 3, 4 et 5, 242 à 245, 248 à 254, 274, alinéas 3, 4
+et 5, non spécifiés au présent titre, sera punie de 3 000 à 6 000 F d'amende. Les contraventions aux dispositions du
+règlement d'administration publique pris pour l'exécution des dispositions des sections 2 et 3 du chapitre III du titre III
+du présent livre, seront suivant les cas, passibles d'une amende de 3 000 à 6 000 F qui sera prononcée par le juge du
+tribunal d'instance du canton.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 224 à 233, 240, 241, 242 à 245, 248 à 254, 274
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Loi n°89-469 du 10 juillet 1989 - art. 7 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
+	**Anciens textes**:
+
+	  - Loi n°1881-07-21 art. 34
+
+
 ###### Article 333
 
 Si la condamnation pour infraction prévue aux articles 328 à 332 remonte à moins d'une année ou si cette infraction a été
@@ -12028,6 +12097,38 @@ titre que ce soit, les peines peuvent être portées au double du maximum fixé 
 	**Abrogé par**:
 
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 335
+
+Les infractions aux dispositions des articles 234 à 239 et aux dispositions des textes pris pour leur application seront
+punies d'une amende de 1 300 à 3 000 F par contravention constatée.
+
+Le tribunal peut prononcer la déchéance du bénéfice des mesures prises en faveur des victimes des calamités publiques à
+l'encontre des contrevenants.
+
+Les dispositions des articles 142 et 143 du code pénal sont applicables en ce qui concerne les marques prévues à l'article
+235.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 234 à 239, 235
+	  - Code pénal 142, 143
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Loi n°89-469 du 10 juillet 1989 - art. 7 (V) JORF 11 juillet 1989 an vigueur le le 1er janvier 1990
+
+	**Anciens textes**:
+
+	  - Loi n°1953-04-11 art. 9
 
 
 ###### Article 339
@@ -12597,6 +12698,36 @@ l'économie et des finances.
 
 
 ### Chapitre V : Sanctions et dispositions diverses.
+
+###### Article 363
+
+Toute infraction aux dispositions du présent titre et à celles des règlements pris pour son application sera punie d'une
+amende de 3.000 à 6.000 F.
+
+Seront punis d'un emprisonnement d'un mois à un an et d'une amende de 1.500 à 20.000 F ceux qui auront introduit en France
+l'un des objets énoncés aux articles 348 et 349 sans déclaration ou à l'aide d'une fausse déclaration de provenance ou de
+toute autre manoeuvre frauduleuse.
+
+En cas de récidive, dans le délai de cinq ans, les peines peuvent être portées au double du maximum fixé ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 348, 349
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2627 1945-11-02 art. 23
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°89-469 du 10 juillet 1989 - art. 7 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+
 
 ###### Article 364
 
@@ -16073,9 +16204,8 @@ ministre de la justice, détermine les conditions d'application du présent chap
 
 ###### Article 787-1
 
-Les caisses de crédit agricole mutuel peuvent accorder à leurs sociétaires, dans les conditions fixées au présent chapitre,
-des prêts dits "Prêts spéciaux d'élevage" destinés à faciliter le financement des investissements qui ont pour objet, à
-l'exclusion des acquisitions de fonds de terre :
+Les prêts spéciaux d'élevage sont destinés à faciliter le financement des investissements qui ont pour objet, à l'exclusion
+des acquisitions de fonds de terre :
 
 1° a) L'accroissement de l'effectif des animaux appartenant aux espèces bovine, ovine et caprine ou issus de l'une des races
 de chevaux lourds définies par arrêté du ministre de l'agriculture ;
@@ -16099,6 +16229,9 @@ l'agriculture et du ministre chargé des finances.
 3° L'acquisition des matériels destinés à l'amélioration de la production fourragère et de son traitement dont la liste est
 fixée par arrêté du ministre de l'agriculture et du ministre chargé des finances.
 
+Ces prêts sont attribués par les établissements de crédit qui ont passé, à cet effet, une convention avec les ministres
+chargés de l'économie et de l'agriculture.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -16109,9 +16242,13 @@ fixée par arrêté du ministre de l'agriculture et du ministre chargé des fina
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-1058 1985-10-02 art. 1 JORF 4 octobre 1985
+	  - Décret n°89-946 du 22 décembre 1989 - art. 7 () JORF 30 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Abrogé par**:
+
+	  - Décret n°91-906 du 11 septembre 1991 - art. 2 (V) JORF 13 septembre 1991
 
 
 ###### Article 787-2
@@ -16280,9 +16417,8 @@ La quotité des prêts spéciaux d'élevage est de 70 p. 100 au maximum du monta
 ###### Article 787-7
 
 La durée maximale de bonification des prêts spéciaux d'élevage, le taux d'intérêt en vigueur pendant la période bonifiée, le
-montant maximal de ces prêts ainsi que le montant maximal de l'encours par exploitation sont fixés, après avis du conseil
-d'administration de la Caisse nationale de crédit agricole, par arrêté conjoint du ministre de l'agriculture et du ministre
-chargé des finances.
+montant maximal de ces prêts ainsi que le montant maximal de l'encours par exploitation sont fixés par arrêté conjoint du
+ministre de l'agriculture et du ministre chargé des finances.
 
 **Liens relatifs à cet article**
 
@@ -16292,7 +16428,11 @@ chargé des finances.
 
 	**Créé par**:
 
-	  - Décret n°85-1058 1985-10-02 art. 1 JORF 4 octobre 1985
+	  - Décret n°89-946 du 22 décembre 1989 - art. 7 () JORF 30 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Abrogé par**:
+
+	  - Décret n°91-906 du 11 septembre 1991 - art. 2 (V) JORF 13 septembre 1991
 
 
 ### Chapitre VI : Dispositions d'application.
@@ -18970,12 +19110,12 @@ l'alinéa précédent, sous réserve d'adaptations fixées par voie réglementai
 
 Le versement des cotisations est suspendu pendant la période du service national ou en cas d'appel sous les drapeaux.
 
-Des cotisations forfaitaires peuvent être fixées par arrêté interministériels pour certaines catégories de travailleurs
+Des cotisations forfaitaires peuvent être fixées par arrêté interministériel pour certaines catégories de travailleurs
 salariés ou assimilés.
 
 La rémunération des personnes mentionnées au 1 de l'article L. 128 du code du travail dont l'activité n'excède pas la durée
 fixée par le décret prévu à l'article L. 241-11 du code de la sécurité sociale ne donne pas lieu à cotisations d'assurances
-sociales agricoles.
+sociales agricoles à la charge de l'employeur.
 
 **Liens relatifs à cet article**
 
@@ -18988,8 +19128,7 @@ sociales agricoles.
 
 	**Modifié par**:
 
-	  - Loi n°87-588 du 30 juillet 1987 - art. 15 (V) JORF 31 juillet 1987
-	  - Loi n°87-588 du 30 juillet 1987 - art. 20 () JORF 31 juillet 1987
+	  - Loi n°89-905 du 19 décembre 1989 - art. 11 () JORF 20 décembre 1989 en vigueur le 1er janvier 1990
 
 	**Cité par**:
 
