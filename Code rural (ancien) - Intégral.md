@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1994-08-10
+Version Consolidée au 1995-02-02
 
 # Livre Ier : Régime du sol
 
@@ -6008,6 +6008,11 @@ Les conditions d'agrément de ces laboratoires ainsi que la nature de ces examen
 cadre de leurs activités zootechniques, placés sous l'autorité d'un vétérinaire ou d'un organisme à vocation sanitaire agréé
 par le ministre chargé de l'agriculture, ou relevant de la loi n° 66-1005 du 28 décembre 1966 sur l'élevage ;
 
+8° Les fonctionnaires et agents contractuels relevant du service des haras nationaux du ministère chargé de l'agriculture
+titulaires d'une licence d'inséminateur pour l'espèce équine et spécialement habilités à cet effet, intervenant dans le cadre
+de leurs attributions sous l'autorité médicale d'un vétérinaire ou d'un docteur vétérinaire, pour la réalisation de constats
+de gestation, notamment par échographie, des femelles équines.
+
 b) Les castrations des animaux autres que les équidés et les carnivores domestiques ;
 
 c) Les soins de première urgence autres que ceux nécessités par les maladies contagieuses.
@@ -6025,7 +6030,7 @@ c) Les soins de première urgence autres que ceux nécessités par les maladies 
 
 	**Modifié par**:
 
-	  - Loi n°89-412 du 22 juin 1989 - art. 34 () JORF 24 juin 1989
+	  - Loi n°95-95 du 1 février 1995 - art. 76 () JORF 2 février 1995
 
 
 ###### Article 341
@@ -10745,249 +10750,108 @@ présent titre.
 
 ## Titre Ier : Régime du travail
 
-### Chapitre Ier : Procédure d'établissement des règlements du travail.
+### Chapitre Ier : Dispositions relatives aux jeunes travailleurs et au logement des travailleurs agricoles.
 
 ###### Article 983
 
-Il est institué dans chaque département, par arrêté préfectoral, une commission paritaire de travail en agriculture composée
-en nombre égal de représentants des employeurs et des salariés de l'agriculture.
-
-Cette commission est composée de membres titulaires et de membres suppléants, désignés sur la proposition des organisations
-professionnelles les plus représentatives dans les conditions fixées par arrêté du ministre de l'agriculture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°45-1490 du 7 juillet 1945 - art. 1, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Décret n°75-694 1975-07-30 art. 1 JORF 3 août 1975
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L715-1 (V)
-
-
-###### Article 985
-
-I. - La commission paritaire départementale de travail en agriculture est chargée de proposer au préfet, dans un ou plusieurs
-règlements, le régime du travail à appliquer à tous les salariés des exploitations visées aux articles 1144, 1149 et 1152,
-ainsi que des entreprises de battage et de travaux agricoles, quel que soit le régime juridique des établissements en cause,
-qu'ils soient publics ou privés.
-
-II. - La loi du 31 juillet 1929 concernant l'amélioration du logement des travailleurs agricoles, le décret-loi du 17 juin
-1938 relatif à l'amélioration du logement des travailleurs agricoles, l'article 18 de l'ordonnance n° 67-830 du 27 septembre
-1967 relative à l'aménagement des conditions de travail en ce qui concerne le régime des conventions collectives de travail
-des jeunes et les premier et troisième alinéas de l'article 1000-5 du code rural sont abrogés.
-
-III. - Dans toutes les dispositions législatives comportant une référence à l'article 990 du code rural, cette référence est
-remplacée par une référence à l'article 985.
+Les limitations et interdictions résultant des articles L. 211-1, L. 212-13, L. 212-14, L. 213-7 à L. 213-10 du code du
+travail sont applicables dans les professions et entreprises agricoles dont les salariés sont définis aux 1° à 7°, 9° et 10°
+de l'article 1144 du présent code. Leurs conditions particulières d'application à ces professions et entreprises sont fixées
+par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 1144, 1149, 1152, 1000-5, 990, 985
-	  - Ordonnance n°67-830 du 27 septembre 1967 - art. 18 (M)
-	  - Décret-loi 1938-06-17
-	  - Loi n°1929-07-31
+	  - Code rural 1144
+	  - Code du travail - art. L211-1 (M)
+	  - Code du travail - art. L212-13 (M)
+	  - Code du travail - art. L212-14 (M)
+	  - Code du travail L211-1, L212-13, L212-14, L213-7 à L213-10
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Ordonnance 45-1490 1945-07-07 art. 3
+	  - Code rural L715-1
+	  - Code rural - art. L715-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
 
 	**Abrogé par**:
 
-	  - Décret n°75-694 1975-07-30 art. 1 JORF 3 août 1975
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 984
+
+Lorsque, dans les professions et entreprises mentionnées à l'article 983, les travailleurs et les membres de leur famille
+sont hébergés, cet hébergement doit satisfaire à des conditions, notamment d'hygiène et de confort, fixées par décret et
+tenant compte, le cas échéant, des conditions locales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 983
+
+	**Nouveaux textes**:
+
+	  - Code rural L716-1
+	  - Code rural - art. L716-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 985
+
+Les fonctionnaires mentionnés aux articles L. 611-6 et L. 611-12-1 du code du travail sont chargés de veiller à l'application
+des dispositions du présent chapitre et des décrets pris pour leur application et de constater les infractions dans les
+conditions prévues auxdits articles. Ils peuvent demander communication sur place de tous documents et pièces nécessaires à
+l'accomplissement de leur mission de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L719-1 (V)
 	  - Code rural - art. L724-2 (V)
-
-
-###### Article 986
-
-Le ou les règlements mentionnés à l'article 985 doivent contenir, à l'exclusion de toute autre disposition, des dispositions
-concernant :
-
-a) A défaut de convention collective, les périodes de grands travaux prévues à l'article L. 223-7-1 du code du travail ;
-
-b) Les conditions de logement des salariés agricoles ;
-
-c) L'emploi des jeunes, en application de l'article 18 de l'ordonnance n° 67-830 du 27 septembre 1967 relative à
-l'aménagement des conditions du travail en ce qui concerne le régime des conventions collectives, le travail des jeunes et
-les titres restaurant.
-
-**Liens relatifs à cet article**
+	  - Code rural L719-1
+	  - Code rural L724-2
 
 	**Cite**:
 
-	  - Code rural 985
-	  - Ordonnance n°67-830 du 27 septembre 1967 - art. 18 (M)
-	  - Code du travail - art. L223-7-1 (AbD)
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 50 () JORF 31 décembre 1988
-
-	**Abrogé par**:
-
-	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
-
-
-###### Article 987
-
-Le préfet, sur le vu des propositions de la commission paritaire départementale, établit un projet d'arrêté qui devient
-exécutoire après approbation expresse du ministre de l'agriculture et du ministre chargé des affaires sociales. Les
-dispositions prévues par cet arrêté s'imposent à tous les intéressés, salariés et chefs d'exploitations ou d'établissements
-visés à l'article 985.
-
-Les préfets en assurent la publication par voie d'affichage. Ces règlements sont en outre insérés au recueil des actes
-administratifs.
-
-Ils sont révisés sur l'initiative du préfet, à ce autorisé par le ministre de l'agriculture et le ministre chargé des
-affaires sociales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 985
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-1490 1945-07-07 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
-
-
-###### Article 988
-
-Les règlements de travail s'appliquent nonobstant tous usages ou coutumes locaux et toutes stipulations contenues dans les
-contrats de travail ou dans les conventions collectives de travail lorsque ces usages, coutumes ou stipulations sont moins
-favorables pour les salariés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-1490 1945-07-07 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
-
-
-###### Article 989
-
-Indépendamment des actions en dommages-intérêts que les employés et les employeurs assujettis à un règlement de travail en
-agriculture peuvent intenter aux personnes également assujetties qui n'en appliquent pas les dispositions, les infractions
-aux règlements préfectoraux de travail en agriculture sont poursuivies devant le tribunal de police et passibles d'une amende
-de 12 à 36 F.
-
-L'amende est appliquée autant de fois qu'il y a de personnes employées dans des conditions contraires aux stipulations des
-règlements de travail.
-
-En cas de récidive, les contrevenants sont punis d'une amende de 40 à 240 F ; il y a récidive lorsque dans les douze mois
-antérieurs au fait poursuivi, le contrevenant a déja subi une condamnation pour contravention identique.
-
-En cas de pluralité de contraventions entraînant les peines de récidive, l'amende est appliquée autant de fois qu'il a été
-relevé de nouvelles contraventions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-1490 1945-07-07 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Ordonnance 58-1297 1958-12-23 art. 31 JORF 24 décembre 1958
-
-	**Abrogé par**:
-
-	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
-
-
-###### Article 990
-
-Les inspecteurs et les contrôleurs des lois sociales en agriculture, commissionnés et assermentés dans les conditions fixées
-par décret, sont habilités à constater les infractions aux arrêtés visés à l'article 987 dans des procès-verbaux qui font foi
-jusqu'à preuve contraire.
-
-Ils ont accès dans les exploitations et entreprises intéressées et peuvent demander communication sur place de tous documents
-et pièces nécessaires à l'accomplissement de leur mission de contrôle.
-
-Les dispositions du code pénal qui prévoient et répriment les actes de résistance, les outrages et les violences contre les
-officiers de police judiciaire sont, en outre, applicables à ceux qui se rendent coupables de faits de même nature à l'égard
-des inspecteurs et contrôleurs des lois sociales en agriculture.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 987
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-1490 1945-07-07 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°60-771 1960-07-30 art. 1 JORF 31 juillet 1960
-
-	**Abrogé par**:
-
-	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
-
-
-###### Article 991
-
-Des décrets pris sur le rapport du ministre de l'agriculture et du ministre chargé des affaires sociales déterminent les
-modalités d'application du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
+	  - Code du travail - art. L611-12-1 (M)
+	  - Code du travail - art. L611-6 (M)
 
 
 ### Chapitre II : Durée du travail et repos hebdomadaire.
@@ -11524,21 +11388,31 @@ la dérogation prévue au premier alinéa peut être accordée.
 
 ###### Article 998
 
-L'article 990 est applicable aux infractions aux dispositions du présent chapitre.
+L'article 985 est applicable aux infractions aux dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
-
-	  - Code rural - art. L719-1 (V)
-
 	**Cite**:
 
-	  - Code rural 990
+	  - Code rural 985
+
+	**Nouveaux textes**:
+
+	  - Code rural L719-1
+	  - Code rural - art. L719-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ### Chapitre III : Médecine du travail.
@@ -11654,53 +11528,59 @@ concernant :
 
 Les médecins du travail visés à l'article 1000-2, les médecins et les spécialistes visés à l'article 1000-3 jouissent, dans
 l'accomplissement des missions qui leur sont confiées, des mêmes pouvoirs et protection que ceux prévus pour les inspecteurs
-des lois sociales en agriculture par les deuxième et troisième alinéas de l'article 990 ; ils sont autorisés à faire, aux
+des lois sociales en agriculture par les deuxième et troisième alinéas de l'article 985 ; ils sont autorisés à faire, aux
 fins d'analyse, tous prélèvements portant notamment sur les matières mises en oeuvre et les produits utilisés.
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
-
-	  - Code rural - art. L717-5 (M)
-
 	**Cite**:
 
-	  - Code rural 990, 1000-2, 1000-3
+	  - Code rural 985, 1000-2, 1000-3
+
+	**Nouveaux textes**:
+
+	  - Code rural L717-5
+	  - Code rural - art. L717-5 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°66-958 1966-12-26 art. 1 JORF 27 décembre 1966
+	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1000-5
-
-Les employeurs sont tenus d'autoriser leurs salariés à se rendre aux convocations des organismes chargés de la médecine du
-travail agricole.
 
 Les infractions aux dispositions du présent titre et des décrets pris pour son application sont constatées dans des procès-
 verbaux, par les inspecteurs et contrôleurs des lois sociales en agriculture, concurremment avec les officiers de police
 judiciaire.
 
-Il ne peut être donné suite aux procès-verbaux qu'après une mise en demeure écrite adressée au chef d'exploitation ou
-d'entreprise intéressé, le délai imparti ne pouvant être inférieur à un mois.
-
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L719-1
+	  - Code rural - art. L719-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Code rural - art. L719-1 (V)
+	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°66-958 1966-12-26 art. 1 JORF 27 décembre 1966
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ## Titre II : Mutualité sociale agricole
@@ -12454,34 +12334,6 @@ conditions d'application des dispositions relatives au budget annexe des prestat
 	  - Loi - art. 40 (V) JORF 31 décembre 2003
 
 
-###### Article 1003-11
-
-La répartition entre les départements de la charge des cotisations prévues à l'article 1062 est faite sur la base du revenu
-cadastral des assujettis après application du coefficient d'adaptation défini à l'article 1106-6.
-
-Pour la répartition de ces cotisations à l'intérieur du département, le commissaire de la République peut tenir compte, sur
-proposition du comité départemental des prestations sociales agricoles, de toute donnée de caractère économique se rapportant
-à la rentabilité de l'exploitation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 1062, 1106-6
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°90-85 du 23 janvier 1990 - art. 62 (V) JORF 25 janvier 1990 en vigueur le 1er janvier 1992
-
-	**Abrogé par**:
-
-	  - Loi n°95-95 du 1 février 1995 - art. 67 () JORF 2 février 1995
-
-
 ###### Article 1003-12
 
 I. - Sont considérés comme revenus professionnels pour la détermination de l'assiette des cotisations dues au régime de
@@ -12497,14 +12349,28 @@ bénéfices non commerciaux ;
 au sens de l'article 1060, troisième (2°) à sixième (5°) alinéa, du code rural et soumises à l'impôt sur le revenu dans la
 catégorie visée à l'article 62 du code général des impôts.
 
+Les chefs d'exploitation agricole à titre individuel sont autorisés, sur option, à déduire des revenus mentionnés au 1° le
+montant, excédant l'abattement ci-après défini, du revenu cadastral des terres mises en valeur par ladite exploitation et
+dont ils sont propriétaires. Cet abattement est égal à 4 p. 100 des revenus mentionnés au 1° diminués du revenu cadastral
+desdites terres et multipliés par un coefficient égal au revenu cadastral de ces dernières divisé par le revenu cadastral de
+l'ensemble des terres mises en valeur par l'exploitation. L'abattement est d'au moins 2 000 F.
+
+Les dispositions du précédent alinéa sont applicables dans les mêmes conditions aux associés personnes physiques des sociétés
+visées à l'article 8 du code général des impôts pour les terres mises en valeur par lesdites sociétés lorsque celles-ci sont
+inscrites à l'actif de leur bilan.
+
+Un décret détermine les conditions dans lesquelles les chefs d'exploitation agricole peuvent opter pour la déduction ci-
+dessus, la durée de validité de cette option et les justificatifs qu'ils doivent fournir à la caisse de mutualité sociale
+agricole dont ils relèvent.
+
 II. - Pour les chefs d'exploitation ou d'entreprise agricoles soumis à un régime forfaitaire d'imposition, les revenus
 professionnels pris en compte sont constitués par la moyenne des revenus se rapportant aux trois années antérieures à l'année
 précédant celle au titre de laquelle les cotisations sont dues. Pour les chefs d'exploitation ou d'entreprise agricoles
 soumis à un régime réel ou transitoire d'imposition, les revenus professionnels pris en compte sont constitués par la moyenne
 des revenus se rapportant aux trois années antérieures à celle au titre de laquelle les cotisations sont dues.
 
-Ces revenus s'entendent des revenus nets professionnels retenus pour le calcul de l'impôt sur le revenu ou, le cas échéant,
-de leur somme.
+Ces revenus s'entendent des revenus nets professionnels retenus pour le calcul de l'impôt sur le revenu éventuellement
+minorés de la déduction prévue au cinquième alinéa du I ci-dessus ou, le cas échéant, de leur somme.
 
 Il n'est pas tenu compte des reports déficitaires, des plus-values et moins-values professionnelles à long terme et des
 modalités d'assiette qui résultent d'une option du contribuable. Ils sont majorés des déductions et abattements qui ne
@@ -12570,7 +12436,7 @@ ou d'entreprise agricoles peuvent exercer l'option prévue au présent VI jusqu'
 Les chefs d'exploitation ou d'entreprise agricoles ayant dénoncé l'option ne peuvent ultérieurement demander l'application
 des dispositions prévues au présent VI.
 
-VII. - Jusqu'au 30 avril 1994, les chefs d'exploitation ou d'entreprise agricoles ayant exercé l'option prévue à l'article 13
+VII - Jusqu'au 30 avril 1994, les chefs d'exploitation ou d'entreprise agricoles ayant exercé l'option prévue à l'article 13
 de la loi n° 91-1407 du 31 décembre 1991 ou à l'article 35 de la loi n° 93-121 du 27 janvier 1993 peuvent dénoncer ladite
 option à effet du 1er janvier 1994.
 
@@ -12581,7 +12447,7 @@ ultérieurement exercer l'option mentionnée au VI du présent article.
 
 	**Cite**:
 
-	  - CGI 62, 72 D
+	  - CGI 62, 8, 72 D
 	  - Loi n°91-1407 1991-12-31 art. 13
 	  - Loi n°93-121 1993-01-27 art. 35
 	  - Code rural 1060
@@ -12592,7 +12458,7 @@ ultérieurement exercer l'option mentionnée au VI du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°94-114 du 10 février 1994 - art. 32 () JORF 11 février 1994
+	  - Loi n°95-95 du 1 février 1995 - art. 68 (V) JORF 2 février 1995
 
 	**Nouveaux textes**:
 
@@ -13724,6 +13590,14 @@ La partie de la rémunération des personnes mentionnées au 1 de l'article L. 1
 d'activité inférieure ou égale à la limite fixée par le décret prévu à l'article L. 241-11 du code de la sécurité sociale ne
 donne pas lieu à cotisations d'assurances sociales agricoles à la charge de l'employeur.
 
+Lorsqu'ils embauchent des travailleurs occasionnels ou des demandeurs d'emploi inscrits à ce titre à l'agence nationale pour
+l'emploi pendant une durée minimale fixée par décret, en vue d'exercer une ou plusieurs des activités visées aux 1° et 2° de
+l'article 1144 du code rural, les chefs d'exploitation et d'entreprise agricoles ainsi que les groupements d'employeurs
+versent des cotisations d'assurances sociales et d'accidents du travail calculées en application de taux réduits. Est réputé
+travailleur occasionnel le salarié employé pendant une durée n'excédant pas, par année civile, un maximum fixé par décret.
+
+Un décret fixe les taux réduits ainsi que la durée maximale d'emploi y ouvrant droit.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -13735,11 +13609,11 @@ donne pas lieu à cotisations d'assurances sociales agricoles à la charge de l'
 	  - Loi n°82-1 du 4 janvier 1982 - art. 6, v. init.
 	  - Code du travail - art. L128 (M)
 	  - Code de la sécurité sociale. - art. L241-11 (M)
-	  - Code rural 1033-1 à 1036, 1143 à 1143-5
+	  - Code rural 1033-1 à 1036, 1143 à 1143-5, 1144
 
 	**Modifié par**:
 
-	  - Loi n°93-121 du 27 janvier 1993 - art. 26 () JORF 30 janvier 1993
+	  - Loi n°95-95 du 1 février 1995 - art. 62 () JORF 2 février 1995
 
 	**Cité par**:
 
@@ -14518,29 +14392,6 @@ aux salariés visés à l'article 1144.
 	  - Code rural 1144
 
 
-###### Article 1063
-
-Les cotisations varient suivant l'importance et la nature des exploitations ou des affaires dans des conditions déterminées,
-conformément aux dispositions d'un décret pris, sur le rapport du ministre de l'agriculture et du ministre chargé du budget,
-par le représentant de l'Etat dans le département, sur proposition du comité départemental des prestations sociales
-agricoles, institué par arrêté du ministre de l'agriculture. En cas de carence du comité départemental des prestations
-sociales agricoles, le représentant de l'Etat dans le département lui soumet pour avis des projets de décisions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°90-85 du 23 janvier 1990 - art. 75 () JORF 25 janvier 1990
-
-	**Abrogé par**:
-
-	  - Loi n°95-95 du 1 février 1995 - art. 67 () JORF 2 février 1995
-
-
 ###### Article 1064
 
 Les dispositions prévues à l'article 4 de la loi n° 52-4 du 3 janvier 1952 en faveur des communes présentant un caractère
@@ -14796,9 +14647,7 @@ auxdits articles.
 
 Sont exonérés de toute cotisation :
 
-a) Les exploitants agricoles qui mettent en valeur des terres dont le revenu cadastral est au plus égal à 16 F ;
-
-b), c) et d) (alinéas supprimés) ;
+a), b), c) et d) (alinéas supprimés) ;
 
 e) Les exploitants agricoles non employeurs de main-d'oeuvre, présents sous les drapeaux au 1er janvier de l'année au titre
 de laquelle les cotisations auraient dû être établies ;
@@ -14810,24 +14659,32 @@ f) Les coopératives d'utilisation de matériel agricole visées à l'article 55
 personnel administratif ou des ateliers de réparations ;
 
 g) Les groupements d'employeurs prévus aux articles L. 127-1 et L. 127-7 du code du travail lorsqu'ils sont constitués
-d'exploitants agricoles, sauf pour leur personnel administratif.
+d'exploitants agricoles, sauf pour leur personnel administratif ;
+
+h) Les associations intermédiaires prévues à l'article L. 128 du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code rural 550
-	  - Code du travail - art. L127-1 (M)
-	  - Code du travail - art. L127-7 (M)
+	  - Décret n°55-433 1955-04-16
 
 	**Modifié par**:
 
-	  - Loi n°86-76 du 17 janvier 1986 - art. 31 () JORF 18 janvier 1986
+	  - Loi n°87-588 du 30 juillet 1987 - art. 20 () JORF 31 juillet 1987
+	  - Loi n°95-95 du 1 février 1995 - art. 70 () JORF 2 février 1995
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L731-28 (V)
 	  - Code rural - art. L741-7 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L127-1 (M)
+	  - Code du travail - art. L127-7 (M)
+	  - Code du travail - art. L128 (M)
+	  - Code rural 550
 
 
 ###### Article 1077
@@ -15718,6 +15575,35 @@ Bénéficient d'une exemption totale de cotisations :
 	  - Code rural 1003-7-1, 1106-1
 
 
+###### Article 1106-8
+
+Les personnes exerçant à titre principal une activité professionnelle non salariée agricole et à titre secondaire d'autres
+activités, et dont le montant des cotisations dues pour la couverture des risques obligatoirement assurés en application du
+présent chapitre est égal au montant des cotisations minimales, sont redevables de cotisations réduites dans des proportions
+tenant compte du montant des cotisations dues au titre de leurs activités secondaires. Les modalités de cette réduction sont
+déterminées par décret.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L731-40
+	  - Code rural - art. L731-40 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°95-95 du 1 février 1995 - art. 42 () JORF 2 février 1995
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 #### Section 4 : Assujettissement et organisation.
 
 ###### Article 1106-9
@@ -16536,27 +16422,32 @@ un ans à compter du 1er janvier 1989.
 ###### Article 1120-2
 
 La pension de retraite peut être accordée à partir de l'âge de soixante ans aux assurés reconnus inaptes au travail dans les
-conditions prévues aux articles 1122-3 et 1122-4 ainsi qu'à ceux qui sont mentionnés au c et au e de l'article L. 332 du code
-de la sécurité sociale, dans des conditions fixées par décret.
+conditions prévues à l'article L. 351-7 du code de la sécurité sociale ainsi qu'à ceux qui sont mentionnés au 3° et au 5° de
+l'article L. 351-8 du même code, dans des conditions fixées par décret.
 
 **Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L732-23 (M)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale L332
-	  - Code rural 1122-3, 1122-4
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°86-19 1986-01-06 art. 1 JORF 8 janvier 1986
+	  - Loi n°95-95 du 1 février 1995 - art. 72 () JORF 2 février 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-860 du 24 août 2004 - art. 1 () JORF 25 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L732-23 (M)
+	  - Code rural L732-23
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L351-7 (V)
+	  - Code de la sécurité sociale. - art. L351-8 (M)
 
 
 ###### Article 1121
@@ -16632,27 +16523,36 @@ cotisations versées par des exploitants agricoles au titre des assurances socia
 Les personnes ayant exercé, concurremment avec une activité salariée, une activité non salariée agricole ne présentant qu'un
 caractère accessoire peuvent seulement prétendre à la retraite proportionnelle.
 
-Le conjoint survivant des personnes visées au premier alinéa a droit, s'il n'est pas lui-même bénéficiaire d'un avantage au
-titre d'un régime de sécurité sociale, et s'il satisfait à des conditions d'âge, de ressources personnelles et de durée du
-mariage fixées par décret, à une retraite de réversion dont le montant est égal à un pourcentage fixé par voie réglementaire
-de la retraite proportionnelle dont bénéficiait ou aurait pu bénéficier l'assuré. Toutefois, dans le cas où l'avantage
-personnel non cumulable est d'un montant inférieur à la pension de réversion susceptible d'être accordée, celle-ci est servie
-sous forme de complément différentiel.
+Le conjoint survivant des personnes mentionnées au premier alinéa a droit, dans les conditions énoncées au premier alinéa de
+l'article 1122, à une retraite de réversion dont le montant est égal à un pourcentage, fixé par décret, de la retraite
+proportionnelle dont bénéficiait ou eût bénéficié l'assuré. Lorsque le conjoint survivant est titulaire d'avantages
+personnels de vieillesse ou d'invalidité, il est fait application des dispositions prévues au troisième alinéa de l'article
+1122.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1122
+
+	**Nouveaux textes**:
+
+	  - Code rural L732-28
+	  - Code rural - art. L732-28 (M)
+	  - Code rural - art. L732-46 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°86-19 1986-01-06 art. 4 JORF 8 janvier 1986
+	  - Loi n°95-95 du 1 février 1995 - art. 71 (Ab) JORF 2 février 1995
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L732-28 (M)
-	  - Code rural - art. L732-46 (M)
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1121-2
@@ -16691,13 +16591,16 @@ salariées des professions agricoles.
 ###### Article 1122
 
 En cas de décès d'un chef d'exploitation ou d'entreprise agricole, son conjoint survivant a droit à une pension de réversion
-s'il remplit les conditions de ressources personnelles, de durée de mariage et d'âge définies par voie réglementaire et sous
-réserve s'il ne soit pas lui-même bénéficiaire d'un avantage au titre d'un régime de sécurité sociale. Toutefois, dans le cas
-où l'avantage personnel non cumulable est d'un montant inférieur à la pension de réversion susceptible d'être accordée,
-celle-ci est servie sous forme de complément différentiel.
+s'il satisfait à des conditions de ressources personnelles, de durée de mariage et d'âge définies par décret. Toutefois,
+lorsqu'au moins un enfant est issu du mariage, aucune condition de durée de mariage n'est exigée.
 
-Cette pension de réversion se compose de la retraite forfaitaire et d'un pourcentage, fixé par voie réglementaire, de la
-pension de retraite proportionnelle dont bénéficiait ou eût bénéficié l'assuré.
+Toutefois, lorsqu'au moins un enfant est issu du mariage, aucune condition de durée de mariage n'est exigée.
+
+Cette pension de réversion est d'un montant égal à un pourcentage fixé par décret de la retraite forfaitaire et de la
+retraite proportionnelle dont bénéficiait ou eût bénéficié l'assuré.
+
+Le conjoint survivant cumule la pension de réversion avec des avantages personnels de vieillesse et d'invalidité dans des
+limites fixées par décret.
 
 Si le chef d'exploitation ou d'entreprise est décédé avant d'avoir demandé la liquidation de sa retraite, le conjoint
 survivant continuant l'exploitation peut, pour le calcul de sa pension de retraite, ajouter à ses annuités propres celles qui
@@ -16705,18 +16608,24 @@ ont été acquises par le défunt.
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code rural L732-41
+	  - Code rural - art. L732-41 (M)
+	  - Code rural - art. L732-46 (M)
+
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°86-19 1986-01-06 art. 3 JORF 8 janvier 1986
+	  - Loi n°95-95 du 1 février 1995 - art. 71 (Ab) JORF 2 février 1995
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L732-41 (M)
-	  - Code rural - art. L732-46 (M)
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1122-1
@@ -16737,9 +16646,11 @@ parts égales des points obtenus en contrepartie des cotisations visées aux b e
 d'exploitation ou d'entreprise agricole obtient, outre la retraite forfaitaire mentionnée au précédent alinéa, une retraite
 proportionnelle calculée dans les conditions prévues au 2° de l'article 1121.
 
-Le conjoint survivant des personnes mentionnées au premier alinéa du présent article a droit, dans les conditions énoncées au
-premier alinéa de l'article 1122, à une pension de réversion qui se compose de la retraite forfaitaire et, le cas échéant,
-d'un pourcentage fixé par décret de la retraite proportionnelle dont bénéficiait ou eût bénéficié l'assuré.
+Le conjoint survivant des personnes mentionnées au premier alinéa a droit, dans les conditions énoncées au premier alinéa de
+l'article 1122, à une retraite de réversion d'un montant égal à un pourcentage, fixé par décret, de la retraite forfaitaire
+et, le cas échéant, de la retraite proportionnelle visée aux alinéas précédents, dont bénéficiait ou eût bénéficié l'assuré.
+Lorsque le conjoint survivant est titulaire d'avantages personnels de vieillesse ou d'invalidité, il est fait application des
+dispositions prévues au troisième alinéa de l'article 1122.
 
 **Liens relatifs à cet article**
 
@@ -16749,7 +16660,7 @@ d'un pourcentage fixé par décret de la retraite proportionnelle dont bénéfic
 
 	**Modifié par**:
 
-	  - Loi n°94-43 du 18 janvier 1994 - art. 89 (V) JORF 19 janvier 1994 en vigueur le 1er janvier 1994
+	  - Loi n°95-95 du 1 février 1995 - art. 71 (Ab) JORF 2 février 1995
 
 	**Cité par**:
 
@@ -16797,30 +16708,6 @@ code de la sécurité sociale, selon des modalités fixées par décret.
 
 	  - Code de la sécurité sociale 351-2
 	  - Code rural 1121, 1121-1, 1122-1
-
-
-###### Article 1122-2-1
-
-La condition de durée du mariage prévue aux articles 1122, premier alinéa, et 1121-1, deuxième alinéa et 1122-1, deuxième
-alinéa, n'est pas exigée pour l'attribution de la pension de réversion lorsqu'un enfant au moins est issu du mariage.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 1122
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°86-19 1986-01-06 art. 7 III JORF 8 janvier 1986
-
-	**Abrogé par**:
-
-	  - Loi n°95-95 du 1 février 1995 - art. 71 (Ab) JORF 2 février 1995
 
 
 ###### Article 1122-2-2
@@ -16894,54 +16781,6 @@ Les dispositions du présent article s'appliquent également aux conjoints menti
 
 
 ##### Paragraphe 3 : Allocation complémentaire agricole.
-
-###### Article 1122-3
-
-L'inaptitude au travail est appréciée en déterminant si, à la date de la demande ou à une date postérieure, l'assuré, compte
-tenu de son âge, de son état de santé, de ses capacités physiques et mentales, de ses aptitudes et de sa formation
-professionnelle, n'est plus en mesure d'exercer une activité professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Créé par**:
-
-	  - Loi n°86-19 1986-01-06 art. 9 JORF 8 janvier 1986
-
-	**Abrogé par**:
-
-	  - Loi n°95-95 du 1 février 1995 - art. 72 () JORF 2 février 1995
-
-
-###### Article 1122-4
-
-Par dérogation à l'article 1122-3, l'inaptitude au travail des chefs d'exploitation ou d'entreprise agricole est appréciée
-dans les conditions prévues à l'article L. 333 du code de la sécurité sociale lorsque, pendant les cinq dernières années
-d'exercice de leur profession, les intéressés ont travaillé seuls et, éventuellement, avec le concours de leur conjoint et
-d'un seul salarié ou d'un seul membre de la famille.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 1122-3
-	  - Code de la sécurité sociale L333
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Créé par**:
-
-	  - Loi n°86-19 1986-01-06 art. 9 JORF 8 janvier 1986
-
-	**Abrogé par**:
-
-	  - Loi n°95-95 du 1 février 1995 - art. 72 () JORF 2 février 1995
-
 
 ###### Article 1122-5
 
@@ -18472,6 +18311,41 @@ les procédures prévues à l'article 1143-2.
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1143-6
+
+Est entachée d'une nullité d'ordre public toute clause ou convention conclue par toute personne légalement tenue de cotiser à
+un régime d'assurance obligatoire institué par le présent livre et garantissant les risques couverts à titre obligatoire par
+lesdits régimes, lorsque cette personne n'est pas à jour des cotisations dues à ce titre au moment de la conclusion ou du
+renouvellement du contrat.
+
+Un décret en Conseil d'Etat précise les peines encourues par toute personne physique proposant ou faisant souscrire et tout
+assuré souscrivant une telle clause ou convention.
+
+Les personnes condamnées pour avoir fait souscrire des clauses ou conventions entachées d'une nullité d'ordre public sont
+tenues solidairement responsables des cotisations d'assurance maladie, d'allocations familiales et d'assurance vieillesse qui
+auraient dû être versées par l'assuré depuis la date de souscription desdites clauses ou conventions.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L725-10
+	  - Code rural - art. L725-10 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°95-95 du 1 février 1995 - art. 69 () JORF 2 février 1995
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ## Titre III : Accidents du travail et risques agricoles
 
 ### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles
@@ -19206,6 +19080,44 @@ agriculture, peut statuer, sauf recours devant ladite commission.
 
 	  - Code du travail - art. L611-10 (M)
 	  - Code rural 1171, 1156
+
+
+###### Article 1158-1
+
+Dans une limite fixée par voie réglementaire, des avances peuvent être accordées par les caisses de mutualité sociale
+agricole aux employeurs qui souscrivent aux conditions de la convention d'objectifs, préalablement approuvée par la caisse
+centrale de la mutualité sociale agricole et fixant un programme d'actions de prévention spécifique à leur branche
+d'activité. Ces avances pourront être acquises aux employeurs dans les conditions prévues par la convention.
+
+L'arrêté mentionné au premier alinéa de l'article 1158 fixe le pourcentage du montant des cotisations d'accidents du travail
+et de maladies professionnelles et la part minimale du produit des cotisations supplémentaires qui doivent être affectés à
+l'attribution des ristournes prévues à l'article 1158 et des avances mentionnées au premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1158
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-22
+	  - Code rural L751-49
+	  - Code rural - art. L751-22 (M)
+	  - Code rural - art. L751-49 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°95-95 du 1 février 1995 - art. 66 () JORF 2 février 1995
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1159
@@ -22409,22 +22321,32 @@ professionnelles et sociales du ministère de l'agriculture est fixée par un d�
 
 ###### Article 1244
 
-L'article 990 est applicable aux infractions prévues aux chapitres II, III et IV du titre II et aux chapitres Ier et III du
+L'article 985 est applicable aux infractions prévues aux chapitres II, III et IV du titre II et aux chapitres Ier et III du
 titre III du présent livre.
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
-
-	  - Code rural - art. L724-2 (V)
-
 	**Cite**:
 
-	  - Code rural 990
+	  - Code rural 985
+
+	**Nouveaux textes**:
+
+	  - Code rural L724-2
+	  - Code rural - art. L724-2 (V)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1244-1
@@ -22514,30 +22436,43 @@ agricole qui se présentent pour vérifier l'application régulière des disposi
 livre.
 
 Les agents chargés du contrôle de la prévention agréés par le ministre de l'agriculture et assermentés dans les conditions
-prévues au dernier alinéa de l'article L. 423 du code de la sécurité sociale, les agents chargés de procéder aux enquêtes
-visées à l'article 1166 et les agents assermentés des caisses de mutualité sociale agricole bénéficient de la protection
-prévue à l'article 990 en faveur des inspecteurs et contrôleurs des lois sociales en agriculture.
+prévues au dernier alinéa des articles L. 422-3 et R. 422-4 du code de la sécurité sociale, les agents chargés de procéder
+aux enquêtes visées à l'article 1166 et les agents assermentés des caisses de mutualité sociale agricole bénéficient de la
+protection prévue à l'article 990 en faveur des inspecteurs et contrôleurs des lois sociales en agriculture.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°55-433 1955-04-16
-
-	**Cité par**:
-
-	  - Code du travail - art. R4411-64 (Ab)
+	  - Code rural 990, 1144, 1166
+	  - Code de la sécurité sociale. - art. L422-3 (V)
+	  - Code de la sécurité sociale. - art. R422-4 (V)
 
 	**Nouveaux textes**:
 
+	  - Code rural L724-11
+	  - Code rural L724-8
+	  - Code rural L724-9
 	  - Code rural - art. L724-11 (M)
 	  - Code rural - art. L724-8 (M)
 	  - Code rural - art. L724-9 (M)
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code de la sécurité sociale L423
-	  - Code rural 990, 1144, 1166
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°95-95 du 1 février 1995 - art. 65 (V) JORF 2 février 1995
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code du travail - art. R4411-64 (Ab)
 
 
 ###### Article 1244-3-1
