@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1980-07-23
+Version Consolidée au 1980-10-24
 
 ###### Article 162
 
@@ -8877,17 +8877,6 @@ d'équarrissage.
 	**Modifié par**:
 
 	  - Loi n°75-1336 1975-12-31 art. 7 JORF 3 janvier 1976
-
-
-###### Article 272
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
 
 
 ###### Article 273
