@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 2000-09-21
+Version Consolidée au 2000-12-31
 
 # Livre II : Des animaux et des végétaux
 
@@ -3291,38 +3291,6 @@ conditions d'application des dispositions relatives au budget annexe des prestat
 	  - Loi - art. 40 (V) JORF 31 décembre 2003
 
 
-### Chapitre III-2 : Assurances maladie, invalidité et maternité des personnes non salariées dans les départements d'outre-mer.
-
-###### Article 1106-20
-
-Le budget annexe des prestations sociales agricoles comprend les recettes et les dépenses instituées par le présent chapitre,
-à l'exclusion de celles qui sont relatives aux frais de gestion et à l'action sociale.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural L762-21
-	  - Code rural L762-22
-	  - Code rural L762-23
-	  - Code rural - art. L762-21 (V)
-	  - Code rural - art. L762-22 (VT)
-	  - Code rural - art. L762-23 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-	  - Loi n°2003-591 2003-07-02 art. 31
-
-	**Modifié par**:
-
-	  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-	**Abrogé par**:
-
-	  - Loi - art. 103 () JORF 31 décembre 2000
-
-
 ### Chapitre IV : Assurance vieillesse des personnes non salariées
 
 ###### Article 1107
@@ -3900,51 +3868,6 @@ Les conditions d'application des dispositions ci-dessus sont fixées par décret
 	**Abrogé par**:
 
 	  - Décret n°2004-861 du 24 août 2004 - art. 1 () JORF 25 août 2004
-
-
-###### Article 1142-10
-
-Le budget annexe des prestations sociales agricoles comprend les recettes et les dépenses instituées par le présent chapitre,
-à l'exclusion de celles relatives à la gestion.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi - art. 103 () JORF 31 décembre 2000
-
-
-### Chapitre IV-2 : Prestations familiales des exploitants agricoles dans les départements d'outre-mer.
-
-###### Article 1142-20
-
-Le budget annexe des prestations sociales agricoles comporte, en recettes et en dépenses, les opérations résultant du présent
-chapitre, à l'exclusion des dépenses de gestion et des recettes correspondantes ainsi que des dépenses et des recettes
-concernant l'action sociale prévue aux articles L. 752-7 et L. 752-8 du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°91-738 du 31 juillet 1991 - art. 15 () JORF 1er août 1991
-
-	**Abrogé par**:
-
-	  - Loi - art. 103 () JORF 31 décembre 2000
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L752-7 (M)
-	  - Code de la sécurité sociale. - art. L752-8 (M)
-	  - Code rural annexe
 
 
 ### Chapitre IV-3 : Assurance veuvage des personnes non salariées.
