@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1998-12-31
+Version Consolidée au 1999-01-01
 
 # Livre Ier : Régime du sol
 
@@ -12795,13 +12795,16 @@ assurés, assises sur les rémunérations perçues par ces derniers, ainsi que, 
 maternité, invalidité et décès par des contributions à la charge des seuls assurés, assises sur les allocations et revenus de
 remplacement mentionnés à l'article 6 de la loi n° 82-1 du 4 janvier 1982, ainsi que sur les avantages de retraite financés
 en tout ou partie par une contribution de l'employeur ou ayant donné lieu à rachat de cotisations, à l'exclusion des
-bonifications ou majorations pour enfants autres que les annuités supplémentaires.
+bonifications ou majorations pour enfants autres que les annuités supplémentaires. Elles sont également constituées par une
+fraction du produit des contributions sociales mentionnées aux articles L. 136-1, L. 136-6, L. 136-7, L. 136-7-1 du code de
+la sécurité sociale, et par une fraction du produit des droits visé à l'article L. 139-1 du même code, à concurrence du
+montant correspondant à l'application des dispositions de l'article L. 139-2 du même code.
 
 Un plafond est appliqué aux rémunérations ou gains servant de base au calcul des cotisations dues par l'employeur et par le
 salarié au titre de l'assurance vieillesse.
 
 La couverture des charges de l'assurance vieillesse est également assurée par une cotisation à la charge des employeurs
-assise sur la totalité des rémunérations et gains perçus par les salariés.
+assise sur la totalité des rémunérations et gains perçus par les salariés. 
 
 Des décrets fixent le  plafond mentionné au deuxième alinéa ci-dessus, les différents taux de cotisations, ainsi que les
 exonérations accordées aux titulaires d'avantages de retraite ou des revenus de remplacement mentionnés à l'article 6 de la
@@ -12828,9 +12831,9 @@ Le versement des cotisations est suspendu pendant la période du service nationa
 Des cotisations forfaitaires peuvent être fixées par arrêté interministériel pour certaines catégories de travailleurs
 salariés ou assimilés.
 
-La partie de la rémunération des personnes mentionnées au 1 de l'article L. 128 du code du travail correspondant à une durée
-d'activité inférieure ou égale à la limite fixée par le décret prévu à l'article L. 241-11 du code de la sécurité sociale ne
-donne pas lieu à cotisations d'assurances sociales agricoles à la charge de l'employeur.
+La partie de la rémunération des personnes mentionnées au 1 de l'article L. 322-4-16-3 du code du travail correspondant à une
+durée d'activité inférieure ou égale à la limite fixée par le décret prévu à l'article L. 241-11 du code de la sécurité
+sociale ne donne pas lieu à cotisations d'assurances sociales agricoles à la charge de l'employeur.
 
 Lorsqu'ils embauchent des travailleurs occasionnels ou des demandeurs d'emploi inscrits à ce titre à l'agence nationale pour
 l'emploi pendant une durée minimale fixée par décret, en vue d'exercer une ou plusieurs des activités visées aux 1° et 2° de
@@ -12852,14 +12855,21 @@ salariés mentionnés à l'article 1144.
 	**Cite**:
 
 	  - Loi n°82-1 du 4 janvier 1982 - art. 6, v. init.
-	  - Code du travail - art. L128 (M)
+	  - Code du travail - art. L322-4-16-3 (M)
+	  - Code de la sécurité sociale. - art. L136-1 (M)
+	  - Code de la sécurité sociale. - art. L136-6 (M)
+	  - Code de la sécurité sociale. - art. L136-7 (M)
+	  - Code de la sécurité sociale. - art. L136-7-1 (M)
+	  - Code de la sécurité sociale. - art. L139-1 (M)
+	  - Code de la sécurité sociale. - art. L139-2 (M)
 	  - Code de la sécurité sociale. - art. L241-11 (M)
 	  - Code de la sécurité sociale. - art. L241-13 (M)
 	  - Code rural 1033-1 à 1036, 1143 à 1143-5, 1144
 
 	**Modifié par**:
 
-	  - Loi n°95-882 du 4 août 1995 - art. 1 (V) JORF 5 août 1995
+	  - Loi n°96-1160 du 27 décembre 1996 - art. 23 () JORF 29 décembre 1996
+	  - Loi n°98-657 du 29 juillet 1998 - art. 14 () JORF 31 juillet 1998 en vigueur le 1er janvier 1999
 
 	**Cité par**:
 
@@ -12911,6 +12921,40 @@ Ces cotisations, dont le taux est fixé par décret, sont à la charge des salar
 	**Modifié par**:
 
 	  - Loi n°82-1 du 4 janvier 1982 - art. 5 () JORF 5 janvier 1982
+
+
+###### Article 1031-2
+
+Les dispositions de l'article L. 241-12 du code de la sécurité sociale sont applicables aux cotisations dues au titre des
+activités relevant du régime agricole.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L741-26
+	  - Code rural - art. L741-26 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°95-95 du 1 février 1995 - art. 64 (V) JORF 2 février 1995
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 14 () JORF 31 juillet 1998 en vigueur le 1er janvier 1999
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L241-12 (M)
 
 
 ###### Article 1031-3
@@ -14029,33 +14073,37 @@ duquel les cotisations auraient dû être établies ;
 f) Les coopératives d'utilisation de matériel agricole visées à l'article 550 et régulièrement agréées sauf pour leur
 personnel administratif ou des ateliers de réparations ;
 
-g) Les groupements d'employeurs prévus aux articles L. 127-1 et L. 127-7 du code du travail lorsqu'ils sont constitués
-d'exploitants agricoles, sauf pour leur personnel administratif ;
+g) (alinéa supprimé) ;
 
-h) Les associations intermédiaires prévues à l'article L. 128 du code du travail.
+h) Les associations intermédiaires prévues à l'article L. 322-4-16-3 du code du travail.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 550
+	  - Code du travail - art. L322-4-16-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural L731-28
+	  - Code rural L741-7
+	  - Code rural - art. L731-28 (V)
+	  - Code rural - art. L741-7 (V)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°87-588 du 30 juillet 1987 - art. 20 () JORF 31 juillet 1987
-	  - Loi n°95-95 du 1 février 1995 - art. 70 () JORF 2 février 1995
+	  - Loi n°95-882 du 4 août 1995 - art. 1 (V) JORF 5 août 1995
+	  - Loi n°98-657 du 29 juillet 1998 - art. 14 () JORF 31 juillet 1998 en vigueur le 1er janvier 1999
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L731-28 (V)
-	  - Code rural - art. L741-7 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L127-1 (M)
-	  - Code du travail - art. L127-7 (M)
-	  - Code du travail - art. L128 (M)
-	  - Code rural 550
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1077
@@ -18554,23 +18602,36 @@ divisionnaire des lois sociales en agriculture devant la section de tarification
 
 Des cotisations forfaitaires peuvent être fixées par arrêté interministériel, dans les conditions définies à l'article 1155,
 pour certaines catégories de travailleurs salariés ou assimilés. La partie de la rémunération des personnes mentionnées au 1
-de l'article L. 128 du code du travail dont l'activité n'excède pas la durée fixée par le décret prévu à l'article L. 241-11
-du code de la sécurité sociale donne également lieu à versement d'une cotisation forfaitaire d'accidents du travail.
+de l'article L. 322-4-16-3 du code du travail correspondant à une durée d'activité inférieure ou égale à la limite fixée par
+le décret prévu à l'article L. 241-11 du code de la sécurité sociale donne également lieu à versement d'une cotisation
+forfaitaire d'accidents du travail.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
 	**Modifié par**:
 
-	  - Loi n°87-588 du 30 juillet 1987 - art. 20 () JORF 31 juillet 1987
+	  - Loi n°93-121 du 27 janvier 1993 - art. 27 () JORF 30 janvier 1993
+	  - Loi n°98-657 du 29 juillet 1998 - art. 14 () JORF 31 juillet 1998 en vigueur le 1er janvier 1999
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L751-19 (M)
 	  - Code rural - art. L751-20 (M)
+	  - Code rural L751-19
+	  - Code rural L751-20
 
 	**Cite**:
 
-	  - Code du travail - art. L128 (M)
+	  - Code du travail - art. L322-4-16-3 (M)
 	  - Code de la sécurité sociale. - art. L241-11 (M)
 	  - Code rural 1155
 
