@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1971-06-17
+Version Consolidée au 1971-07-10
 
 ###### Article 162
 
@@ -15851,6 +15851,105 @@ La caisse centrale est, sous réserve des dispositions du présent livre, régie
 	**Cite**:
 
 	  - Loi n°1898-04-01 art. 16
+
+
+###### Article 1054
+
+Les caisses de mutualité sociale agricole et la caisse centrale de secours mutuels agricoles doivent déposer à leur compte
+courant postal, à la Caisse des dépôts et consignations ou à la Banque de France les sommes qui dépassent le chiffre de
+l'encaisse qu'elles sont autorisées à conserver. La Caisse des dépôts et consignations garde en dépôt le portefeuille desdits
+organismes.
+
+Les sommes non employées par la Caisse des dépôts et consignations sont versées en compte courant au Trésor et portent
+intérêt à un taux fixé par arrêté du ministre de l'agriculture et du ministre de l'économie et des finances.
+
+Les sommes déposées par les divers organismes, en exécution du présent article, à la Caisse des dépôts et consignations, et
+donnent lieu à aucune bonification d'intérêt.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-28 art. 32
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 25 () JORF 11 février 1994
+
+	**Modifié par**:
+
+	  - Décret n°71-550 du 21 juin 1971 - art. 1 (Ab) JORF 10 juillet 1971
+
+
+###### Article 1055
+
+Les disponibilités de la caisse centrale de secours mutuels agricoles sont employées comme suit :
+
+a) Deux quarts sont placés, sur la désignation du conseil central d'administration de la mutualité sociale agricole ou d'une
+commission choisie dans son sein et habilitée par lui, en prêts aux départements, communes et établissements publics, en vue
+du financement de leurs travaux ;
+
+b) Un quart est investi directement par la Caisse des dépôts et consignations ;
+
+c) Un quart est placé par la Caisse des dépôts et consignations sur la désignation du conseil central d'administration de la
+mutualité sociale agricole ou d'une commission choisie dans son sein et habilitée par lui.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-28 art. 33
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 25 () JORF 11 février 1994
+
+	**Modifié par**:
+
+	  - Décret n°71-550 du 21 juin 1971 - art. 1 (Ab) JORF 10 juillet 1971
+
+
+###### Article 1056
+
+Le ministre de l'agriculture peut prendre toutes mesures de contrôle et de redressement jugées utiles à l'égard des
+organismes dont la situation est déficitaire ; il peut poursuivre les administrateurs, en cas de faute lourde et personnelle,
+comme civilement responsables de leur mauvaise gestion, prescrire, s'il y a lieu, la réduction des prestations dans les
+limites prévues au présent article.
+
+Les prestations sont garanties seulement dans la limite des ressources prévues pour le fonctionnement des assurances
+sociales.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L724-15
+	  - Code rural - art. L724-15 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-28 art. 30, art. 34
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Modifié par**:
+
+	  - Décret n°71-550 du 21 juin 1971 - art. 1 (Ab) JORF 10 juillet 1971
 
 
 ###### Article 1057
