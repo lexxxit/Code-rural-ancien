@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1973-03-28
+Version Consolidée au 1973-05-25
 
 ###### Article 162
 
@@ -7105,21 +7105,6 @@ domestiques, si le prix en cas de vente, ou la valeur en cas d'échange, ne dép
 	**Anciens textes**:
 
 	  - Loi n°1884-08-02 art. 4
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
-
-
-###### Article 289
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
 
 	**Abrogé par**:
 
