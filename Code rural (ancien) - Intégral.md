@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1961-01-27
+Version Consolidée au 1961-04-01
 
 ###### Article 162
 
@@ -12562,25 +12562,6 @@ la cour de cassation.
 ### Chapitre II : Assurances sociales
 
 #### Section 1 : Affiliation.
-
-###### Article 1026
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-10-30 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°61-89 du 25 janvier 1961 - art. 4 () JORF 27 janvier 1961 en vigueur le 1er avril 1961
-
 
 ###### Article 1027
 
