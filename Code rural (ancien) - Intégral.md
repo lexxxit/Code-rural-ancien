@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1975-03-08
+Version Consolidée au 1975-05-30
 
 ###### Article 162
 
@@ -5872,23 +5872,6 @@ des articles L. 611 à L. 617 du code de la santé publique.
 	**Cite**:
 
 	  - Code de la santé publique L611 à L617
-
-
-### Chapitre II : Prophylaxie de la tuberculose.
-
-###### Article 218
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°75-409 1975-05-29 art. 4 JORF 30 mai 1975
 
 
 ### Chapitre III : De la police sanitaire
