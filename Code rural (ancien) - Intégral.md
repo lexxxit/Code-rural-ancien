@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1998-06-30
+Version Consolidée au 1998-07-02
 
 # Livre Ier : Régime du sol
 
@@ -7476,6 +7476,37 @@ Nota - Loi n° 2001-616 du 11 juillet 2001, art. 1 (compétence territoriale), a
 	**Créé par**:
 
 	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+## Titre XII : Agence française de sécurité sanitaire des aliments
+
+###### Article 365
+
+L'Agence française de sécurité sanitaire des aliments est consultée sur les projets de dispositions législatives ou
+réglementaires relatives à la lutte contre les maladies des animaux ou au contrôle de produits végétaux susceptibles d'être
+consommés par l'homme, à la qualité et à la salubrité des denrées propres à l'alimentation humaine et animale, au traitement
+des denrées impropres, aux importations, exportations et échanges intracommunautaires d'animaux, de produits animaux et de
+produits destinés à l'alimentation humaine ou animale.
+
+Les avis émis par l'agence sont rendus publics.
+
+Dans les cas d'urgence dûment motivée, l'Agence française de sécurité sanitaire des aliments est informée sans délai des
+dispositions arrêtées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 11 () JORF 2 juillet 1998
 
 	**Abrogé par**:
 
