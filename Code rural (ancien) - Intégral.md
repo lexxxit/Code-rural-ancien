@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1962-09-01
+Version Consolidée au 1963-01-30
 
 ###### Article 162
 
@@ -5782,6 +5782,30 @@ d'autre activité professionnelle vétérinaire.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+
+###### Article 315
+
+Il est institué un conseil supérieur de l'ordre des vétérinaires ayant son siège à Paris.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°47-1564 1947-08-23
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Décret n°63-67 1963-01-25 art. 7 JORF 30 janvier 1963
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 317
