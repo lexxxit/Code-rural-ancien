@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1976-12-07
+Version Consolidée au 1976-12-28
 
 ###### Article 162
 
@@ -18178,6 +18178,52 @@ assurances complémentaires de l'assurance maladie, maternité et vieillesse dan
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1050
+
+Les salariés mentionnés à l'article 1144 du code rural (alinéas 1° à 7°, 9° et 10°) peuvent bénéficier auprès des caisses de
+prévoyance fonctionnant avec l'autorisation et sous le contrôle du ministre chargé de l'agriculture d'avantages s'ajoutant à
+ceux prévus par la section 3 du chapitre II du présent titre.
+
+Les caisses de prévoyance peuvent grouper tout ou partie des salariés d'une ou plusieurs entreprises.
+
+Les accords ayant pour objet l'institution d'un régime complémentaire de prévoyance et de retraite en faveur des salariés
+mentionnés aux alinéas ci-dessus ainsi que les accords ayant pour objet de modifier ou de compléter le régime ainsi créé
+peuvent être rendus obligatoires par arrêté du ministre chargé de l'agriculture pour tous les employeurs et travailleurs
+compris dans leur champ d'application professionnel et territorial.
+
+Les dispositions des alinéas 1er et 3 ci-dessus sont également applicables aux métayers mentionnés à l'article 1144, alinéa
+8°.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1144
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1952-07-25 art. 1, art. 2, art. 3
+
+	**Modifié par**:
+
+	  - Loi n°73-970 du 18 octobre 1973 - art. 1 () JORF 19 octobre 1973
+	  - Loi n°76-1213 1976-12-24 art. 1 JORF 28 décembre 1976
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L134-1 (V)
+	  - Code monétaire et financier - art. L221-18 (V)
+	  - Code monétaire et financier - art. L221-23 (V)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L727-2 (V)
 
 
 ###### Article 1051
