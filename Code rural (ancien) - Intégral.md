@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1984-08-02
+Version Consolidée au 1985-01-01
 
 ###### Article 162
 
@@ -29241,49 +29241,234 @@ les prestataires du régime général.
 
 ## Titre VI : Français résidant à l'étranger
 
-### Chapitre II : Travailleurs salariés expatriés.
+### Chapitre Ier : Travailleurs salariés détachés à l'étranger.
 
-###### Article 1263-4
+###### Article 1263-1
 
-Les ressortissants français qui exercent une activité agricole salariée ou assimilée au regard des législations sociales
-agricoles françaises dans un pays étranger n'appartenant pas à la Communauté européenne et qui ne sont pas ou ne sont plus
-soumis à ces législations en vertu d'une convention internationale ou de l'article 1263-2 peuvent adhérer aux assurances
-volontaires prévues par le chapitre II du titre VI du livre VII du code de la sécurité sociale et bénéficier des prestations
-correspondantes dans les conditions prévues audit livre.
+Les travailleurs détachés temporairement à l'étranger par leur employeur pour y exercer une activité salariée ou assimilée
+qui demeurent soumis aux législations sociales agricoles françaises, en vertu de conventions ou de règlements internationaux,
+sont réputés, pour l'application de ces législations, avoir leur résidence et leur lieu de travail en France.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L764-1
+	  - Code rural - art. L764-1 (T)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-604 du 13 juillet 1984 - art. 17 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1263-2
+
+S'ils ne sont pas ou ne sont plus visés par l'article 1263-1, les travailleurs détachés temporairement à l'étranger par leur
+employeur pour y exercer une activité salariée ou assimilée rémunérée par cet employeur sont soumis aux législations sociales
+agricoles françaises à la condition que l'employeur s'engage à s'acquitter de l'intégralité des cotisations dues.
+
+La durée maximale pendant laquelle les travailleurs visés au précédent alinéa peuvent être soumis aux législations sociales
+agricoles françaises est fixée par voie réglementaire.
+
+Pour l'application de ces législations, ils sont réputés avoir leur résidence et leur lieu de travail en France.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L764-2 (T)
+	  - Code rural L764-2
+
+	**Cite**:
+
+	  - Code rural 1263-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-604 du 13 juillet 1984 - art. 17 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1263-3
+
+Les soins dispensés aux bénéficiaires du présent titre et à leurs ayants droit ouvrent droit aux prestations des assurances
+maladie et maternité prévues par le présent titre.
+
+Sous réserve des dispositions des conventions et règlements internationaux concernant les travailleurs visés à l'article
+1263-1, ces prestations sont servies, dans le pays où les bénéficiaires du présent titre exercent leur activité, sur la base
+des dépenses réelles, dans la limite des prestations qui auraient été servies pour des soins analogues reçus en France, ou
+dans la limite de tarifs de responsabilité fixés par arrêté ministériel.
+
+Les dispositions des articles L. 162-2, L. 162-3, L. 162-4, L. 162-9 et L. 162-11, L. 162-12, L. 162-5, L. 162-6, L. 162-8,
+L. 162-32, L. 162-35, L. 162-16 et D. 162-1, L. 162-17 et R. 162-19, L. 162-36, L. 162-20, L. 162-22, L. 162-23, L. 162-24,
+R. 162-24 et R. 162-25, L. 162-25, L. 432-2 à L. 432-5, L. 432-7 à L. 432-10, R. 432-1, R. 432-2 et R. 432-8 du code de la
+sécurité sociale ne sont pas applicables aux soins dispensés à l'étranger.
+
+La caisse compétente peut, pour l'exercice de son contrôle, demander le concours des organismes de sécurité sociale du pays
+dans lequel les soins ont été dispensés et des autorités consulaires françaises.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-604 du 13 juillet 1984 - art. 17 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
-	  - Code rural - art. L764-3 (M)
+	  - Code rural - art. L764-4 (M)
+	  - Code rural L764-4
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L162-2, L162-3, L162-4, L162-9, L162-11, L162-12, L162-5, L162-6, L162-8, L162-32, L162-35, L162-16, L162-17, L162-36, L162-20, L162-22, L162-23, L162-24, L162-25, L432-2 à L432-5, L432-7 à L432-10, R162-19, R162-24, R162-
+	  - Code de la sécurité sociale. - art. D162-1 (An)
+	  - Code de la sécurité sociale. - art. L162-11 (M)
+	  - Code de la sécurité sociale. - art. L162-12 (V)
+	  - Code de la sécurité sociale. - art. L162-16 (M)
+	  - Code de la sécurité sociale. - art. L162-17 (M)
+	  - Code de la sécurité sociale. - art. L162-2 (V)
+	  - Code de la sécurité sociale. - art. L162-20 (M)
+	  - Code de la sécurité sociale. - art. L162-22 (M)
+	  - Code de la sécurité sociale. - art. L162-23 (M)
+	  - Code de la sécurité sociale. - art. L162-24 (Ab)
+	  - Code de la sécurité sociale. - art. L162-25 (M)
+	  - Code de la sécurité sociale. - art. L162-3 (M)
+	  - Code de la sécurité sociale. - art. L162-32 (M)
+	  - Code de la sécurité sociale. - art. L162-35 (V)
+	  - Code de la sécurité sociale. - art. L162-36 (M)
+	  - Code de la sécurité sociale. - art. L162-4 (M)
+	  - Code de la sécurité sociale. - art. L162-5 (M)
+	  - Code de la sécurité sociale. - art. L162-6 (M)
+	  - Code de la sécurité sociale. - art. L162-8 (M)
+	  - Code de la sécurité sociale. - art. L162-9 (M)
+	  - Code de la sécurité sociale. - art. R162-19 (V)
+	  - Code de la sécurité sociale. - art. R162-24 (Ab)
+	  - Code de la sécurité sociale. - art. R162-25 (Ab)
+	  - Code de la sécurité sociale. - art. R432-1 (V)
+	  - Code de la sécurité sociale. - art. R432-2 (V)
+	  - Code de la sécurité sociale. - art. R432-8 (V)
+	  - Code rural 1263-1
+
+
+### Chapitre II : Travailleurs salariés expatriés.
+
+###### Article 1263-4
+
+Les ressortissants français qui exercent une activité agricole salariée ou assimilée au regard des législations sociales
+agricoles françaises dans un pays étranger et qui ne sont pas ou ne sont plus soumis à ces législations en vertu d'une
+convention internationale ou de l'article 1263-2 peuvent adhérer aux assurances volontaires prévues par le chapitre II du
+titre VI du livre VII du code de la sécurité sociale et bénéficier des prestations correspondantes dans les conditions
+prévues audit livre.
+
+Les entreprises et exploitations agricoles de droit français peuvent, pour le compte des travailleurs salariés français
+qu'elles emploient à l'étranger, effectuer les formalités nécessaires à l'adhésion de ces personnes aux assurances
+volontaires prévues à l'alinéa précèdent ou à certaines d'entres elles. Elles doivent effectuer ces formalités lorsque les
+salariés le demandent.
+
+**Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Code rural 1263-2
+
+	**Nouveaux textes**:
+
+	  - Code rural L764-3
+	  - Code rural - art. L764-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-604 du 13 juillet 1984 - art. 17 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+	  - Loi n°84-604 du 13 juillet 1984 - art. 18 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1263-5
+
+Un décret en Conseil d'Etat détermine les mesures nécessaires à l'application du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L764-5
+	  - Code rural - art. L764-5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-604 du 13 juillet 1984 - art. 17 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.
 
 ###### Article 1263-6
 
-Les ressortissants français qui exercent une activité professionnelle agricole non-salariée au regard des législations
-sociales agricoles françaises dans un pays étranger n'appartenant pas à la Communauté économique européenne ont la faculté
-d'adhérer à l'assurance volontaire contre les risques de maladie et les charges de la maternité visée au chapitre III du
-titre VI du livre VII du code de la sécurité sociale.
+Les ressortissants français qui exercent une activité professionnelle agricole non salariée au regard des législations
+sociales agricoles françaises dans un pays étranger ont la faculté d'adhérer à l'assurance volontaire contre les risques de
+maladie et les charges de la maternité visée au chapitre III du titre VI du livre VII du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L764-6
+	  - Code rural - art. L764-6 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Code rural - art. L764-6 (M)
+	  - Loi n°84-604 du 13 juillet 1984 - art. 19 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1263-7
@@ -29313,19 +29498,29 @@ Un décret en Conseil d'Etat détermine les mesures nécessaires à l'applicatio
 
 Les personnes de nationalité française titulaires d'un avantage de retraite alloué au titre d'un régime français d'assurance
 vieillesse agricole obligatoire ou volontaire, justifiant d'une durée d'assurance minimum audit régime fixée par voie
-réglementaire et qui, n'exerçant aucune activité professionnelle, résident dans un pays étranger n'appartenant pas à la
-Communauté économique européenne, ont la faculté d'adhérer à l'assurance volontaire contre les risques de maladie et les
-charges de la maternité visée au titre III du livre XI du code de la sécurité sociale.
+réglementaire et qui, n'exerçant aucune activité professionnelle, résident dans un pays étranger, ont la faculté d'adhérer à
+l'assurance volontaire contre les risques de maladie et les charges de la maternité visée au titre IV du livre XII du code de
+la sécurité sociale.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L764-8
+	  - Code rural - art. L764-8 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Code rural - art. L764-8 (M)
+	  - Loi n°84-604 du 13 juillet 1984 - art. 20 () JORF 14 juillet 1984 en vigueur le 1er janvier 1985
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1263-9
