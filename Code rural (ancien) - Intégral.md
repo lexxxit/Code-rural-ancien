@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1984-06-30
+Version Consolidée au 1984-07-10
 
 ###### Article 162
 
@@ -21267,8 +21267,8 @@ L'assurance maladie comporte :
 pharmaceutiques et d'appareils, des frais d'analyses et d'examens de laboratoire, des frais d'hospitalisation et de
 traitement dans les établissements de cure de réadaptation fonctionnelle et de rééducation ou d'éducation professionnelle et
 des frais de transport ainsi que des frais d'interventions chirurgicales nécessaires pour l'assuré et les membres de sa
-famille déterminés par décret y compris la couverture des médicaments, produits et objets contraceptifs et des frais
-d'analyses et d'examens de laboratoire ordonnés en vue de prescriptions contraceptives.
+famille déterminés par règlement d'administration publique y compris la couverture des médicaments, produits et objets
+contraceptifs et des frais d'analyses et d'examens de laboratoire ordonnés en vue de prescriptions contraceptives.
 
 La couverture, sur décision de la commission d'éducation spéciale créée par l'article 6 de la loi n° 75-534 du 30 juin 1975,
 des frais d'hébergement et de traitement des enfants ou adolescents handicapés dans les établissements d'éducation spéciale
@@ -21280,7 +21280,8 @@ La couverture des frais de soins et d'hospitalisation afférents à l'interrupti
 conditions prévues à la section 1 du chapitre III bis du titre Ier du livre II du code de la santé publique.
 
 2. L'octroi d'indemnités journalières à l'assuré qui se trouve dans l'incapacité physique, constatée par le médecin traitant,
-de continuer ou de reprendre son travail.
+de continuer ou de reprendre le travail ; l'incapacité peut-être également constatée par la sage-femme dans la limite de sa
+compétence professionnelle et pour une durée fixée par décret.
 
 L'assuré choisit librement son praticien.
 
@@ -21308,7 +21309,7 @@ L'article L. 395 du code de la sécurité sociale est applicable aux prestations
 
 	**Modifié par**:
 
-	  - Loi n°82-1172 1982-12-31 art. 2 JORF 1er janvier 1983
+	  - Loi n°84-575 du 9 juillet 1984 - art. 34 () JORF 10 juillet 1984
 
 	**Nouveaux textes**:
 
@@ -22246,153 +22247,31 @@ Sont exonérés de toute cotisation :
 
 a) Les exploitants agricoles qui mettent en valeur des terres dont le revenu cadastral est au plus égal à 16 F ;
 
-b) Les exploitants agricoles qui mettent en valeur des terres d'un revenu cadastral inférieur à 200 F lorsqu'ils ont
-soixante-cinq ans ou, s'ils sont mariés, lorsqu'ils ont en moyenne un âge supérieur à soixante-cinq ans (cent trente pour les
-deux), cet âge étant réduit à soixante ans pour les femmes seules, à condition qu'ils n'emploient pas de main-d'oeuvre
-familiale salariée ;
+b), c) et d) (alinéas supprimés) ;
 
-c) Les artisans ruraux n'exerçant qu'une activité réduite, en raison d'une invalidité durant depuis plus de six mois et
-entraînant une incapacité de travail d'au moins 66 %, à condition qu'il n'emploient pas, même occasionnellement, de main-
-d'oeuvre familiale ou salariée ;
+e) Les exploitants agricoles non employeurs de main-d'oeuvre, présents sous les drapeaux au 1er janvier de l'année au titre
+de laquelle les cotisations auraient dû être établies ;
 
-d) Les artisans ruraux ayant élevé quatre enfants jusqu'à l'âge de quatorze ans, à condition qu'ils n'aient pas été
-bénéficiaires, pendant au moins cinq ans, de prestations familiales ;
-
-e) Les exploitants agricoles et artisans ruraux non employeurs de main-d'oeuvre, présents sous les drapeaux au premier jour
-du trimestre au titre duquel les cotisations auraient dû être établies ;
+e bis) Les artisans ruraux non employeurs  de main-d'oeuvre, présents sous les drapeaux le premier jour du trimestre au titre
+duquel les cotisations auraient dû être établies ;
 
 f) Les coopératives d'utilisation de matériel agricole visées à l'article 550 et régulièrement agréées sauf pour leur
-personnel administratif ou des ateliers de réparations ;
-
-g) Les jeunes gens effectuant des stages au pair chez des chefs d'entreprise appartenant aux professions agricoles, s'il est
-justifié que moins de trois années se sont écoulées depuis qu'ils ont quitté un établissement d'enseignement.
+personnel administratif ou des ateliers de réparations.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural 550
-
-	**Anciens textes**:
-
-	  - Décret n°1939-07-29 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
 	**Modifié par**:
 
-	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+	  - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L731-28 (V)
 	  - Code rural - art. L741-7 (V)
 
+	**Cite**:
 
-###### Article 1074
-
-Bénéficient d'un abattement de cotisation :
-
-a) Les exploitants n'employant pas de main-d'oeuvre familiale ou salariée et dont l'âge moyen des conjoints est de soixante-
-cinq ans, cet âge étant ramené à soixante ans pour les personnes seules ;
-
-b) Les exploitants agricoles n'exerçant qu'une activité réduite en raison d'une invalidité durant depuis plus de six mois et
-entraînant une incapacité de travail d'au moins 66 p. 100 ;
-
-c) Les exploitants agricoles ayant élevé au moins quatre enfants jusqu'à l'âge de quatorze ans, à condition qu'ils n'aient
-pas bénéficié, pendant au moins cinq ans, des prestations familiales.
-
-L'ensemble de ces abattements porte sur la partie des cotisations correspondant à 1180 F de revenu cadastral.
-
-Un abattement de 1180 F sur le revenu cadastral est accordé aux chefs de famille ayant élevé au moins cinq enfants jusqu'à
-l'âge de quatorze ans.
-
-Au-delà du cinquième enfant et par enfant élevé jusqu'à l'âge de quatorze ans, est accordé un supplément d'abattement de 236
-F sur le revenu cadastral.
-
-Le bénéfice de ces abattements est étendu aux artisans ruraux qui ont élevé cinq enfants et plus dans les conditions fixées
-par arrêté du ministre de l'agriculture après avis de la commission supérieure des prestations familiales agricoles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-07-29 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Décret n°81-541 1981-05-12 art. 1 JORF 15 mai 1981 en vigueur le 1er janvier 1981
-
-	**Abrogé par**:
-
-	  - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
-
-
-###### Article 1075
-
-Sont également exonérés de toute cotisation aux caisses de mutualité sociale agricole :
-
-a) Les exploitants agricoles dont les terres ont subi, par suite de faits de guerre, des dommages tels que la fraction qu'il
-leur est possible d'exploiter ne représente plus effectivement qu'un revenu cadastral n'excédant pas 16 F ;
-
-b) Les exploitants agricoles ayant élevé quatre enfants jusqu'à l'âge de quatorze ans dont les terres ont subi, par suite de
-faits de guerre, des dommages tels que la fraction qu'il leur est possible d'exploiter ne représente effectivement qu'un
-revenu cadastral inférieur à 200 F ;
-
-c) Les exploitants agricoles dont les terres ont subi, par suite de faits de guerre, des dommages tels que la fraction qu'il
-leur est possible d'exploiter ne représente plus effectivement qu'un revenu cadastral inférieur à 200 F à condition qu'ils
-n'utilisent pas habituellement de main-d'oeuvre, même familiale, et que l'âge moyen des deux conjoints dépasse soixante-cinq
-ans (ou, en cas de veuvage, soixante ans pour la veuve) ;
-
-d) Les artisans ruraux et les assujettis, au titre des professions connexes à l'agriculture, si leur activité a subi par
-suite de faits de guerre, une réduction de 50 p. 100.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-07-29 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
-
-
-###### Article 1076
-
-Bénéficient d'une exonération partielle de leurs cotisations :
-
-a) Les exploitants dont les terres ont subi, par suite de faits de guerre, des dommages tels que le revenu cadastral de la
-fraction demeurée cultivable est inférieur d'au moins 10 p. 100 au revenu cadastral du domaine antérieurement exploité ;
-
-b) Les artisans ruraux et les assujettis des professions connexes à l'agriculture dont l'activité a subi, par suite de faits
-de guerre, une réduction de 10 à 50 p. 100.
-
-Dans tous les cas visés par le présent article, le pourcentage de l'exonération est égal à celui du préjudice subi.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-07-29 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
+	  - Code rural 550
 
 
 ###### Article 1077
@@ -22424,52 +22303,6 @@ notamment en raison de leur âge ou de leur incapacité physique.
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-
-###### Article 1078
-
-Les assujettis susceptibles de bénéficier des exonérations et abattements de cotisations prévus ci-dessus doivent, à peine de
-forclusion, en faire la demande dans un délai d'un mois suivant la réception de l'avis d'appel des cotisations. Cette mise en
-demeure devra, à peine de nullité, reproduire le présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-07-29 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°70-365 1970-04-29 art. 3 JORF 30 avril 1970
-
-	**Abrogé par**:
-
-	  - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
-
-
-###### Article 1079
-
-Les exonérations totales ou partielles ci-dessus prévues ne sont accordées qu'aux seuls exploitants agricoles et artisans
-ruraux participant personnellement d'une façon effective à l'exploitation de leurs terres ou aux travaux de leur atelier
-artisanal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-07-29 art. 27
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
 
 
 #### Section 3 : Recouvrement.
@@ -22741,7 +22574,7 @@ titulaires de la retraite de base prévue à l'article 1122-1 ;
 couverts à titre personnel par un régime obligatoire d'assurance maladie, maternité ;
 
 b) aux enfants de moins de seize ans à la charge des personnes visées aux 1°, 2°, 3°, 5° et 6° du présent paragraphe ou de
-leur conjoint, qu'ils soient légitimes, naturels reconnus ou non, recueillis, adoptifs ou pupilles de la Nation dont l'assuré
+leur conjoint, qu'ils soient légitimes, naturels reconnus ou non, recueillis, adoptifs ou pupilles de la nation dont l'assuré
 est le tuteur.
 
 Pour l'application du présent chapitre, sont assimilés aux enfants de moins de seize ans :
@@ -22752,7 +22585,7 @@ par voie réglementaire pour les enfants ayant dû interrompre leurs études pou
 Ceux de moins de vingt ans qui sont, par suite d'infirmité ou de maladie chronique, dans l'impossibilité permanente de se
 livrer à une activité rémunératrice ;
 
-Ceux de moins de vingt ans qui bénéficient de l'article L. 528 du code de la sécurité sociale ;
+Ceux de moins de vingt ans qui bénéficient de l'article L. 528 du code de la sécurité sociale.
 
 5° aux membres non salariés de toute société, quelles qu'en soient la forme et la dénomination, lorsque ces membres
 consacrent leur activité, pour le compte de la société, à une exploitation ou entreprise agricole située sur le territoire
@@ -22763,49 +22596,39 @@ d'entreprise visés au 1° du présent article ;
 
 II. - Ne sont pas assujettis au régime d'assurance obligatoire institué par le présent chapitre les exploitants forestiers
 négociants en bois affiliés à l'organisation autonome d'allocation vieillesse des professions industrielles et commerciales
-et les personnes visées au deuxième alinéa de l'article 6 du décret n° 61-294 du 31 mars 1961. Toutefois, les personnes
-visées au deuxième alinéa de l'article 6 du décret n° 61-294 du 31 mars 1961 susvisé peuvent solliciter auprès du régime
-institué par le présent chapitre le bénéfice des dispositions de la loi n° 77-773 du 12 juillet 1977 sans autres conditions
-que celles prévues par celle-ci.
+et les personnes mentionnées au deuxième alinéa de l'article 6 du décret n° 61-294 du 31 mars 1961. Toutefois, les personnes
+mentionnées au deuxième alinéa de l'article 6 du décret n° 61-294 du 31 mars 1961 peuvent demander aux institutions du régime
+institué par le présent chapitre le bénéfice des dispositions de la loi n° 77-773 du 12 juillet 1977 tendant à l'abaissement
+de l'âge de la retraite pour les anciens déportés ou internés, sans autre condition que celles prévues par cette dernière
+loi.
 
-Sont affiliées simultanément aux régimes dont relèvent leurs activités et, éventuellement, à celui dont relève leur pension
-ou leur allocation :
+Sont affiliées et cotisent simultanément aux régimes dont relèvent leurs activités et, éventuellement, à celui dont relève
+leur pension ou leur allocation :
 
 a) les personnes qui exercent simultanément plusieurs activités dont l'une relève de l'assurance obligatoire instituée par le
 présent chapitre ;
 
-b) les personnes visées à l'article 1106-1, 3°, ou titulaires d'une pension d'invalidité en application de l'article 1106-3,
-2°, qui exercent une activité professionnelle relevant d'un régime d'assurance maladie et maternité autre que celui institué
-par le présent chapitre.
+b) les personnes mentionnèes au 3° du I du présent article, ou titulaires d'une pension d'invalidité en application du 2° de
+l'article 1106-3, qui exercent une activité professionnelle.
 
-Lorsque l'activité salariée est accessoire ou exercée par un pensionné ou un allocataire ayant choisi le régime de sa pension
-ou de son allocation, la cotisation personnelle au titre des assurances maladie, maternité, invalidité et décès pour son
-activité salariée n'est pas due.
-
-De même lorsque l'activité non salariée est accessoire ou exercée par un pensionné ou par un allocataire ayant choisi le
-régime de sa pension ou de son allocation, la cotisation au titre de l'activité non salariée n'est pas due.
+Toutefois, lorsqu'en application de l'article 155 du code général des impôts, les résultats de l'activité agricole sont
+retenus pour la détermination des bénéfices industriels et commerciaux, la cotisation d'assurance maladie n'est due qu'au
+titre de l'activité principale. Cette cotisation est assise sur l'ensemble des revenus professionnels.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 1060, 1003-7-1, 1110, 1122-1, 1234-3, 1106-1, 1106-3
+	  - CGI 155
+	  - Code rural 1060, 1003-7-1, 1110, 1122-1, 1234-3, 1106-3
 	  - Décret n°61-294 du 31 mars 1961 - art. 6 (M)
 	  - Loi n°73-650 1973-07-13
 	  - Loi n°77-773 1977-07-12
 	  - Code de la sécurité sociale L528
 
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
 	**Modifié par**:
 
-	  - Loi n°70-14 1970-01-06 art. 3-1 JORF 7 janvier 1970
-	  - Loi n°71-1061 1971-12-29 art. 48 JORF 30 décembre 1971
-	  - Loi n°72-1121 1972-12-20 art. 63 JORF 21 décembre 1972
-	  - Loi n°80-502 du 4 juillet 1980 - art. 17 (V) JORF 5 juillet 1980
-	  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+	  - Loi n°84-575 du 9 juillet 1984 - art. 26 () JORF 10 juillet 1984
 
 	**Nouveaux textes**:
 
@@ -23083,8 +22906,14 @@ Ce montant est fixé par un décret pris sur le rapport du ministre de l'agricul
 finances, après consultation de la section de l'assurance maladie, maternité, invalidité et de l'assurance vieillesse des
 membres non salariés des professions agricoles du conseil supérieur des prestations sociales agricoles.
 
-Le revenu cadastral pris en considération est le revenu cadastral de l'exploitation après application d'un coefficient
-d'adaptation fixé annuellement pour chaque département par le décret ci-dessus prévu.
+Le revenu cadastral pris en considération est le revenu cadastral réel de l'exploitation, après application du coefficient
+d'adaptation fixé par le décret prévu ci-dessus et, éventuellement, de coefficients par nature de culture ou par région
+naturelle fixés par arrêté du représentant de l'Etat dans le département.
+
+Toutefois, pour les personnes assujetties au titre d'une activité autre que la mise en valeur des terres et pour certaines
+catégories de producteurs définies par le décret mentionné aux alinéas précèdents, le revenu cadastral pris en considération
+est un revenu cadastral théorique fixé par arrêté du ministre de l'agriculture ou, par délégation de celui-ci, par arrêté du
+représentant de l'Etat dans le département.
 
 Dans le bail à métayage, le revenu cadastral retenu pour l'application au preneur du présent article est la partie du revenu
 cadastral de l'exploitation qui correspond à ses droits dans le partage des fruits.
@@ -23099,10 +22928,6 @@ des prestations sociales agricoles.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
 	**Nouveaux textes**:
 
 	  - Code rural - art. L731-35 (M)
@@ -23112,54 +22937,42 @@ des prestations sociales agricoles.
 
 	  - Code rural 1106-1, 1234-3
 
+	**Modifié par**:
+
+	  - Loi n°84-575 du 9 juillet 1984 - art. 32 () JORF 10 juillet 1984
+
 
 ###### Article 1106-7
 
-I. - Bénéficient d'une exemption totale de cotisations :
+Bénéficient d'une exemption totale de cotisations :
 
-1° ... ;
+1° Les personnes mentionnées au V de l'article 1003-7-1 ;
 
-2° Les personnes visées à l'alinéa 4° du paragraphe I de l'article 1106-1 ;
-
-3° Les personnes visées au paragraphe 3° de l'article 1106-3 qui reçoivent leurs prestations d'un autre régime obligatoire
-d'assurance maladie et maternité.
-
-4° Les personnes titulaires de l'allocation spéciale visée à l'article L. 675 du code de la sécurité sociale et de
-l'allocation supplémentaire du fonds de solidarité, qui ont exercé une activité exclusivement agricole au cours de leur
-existence.
-
-II. - Peuvent bénéficier d'une exemption totale ou partielle des cotisations :
-
-1° Les titulaires de l'allocation ou de la retraite vieillesse visés au paragraphe 3° de l'article 1106-1 qui ont cessé toute
-activité professionnelle ou qui n'exploitent qu'une surface inférieure à la moitié de l'exploitation type ouvrant droit à
-l'intégralité des allocations familiales agricoles lorsqu'ils ne bénéficient pas de l'allocation supplémentaire prévue par le
-livre IX du code de la sécurité sociale ;
-
-2° Les aides familiaux et associés d'exploitation visés à l'article 1106-1, I-2°.
-
-3° Les personnes titulaires de l'allocation spéciale visée à l'article L. 675 du code de la sécurité sociale, qui ont exercé
-une activité exclusivement agricole au cours de leur existence.
+2° Les personnes visées au 4° du I de l'article 1106-1.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 1106-1, 1106-3
-	  - Code de la sécurité sociale L675
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°64-1279 1964-12-23 art. 51 JORF 24 décembre 1964
-	  - Loi n°71-1061 1971-12-29 art. 48 JORF 30 décembre 1971
-	  - Loi n°80-502 du 4 juillet 1980 - art. 17 (V) JORF 5 juillet 1980
+	  - Loi n°84-575 du 9 juillet 1984 - art. 28 () JORF 10 juillet 1984
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L731-39 (V)
+	  - Code rural L731-39
+
+	**Cite**:
+
+	  - Code rural 1003-7-1, 1106-1
 
 
 #### Section 4 : Assujettissement et organisation.
@@ -23545,29 +23358,26 @@ Le montant des cotisations dues pour la couverture des risques obligatoirement a
 ainsi que leurs modalités d'appel et d'exigibilité sont fixés par décret. Le même décret fixe les conditions dans lesquelles
 les cotisations sont majorées pour la couverture des frais de gestion et d'action sociale.
 
-Dans le bail à métayage ou colonat partiaire, la cotisation est partagée entre le preneur et le bailleur dans les conditions
+Dans le bail à métayage ou colonat paritaire, la cotisation est partagée entre le preneur et le bailleur dans les conditions
 prévues à l'article 1142-6, troisième alinéa, du présent code pour le partage de la cotisation cadastrale de l'assurance
 vieillesse.
 
-Les dispositions des articles 1106-7, I, 1°, 1106-7, II, 1° et 1106-12, deuxième alinéa, s'appliquent aux personnes visées à
-l'article 1106-18, troisième alinéa.
+Les dispositions du deuxième alinéa de l'article 1106-12 s'appliquent aux personnes mentionnées au troisième alinéa de
+l'article 1106-18 si la superficie pondérée exploitée est inférieure au minimum prévu à l'article 1142-13 du présent code.
 
-Pour l'application de l'article 1106-7, II, 1°, et de l'article 1106-12, deuxième alinéa, la superficie exploitée doit être
-inférieure au minimum prévu à l'article 1142-13 du présent code.
-
-Bénéficient d'une exonération totale de cotisations les titulaires de l'allocation de vieillesse agricole âgés de moins de
-soixante-cinq ans qui, hormis la condition d'âge, remplissent les conditions d'obtention de l'allocation supplémentaire du
-fonds national de solidarité.
-
-Les assurés vivant sur l'exploitation ou l'entreprise et participant à sa mise en valeur bénéficient d'une exonération
-partielle pour les cotisations dues de leur chef, lorsque la superficie réelle pondérée de l'exploitation, compte tenu de la
-nature des cultures, est inférieure à un minimum fixé par décret. Le même décret fixe les différents taux d'exonération
-suivant l'importance de la superficie réelle pondérée, dans les limites prévues à l'article 1106-8, I (deuxième alinéa).
+Bénéficient d'une exonération totale de cotisations les personnes mentionnées au troisième alinéa de l'article 1106-18
+percevant l'allocation supplémentaire prévue au livre IV du code de la sécurité sociale, ainsi que les titulaires de
+l'allocation vieillesse agricole âgés de moins de soixante-cinq ans qui, hormis la condition d'âge, remplissent les
+conditions d'attribution de l'allocation supplémentaire précitée.
 
 Dans le bail à métayage ou colonat partiaire, la superficie réelle pondérée retenue pour l'application au preneur des
 dispositions de l'alinéa précédent, est égale aux deux tiers de la superficie totale de l'exploitation.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1142-6, 1142-13, 1106-12, 1106-18
 
 	**Codifié par**:
 
@@ -23575,7 +23385,7 @@ dispositions de l'alinéa précédent, est égale aux deux tiers de la superfici
 
 	**Modifié par**:
 
-	  - Loi n°69-1162 1969-12-24 art. 5 JORF 27 décembre 1969
+	  - Loi n°84-575 du 9 juillet 1984 - art. 31 () JORF 10 juillet 1984
 
 	**Nouveaux textes**:
 
@@ -24276,27 +24086,6 @@ général des impôts.
 	  - Décret n°55-433 1955-04-16
 
 
-###### Article 1127
-
-Les bénéficiaires, soit de l'allocation ou de la retraite de vieillesse agricole, soit de l'allocation de vieillesse des non
-salariés, soit de l'allocation ou de la retraite des vieux travailleurs salariés, exploitant des terres dont le revenu
-cadastral est inférieur à 60 F, sont exonérés des cotisations prévues aux articles 1124 et 1125.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 1124, 1125
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
-
-
 ###### Article 1129
 
 Dès que l'état des cotisations visées par la mise en demeure prévue à l'article 1143-2 peut être rendu exécutoire,
@@ -24713,28 +24502,6 @@ Un décret fixe les conditions dans lesquelles les cotisations sont majorées po
 	  - Code rural 1123
 
 
-###### Article 1142-7
-
-Sont exonérés de la double cotisation prévue à l'article 1142-6 les bénéficiaires soit de l'allocation ou de la retraite de
-vieillesse agricole, soit de l'allocation de vieillesse des non salariés, soit de l'allocation ou de la retraite des vieux
-travailleurs salariés qui exploitent de terres dont la superficie est inférieure à un minimum fixé par décret pour chaque
-département, compte tenu de la nature des cultures.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 1142-6
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-575 du 9 juillet 1984 - art. 29 () JORF 10 juillet 1984
-
-
 ###### Article 1142-8
 
 La caisse générale de sécurité sociale de chacun des départements intéressés assure la gestion du régime institué au présent
@@ -24912,25 +24679,32 @@ cotisations qui sont partagées entre eux selon une proportion fixée par décre
 
 ###### Article 1142-16
 
-Les exonérations de cotisations prévues à l'article 1073 b et e et accordées dans les conditions précisées à l'article 1079
-sont applicables au régime institué par le présent chapitre.
-
-Les superficies pondérées exploitées correspondant dans les départements d'outre-mer au montant de revenu cadastral figurant
-à l'article 1073 sont, pour l'application de l'alinéa précédent, fixées par décret.
+Les exonérations de cotisations prévues aux e et e bis de l'article 1073 sont applicables au régime institué par le présent
+chapitre.
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
-
-	  - Code rural - art. L762-10 (V)
-
 	**Cite**:
 
-	  - Code rural 1073, 1079
+	  - Code rural 1073
+
+	**Nouveaux textes**:
+
+	  - Code rural L762-10
+	  - Code rural - art. L762-10 (V)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°84-575 du 9 juillet 1984 - art. 30 () JORF 10 juillet 1984
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1142-17
@@ -27195,19 +26969,32 @@ minimum susceptible d'être déclaré au titre de l'assurance facultative.
 Toutefois, les assurés facultatifs dont la rente a été liquidée au titre d'un accident du travail survenu avant le 1er avril
 1943 bénéficient sans conditions de la majoration prévue à l'alinéa 1er du présent article.
 
+Les dispositions de l'article 1234-26-1 sont applicables aux rentes servies aux assurés de professions agricoles
+bénéficiaires de l'assurance facultative.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1217, 1234-26-1
+
+	**Nouveaux textes**:
+
+	  - Code rural L753-8
+	  - Code rural - art. L753-8 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Code rural - art. L753-8 (M)
+	  - Loi n°84-575 du 9 juillet 1984 - art. 33 () JORF 10 juillet 1984
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code rural 1217
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1223
@@ -28416,6 +28203,35 @@ au régime d'assurance complémentaire institué par le présent chapitre.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1234-26-1
+
+Les organismes d'assurance sont tenus de déclarer à l'organisme gestionnaire du fonds commun des accidents du travail
+agricole toute décision attributive de rente, dans des conditions, notamment de délais, fixées par décret.
+
+Dans le cas ou l'organisme ne fait pas, dans les délais prévus, la déclaration qui lui incombe, il supporte la charge totale
+des rentes et leur revalorisation jusqu'au jour ou cette déclaration aura été effectuée par ses soins.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L752-30 (M)
+	  - Code rural L752-30
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°84-575 du 9 juillet 1984 - art. 33 () JORF 10 juillet 1984
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ### Chapitre V : Assurance contre les accidents de la vie privée, les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture dans les départements d'outre-mer.
