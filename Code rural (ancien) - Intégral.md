@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1987-07-31
+Version Consolidée au 1988-01-01
 
 ###### Article 40-3
 
@@ -25774,6 +25774,42 @@ conditions et sous les réserves prévues à l'article L. 351-1 du code de la s�
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L351-1 (M)
+
+
+###### Article 1122-2-3
+
+Le conjoint survivant qui n'est pas titulaire d'un avantage personnel de vieillesse d'un régime de base obligatoire et qui
+satisfait à une condition d'âge a droit à une majoration forfaitaire de sa pension de réversion pour chaque enfant dont il a
+la charge au sens du b du 4° de l'article 1106-1 et qui n'a pas atteint un âge déterminé.
+
+Cette majoration n'est pas due lorsque le conjoint survivant bénéficie ou est susceptible de bénéficier de prestations pour
+charge d'enfant du chef du décès de l'assuré dans le régime obligatoire d'assurance vieillesse de base dont celui-ci
+relevait.
+
+Le montant de cette majoration est revalorisé suivant les coefficients fixés en application du 2° de l'article L. 351-11 du
+code de la sécurité sociale.
+
+Le bénéfice de cette majoration est supprimé en cas de remariage ou de vie maritale et lorsque l'une des conditions
+mentionnées au premier alinéa cesse d'être remplie, à l'exception de la condition d'âge exigée du titulaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1106-1
+	  - Code de la sécurité sociale. - art. L351-11 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°88-16 du 5 janvier 1988 - art. 7 () JORF 6 janvier en vigueur le 1er janvier 1988
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L732-50 (M)
 
 
 ##### Paragraphe 3 : Allocation complémentaire agricole.
