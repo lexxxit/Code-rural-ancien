@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1966-12-27
+Version Consolidée au 1966-12-29
 
 ###### Article 162
 
@@ -6873,143 +6873,6 @@ régulière dans le délai légal et ne prouve que la perte de l'animal provient
 	  - Décret n°55-433 1955-04-16
 
 
-#### Section 2 : De la monte publique des taureaux.
-
-###### Article 299
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°66-1005 1966-12-28 art. 12 JORF 29 décembre 1966
-
-
-###### Article 300
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°66-1005 1966-12-28 art. 12 JORF 29 décembre 1966
-
-
-###### Article 301
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°66-1005 1966-12-28 art. 12 JORF 29 décembre 1966
-
-
-###### Article 302
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°66-1005 1966-12-28 art. 12 JORF 29 décembre 1966
-
-
-###### Article 303
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°66-1005 1966-12-28 art. 12 JORF 29 décembre 1966
-
-
-###### Article 304
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°66-1005 1966-12-28 art. 12 JORF 29 décembre 1966
-
-
-###### Article 305
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°66-1005 1966-12-28 art. 12 JORF 29 décembre 1966
-
-
-###### Article 306
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°66-1005 1966-12-28 art. 12 JORF 29 décembre 1966
-
-
-###### Article 307
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°66-1005 1966-12-28 art. 12 JORF 29 décembre 1966
-
-
 ### Chapitre II : De l'insémination artificielle.
 
 ###### Article 308
@@ -7440,25 +7303,6 @@ titre que ce soit, les peines peuvent être portées au double du maximum fixé 
 	**Abrogé par**:
 
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
-
-
-###### Article 338
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-1055 du 15 mai 1946 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°66-1005 du 28 décembre 1966 - art. 12 (Ab) JORF 29 décembre 1966
 
 
 ## Titre X : De la protection des végétaux.
