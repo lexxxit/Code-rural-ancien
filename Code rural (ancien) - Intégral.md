@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1959-01-09
+Version Consolidée au 1959-12-27
 
 ###### Article 162
 
@@ -11025,6 +11025,222 @@ Un arrêté du ministre de l'agriculture fixe les modalités d'application desdi
 	  - Loi n°1949-06-08 art. 2, art. 32
 
 
+###### Article 1003-1
+
+Il est institué un budget annexe des prestations sociales agricoles rattaché pour ordre au budget général de l'Etat et dont
+la gestion administrative est confiée au ministre de l'agriculture assisté d'un comité de gestion du budget annexe.
+
+La composition et le rôle de ce comité sont fixés par décret pris sur le rapport du ministre de l'agriculture et du ministre
+de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L731-1 (M)
+	  - Code rural L731-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Décret n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+
+	**Abrogé par**:
+
+	  - Loi - art. 40 (V) JORF 31 décembre 2003
+
+
+###### Article 1003-2
+
+Le budget annexe des prestations sociales agricoles est substitué aux droits et obligations du budget annexe des prestations
+familiales agricoles et des organismes visés aux chapitres II et IV du présent titre relatifs aux assurances sociales
+agricoles et à l'assurance vieillesse des personnes non salariées.
+
+Les avances accordées par le Trésor au fonds national de solidarité agricole, au budget annexe des prestations familiales
+agricoles, à la caisse centrale de secours mutuels agricoles et à la caisse nationale d'assurance vieillesse agricole, ainsi
+que celles qui pourraient éventuellement être accordées au budget annexe des prestations sociales agricoles, sont inscrites à
+un compte hors budget dont les conditions de fonctionnement sont fixées par arrêté du ministre de l'agriculture et du
+ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L731-2 (M)
+
+
+###### Article 1003-3
+
+Tout aménagement de la législation et de la réglementation relatives aux prestations familiales, aux assurances sociales et à
+l'assurance vieillesse des non-salariés agricoles susceptible d'entraîner un accroissement des dépenses à la charge du budget
+annexe doit faire l'objet d'une création de recettes correspondantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+
+	**Abrogé par**:
+
+	  - Loi - art. 40 (V) JORF 31 décembre 2003
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L731-3 (Ab)
+	  - Code rural L731-3
+
+
+###### Article 1003-5
+
+Il est constitué un fonds de réserve alimenté par les excédents de recettes du budget annexe dont le montant maximal est fixé
+à un dixième du montant des dépenses dudit budget de l'année précédente.
+
+Les disponibilités de ce fonds de réserve sont déposées au Trésor.
+
+Les prélèvements sur le fonds de réserve sont autorisés par arrêté du ministre de l'agriculture et du ministre de l'économie
+et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+
+	**Abrogé par**:
+
+	  - Loi - art. 40 (V) JORF 31 décembre 2003
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L731-7 (M)
+	  - Code rural L731-7
+
+
+###### Article 1003-6
+
+En fin d'année, les excédents de recettes ou de dépenses du budget annexe sont réglés comme suit :
+
+Les excédents de recettes sont affectés, d'abord, au remboursement des avances du Trésor, ensuite au fonds de réserve prévu à
+l'article précédent. Lorsque le fonds de réserve atteint le maximum fixé par ledit article, les excédents de recettes sont
+reportés sur l'année suivante.
+
+Les excédents de dépenses sont couverts par des prélèvements sur le fonds de réserve, ou, à défaut, par des avances du
+Trésor.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L731-8
+	  - Code rural - art. L731-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+
+	**Abrogé par**:
+
+	  - Loi - art. 40 (V) JORF 31 décembre 2003
+
+
+###### Article 1003-7
+
+Le ministre de l'agriculture établit chaque année un rapport sur les opérations relatives aux prestations familiales, aux
+assurances sociales et à l'assurance vieillesse des non-salariés agricoles.
+
+Ce rapport, adressé au Président de la République, est publié au Journal officiel et distribué au Parlement avant le 1er
+octobre de l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1003-9
+
+Les bases de calcul et les limites des frais de gestion des caisses de mutualité sociale agricole sont déterminées
+annuellement par arrêté du ministre de l'agriculture et du ministre de l'économie et des finances pris après avis du comité
+de gestion du budget annexe des prestations sociales agricoles.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural D732-239
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+
+	**Abrogé par**:
+
+	  - Loi - art. 40 (V) JORF 31 décembre 2003
+
+
+###### Article 1003-10
+
+Des décrets pris sur le rapport du ministre de l'agriculture et du ministre de l'économie et des finances déterminent les
+conditions d'application des dispositions relatives au budget annexe des prestations sociales agricoles.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L731-9
+	  - Code rural - art. L731-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+
+	**Abrogé par**:
+
+	  - Loi - art. 40 (V) JORF 31 décembre 2003
+
+
 ### Chapitre Ier : Elections des conseils d'administration.
 
 ###### Article 1004
@@ -12054,25 +12270,6 @@ d'intérêts visés à l'article 21 de ladite loi.
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-###### Article 1058
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-10-30 art. 10, art. 37
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-
 ###### Article 1059
 
 Le ministre de l'agriculture est recevable à intervenir devant toutes les juridictions et en tout état de la procédure dans
@@ -12115,6 +12312,32 @@ décret n° 58-1291 du 22 décembre 1958 sans qu'il soit besoin d'une décision 
 ### Chapitre III : Prestations familiales
 
 #### Section 1 : Affiliations et cotisations.
+
+###### Article 1062
+
+L'exploitant agricole ou l'artisan rural verse à la caisse de mutualité sociale agricole à laquelle il est affilié une
+cotisation unique, valable à la fois pour lui-même et pour les salariés qu'il occupe.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1939-07-29 art. 26 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1374 1958-12-30 art. 17 JORF 31 décembre 1958
+	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L731-25 (V)
+	  - Code rural - art. L741-3 (V)
+
 
 ###### Article 1065
 
@@ -12262,26 +12485,82 @@ ci est tenu aux mêmes obligations que les personnes visées à l'article préc�
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-###### Article 1071
+###### Article 1070
 
-(texte abrogé).
+Les cotisations sont à la charge des assujettis.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Anciens textes**:
 
 	  - Loi n°1949-07-16 art. 10
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
 
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
 
 #### Section 2 : Dégrèvements.
+
+###### Article 1073
+
+Sont exonérés de toute cotisation :
+
+a) Les exploitants agricoles qui mettent en valeur des terres dont le revenu cadastral est au plus égal à 16 F ;
+
+b) Les exploitants agricoles qui mettent en valeur des terres d'un revenu cadastral inférieur à 200 F lorsqu'ils ont
+soixante-cinq ans ou, s'ils sont mariés, lorsqu'ils ont en moyenne un âge supérieur à soixante-cinq ans (cent trente pour les
+deux), cet âge étant réduit à soixante ans pour les femmes seules, à condition qu'ils n'emploient pas de main-d'oeuvre
+familiale salariée ;
+
+c) Les artisans ruraux n'exerçant qu'une activité réduite, en raison d'une invalidité durant depuis plus de six mois et
+entraînant une incapacité de travail d'au moins 66 %, à condition qu'il n'emploient pas, même occasionnellement, de main-
+d'oeuvre familiale ou salariée ;
+
+d) Les artisans ruraux ayant élevé quatre enfants jusqu'à l'âge de quatorze ans, à condition qu'ils n'aient pas été
+bénéficiaires, pendant au moins cinq ans, de prestations familiales ;
+
+e) Les exploitants agricoles et artisans ruraux non employeurs de main-d'oeuvre, présents sous les drapeaux au premier jour
+du trimestre au titre duquel les cotisations auraient dû être établies ;
+
+f) Les coopératives d'utilisation de matériel agricole visées à l'article 550 et régulièrement agréées sauf pour leur
+personnel administratif ou des ateliers de réparations ;
+
+g) Les jeunes gens effectuant des stages au pair chez des chefs d'entreprise appartenant aux professions agricoles, s'il est
+justifié que moins de trois années se sont écoulées depuis qu'ils ont quitté un établissement d'enseignement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 550
+
+	**Anciens textes**:
+
+	  - Décret n°1939-07-29 art. 27
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L731-28 (V)
+	  - Code rural - art. L741-7 (V)
+
 
 ###### Article 1075
 
@@ -12559,219 +12838,6 @@ Ce fonds est alimenté par des cotisations versées par les caisses.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-
-###### Article 1095
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1949-07-16 art. 1, art. 3
-
-	**Abrogé par**:
-
-	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-
-###### Article 1096
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1949-07-16 art. 4
-
-	**Abrogé par**:
-
-	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-
-###### Article 1097
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1949-07-16 art. 4 bis
-
-	**Abrogé par**:
-
-	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-
-###### Article 1099
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1949-07-16 art. 2
-
-	**Abrogé par**:
-
-	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-
-###### Article 1100
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1949-07-16 art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-
-###### Article 1101
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1949-07-16 art. 7
-
-	**Abrogé par**:
-
-	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-
-###### Article 1102
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1949-07-16 art. 8
-
-	**Abrogé par**:
-
-	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-
-###### Article 1103
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1949-07-16 art. 9
-
-	**Abrogé par**:
-
-	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-
-###### Article 1104
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1949-07-16 art. 13
-
-	**Abrogé par**:
-
-	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-
-###### Article 1105
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1949-07-16 art. 19
-
-	**Abrogé par**:
-
-	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-
-###### Article 1106
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
-
-	**Cité par**:
-
-	  - Code rural - art. R113-1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1953-02-06 art. 2
 
 
 ### Chapitre IV : Assurance vieillesse des personnes non salariées
@@ -13106,36 +13172,6 @@ caisses de mutualité sociale agricole les frais résultant pour elles des opér
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-
-###### Article 1140
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°59-1454 1959-12-26 art. 58 VI JORF 27 décembre 1959
-
-
-###### Article 1141
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°59-1454 1959-12-26 art. 58 VI JORF 27 décembre 1959
 
 
 ###### Article 1142
