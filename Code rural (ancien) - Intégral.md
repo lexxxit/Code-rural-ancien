@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1974-12-26
+Version Consolidée au 1974-12-29
 
 ###### Article 162
 
@@ -14626,11 +14626,17 @@ modalités d'application du présent chapitre.
 
 ### Chapitre II : Durée du travail et repos hebdomadaire.
 
-###### Article 999
+###### Article 996
 
-(texte abrogé).
+Dans les professions énumérées à l'article 992, les femmes ne peuvent être employées à un travail effectif de plus de dix
+heures par jours coupées par un ou plusieurs repos dont la durée ne peut être inférieure à une heure et pendant lesquelles le
+travail est interdit.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-401 1948-03-10 art. 5
 
 	**Codifié par**:
 
@@ -14638,30 +14644,34 @@ modalités d'application du présent chapitre.
 
 	**Modifié par**:
 
-	  - Ordonnance 58-1297 1958-12-23 art. 10 JORF 24 décembre 1958
-
-	**Abrogé par**:
-
 	  - Loi n°74-1116 1974-12-27 art. 1 JORF 29 décembre 1974
 
+	**Nouveaux textes**:
 
-###### Article 1000
+	  - Code rural - art. L713-4 (Ab)
 
-(texte abrogé).
+	**Cite**:
+
+	  - Code rural 992
+
+
+###### Article 998
+
+L'article 990 est applicable aux infractions aux dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L719-1 (V)
+
+	**Cite**:
+
+	  - Code rural 990
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°60-771 1960-07-30 art. 2 JORF 31 juillet 1960
-
-	**Abrogé par**:
-
-	  - Loi n°74-1116 1974-12-27 art. 1 JORF 29 décembre 1974
 
 
 ### Chapitre III : Médecine du travail.
