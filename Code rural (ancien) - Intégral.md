@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1965-08-11
+Version Consolidée au 1966-05-27
 
 ###### Article 162
 
@@ -4448,6 +4448,38 @@ code rural ont un caractère obligatoire.
 
 #### Section 1 : Travaux de restauration de l'habitat.
 
+###### Article 181
+
+Pour bénéficier de l'aide financière de l'Etat, les travaux doivent s'appliquer aux bâtiments d'une exploitation agricole ou
+d'un gîte rural et avoir été étudiés et surveillés sous le contrôle et selon les directives des services du ministre de
+l'agriculture.
+
+Le maître de l'ouvrage peut, s'il le juge nécessaire, s'assurer le concours d'un homme de l'art patenté choisi par lui. Un
+arrêté du ministre de l'agriculture détermine les conditions dans lesquelles ce concours peut être rendu obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural R346-2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°66-323 1966-05-25 art. 1, art. 2 JORF 27 mai 1966
+
+	**Abrogé par**:
+
+	  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
+
+	**Anciens textes**:
+
+	  - Loi n°1941-11-02 art. 2
+
+
 ###### Article 183
 
 Des primes d'encouragement sous forme de subventions complémentaires sont accordées, dans les mêmes conditions, pour les
@@ -4563,6 +4595,77 @@ l'opposition du propriétaire résidant.
 	**Anciens textes**:
 
 	  - Loi n°1941-04-17 art. 5
+
+
+#### Section 3 : Desserte des exploitations dont l'habitat est amélioré.
+
+###### Article 187
+
+Le bénéfice des dispositions des sections I et II et des textes qui les ont modifiées est étendu aux travaux de construction
+et de réfection des chemins desservant les cultures et les bâtiments d'exploitation des domaines dont l'habitat est amélioré
+ou constitué, à l'exclusion des travaux de simple entretien.
+
+Le maximum de la subvention fixé par l'article 180 sera augmenté de 100 F et celui fixé par l'article 184 sera augmenté de
+250 F si ces dépassements sont motivés par les augmentations de dépenses dues à l'aménagement de ces chemins.
+
+Les dépenses afférentes à l'aménagement des chemins ainsi que celui des abords des constructions ne sont pas comprises dans
+la somme au-dessus de laquelle les demandeurs doivent s'assurer le concours d'un homme de l'art patenté.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 180, 184
+
+	**Nouveaux textes**:
+
+	  - Code rural R346-8
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°66-323 1966-05-25 art. 3 JORF 27 mai 1966
+
+	**Abrogé par**:
+
+	  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
+
+	**Anciens textes**:
+
+	  - Loi n°1941-11-05 art. 1, art. 2, art. 3
+
+
+###### Article 188
+
+Un arrêté conjoint du ministre de l'économie et des finances et du ministre de l'agriculture détermine les conditions
+d'application du présent chapitre et des textes qui l'ont modifié.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural R346-9
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°66-323 1966-05-25 art. 4 JORF 27 mai 1966
+
+	**Abrogé par**:
+
+	  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
+
+	**Anciens textes**:
+
+	  - Loi n°1940-11-21 art. 8
+	  - Loi n°1941-04-17 art. 7
+	  - Loi n°1941-11-05 art. 5
 
 
 ## Titre VIII : De l'aménagement des superficies des exploitations et propriétés agricoles dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.
