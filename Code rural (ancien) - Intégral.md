@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1980-06-28
+Version Consolidée au 1980-07-05
 
 ###### Article 162
 
@@ -93,6 +93,306 @@ l'agrandissement des exploitations non rentables.
 	**Modifié par**:
 
 	  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
+
+
+#### Section 1 : Du comité supérieur consultatif d'aménagement foncier.
+
+###### Article 1 bis
+
+Une commission communale d'aménagement foncier peut être instituée par arrêté du préfet dans toute commune où, soit les
+propriétaires, soit les exploitants, soit les services intéressés ont signalé l'utilité d'un aménagement foncier.
+
+Cet aménagement foncier s'applique aux propriétés rurales non bâties du territoire communal et comprend une série de mesures
+définies aux chapitres II et III du présent titre.
+
+Les limites territoriales de l'aménagement peuvent comprendre des parties de territoire de communes limitrophes lorsque la
+commission communale estime que l'aménagement comporte, au sens du présent titre, un intérêt pour les propriétaires ou les
+exploitants de ces parties de territoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
+	  - Loi n°75-621 1975-07-11 art. 1 JORF 12 juillet 1975
+	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+
+###### Article 2
+
+La commission communale d'aménagement foncier est présidée par le juge chargé du service du tribunal d'instance, ou, en cas
+de nécessité, par un autre juge du tribunal de grande instance désigné par le premier président de la cour d'appel. Elle
+comprend également : 
+
+Trois délégués du directeur départemental de l'agriculture ;
+
+Un délégué du directeur des services fiscaux ;
+
+Une personne qualifiée pour les problèmes de la protection de la nature désignée par le préfet ;
+
+Le maire ou l'un des conseillers municipaux désigné par lui ;
+
+Trois exploitants, propriétaires ou non dans la commune, ainsi que deux suppléants, désignés par la chambre d'agriculture ;
+
+Trois propriétaires titulaires et deux propriétaires suppléants, élus par le conseil municipal.
+
+A défaut de désignation des exploitants par la chambre d'agriculture ou d'élection des propriétaires par le conseil
+municipal, dans un délai de trois mois après leur saisine respective, le préfet procède, sur proposition du directeur
+départemental de l'agriculture, à la désignation des exploitants et des propriétaires visés ci-dessus.
+
+Un fonctionnaire désigné par le directeur départemental de l'agriculture remplit les fonctions de secrétaire de la
+commission.
+
+La commission peut appeler, à titre consultatif, toute personne dont il lui paraît utile de provoquer l'avis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 2
+
+	**Modifié par**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
+	  - Loi n°75-621 1975-07-11 art. 2 JORF 12 juillet 1975
+	  - Loi n°80-502 1980-07-04 art. 28 I, V JORF 5 juillet 1980
+	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+
+###### Article 2-5
+
+La commission départementale d'aménagement foncier est ainsi composée :
+
+- un magistrat de l'ordre judiciaire, président, désigné par le premier président de la cour d'appel ;
+
+- un conseiller général et deux maires de communes rurales désignés par le conseil général ;
+
+- six fonctionnaires désignés par le préfet ;
+
+- le président de la chambre d'agriculture ou son représentant désigné parmi les membres de la chambre d'agriculture ;
+
+- le président de la fédération départementale de l'organisation syndicale d'exploitants agricoles la plus représentative au
+niveau national, ou son représentant désigné parmi les membres de cette fédération ;
+
+- le président de la fédération départementale de l'organisation syndicale des jeunes exploitants agricoles la plus
+représentative au niveau national, ou son représentant désigné parmi les membres de cette fédération ;
+
+- le président de la chambre départementale des notaires ou son représentant ;
+
+- deux propriétaires bailleurs, deux propriétaires exploitants, deux exploitants preneurs, désignés par le préfet, sur trois
+listes comprenant chacune six noms, établies par la chambre d'agriculture.
+
+Le préfet choisit, en outre, sur ces listes, six suppléants, à raison d'un par membre titulaire, appelés à siéger, soit en
+cas d'absence du titulaire, soit lorsque la commission départementale est appelée à délibérer sur des réclamations concernant
+une opération dans le périmètre de laquelle l'un des membres titulaires est propriétaire.
+
+La désignation du conseiller général et des représentants des maires a lieu à chaque renouvellement du conseil général et des
+conseils municipaux.
+
+La désignation des représentants de la profession agricole a lieu après chaque renouvellement partiel de la chambre
+d'agriculture.
+
+Un fonctionnaire de la direction départementale de l'agriculture remplit les fonctions de secrétaire de la commission
+départementale d'aménagement foncier. La commission peut appeler à titre consultatif toute personne dont il lui paraît utile
+de recueillir l'avis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09
+
+	**Modifié par**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
+	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+
+###### Article 3
+
+La commission communale détermine les mesures qu'elle estime nécessaires de mettre en oeuvre pour améliorer l'exploitation
+agricole à l'intérieur du territoire communal et des extensions éventuelles définies à l'article 1er qui constituent la zone
+d'aménagement foncier.
+
+Elle fixe en conséquence :
+
+a) Le ou les périmètres à l'intérieur desquels elle est d'avis de procéder aux opérations de remembrement définies au
+chapitre III du présent titre ;
+
+b) Le ou les périmètres à l'intérieur desquels elle est d'avis que les opérations de réorganisation foncière définies au
+chapitre II du présent titre seront suffisantes ;
+
+c) Le ou les périmètres à l'intérieur desquels elle est d'avis de mettre en oeuvre une procédure d'échanges amiables ;
+
+d) Le ou les périmètres, délimitant des massifs forestiers, à l'intérieur desquels elle est d'avis que les opérations
+d'aménagement devront faire l'objet d'une procédure distincte ;
+
+e) Le ou les périmètres comprenant les terres dont l'inclusion dans l'un des périmètres susvisés entraînerait, pour la
+collectivité, des charges hors de proportion avec l'utilité des opérations d'aménagement foncier.
+
+Ces divers périmètres constituent la zone d'aménagement foncier.
+
+L'avis de la commission communale sera porté à la connaissance des intéressés dans les conditions qui sont fixées par le
+règlement d'administration publique prévu à l'article 54. Cet avis mentionnera que le destinataire doit signaler au président
+de la commission, dans un délai de quinze jours, les contestations judiciaires en cours. L'avis de la commission devra, dans
+ce cas, être notifié au contestant, qui pourra intervenir dans la procédure de remembrement, sous réserve de la
+reconnaissance ultérieure de ses droits.
+
+Si l'avis de la commission communale a été confirmé par la commission départementale prévue aux articles 4 et 5 et si
+l'ingénieur en chef du génie rural ne s'y oppose pas, le préfet fixe par arrêté les périmètres soumis aux diverses opérations
+d'aménagement foncier et ordonne celles-ci.
+
+En cas de divergence entre l'avis de la commission départementale et celui de la commission communale, ou en cas d'opposition
+de l'ingénieur en chef du génie rural, le préfet doit soumettre la question au ministre de l'agriculture qui se prononce
+après avis d'un conseil consultatif dont la composition et le fonctionnement sont déterminés par le règlement
+d'administration publique fixé à l'article 54.
+
+L'arrêté du préfet doit être conforme, soit à l'avis concordant des deux commissions, soit à la décision du ministre de
+l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1, 4, 5, 54
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 7 (Ab) JORF 7 août 1960
+	  - Loi n°75-621 1975-07-11 art. 1 II, III JORF 12 juillet 1975
+	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+
+###### Article 4
+
+Les décisions prises par la commission communale en vertu des chapitres II et III du présent titre peuvent être portées par
+les intéressés ou par l'ingénieur en chef du génie rural devant une commission départementale d'aménagement foncier.
+
+Le recours doit être formé dans un délai de quinze jours à dater de la notification ou, au plus tard et à défaut de
+notification, dans un délai d'un mois à dater de la publication.
+
+La commission départementale d'aménagement foncier statue dans le délai de deux mois. Elle a qualité pour modifier le
+remembrement ou pour en provoquer la modification ainsi que pour fixer l'ordre dans lequel les travaux de remembrement seront
+effectués dans la commune.
+
+La commission départementale peut imposer à l'association foncière visée à l'article 27 du présent code de réaliser dans un
+délai de six mois à compter de la date du transfert de propriété les accès qui conditionnent la mise en exploitation de
+certaines parcelles. La liste de ces parcelles et la nature des travaux à entreprendre sont arrêtées par la commission
+communale.
+
+Les décisions de la commission départementale ne peuvent être attaquées devant le tribunal administratif que pour
+incompétence, excès de pouvoir, vice de forme ou violation de la loi.
+
+Dans un délai de quinze jours, à compter de la date de la décision de la commission départementale, le président de cette
+commission notifie la décision au préfet.
+
+Le préfet peut, dans un délai de quinze jours à compter de cette notification, porter la décision devant le ministre de
+l'agriculture.
+
+La décision que le préfet n'a pas portée devant le ministre de l'agriculture dans le délai ci-dessus, est exécutoire à
+l'expiration de ce délai.
+
+Le ministre de l'agriculture se prononce après avis du conseil consultatif prévu à l'article 3 dans un délai de trois mois à
+compter de la date du recours du préfet.
+
+Passé ce délai, la décision de la commission départementale sur laquelle il n'a pas été statué par le ministre est
+exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 3, 27
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 4
+
+	**Modifié par**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
+	  - Loi n°75-621 1975-07-11 art. 3 JORF 12 juillet 1975
+	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+
+###### Article 6
+
+Lorsque des opérations d'aménagement foncier doivent être engagées sur des terres dépendant de plusieurs communes, ces terres
+peuvent être comprises à l'intérieur d'un même périmètre.
+
+Dans ce cas, il est institué une commission intercommunale dont la composition et le fonctionnement sont définis par un
+règlement d'administration publique. Les commissions intercommunales ont les mêmes pouvoirs que les commissions communales.
+L'appel est porté, s'il s'agit de commissions appartenant à des départements différents, devant la commission du département
+où se trouve la plus grande étendue de terrains intéressés par l'opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1943-03-09
+
+	**Modifié par**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
+	  - Loi n°78-10 1978-01-04 art. 3 JORF 5 janvier 1978
+	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+
+#### Section 1 : Du conseil supérieur de l'aménagement rural.
+
+###### Article 7
+
+Il est créé un conseil supérieur de l'aménagement rural qui est substitué au comité supérieur consultatif de l'aménagement
+foncier créé par le décret n° 54-1251 du 20 décembre 1954 et dont la compétence, l'organisation et le fonctionnement sont
+déterminés conformément aux dispositions du décret sur les conseils supérieurs du ministère de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°54-1251 1954-12-20
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Décret n°59-1251 1959-12-20 art. 1
+
+	**Modifié par**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
+	  - Décret n°64-862 du 3 août 1964 - art. 33 (Ab) JORF 25 août 1964
+	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
 
 
 ### Chapitre II : De la réorganisation de la propriété foncière
@@ -302,6 +602,87 @@ Les échanges imposés par la commission se font, de même que les échanges ami
 
 
 ### Chapitre III : Du remembrement rural.
+
+###### Article 19-1
+
+I. - Lorsque l'élaboration d'un document d'urbanisme et un remembrement rural sont prescrits, la procédure de remembrement-
+aménagement peut être ordonnée par l'autorité administrative après avis de la commission communale d'aménagement foncier et
+après accord du conseil municipal.
+
+II. - Dans le périmètre de remembrement-aménagement, la part de surface agricole affectée à l'urbanisation et à la
+constitution de réserves foncières destinées aux équipements collectifs et aux zones d'activité détermine le pourcentage de
+superficie que chaque propriétaire se voit attribuer au prorata de ses droits, respectivement en terrains urbanisables et en
+terres agricoles.
+
+III. - Les prélèvements opérés à l'occasion d'une opération de remembrement-aménagement prennent notamment en considération
+la valeur agronomique des sols ainsi que les structures agricoles et l'existence de zones de terrains produisant des denrées
+de qualité supérieure ou comportant des équipements spéciaux importants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 76 () JORF 5 juillet 1980
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L123-18 (M)
+
+
+###### Article 20
+
+A l'intérieur du périmètre des opérations, le remembrement peut porter sur l'ensemble du territoire non bâti ainsi que sur
+les terrains où se trouvent des bâtiments légers ou de peu de valeur qui ne sont que l'accessoire du fonds. Cette
+appréciation de fait est de la compétence de la commission communale.
+
+L'accord du propriétaire est nécessaire en ce qui concerne les bâtiments autres que ceux prévus à l'alinéa précédent et les
+terrains qui constituent, au sens de l'article 1387 du code général des impôts, des dépendances immédiates et indispensables
+de bâtiments.
+
+Doivent être réattribués à leurs propriétaires, sauf accord contraire, et ne subir que les modifications de limites
+indispensables à l'aménagement :
+
+1° Les terrains clos de murs qui ne sont pas en état d'abandon caractérisé ;
+
+2° Les immeubles où se trouvent des sources d'eau minérale en tant qu'ils sont nécessaires à l'utilisation convenable de ces
+sources ;
+
+3° Les gisements de lignite, sablonnières, glaisières, argilières, marnières et minières, carrières et ardoisières ;
+
+4° Les terrains qui, en raison de leur situation dans une agglomération ou à proximité immédiate d'une agglomération et de
+leur desserte effective à la fois par des voies d'accès, un réseau électrique, des réseaux d'eau et éventuellement
+d'assainissement, de dimensions adaptées à la capacité des parcelles en cause, présentent le caractère de terrain à bâtir, à
+la date de l'arrêté préfectoral instituant la commission de remembrement ;
+
+5° De façon générale, les immeubles dont les propriétaires ne peuvent bénéficier de l'opération de remembrement, en raison de
+l'utilisation spéciale desdits immeubles.
+
+Les dispositions du 4° ci-dessus ne sont pas applicables au remembrement-aménagement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1387
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09
+
+	**Modifié par**:
+
+	  - Loi n°60-792 1960-08-02 art. 3 JORF 4 août 1960
+	  - Loi n°75-621 1975-07-11 art. 5 JORF 12 juillet 1975
+	  - Loi n°80-502 du 4 juillet 1980 - art. 76 () JORF 5 juillet 1980
+
 
 ###### Article 22
 
@@ -581,6 +962,46 @@ tribunaux administratifs est devenue définitive, à compter de la date de publi
 	  - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
 
 
+###### Article 30-2
+
+Lorsque la commission départementale d'aménagement foncier, saisie à nouveau à la suite d'une annulation par le juge
+administratif, n'a pas pris de nouvelle décision dans le délai d'un an prévu à l'article 30-1, ou lorsque deux décisions
+d'une commission départementale relatives aux mêmes apports ont été annulées pour le même motif par le juge administratif,
+l'affaire est déférée à une commission qui statue à la place de la commission départementale. Cette commission, dont les
+règles de désignation des membres et les règles de fonctionnement sont fixées par décret en Conseil d'Etat, est présidée par
+un conseiller d'Etat et comprend :
+
+- deux magistrats de l'ordre administratif ;
+
+- deux magistrats de l'ordre judiciaire ;
+
+- deux représentants du ministre de l'agriculture ;
+
+- un représentant du ministre du budget ;
+
+- une personnalité qualifiée en matière d'agriculture et d'aménagement foncier. 
+
+Un suppléant à chacune de ces personnes est également nommé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 30-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+	**Abrogé par**:
+
+	  - Loi n°85-1496 du 31 décembre 1985 - art. 20 () JORF 3 janvier 1986
+
+
 ###### Article 31
 
 Les droits réels, autres que les servitudes, grevant les immeubles remembrés s'exercent sur les immeubles attribués par le
@@ -750,6 +1171,37 @@ ou d'hypothèques, ainsi que les extraits, copies ou expéditions qui en sont d�
 
 
 ### Chapitre IV : De certains échanges en propriété ou en jouissance et de certaines cessions d'immeubles ruraux.
+
+###### Article 37
+
+Les échanges d'immeubles ruraux sont, en ce qui concerne le transfert des privilèges, des hypothèques et des baux y
+afférents, assimilés aux échanges réalisés par voie de remembrement collectif lorsque les immeubles échangés sont situés,
+soit dans le même canton, soit dans un canton et dans une commune limitrophe de celui-ci.
+
+En dehors de ces limites, l'un des immeubles échangés doit être contigu aux propriétés de celui des échangistes qui le
+recevra, ces immeubles devant en outre avoir été acquis par les contractants par acte enregistré depuis plus de deux ans, ou
+recueillis à titre héréditaire.
+
+En cas d'opposition du titulaire de ces droits, l'acte d'échange est soumis, avant sa publication au bureau des hypothèques,
+à l'homologation du président du tribunal de grande instance statuant par voie d'ordonnance sur requête.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1884-11-03 art. 1, art. 2
+	  - Loi n°1941-03-09 art. 32
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 2 JORF 3 janvier 1959
+	  - Loi n°75-621 1975-07-11 art. 14 JORF 12 juillet 1975
+	  - Loi n°80-502 du 4 juillet 1980 - art. 24 () JORF 5 juillet 1980
+
 
 ###### Article 38-1
 
@@ -5523,6 +5975,492 @@ d'application du présent chapitre et des textes qui l'ont modifié.
 	  - Loi n°1940-11-21 art. 8
 	  - Loi n°1941-04-17 art. 7
 	  - Loi n°1941-11-05 art. 5
+
+
+## Titre VII : Du contrôle des structures des exploitations agricoles.
+
+###### Article 188-1
+
+I. - Le contrôle des structures des exploitations agricoles concerne exclusivement l'exploitation des biens.
+
+Il a pour but conformément aux objectifs de la loi n° 80-502 du 4 juillet 1980 et des schémas directeurs départementaux des
+structures agricoles :
+
+1° De favoriser l'installation d'agriculteurs remplissant les conditions de formation ou d'expérience professionnelles fixées
+par décret ;
+
+2° De contribuer à la constitution ou à la préservation d'exploitations familiales à responsabilité personnelle et de
+favoriser l'agrandissement des exploitations dont les dimensions sont insuffisantes ;
+
+3° De déterminer les conditions d'accès à la profession agricole de personnes physiques issues d'autres catégories sociales
+ou professionnelles et celles de son exercice à temps partiel par des actifs ruraux non agricoles, en fonction de l'intérêt
+économique, social et démographique qui s'attache à la pluriactivité dans chaque département.
+
+II. - Dans chaque département, un schéma directeur des structures agricoles détermine les priorités de la politique
+d'aménagement des structures d'exploitation, et fixe les conditions de la mise en oeuvre des dispositions du présent titre.
+
+Ce schéma, préparé par le préfet, après avis de la chambre d'agriculture et de la commission départementale des structures
+agricoles, est établi par arrêté du ministre de l'agriculture, après avis de la commission nationale des structures
+agricoles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°68-1245 1968-12-31 art. 1, art. 2 JORF 3 janvier 1969
+	  - Loi n°72-9 1972-01-03 art. 5 JORF 5 janvier 1972
+	  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+	  - Loi n°80-502 du 4 juillet 1980 - art. 46 () JORF 5 juillet 1980
+
+	**Cite**:
+
+	  - Loi n°80-502 1980-07-04
+
+	**Cité par**:
+
+	  - Code rural et de la pêche maritime - art. L125-1 (VD)
+
+
+###### Article 188-2
+
+I. - Sont soumises à autorisation préalable les opérations ci-après :
+
+1° Quelles que soient les superficies en cause, les installations, les agrandissements et les réunions d'exploitations
+agricoles au bénéfice :
+
+a) Des personnes physiques qui ne satisfont pas aux conditions de capacité ou d'expérience professionnelle fixées par
+décret ; pour l'appréciation des critères d'expérience professionnelle, seule est prise en compte l'expérience acquise en
+qualité d'exploitant d'une superficie au moins égale à la moitié de la surface minimum d'installation telle qu'elle est
+définie à l'article 188-4, d'aide familial, d'associé d'exploitation ou de salarié agricole ;
+
+b) De l'un des conjoints lorsque l'autre est chef d'exploitation agricole ;
+
+c) D'une société ou d'une indivision ; de plus, une autorisation doit être demandée pour tout changement du nombre ou de
+l'identité des associés ou des indivisaires qui participent à l'exploitation.
+
+2° Les installations réalisées sur une surface dépassant une limite comprise entre deux et quatre fois la surface minimum
+d'installation, pour la fraction de superficie qui excède le seuil ainsi fixé.
+
+3° Les agrandissements ou réunions d'exploitations agricoles, lorsque la surface cumulée de l'ensemble excède le seuil de
+superficie visé à l'alinéa précédent. Toutefois, ce seuil peut être abaissé jusqu'à la surface minimum d'installation pour
+tout ou partie d'un département lorsque la superficie moyenne des exploitations agricoles dans la zone considérée est
+inférieure à ladite surface.
+
+II. - Peuvent également être soumises à autorisation préalable par le schéma directeur départemental des structures agricoles
+quelles que soient les superficies en cause, tout ou partie des opérations ci-après :
+
+1° Les installations, les agrandissements ou les réunions d'exploitations agricoles ayant pour conséquence, sans l'accord du
+preneur en place :
+
+a) De supprimer une exploitation agricole d'une superficie au moins égale à la surface minimale d'installation ;
+
+b) De ramener la superficie d'une exploitation agricole en deçà de la surface minimale d'installation ;
+
+c) De réduire de plus de 30 % par rapport au dernier agrandissement la superficie d'une exploitation agricole par un ou
+plusieurs retraits successifs lorsque la superficie ainsi réduite est ramenée en deçà du seuil fixé en application du I (2°)
+ci-dessus, ou est déjà inférieure à ce seuil ;
+
+d) De priver une exploitation d'un bâtiment essentiel à son fonctionnement, sauf s'il est reconstruit ou remplacé.
+
+2° Nonobstant les dispositions du I (3°) ci-dessus, les agrandissements d'exploitations réalisés par l'addition d'une ou
+plusieurs parcelles dont la distance par rapport au siège de l'exploitation est supérieure à un maximum fixé par le schéma
+directeur départemental des structures agricoles, sans que cette distance puisse être inférieure à cinq kilomètres.
+
+III. - L'autorisation d'exploiter est de droit dans les cas ci-après :
+
+1° A la condition que le demandeur satisfasse aux conditions de capacité ou d'expérience professionnelles visées au présent
+article, lorsque le bien pour lequel l'autorisation d'exploiter est sollicitée par le propriétaire ou par l'un de ses
+descendants a été recueilli par succession ou par donation d'un parent ou allié jusqu'au troisième degré inclus ou acquis
+d'un cohéritier ou d'un parent ou allié jusqu'au troisième degré inclus qui l'avait lui-même recueilli par succession ou par
+donation. Pour l'application du présent alinéa, sont assimilées aux biens qu'elles représentent les parts d'une société
+constituée entre membres d'une même famille pour mettre fin à l'indivision.
+
+Toutefois :
+
+a) Le demandeur ne peut se prévaloir des dispositions qui précèdent pour agrandir son exploitation que si le bien est libre
+de location au jour de la demande et s'il n'en a pas déjà bénéficié pour exploiter une superficie supérieure au maximum visé
+au I (2°) ci-dessus ;
+
+b) Ces dispositions ne sont applicables aux biens transmis par donation et ayant été précédemment acquis à titre onéreux par
+le donateur que si celui-ci les détenait ou les exploitait depuis neuf ans au moins ;
+
+c) Les conditions de capacité ou d'expérience professionnelle ne sont pas exigées en cas de succession si la demande est
+formulée au cours des trois années suivant l'ouverture de celle-ci, ou la majorité du demandeur si celui-ci était mineur lors
+du décès.
+
+2° Lorsque le demandeur ne satisfait pas aux conditions de capacité ou d'expérience professionnelle visées au présent
+article, et sous réserve, le cas échéant, des dispositions du II ci-dessus :
+
+a) S'il s'agit d'une installation sur une exploitation dont la superficie n'excède pas le plafond visé au I (2°) ci-dessus,
+lorsque le demandeur s'engage à cesser son activité antérieure dans un délai de six mois, à mettre en valeur personnellement
+et à temps complet le fonds dans les conditions visées à l'article 845 du présent code et à suivre un stage de formation
+professionnelle dans les conditions fixées par décret ;
+
+Et, si le bien est libre de location au jour de la demande :
+
+b) Si le demandeur déclare se consacrer à l'exploitation du bien concurremment avec une autre activité professionnelle,
+lorsque la superficie de l'exploitation constituée ou agrandie et les revenus du demandeur n'excèdent pas des limites fixées
+par le schéma directeur départemental des structures agricoles ; la limite de superficie ne peut être inférieure à la moitié
+de la surface minimale d'installation et celle des revenus à 3120 fois le montant horaire du salaire minimum de croissance ;
+
+c) Si le demandeur est un industriel ou un commerçant, à la condition que l'exploitation agricole ainsi constituée ou
+agrandie soit indispensable à l'exercice de son activité principale et que la superficie n'excède pas la moitié de la surface
+minimale d'installation ; toutefois, ce seuil peut être abaissé jusqu'au quart de la surface minimale d'installation pour
+tout ou partie du département lorsque la moyenne des superficies des exploitations agricoles est inférieure ou égale à la
+surface minimale d'installation.
+
+3° Pour l'entrée en jouissance d'une société dont les associés sont tous exploitants agricoles lorsque la consistance des
+exploitations agricoles qu'ils mettaient en valeur reste inchangée, à la condition que chacun d'entre eux s'oblige à
+participer à la mise en valeur des biens de la société, ou si la société a été constituée pour mettre fin à une indivision
+successorale. L'autorisation est également de droit si la superficie totale mise en valeur par une société ou une indivision
+divisée par le nombre d'associés ou d'indivisaires participant effectivement à l'exploitation au sens de l'article 845 du
+présent code rural et satisfaisant aux conditions de capacité ou d'expérience professionnelle prévues au I (1°) ci-dessus,
+n'excède pas la superficie prévue au I (2°) ci-dessus, la part de superficie ainsi considérée comme exploitée par chacun des
+associés ou indivisaires étant augmentée, le cas échéant, de celle des biens qu'il met en valeur individuellement.
+
+4° Lorsque l'autorisation est demandée par le conjoint d'un chef d'exploitation agricole, si chacun des époux dispose, après
+l'opération projetée, d'une exploitation séparée constituant une unité économique gérée distinctement de toute autre et dont
+la superficie n'excède pas le seuil fixé, selon la nature de l'opération, au I (2°) ou au I (3°) du présent article. Par
+ailleurs, celui qui sollicite l'autorisation doit également satisfaire aux conditions de capacité ou d'expérience
+professionnelles visées au présent article.
+
+5° Lorsque la réunion d'exploitations agricoles résulte de la réunion entre les mains de l'un d'entre eux des biens que
+chacun des deux époux mettait en valeur avant leur mariage.
+
+6° Lorsque l'agrandissement ou la réunion d'exploitations est réalisé en vue d'installer, dans un délai de trois ans
+éventuellement prolongé de la durée du service national, un ou plusieurs descendants du demandeur, à la condition que la
+superficie cumulée de l'ensemble n'excède pas le plafond de superficie tel qu'il est fixé au I (3°) du présent article,
+augmenté d'une superficie équivalente pour chacun des descendants à installer, qui peuvent l'être soit sur les biens faisant
+l'objet de la demande, soit sur les biens déjà exploités par le demandeur. A la date de l'installation, chacun des
+descendants doit être majeur ou mineur émancipé et satisfaire aux conditions de capacité ou d'expérience professionnelles
+prévues au présent article.
+
+IV. - Les ateliers de production hors sol qui constituent le complément de l'activité agricole de l'exploitation ne sont pris
+en compte pour le calcul des superficies visées au présent article que pour la fraction de leur superficie, corrigée des
+coefficients d'équivalence prévus à l'article 188-4, qui excède la surface minimale d'installation.
+
+En outre, sont exclus, même s'ils sont ensuite transformés en terre de culture, les bois, landes, taillis, friches et étangs
+autres que ceux servant à l'élevage piscicole.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 188-4, 845
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+	  - Loi n°80-502 du 4 juillet 1980 - art. 47 () JORF 5 juillet 1980
+
+
+###### Article 188-3
+
+Il est institué, dans chaque département, une commission départementale des structures agricoles dont la composition est
+fixée par décret. Elle est appelée à donner son avis sur les autorisations sollicitées en application de l'article 188-2,
+ainsi que sur les schémas directeurs et les superficies mentionnées aux articles 188-1 et 188-4.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 188-1, 188-2, 188-4
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°68-1245 1968-12-31 art. 3 JORF 31 décembre 1968
+	  - Loi n°73-1228 1973-12-31 art. 1 II, III JORF 3 janvier 1974
+	  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+	  - Loi n°80-502 du 4 juillet 1980 - art. 48 () JORF 5 juillet 1980
+
+
+###### Article 188-3-1
+
+Il est institué une commission nationale des structures agricoles dont la composition est fixée par décret. Cette commission
+examine les projets de schémas directeurs départementaux des structures agricoles préparés par les préfets et se prononce sur
+leur conformité avec les objectifs généraux du contrôle des structures des exploitations agricoles, tels qu'ils sont définis
+au présent titre.
+
+La commission nationale des structures agricoles peut être saisie et formuler directement des propositions.
+
+Elle peut également être saisie des difficultés d'application des dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+	  - Loi n°80-502 du 4 juillet 1980 - art. 48 () JORF 5 juillet 1980
+
+
+###### Article 188-4
+
+La surface minimum d'installation et les surfaces prévues à l'article 188-2 sont fixées dans le schéma directeur
+départemental des structures agricoles pour chaque région naturelle du département et chaque nature de cultures. Elles sont
+révisées périodiquement.
+
+La surface minimum d'installation ne peut être inférieure de plus de 30 % à la surface minimum d'installation nationale,
+fixée tous les cinq ans par arrêté du ministre de l'agriculture, pris après avis de la commission nationale des structures
+agricoles.
+
+Pour les productions hors sol, un arrêté du ministre de l'agriculture, pris après avis de la commission nationale des
+structures, fixe les coefficients d'équivalence applicables uniformément à l'ensemble du territoire sur la base de la surface
+minimum d'installation nationale prévue à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 188-2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+	  - Loi n°80-502 du 4 juillet 1980 - art. 49 () JORF 5 juillet 1980
+
+	**Cité par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 4 (V)
+
+
+###### Article 188-5
+
+L'autorisation prévue à l'article 188-2 est délivrée, après avis de la commission départementale des structures agricoles,
+par l'autorité administrative compétente du département sur le territoire duquel est situé le fonds pour lequel
+l'autorisation d'exploiter est sollicitée, ou en cas d'installation sur plusieurs départements, par l'autorité administrative
+compétente du département sur le territoire duquel est situé le siège de l'exploitation du demandeur.
+
+La demande d'autorisation est formulée suivant les modalités fixées par décret. Lorsqu'il s'agit d'une demande portant sur un
+fonds n'appartenant pas au demandeur, celui-ci doit produire à l'appui de sa demande une attestation du propriétaire du fonds
+indiquant que ce dernier est susceptible de donner son bien à bail au demandeur. Le silence du propriétaire vaut refus.
+
+Lorsqu'elle examine une demande d'autorisation, la commission départementale des structures agricoles est tenue :
+
+- de se conformer aux orientations définies dans le schéma directeur départemental des structures agricoles du département
+sur le territoire duquel est situé le siège de l'exploitation du demandeur, notamment pour ce qui concerne l'ordre des
+priorités établi entre l'installation des jeunes agriculteurs et l'agrandissement des exploitations ;
+
+- de convoquer le demandeur ainsi que, s'il y a lieu, le propriétaire et le preneur, et, sur leur demande, de leur
+communiquer au moins huit jours à l'avance les pièces du dossier et d'entendre leurs observations, les intéressés pouvant se
+faire assister ou représenter devant la commission par toute personne de leur choix ;
+
+- de tenir compte, en cas d'agrandissement ou de réunion d'exploitations, de la situation des terres concernées par rapport
+au siège de l'exploitation du demandeur et, le cas échéant, des superficies déjà mises en valeur par le demandeur sur le
+territoire d'un autre département ;
+
+- de prendre en considération la capacité professionnelle du demandeur et, le cas échéant, la situation personnelle du
+preneur en place au regard de la législation relative au contrôle des structures ;
+
+- de tenir compte de la structure parcellaire des exploitations concernées afin d'éviter que des mutations en jouissance ne
+remettent en cause les aménagements obtenus à l'aide de fonds publics.
+
+La commission dispose d'un délai de deux mois à compter de l'enregistrement de la demande pour adresser son avis motivé à
+l'autorité compétente. Dans les quinze jours suivant l'expiration du délai de deux mois mentionné ci-dessus, l'autorité
+compétente statue par décision motivée sur la demande d'autorisation. Cette décision motivée est notifiée au demandeur, ainsi
+qu'au propriétaire s'il est distinct du demandeur, et au preneur en place.
+
+L'autorisation est réputée accordée si la décision n'a pas été notifiée au demandeur dans un délai de deux mois et quinze
+jours à compter de l'enregistrement de la demande.
+
+Le tribunal administratif, saisi d'un recours contre une décision prise en application du présent article, statue en plein
+contentieux, les parties étant dispensées du ministère d'avocat.
+
+Le tribunal administratif et, le cas échéant, le Conseil d'Etat, se prononcent d'urgence. Les recours contentieux contre les
+décisions prises en application du présent article ont un caractère suspensif.
+
+L'autorisation d'exploiter est périmée si son titulaire n'a pas mis en culture le fonds considéré avant l'expiration de
+l'année culturale qui suit la date à laquelle ladite autorisation lui a été notifiée ou, si le fonds est loué, avant
+l'expiration de la troisième année culturale qui suit la demande, sauf si la situation personnelle du demandeur au regard des
+dispositions du présent titre est modifiée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 188-2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°68-1245 1968-12-31 art. 4 JORF 3 janvier 1969
+	  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+	  - Loi n°80-502 du 4 juillet 1980 - art. 50 () JORF 5 juillet 1980
+
+
+###### Article 188-6
+
+Tout preneur, lors de la conclusion d'un bail, doit faire connaître au bailleur la superficie et la nature des biens qu'il
+exploite ; mention expresse en est faite dans le bail. Si le preneur doit obtenir l'autorisation d'exploiter en application
+de l'article 188-2 du présent code, le bail est conclu sous réserve de l'octroi de ladite autorisation. Le refus définitif de
+l'autorisation ou le fait de ne pas avoir présenté la demande d'autorisation exigée en application de l'article 188-2 dans le
+délai imparti par le préfet conformément à l'article 188-7 emporte la nullité du bail que le préfet, le bailleur ou la
+société d'aménagement foncier et d'établissement rural, lorsqu'elle exerce son droit de préemption, peut faire prononcer par
+le tribunal paritaire des baux ruraux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 188-2, 188-7
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+	  - Loi n°80-502 du 4 juillet 1980 - art. 51 () JORF 5 juillet 1980
+
+
+###### Article 188-7
+
+Lorsqu'il constate qu'un fonds est exploité sans qu'ait été souscrite la demande d'autorisation exigée en application de
+l'article 188-2, le préfet met en demeure l'intéressé de présenter la demande d'autorisation requise. A défaut de
+présentation de la demande par l'intéressé dans le délai imparti par la mise en demeure, le préfet transmet le dossier au
+procureur de la République en vue de l'application des dispositions de l'article 188-9.
+
+Lorsqu'il constate qu'un fonds est exploité en dépit d'un refus d'autorisation d'exploiter devenu définitif, le préfet met en
+demeure l'auteur de l'infraction de cesser d'exploiter le fonds dans un délai qu'il fixe. Si, à l'expiration de ce délai,
+l'intéressé n'a pas déféré à la mise en demeure, le préfet transmet le dossier au procureur de la République en vue de
+l'application des dispositions de l'article 188-9.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 188-2, 188-9
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°68-1245 1968-12-31 art. 5 JORF 3 janvier 1969
+	  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+	  - Loi n°80-502 du 4 juillet 1980 - art. 52 () JORF 5 juillet 1980
+
+
+###### Article 188-8
+
+Celui qui exploitera un fonds en dépit d'un refus d'autorisation d'exploiter devenu définitif qui lui aura été opposé dans
+les conditions prévues à l'article 188-5 ne pourra bénéficier d'aucune aide publique à caractère économique accordée en
+matière agricole.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 188-5
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°68-1245 1968-12-31 art. 6 JORF 3 janvier 1969
+	  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+	  - Loi n°80-502 du 4 juillet 1980 - art. 53 () JORF 5 juillet 1980
+
+
+###### Article 188-9
+
+I. - a) Toute personne qui aura omis de souscrire la demande d'autorisation d'exploiter prévue à l'article 188-2 sera punie
+d'une amende de 1.000 F à 100.000 F.
+
+b) Toute personne qui aura sciemment fourni à l'autorité compétente des renseignements inexacts à l'appui d'une demande
+d'autorisation d'exploiter sera punie d'une amende de 2.000 F à 100.000 F.
+
+II. - Celui qui exploitera en dépit d'un refus d'autorisation d'exploiter devenu définitif sera puni d'une amende de 2.000 F
+à 100.000 F.
+
+III. - Le tribunal correctionnel peut impartir à toute personne en infraction avec les dispositions du présent titre un délai
+pour mettre fin à l'opération interdite ou irrégulière. Il peut assortir sa décision d'une astreinte de 50 F à 500 F par jour
+de retard.
+
+Au cas où le délai n'est pas observé, l'astreinte prononcée, qui ne peut être révisée que dans le cas prévu à l'alinéa
+suivant, court à partir de l'expiration dudit délai jusqu'au jour où l'ordre a été complètement exécuté.
+
+Si l'exécution n'est pas intervenue dans l'année de l'expiration du délai, le tribunal peut, sur réquisition du ministère
+public, relever, à une ou plusieurs reprises, le montant de l'astreinte, même au-delà du maximum prévu au premier alinéa du
+présent paragraphe.
+
+Le tribunal peut autoriser le reversement de tout ou partie des astreintes lorsque la cessation de l'exploitation interdite
+ou irrégulière aura été effectuée et que le redevable établira qu'il a été empêché d'observer, par une circonstance
+indépendante de sa volonté, le délai qui lui a été imparti.
+
+Les astreintes sont recouvrées dans les conditions prévues par les dispositions relatives au recouvrement des produits de
+l'Etat au profit du Trésor public.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 188-2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+	  - Loi n°80-502 du 4 juillet 1980 - art. 54 () JORF 5 juillet 1980
+
+
+###### Article 188-9-1
+
+I. - Toutes les actions, y compris l'action publique, exercées en application du présent titre, se prescrivent par trois ans.
+Dans tous les cas, la prescription court à partir du jour où a commencé l'exploitation irrégulière ou interdite.
+
+II. - Toutes les actions, y compris l'action publique, exercées en application des articles 188-1 à 188-9 du présent code,
+dans leur rédaction antérieure à la loi n° 80-502 du 4 juillet 1980, seront prescrites dans un délai de six mois à compter de
+l'entrée en vigueur du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 188-1 à 188-9
+	  - Loi n°80-502 1980-07-04
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 45 () JORF 5 juillet 1980
+	  - Loi n°80-502 du 4 juillet 1980 - art. 55 () JORF 5 juillet 1980
+
+	**Abrogé par**:
+
+	  - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
 
 
 ## Titre VIII : De l'aménagement des superficies des exploitations et propriétés agricoles dans les départements de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.
@@ -16337,6 +17275,85 @@ présent titre.
 	  - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
 
 
+# Livre V bis : De l'exploitation agricole dans les rapports entre époux.
+
+###### Article 789-1
+
+Lorsque des époux exploitent ensemble et pour leur compte un même fonds agricole, ils sont présumés s'être donné
+réciproquement mandat d'accomplir les actes d'administration concernant les besoins de l'exploitation.
+
+Lorsqu'il ne fait que collaborer à l'exploitation agricole, le conjoint de l'exploitant est présumé avoir reçu de celui-ci le
+mandat d'accomplir les actes d'administration concernant les besoins de cette exploitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 22 (Ab) JORF 5 juillet 1980
+
+	**Abrogé par**:
+
+	  - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
+
+
+###### Article 789-2
+
+Les dispositions de l'article 789-1 ci-dessus cessent de plein droit d'être applicables en cas d'absence présumée de l'un des
+époux, de séparation de corps ou de séparation de biens judiciaire.
+
+Elles cessent également d'être applicables lorsque les conditions prévues à l'article 789-1 ne sont plus remplies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 789-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 22 (Ab) JORF 5 juillet 1980
+
+	**Abrogé par**:
+
+	  - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
+
+
+###### Article 789-3
+
+Chaque époux a la faculté de déclarer, son conjoint présent ou dûment appelé, que celui-ci ne pourra plus se prévaloir des
+dispositions de l'article 789-1.
+
+La déclaration prévue à l'alinéa précédent est, à peine de nullité, faite devant notaire. Elle a effet à l'égard des tiers
+trois mois après que mention en aura été portée en marge de l'acte de mariage des époux. En l'absence de cette mention, elle
+n'est opposable aux tiers que s'il est établi que ceux-ci en ont eu connaissance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 789-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 22 (Ab) JORF 5 juillet 1980
+
+	**Abrogé par**:
+
+	  - Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993
+
+
 # Livre VI : Baux ruraux
 
 ## Titre Ier : Statut du fermage et du métayage
@@ -17293,6 +18310,84 @@ octobre de l'année suivante.
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1003-7-1
+
+I. - Sans préjudice de l'application des conditions particulières résultant de dispositions spéciales du présent titre,
+relèvent des régimes de protection sociale des personnes non salariées des professions agricoles, les chefs d'exploitation ou
+d'entreprise agricoles mentionnés à l'article 1060 (2°, 4° et 5°) qui dirigent une exploitation ou une entreprise dont
+l'importance est au moins égale ou équivalente à la moitié de la surface minimum d'installation définie pour chaque
+département ou partie de département, par application de l'article 188-4, compte tenu, s'il y a lieu, des coefficients
+d'équivalence applicables aux productions agricoles spécialisées.
+
+Lorsque l'importance de l'exploitation ou de l'entreprise ne peut être appréciée selon la règle posée à l'alinéa précédent,
+l'activité professionnelle dont doit justifier le chef d'exploitation ou d'entreprise pour relever des régimes mentionnés ci-
+dessus est déterminée par décret en tenant compte du temps de travail nécessaire à la conduite de cette exploitation ou
+entreprise.
+
+II. - Par dérogation aux dispositions ci-dessus, les personnes qui dirigent une exploitation ou entreprise agricoles ne
+répondant pas à la condition d'importance minimale fixée au I sont affiliées, sur leur demande, par décision des conseils
+d'administration des caisses de mutualité sociale agricole, aux régimes de protection sociale des personnes non salariées des
+professions agricoles si elles satisfont à des conditions de nature et de durée d'activité fixées par décret en Conseil
+d'Etat. Ce décret détermine les autres mesures d'application du présent paragraphe.
+
+Un rapport sur les décisions prises au titre de l'alinéa précédent sera présenté chaque année au comité départemental des
+prestations sociales agricoles.
+
+III. - Les personnes qui, à la date d'entrée en vigueur de la loi n° 80-502 du 4 juillet 1980, relèvent des régimes de
+protection sociale des non salariés des professions agricoles, tout en dirigeant des exploitations ou entreprises agricoles
+ne répondant pas à la condition d'importance minimale fixée par le I ci-dessus, continuent de relever de ces régimes sous
+réserve que leur activité agricole ne se réduise pas ultérieurement dans des proportions précisées par décret ; dans ce cas,
+la décision de maintien dans le régime est prise par les conseils d'administration des caisses de mutualité sociale agricole.
+
+Un rapport sur les décisions prises au titre de l'alinéa précédent sera présenté chaque année au comité départemental des
+prestations sociales agricoles.
+
+IV. - Les cotisations d'allocations familiales, d'assurance vieillesse et d'assurance maladie dues par les chefs
+d'exploitation ou d'entreprise mentionnés à l'article 1060 (2°, 4° et 5°) ne peuvent être inférieures à des minima définis
+par décret.
+
+V. - Bénéficient d'une exonération totale de cotisations à l'assurance maladie des exploitants agricoles (Amexa), les
+titulaires de la retraite de vieillesse agricole et les titulaires de la retraite forfaitaire accordée en vertu de l'article
+1122-1 du présent code, percevant l'allocation supplémentaire prévue au livre IX du code de la sécurité sociale, lorsqu'ils
+ont cessé toute activité professionnelle ou exploitent moins de trois hectares, sous réserve des coefficients d'équivalence
+prévus à l'article 188-4 du présent code.
+
+VI. - Des cotisations de solidarité peuvent être exigées des personnes non affiliées au régime des non salariés agricoles et
+dirigeant une exploitation ou une entreprise agricoles dont l'importance est inférieure à celle définie au I ci-dessus et
+supérieure à un minimum fixé par décret. Les bases de calcul de ces cotisations sont déterminées par décret en fonction de
+l'importance de l'exploitation ou de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cité par**:
+
+	  - Décret n°78-360 du 8 mars 1978 - art. 1 (V)
+
+	**Cite**:
+
+	  - Loi n°80-502 1980-07-04
+	  - Code rural 188-4, 1060, 1122-1
+
+	**Créé par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 15 () JORF 5 juillet 1980
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L722-4 (V)
+	  - Code rural - art. L722-5 (M)
+	  - Code rural - art. L722-6 (V)
+	  - Code rural - art. L722-7 (V)
+	  - Code rural - art. L731-11 (M)
+	  - Code rural - art. L731-23 (M)
+	  - Code rural - art. L731-24 (M)
+	  - Code rural - art. L731-39 (V)
 
 
 ###### Article 1003-8
@@ -19951,6 +21046,104 @@ supérieurs du ministère de l'agriculture.
 
 ### Chapitre III-1 : Assurances maladie, invalidité et maternité des personnes non salariées
 
+#### Section 1 : Champ d'application.
+
+###### Article 1106-1
+
+I. - Les dispositions du présent chapitre s'appliquent, à condition que les intéressés résident sur le territoire
+métropolitain :
+
+1° aux chefs d'exploitation ou d'entreprise agricoles mentionnés à l'article 1060 (2°, 4° et 5°) à condition que
+l'exploitation ou l'entreprise soit située sur le territoire métropolitain et qu'elle ait au moins l'importance définie au I
+de l'article 1003-7-1, sous réserve des dérogations visées aux II et III du même article ;
+
+2° aux aides familiaux non salariés et associés d'exploitation définis par la loi n° 73-650 du 13 juillet 1973 des chefs
+d'exploitation ou d'entreprise ci-dessus visés.
+
+Par aides familiaux, on entend les ascendants, descendants, frères, soeurs et alliés au même degré du chef d'exploitation ou
+d'entreprise ou de son conjoint, âgés de plus de seize ans, vivant sur l'exploitation ou l'entreprise et participant à sa
+mise en valeur comme non salariés ;
+
+3° aux anciens exploitants et à leurs conjoints titulaires de la retraite de vieillesse prévue à l'article 1110, ainsi qu'aux
+titulaires de la retraite de base prévue à l'article 1122-1 ;
+
+4° a) aux conjoints des personnes visées aux 1°, 2°, 3°, 5° et 6° du présent paragraphe, sous réserve qu'ils ne soient pas
+couverts à titre personnel par un régime obligatoire d'assurance maladie, maternité ;
+
+b) aux enfants de moins de seize ans à la charge des personnes visées aux 1°, 2°, 3°, 5° et 6° du présent paragraphe ou de
+leur conjoint, qu'ils soient légitimes, naturels reconnus ou non, recueillis, adoptifs ou pupilles de la Nation dont l'assuré
+est le tuteur.
+
+Pour l'application du présent chapitre, sont assimilés aux enfants de moins de seize ans :
+
+Ceux de moins de vingt ans qui poursuivent leurs études, cette limite d'âge pouvant être reculée dans des conditions fixées
+par voie réglementaire pour les enfants ayant dû interrompre leurs études pour cause de maladie ;
+
+Ceux de moins de vingt ans qui sont, par suite d'infirmité ou de maladie chronique, dans l'impossibilité permanente de se
+livrer à une activité rémunératrice ;
+
+Ceux de moins de vingt ans qui bénéficient de l'article L. 528 du code de la sécurité sociale ;
+
+5° aux membres non salariés de toute société, quelles qu'en soient la forme et la dénomination, lorsque ces membres
+consacrent leur activité, pour le compte de la société, à une exploitation ou entreprise agricole située sur le territoire
+métropolitain, lesdites sociétés étant assimilées, pour l'application du présent chapitre, aux chefs d'exploitation ou
+d'entreprise visés au 1° du présent article ;
+
+6° aux titulaires de la pension d'invalidité prévue à l'article 1234-3 B.
+
+II. - Ne sont pas assujettis au régime d'assurance obligatoire institué par le présent chapitre les exploitants forestiers
+négociants en bois affiliés à l'organisation autonome d'allocation vieillesse des professions industrielles et commerciales
+et les personnes visées au deuxième alinéa de l'article 6 du décret n° 61-294 du 31 mars 1961. Toutefois, les personnes
+visées au deuxième alinéa de l'article 6 du décret n° 61-294 du 31 mars 1961 susvisé peuvent solliciter auprès du régime
+institué par le présent chapitre le bénéfice des dispositions de la loi n° 77-773 du 12 juillet 1977 sans autres conditions
+que celles prévues par celle-ci.
+
+Sont affiliées simultanément aux régimes dont relèvent leurs activités et, éventuellement, à celui dont relève leur pension
+ou leur allocation :
+
+a) les personnes qui exercent simultanément plusieurs activités dont l'une relève de l'assurance obligatoire instituée par le
+présent chapitre ;
+
+b) les personnes visées à l'article 1106-1, 3°, ou titulaires d'une pension d'invalidité en application de l'article 1106-3,
+2°, qui exercent une activité professionnelle relevant d'un régime d'assurance maladie et maternité autre que celui institué
+par le présent chapitre.
+
+Lorsque l'activité salariée est accessoire ou exercée par un pensionné ou un allocataire ayant choisi le régime de sa pension
+ou de son allocation, la cotisation personnelle au titre des assurances maladie, maternité, invalidité et décès pour son
+activité salariée n'est pas due.
+
+De même lorsque l'activité non salariée est accessoire ou exercée par un pensionné ou par un allocataire ayant choisi le
+régime de sa pension ou de son allocation, la cotisation au titre de l'activité non salariée n'est pas due.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1060, 1003-7-1, 1110, 1122-1, 1234-3, 1106-1, 1106-3
+	  - Décret n°61-294 du 31 mars 1961 - art. 6 (M)
+	  - Loi n°73-650 1973-07-13
+	  - Loi n°77-773 1977-07-12
+	  - Code de la sécurité sociale L528
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°70-14 1970-01-06 art. 3-1 JORF 7 janvier 1970
+	  - Loi n°71-1061 1971-12-29 art. 48 JORF 30 décembre 1971
+	  - Loi n°72-1121 1972-12-20 art. 63 JORF 21 décembre 1972
+	  - Loi n°80-502 du 4 juillet 1980 - art. 17 (V) JORF 5 juillet 1980
+	  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L722-10 (M)
+	  - Code rural - art. L722-11 (V)
+	  - Code rural - art. L722-12 (V)
+
+
 #### Section 2 : Prestations.
 
 ###### Article 1106-3
@@ -20176,6 +21369,55 @@ des prestations sociales agricoles.
 	**Cite**:
 
 	  - Code rural 1106-1, 1234-3
+
+
+###### Article 1106-7
+
+I. - Bénéficient d'une exemption totale de cotisations :
+
+1° ... ;
+
+2° Les personnes visées à l'alinéa 4° du paragraphe I de l'article 1106-1 ;
+
+3° Les personnes visées au paragraphe 3° de l'article 1106-3 qui reçoivent leurs prestations d'un autre régime obligatoire
+d'assurance maladie et maternité.
+
+4° Les personnes titulaires de l'allocation spéciale visée à l'article L. 675 du code de la sécurité sociale et de
+l'allocation supplémentaire du fonds de solidarité, qui ont exercé une activité exclusivement agricole au cours de leur
+existence.
+
+II. - Peuvent bénéficier d'une exemption totale ou partielle des cotisations :
+
+1° Les titulaires de l'allocation ou de la retraite vieillesse visés au paragraphe 3° de l'article 1106-1 qui ont cessé toute
+activité professionnelle ou qui n'exploitent qu'une surface inférieure à la moitié de l'exploitation type ouvrant droit à
+l'intégralité des allocations familiales agricoles lorsqu'ils ne bénéficient pas de l'allocation supplémentaire prévue par le
+livre IX du code de la sécurité sociale ;
+
+2° Les aides familiaux et associés d'exploitation visés à l'article 1106-1, I-2°.
+
+3° Les personnes titulaires de l'allocation spéciale visée à l'article L. 675 du code de la sécurité sociale, qui ont exercé
+une activité exclusivement agricole au cours de leur existence.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1106-1, 1106-3
+	  - Code de la sécurité sociale L675
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°64-1279 1964-12-23 art. 51 JORF 24 décembre 1964
+	  - Loi n°71-1061 1971-12-29 art. 48 JORF 30 décembre 1971
+	  - Loi n°80-502 du 4 juillet 1980 - art. 17 (V) JORF 5 juillet 1980
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L731-39 (V)
 
 
 #### Section 4 : Assujettissement et organisation.
@@ -20752,6 +21994,60 @@ et les règles de fonctionnement sont déterminées par des décrets.
 
 #### Section 1 : Prestations
 
+###### Article 1110
+
+L'organisation autonome des professions agricoles est chargée de servir aux exploitants agricoles ayant exercé comme dernière
+activité professionnelle l'une des activités visées à l'article 1060 en qualité de chef d'exploitation ou d'entreprise :
+
+- soit, pour ceux qui ne peuvent bénéficier d'une retraite, une allocation dans les conditions prévues aux articles 1111 à
+1120 inclus s'ils ont exercé cette activité pendant quinze ans au moins ;
+
+- soit une retraite dans les conditions prévues aux articles 1121 et 1122.
+
+Est considérée comme chef d'exploitation ou d'entreprise sans préjudice de l'application de l'article 645 du code de la
+sécurité sociale la personne dont l'exploitation ou l'entreprise a une importance au moins égale ou équivalente à la moitié
+de l'exploitation type ouvrant droit à l'intégralité des prestations familiales agricoles ou qui justifie exercer
+exclusivement une activité professionnelle agricole non salariée. Toutefois, le minimum prévu ci-dessus est ramené à 16 F de
+revenu cadastral pour les personnes mettant en valeur des terres dont le revenu cadastral moyen est inférieur à 6 F par
+hectare. En outre, ce chiffre pourra, dans les mêmes conditions, être abaissé au-dessous de 16 F pour les exploitants
+montagnards dont la cotisation sera alors établie sur la base d'un revenu cadastral égal à 16 F.
+
+Par dérogation aux prescriptions du premier alinéa du présent article, l'interruption d'activité résultant d'un fait de
+guerre ou de maladie ou d'infirmité graves empêchant toute activité professionnelle ne privera pas le requérant du droit à
+l'allocation.
+
+Sauf dans la mesure où elle s'impute sur la durée de la peine, toute période de détention provisoire accomplie par une
+personne qui, au moment de son incarcération, relevait de l'assurance prévue au présent chapitre, est également prise en
+considération pour l'ouverture du droit à pension.
+
+Dans le bail à métayage, le preneur et le bailleur sont considérés comme chefs d'exploitation, le premier sous réserve qu'il
+ne soit pas assujetti au régime des assurances sociales au titre de salarié, le second sous réserve de l'application de
+l'article 3 modifié de la loi n° 48-101 du 17 janvier 1948.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1060, 1111 à 1120, 1121, 1122
+	  - Loi n°48-101 du 17 janvier 1948 - art. 3, v. init.
+	  - Code de la sécurité sociale 645
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°59-1454 1959-12-26 art. 58 JORF 27 décembre 1959
+	  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L732-19 (M)
+	  - Code rural - art. L732-21 (M)
+	  - Code rural - art. L732-22 (M)
+
+
 ##### Paragraphe 1 : Allocation de vieillesse.
 
 ###### Article 1113
@@ -20835,6 +22131,177 @@ visée à l'alinéa précédent.
 
 ##### Paragraphe 2 : Retraite.
 
+###### Article 1121
+
+Les chefs d'exploitation ou d'entreprise agricoles qui ont exercé à titre exclusif ou à titre principal une activité non
+salariée agricole ont droit à une retraite qui comprend :
+
+1° Une retraite forfaitaire dont le montant maximal, attribué pour vingt-cinq années d'activité au moins, est égal à celui
+que fixe l'article 1116 du présent code pour l'allocation de vieillesse. Lorsque la durée d'activité a été inférieure à
+vingt-cinq ans, le montant de la retraite est calculé proportionnellement à cette
+
+durée ;
+
+2° Une retraite proportionnelle dont le montant est calculé en fonction des cotisations versées en application du 1°, b de
+l'article 1123 ainsi que de la durée d'assurance et qui est revalorisée chaque année suivant les coefficients fixés en
+application de l'article L. 344 du code de la sécurité sociale ;
+
+3° Une retraite complémentaire facultative analogue à la retraite complémentaire facultative des travailleurs non salariés
+des professions industrielles et commerciales dont le régime sera fixé par décret au terme de l'harmonisation prévue au I de
+l'article 18 de la loi n° 80-502 du 4 juillet 1980.
+
+Le total de la retraite forfaitaire et de la retraite proportionnelle ne peut dépasser un montant qui est fixé en fonction du
+nombre d'annuités des intéressés et par référence au montant des retraites servies par le régime général de la sécurité
+sociale.
+
+Les conditions d'application des dispositions ci-dessus sont fixées par décret en Conseil d'Etat.
+
+Un décret fixe les modalités selon lesquelles sont prises en compte pour le calcul de la retraite proportionnelle les
+cotisations versées par des exploitants agricoles au titre des assurances sociales agricoles obligatoires ou facultatives.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1116, 1123
+	  - Loi n°80-502 1980-07-04 art. 18
+	  - Code de la sécurité sociale L344
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°64-1279 1964-12-23 art. 51 JORF 24 décembre 1964
+	  - Loi n°72-1121 1972-12-20 art. 63 III JORF 21 décembre 1972
+	  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L732-24 (M)
+	  - Code rural - art. L732-25 (M)
+	  - Code rural - art. L732-26 (M)
+	  - Code rural - art. L732-27 (M)
+
+
+###### Article 1121-1
+
+Les personnes ayant exercé, concurremment avec une activité salariée, une activité non salariée agricole ne présentant qu'un
+caractère accessoire peuvent seulement prétendre à la retraite proportionnelle.
+
+Le conjoint survivant des personnes visées au premier alinéa a droit, s'il n'est pas lui-même bénéficiaire d'un avantage au
+titre d'un régime de sécurité sociale, et s'il satisfait à des conditions d'âge, de ressources personnelles et de durée du
+mariage fixées par décret, à une retraite de réversion dont le montant est égal à un pourcentage fixé par voie réglementaire
+de la retraite proportionnelle dont bénéficiait ou aurait pu bénéficier l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L732-28 (M)
+	  - Code rural - art. L732-46 (M)
+
+
+###### Article 1122
+
+A droit à la retraite à l'âge de soixante-cinq ans ou de soixante ans en cas d'inaptitude au travail, tout chef
+d'exploitation qui a satisfait à toutes les prescriptions du présent chapitre.
+
+Sous réserve des dispositions du 1er alinéa du présent article, le conjoint du chef d'exploitation, âgé de soixante-cinq ans,
+ou de soixante ans en cas d'inaptitude au travail, perçoit la retraite de base prévue au 1° de l'article 1121 s'il n'est pas
+lui-même bénéficiaire d'un avantage au titre d'un régime de sécurité sociale.
+
+Sous réserve des dispositions des deux alinéas précédents, exception faite de celle relative à l'âge, le conjoint survivant
+d'un chef d'exploitation, âgé de soixante-cinq ans, ou soixante ans en cas d'inaptitude au travail, percevra une retraite
+comprenant la retraite de base et la moitié de la retraite complémentaire à laquelle pouvait prétendre le chef
+d'exploitation. Cette retraite est accordée, sous les mêmes réserves, au conjoint survivant n'ayant pas atteint l'âge prévu
+ci-dessus s'il satisfait en outre aux conditions, fixées par décret, relatives à son âge, à ses ressources personnelles,
+ainsi qu'à la durée du mariage. Si le chef d'exploitation est décédé avant d'avoir acquis droit à retraite, le conjoint
+continuant l'exploitation peut ajouter ses annuités propres à celles acquises par le de cujus pour le calcul de sa pension à
+l'âge de soixante-cinq ans, ou soixante ans en cas d'invalidité.
+
+Au cas de coexploitation, le total des retraites complémentaires servies à l'ensemble de ces exploitants ne peut excéder
+celle qui serait servie à un agriculteur dirigeant seul la même exploitation.
+
+Sous réserve des dispositions précédentes, les personnes qui ont travaillé pendant les cinq dernière années d'exercice de
+leur profession, avec ou sans le concours de leur conjoint et avec ou sans l'aide d'un seul salarié ou d'un seul aide
+familial, ont droit à la retraite de vieillesse agricole à partir de l'âge de soixante ans, si elles sont reconnues inaptes
+au travail dans les conditions prévues par la loi n° 71-1132 du 31 décembre 1971. Le service de la retraite visée ci-dessus
+est suspendu lorsque le titulaire, âgé de moins de soixante-cinq ans, exerce une activité professionnelle.
+
+Les modalités d'application des dispositions de l'alinéa ci-dessus seront déterminées, autant que de besoin, par décret
+interministériel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1121
+	  - Loi n°71-1132 1971-12-31
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°72-1121 1972-12-20 art. 63 IV JORF 21 décembre 1972
+	  - Loi n°73-1129 1973-12-21 art. 2 JORF 23 décembre 1973
+	  - Loi n°75-1278 1975-12-30 art. 68 Finances pour 1976 JORF 31 décembre 1975
+	  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L732-41 (M)
+	  - Code rural - art. L732-46 (M)
+
+
+###### Article 1122-1
+
+Sans préjudice de l'application de l'article 1122, deuxième et troisième alinéas, du présent code, ont droit à la retraite
+forfaitaire prévue à l'article 1121, 1°, et dans les mêmes conditions, à l'âge de soixante-cinq ans ou de soixante ans en cas
+d'inaptitude au travail, les membres de la famille du chef d'exploitation qui ont satisfait à toutes les prescriptions du
+chapitre IV du titre II du livre VII du présent code.
+
+Le conjoint survivant des personnes visées à l'alinéa précédent a droit, s'il n'est pas lui-même bénéficiaire d'un avantage
+au titre d'un régime de sécurité sociale, st s'il satisfait aux conditions, fixées par décret, relatives à son âge, à ses
+ressources personnelles, ainsi qu'à la durée du mariage, à une retraite de réversion d'un montant égal à celui de la retraite
+forfaitaire dont bénéficiait ou aurait bénéficié l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. D381-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L732-34 (M)
+	  - Code rural - art. L732-42 (M)
+	  - Code rural - art. L732-46 (M)
+
+	**Cite**:
+
+	  - Code rural 1122, 1121
+
+
 ###### Article 1122-2
 
 Dans le cas de divorce, lors du décès d'une personne visée au premier alinéa de l'article 1122 et au premier alinéa de
@@ -20867,6 +22334,76 @@ sociale, selon des modalités fixées par décret.
 
 
 #### Section 2 : Cotisations.
+
+###### Article 1123
+
+Les dépenses de prestations de l'assurance vieillesse agricole sont couvertes :
+
+1° Par une double cotisation professionnelle :
+
+a) L'une à la charge de chaque membre non salarié âgé d'au moins dix-huit ans dépendant du régime, à l'exception des chefs
+d'exploitation définis à l'article 1121-1 et des titulaires soit d'une allocation, pension ou rente de vieillesse, soit d'une
+retraite, âgés d'au moins soixante-cinq ans ou de soixante ans en cas d'inaptitude au travail, et de leurs conjoints ;
+
+b) L'autre à la charge de chaque exploitation ou entreprise et dont le montant global est fixé chaque année dans le budget
+annexe des prestations sociales agricoles ;
+
+2° Par une participation du fonds national d'allocation de vieillesse agricole institué par l'article 1140.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1121-1, 1140
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°75-1278 1975-12-30 art. 70 Finances pour 1976 JORF 31 décembre 1975
+	  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L731-42 (M)
+
+
+###### Article 1124
+
+La cotisation prévue au 1°, a, de l'article 1123 varie suivant l'importance et la nature des exploitations ou des entreprises
+agricoles ; elle est fixée par décret.
+
+Dès lors qu'ils ne justifient pas de leur affiliation à un régime légal ou réglementaire de retraite pour la vieillesse à
+raison de l'exercice d'une activité professionnelle personnelle, les membres de la famille vivant sur l'exploitation sont
+présumés, sauf preuve contraire, participer à la mise en valeur de l'exploitation.
+
+La cotisation n'est pas due pour les membres de la famille âgés d'au moins dix-huit ans et les associés d'exploitation
+définis à la loi n° 73-650 du 13 juillet 1973 atteints d'une incapacité absolue de travail ou bénéficiaires des dispositions
+des chapitres V et VI du décret du 29 novembre 1953 modifié portant réforme des lois d'assistance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1123
+	  - Décret n°53-1186 1953-11-29
+	  - Loi n°73-650 1973-07-13
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°75-1278 1975-12-30 art. 70 I, II Finances pour 1976 JORF 31 décembre 1975
+	  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L731-42 (M)
+
 
 ###### Article 1126
 
@@ -21175,6 +22712,33 @@ que celle de salarié des terres dont la superficie est au moins égale dans cha
 	  - Code rural 1142-13
 
 
+###### Article 1142-3
+
+Les bénéficiaires du présent chapitre ont droit soit à une allocation de vieillesse s'ils justifient de quinze ans au moins
+d'activité professionnelle agricole et s'ils ne peuvent bénéficier d'une retraite, soit à la retraite des personnes non
+salariées.
+
+L'allocation prévue à l'alinéa ci-dessus est servie aux exploitants agricoles résidant dans les départements de la
+Guadeloupe, de la Guyane, de la Martinique et de la Réunion à la date de leur soixantième anniversaire.
+
+L'interruption d'activité résultant d'un fait de guerre ou de maladie ou d'infirmité graves empêchant toute activité
+professionnelle ne prive pas l'intéressé du droit à l'allocation ou à la retraite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-28 (V)
+
+
 ###### Article 1142-4
 
 L'allocation n'est due aux personnes continuant leur exploitation que si les terres exploitées ne dépassent pas une
@@ -21187,6 +22751,57 @@ Des dispositions particulières peuvent être prévues à l'égard des veuves ex
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1142-5
+
+Les chefs d'exploitation ou d'entreprise agricoles qui ont exercé à titre exclusif ou à titre principal une activité non
+salariée agricole, ont droit à une retraite qui comprend :
+
+1° Une retraite forfaitaire dont le montant maximal, attribué pour vingt-cinq années d'activité au moins, est égal à celui
+que fixe l'article 1116 du présent code pour l'allocation de vieillesse. Lorsque la durée d'activité a été inférieure à
+vingt-cinq ans, le montant de la retraite est calculé proportionnellement à cette
+
+durée ;
+
+2° Une retraite proportionnelle dont le montant est calculé en fonction des cotisations versées en application du 1°, b de
+
+l'article 1123 ainsi que de la durée d'assurance et qui est revalorisée chaque année suivant les coefficients fixés en
+application de l'article L. 344 du code de la sécurité sociale ;
+
+3° Une retraite complémentaire facultative analogue à la retraite complémentaire facultative des travailleurs non salariés
+des professions industrielles et commerciales dont le régime sera fixé par décret au terme de l'harmonisation prévue au I de
+l'article 18 de la loi n° 80-502 du 4 juillet 1980.
+
+Le total de la retraite forfaitaire et de la retraite proportionnelle ne peut dépasser un montant qui est fixé en fonction du
+nombre d'annuités des intéressés et par référence au montant des retraites servies par le régime général de la sécurité
+sociale.
+
+Les conditions d'application des dispositions ci-dessus sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°66-935 1966-12-17 art. 60 JORF 18 décembre 1966
+	  - Loi n°80-502 du 4 juillet 1980 - art. 18 (V) JORF 5 juillet 1980
+
+	**Cite**:
+
+	  - Loi n°80-502 1980-07-04 art. 18
+	  - Code de la sécurité sociale L344
+	  - Code rural 1116, 1123
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-29 (M)
+	  - Code rural - art. L762-30 (V)
+	  - Code rural - art. L762-31 (VT)
+	  - Code rural - art. L762-32 (VT)
 
 
 ###### Article 1142-6
