@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1976-12-30
+Version Consolidée au 1977-01-01
 
 ###### Article 162
 
@@ -17880,6 +17880,35 @@ du ministère public et des parties intéressées.
 	  - Loi n°75-534 du 30 juin 1975 - art. 58 (Ab) JORF 1er juillet 1975 en vigueur le 1er janvier 1978
 
 
+###### Article 1038-2
+
+Sous réserve des dispositions des conventions et règlements internationaux et de l'article 1263-3, lorsque des soins sont
+dispensés hors de France aux assurés et à leurs ayants droit, les prestations correspondantes des assurances maladie et
+maternité ne sont pas servies.
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles des dérogations peuvent être apportées au principe posé à
+l'alinéa précédent dans le cas où l'assuré ou ses ayants droit tombent malades inopinément au cours d'un séjour à l'étranger
+ou lorsque le malade ne peut recevoir en France les soins appropriés à son état.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1263-3
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°76-1287 1976-12-31 art. 6 JORF 1er janvier 1977
+
+	**Abrogé par**:
+
+	  - Loi n°88-1202 du 30 décembre 1988 - art. 43 () JORF 31 décembre 1988
+
+
 ###### Article 1039
 
 Un décret pris en conseil des ministres après avis du Conseil d'Etat, sur la proposition du ministre chargé des affaires
@@ -24631,6 +24660,33 @@ les prestataires du régime général.
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+## Titre VI : Français résidant à l'étranger
+
+### Chapitre II : Travailleurs salariés expatriés.
+
+###### Article 1263-4
+
+Les ressortissants français qui exercent une activité agricole salariée ou assimilée au regard des législations sociales
+agricoles françaises dans un pays étranger n'appartenant pas à la Communauté européenne et qui ne sont pas ou ne sont plus
+soumis à ces législations en vertu d'une convention internationale ou de l'article 1263-2 peuvent adhérer aux assurances
+volontaires prévues par le chapitre II du titre VI du livre VII du code de la sécurité sociale et bénéficier des prestations
+correspondantes dans les conditions prévues audit livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L764-3 (M)
+
+	**Cite**:
+
+	  - Code rural 1263-2
 
 
 # Livre VIII : Formation professionnelle et recherche
