@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1968-02-23
+Version Consolidée au 1968-08-25
 
 ###### Article 162
 
@@ -15411,25 +15411,6 @@ puisse dépasser 10 F.
 	  - Décret n°1935-10-28 art. 27
 
 
-###### Article 1048
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-10-30 art. 13, art. 17
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°68-757 1968-08-16 art. 1 JORF 25 août 1968
-
-
 #### Section 4 : Régime facultatif, régime complémentaire.
 
 ###### Article 1049
@@ -18878,6 +18859,28 @@ Un décret pris par le ministre de l'agriculture portant modification dudit rég
 	**Cite**:
 
 	  - Code rural 1257
+
+
+###### Article 1263
+
+En aucun cas, les avantages accordés aux prestataires du régime agricole ne pourront être inférieurs à ceux dont bénéficient
+les prestataires du régime général.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L761-1
+	  - Code rural - art. L761-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 # Livre VIII : Formation professionnelle et recherche
