@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1981-02-10
+Version Consolidée au 1981-03-27
 
 ###### Article 162
 
@@ -14494,15 +14494,30 @@ de droit de pêche dans les eaux énumérées à l'article 401 peuvent être sou
 
 ###### Article 545-2
 
-Indépendamment des ressources spéciales qui lui seront attribuées, notamment sous forme de dotations, subventions, avances,
-annuités ou prêts, le fonds national de péréquation et d'action professionnelle des chambres d'agriculture est alimenté par
-la fraction qui lui est affecté de l'imposition additionnelle à la contribution foncière des propriétés non bâties ou, dans
-les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, à la taxe foncière sur les propriétés non bâties visée à
-l'article 30 précité de la loi n° 59-1472 du 28 décembre 1959.
-
 Un décret pris sur le rapport du ministre de l'agriculture et du ministre des finances et des affaires économiques fixe les
 conditions de fonctionnement et de gestion du fonds national de péréquation et d'action professionnelle des chambres
 d'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°59-1472 du 28 décembre 1959 - art. 30, v. init.
+
+	**Modifié par**:
+
+	  - Décret n°81-276 du 18 mars 1981 (V) art 1
+
+
+## Titre II : Coopératives agricoles
+
+### Chapitre unique : Sanctions pénales.
+
+###### Article 551
+
+Un décret en Conseil d'Etat adaptera au cas des sociétés coopératives agricoles et de leurs unions ayant un directoire et un
+conseil de surveillance les dispositions de la sous-section II de la section III du chapitre IV du titre Ier de la loi n°
+66-537 du 24 juillet 1966 sur les sociétés commerciales.
 
 **Liens relatifs à cet article**
 
@@ -14513,7 +14528,16 @@ d'agriculture.
 
 	**Cite**:
 
-	  - Loi n°59-1472 du 28 décembre 1959 - art. 30, v. init.
+	  - Loi n°66-537 1966-07-24
+
+	**Modifié par**:
+
+	  - Loi n°72-516 du 27 juin 1972 - art. 18 () JORF 28 juin 1972
+	  - Décret n°81-276 1981-03-18 art. 1 JORF 27 mars 1981
+
+	**Abrogé par**:
+
+	  - Rapport - art. 7 (V) JORF 22 juin 2000
 
 
 # Livre V : Crédit agricole
