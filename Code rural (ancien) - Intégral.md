@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1990-10-01
+Version Consolidée au 1990-12-30
 
 ###### Article 40-3
 
@@ -20977,8 +20977,7 @@ de remplacement ouvrant droit au bénéfice de l'avantage ci-dessus prévu ainsi
 avantage. En cas d'adoption, la ou les périodes de remplacement se situent nécessairement après l'arrivée de l'enfant au
 foyer, la durée maximale d'attribution de la prestation étant égale à la moitié de celle qui est prévue en cas de maternité.
 
-Les dépenses afférentes au service de cette prestation sont couvertes par une cotisation additionnelle à la cotisation prévue
-par l'article 1106-6.
+Les dépenses afférentes au service de cette prestation sont financées par la cotisation prévue par l'article 1106-6.
 
 **Liens relatifs à cet article**
 
@@ -20988,7 +20987,7 @@ par l'article 1106-6.
 
 	**Modifié par**:
 
-	  - Loi n°90-85 du 23 janvier 1990 - art. 68 () JORF 25 janvier 1990
+	  - Loi - art. 118 () JORF 30 décembre 1990
 
 	**Nouveaux textes**:
 
@@ -23445,6 +23444,128 @@ fonctionnaires ou agents.
 
 	  - Décret n°55-433 1955-04-16
 	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+### Chapitre IV-3 : Assurance veuvage des personnes non salariées.
+
+###### Article 1142-25
+
+La couverture des charges de l'assurance veuvage instituée en application de l'article 9 de la loi n° 80-546 du 17 juillet
+1980 est assurée par des cotisations assises sur les revenus professionnels des personnes non salariées des professions
+agricoles définis à l'article 1003-12 du présent code.
+
+Ces cotisations, dont le taux est fixé par décret, sont à la charge des chefs d'exploitation ou d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L731-43 (Ab)
+	  - Code rural L731-43
+
+	**Cite**:
+
+	  - Code rural 1003-12
+	  - Loi n°80-546 du 17 juillet 1980 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi - art. 53 () JORF 30 décembre 1990
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1142-26
+
+Les caisses de mutualité sociale agricole sont chargées :
+
+- du recouvrement des cotisations prévues à l'article 1142-25 ;
+
+- du versement des prestations d'assurance veuvage.
+
+Les dispositions de l'article L. 356-4 du code de la sécurité sociale sont applicables auxdits organismes.
+
+Pour la gestion de l'assurance veuvage, la caisse nationale d'assurance vieillesse mutuelle agricole exerce les fonctions
+prévues à l'article 1137 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1142-25, 1137
+	  - Code de la sécurité sociale. - art. L356-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi - art. 53 () JORF 30 décembre 1990
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L731-44 (Ab)
+	  - Code rural - art. L732-55 (M)
+
+
+###### Article 1142-27
+
+Les opérations financières relatives au présent chapitre sont retracées en recettes et en dépenses dans le budget annexe des
+prestations sociales agricoles.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L731-6
+	  - Code rural - art. L731-6 (MMN)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi - art. 53 () JORF 30 décembre 1990
+
+	**Abrogé par**:
+
+	  - Loi - art. 40 (V) JORF 31 décembre 2003
+
+
+###### Article 1142-28
+
+Les dispositions de la législation en matière de prestations familiales agricoles relatives au contrôle des assujettis et des
+bénéficiaires, au recouvrement des cotisations, aux sanctions en cas de non-versement des cotisations ou de fraude sont
+applicables à l'assurance veuvage.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L725-18
+	  - Code rural - art. L725-18 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi - art. 53 () JORF 30 décembre 1990
 
 	**Abrogé par**:
 
