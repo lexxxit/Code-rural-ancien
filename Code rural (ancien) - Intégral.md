@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1965-05-30
+Version Consolidée au 1965-07-09
 
 ###### Article 162
 
@@ -6247,9 +6247,17 @@ sang des bovidés qui doit être livré à la consommation.
 	  - Loi n°1933-07-07 art. 7
 
 
-###### Article 256
+###### Article 257
 
-(texte abrogé).
+Les abattoirs privés de type industriel ou d'expédition ne peuvent être ouverts qu'à titre exceptionnel et s'ils sont prévus
+au plan d'équipement en abattoirs, approuvé par le ministre de l'agriculture et le ministre de l'économie et des finances,
+exception faite pour ceux dont la construction ou l'aménagement sont en cours. Ces dispositions s'appliquent aux départements
+de la Moselle, du Bas-Rhin et du Haut-Rhin.
+
+Un décret pris en Conseil d'Etat détermine les conditions d'application des alinéas précédents.
+
+Un décret pris en Conseil d'Etat définit les conditions de création, de gestion, de fonctionnement et d'activité des
+abattoirs privés de type industriel ou d'expédition.
 
 **Liens relatifs à cet article**
 
@@ -6257,9 +6265,79 @@ sang des bovidés qui doit être livré à la consommation.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Abrogé par**:
+	**Anciens textes**:
 
+	  - Loi n°1933-07-07 art. 9 al. 1
+	  - Loi n°1941-09-27 art. 18
+	  - Loi n°49-1653 1949-12-31 art. 8
+
+	**Modifié par**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 35 () JORF 7 août 1960
 	  - Loi n°65-543 du 8 juillet 1965 - art. 20 (V) JORF 9 juillet 1965
+
+
+###### Article 258
+
+Dans l'intérêt de la protection de la santé publique, il doit être procédé :
+
+1° A l'inspection sanitaire des animaux vivants présentés sur les foires, marchés ou expositions et, avant et après leur
+abattage, à l'inspection sanitaire et qualitative des animaux dont la chair doit être livrée au public en vue de la
+consommation ;
+
+2° A la détermination et au contrôle des conditions d'hygiène dans lesquelles a lieu l'abattage ;
+
+3° A l'inspection de la salubrité et de la qualité des denrées animales ou d'origine animale destinées à cette consommation ;
+
+4° A la détermination et à la surveillance des conditions d'hygiène dans lesquelles ces denrées sont préparées et conservées,
+notamment lors de leur transport et de leur mise en vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1933-07-07 art. 10 al. 1, al. 2, art. 21
+	  - Loi n°1949-12-31 art. 8
+
+	**Modifié par**:
+
+	  - Loi n°62-933 du 8 août 1962 - art. 23 (V) JORF 10 août 1962
+	  - Loi n°65-543 du 8 juillet 1965 - art. 1 () JORF 9 juillet 1965
+
+
+###### Article 259
+
+Les fonctions d'inspection sanitaire que nécessite l'application des dispositions de l'article 258 ci-dessus sont effectuées
+par un service d'Etat d'hygiène alimentaire constitué de vétérinaires spécialisés assistés de préposés sanitaires ayant la
+qualité de fonctionnaires ou agents de l'Etat. Ces fonctionnaires ou agents peuvent être assermentés en vue de la
+constatation des infractions.
+
+Les fonctions d'inspection sanitaire ainsi définies s'exercent sur les animaux et les denrées animales ou d'origine animale
+tant à leur entrée en France qu'à l'intérieur du territoire. Elles ne font pas obstacle à l'exercice des fonctions
+d'inspection sanitaire dont disposent d'autres services de l'Etat dans le cadre de leur compétence propre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 258
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1887-04-05 art. 2, art. 3
+	  - Loi n°1933-07-07 art. 11
+
+	**Modifié par**:
+
+	  - Loi n°65-543 du 8 juillet 1965 - art. 1 () JORF 9 juillet 1965
 
 
 ###### Article 261
@@ -6278,6 +6356,71 @@ inspecté, soit sous le contrôle d'un vétérinaire inspecteur agréé.
 	**Anciens textes**:
 
 	  - Loi n°1933-07-07 art. 13
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 262
+
+Un règlement d'administration publique détermine, en tant que de besoin, les conditions d'application des articles 258 et
+259, notamment en ce qui concerne les produits importés et exportés, les établissements et fabriques où sont préparées les
+conserves et denrées d'origine animale destinées à la consommation humaine ou animale, les ateliers d'équarrissage et les
+dépôts de cadavres d'animaux.
+
+Le règlement définira, sans préjudice, le cas échéant, des prescriptions des règlements sanitaires départementaux, les
+conditions d'hygiène et de salubrité que devront observer les personnes assujetties auxdites inspections et surveillances et
+les modalités de celles-ci. Il pourra, toutefois, pour les modalités de ces conditions, renvoyer à des arrêtés
+interministériels.
+
+Ce même règlement peut décider que les établissements dans lesquels des animaux sont abattus, des denrées d'origine animale
+préparées ou entreposées, devront être agréés pour certaines exportations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 258, 259
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1933-07-07 art. 14
+
+	**Modifié par**:
+
+	  - Loi n°65-543 du 8 juillet 1965 - art. 1 () JORF 9 juillet 1965
+
+
+###### Article 263
+
+En cas d'infraction aux dispositions concernant l'apposition d'estampilles ou de marques attestant l'intervention des
+services d'inspection ou de surveillance sanitaire que le règlement ou un règlement pris en application de la loi du 1er août
+1905 sur les fraudes aurait rendu obligatoire, les denrées non estampillées pourront être saisies et cédées par l'Etat, sans
+préjudice des sanctions pénales qui pourront comporter la confiscation des sommes récupérées par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Cite**:
+
+	  - Loi n°1905-08-01
+
+	**Anciens textes**:
+
+	  - Loi n°1933-07-07 art. 15
+
+	**Modifié par**:
+
+	  - Loi n°65-543 du 8 juillet 1965 - art. 1 () JORF 9 juillet 1965
 
 	**Abrogé par**:
 
