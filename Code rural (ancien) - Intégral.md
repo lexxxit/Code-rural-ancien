@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1986-01-08
+Version Consolidée au 1986-01-18
 
 ###### Article 40-3
 
@@ -23899,22 +23899,27 @@ e bis) Les artisans ruraux non employeurs  de main-d'oeuvre, présents sous les 
 duquel les cotisations auraient dû être établies ;
 
 f) Les coopératives d'utilisation de matériel agricole visées à l'article 550 et régulièrement agréées sauf pour leur
-personnel administratif ou des ateliers de réparations.
+personnel administratif ou des ateliers de réparations ;
+
+g) Les groupements d'employeurs prévus aux articles L. 127-1 et L. 127-7 du code du travail lorsqu'ils sont constitués
+d'exploitants agricoles, sauf pour leur personnel administratif.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code rural 550
+	  - Code du travail - art. L127-1 (M)
+	  - Code du travail - art. L127-7 (M)
+
 	**Modifié par**:
 
-	  - Loi n°84-575 du 9 juillet 1984 - art. 27 () JORF 10 juillet 1984
+	  - Loi n°86-76 du 17 janvier 1986 - art. 31 () JORF 18 janvier 1986
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L731-28 (V)
 	  - Code rural - art. L741-7 (V)
-
-	**Cite**:
-
-	  - Code rural 550
 
 
 ###### Article 1077
@@ -26801,7 +26806,10 @@ des catégories de personnes ci-dessous énumérées :
 1° Les ouvriers et employés occupés dans les exploitations agricoles de quelque nature qu'elles soient ainsi que dans les
 exploitations d'élevage, de dressage, d'entraînement, les haras, les entreprises de toute nature, bureaux, dépôts ou magasins
 de vente se rattachant à des syndicats ou exploitations agricoles lorsque le syndicat ou l'exploitation agricole constitue le
-principal établissement ;
+principal établissement ainsi que ceux occupés dans les structures d'accueil touristique implantées sur des exploitations
+agricoles, lorsque l'activité complémentaire d'accueil constitue le prolongement de la mise en valeur de l'exploitation.
+
+Un décret détermine les critères permettant d'apprécier le caractère accessoire de l'activité touristique.
 
 2° Les ouvriers et employés occupés dans les établissements de conchyliculture et de pisciculture et établissements
 assimilés, à l'exception de ceux qui relèvent du régime social des marins ;
@@ -26810,15 +26818,15 @@ assimilés, à l'exception de ceux qui relèvent du régime social des marins ;
 
 Sont considérées comme travaux forestiers les travaux suivants :
 
-- Travaux d'exploitation de bois, à savoir abattage, ébranchage, élagage, éhouppage, débardage sous toutes ses formes,
+- travaux d'exploitation de bois, à savoir abattage, ébranchage, élagage, éhouppage, débardage sous toutes ses formes,
 travaux précédant ou suivant normalement ces opérations tels que débroussaillement, nettoyage des coupes ainsi que le
 transport de bois effectué par l'entreprise qui a procédé à tout ou partie des opérations précédentes et, lorsqu'ils sont
 effectués sur le parterre de la coupe, travaux de façonnage, de conditionnement du bois, de sciage et de carbonisation, quels
 que soient les procédés utilisés ;
 
-- Travaux de reboisement et de sylviculture, y compris l'élagage le débroussaillement et le nettoyage des coupes ;
+- travaux de reboisement et de sylviculture, y compris l'élagage le débroussaillement et le nettoyage des coupes ;
 
-- Travaux d'équipement forestier, lorsqu'ils sont accessoires aux travaux ci-dessus.
+- travaux d'équipement forestier, lorsqu'ils sont accessoires aux travaux ci-dessus.
 
 Ces travaux conservent leur caractère forestier lorsqu'ils sont effectués en dehors du parterre de la coupe par une
 entreprise ou une section d'entreprise dont l'activité principale est l'exploitation forestière ou la production de bois brut
@@ -26863,7 +26871,7 @@ de l'exploitation agricole.
 
 	**Modifié par**:
 
-	  - Loi n°85-1273 du 4 décembre 1985 - art. 20 () JORF 5 décembre 1985
+	  - Loi n°86-76 du 17 janvier 1986 - art. 32 () JORF 18 janvier 1986
 
 	**Cité par**:
 
@@ -26898,7 +26906,10 @@ un conseil ou un comité administratifs ou paritaires, pour les accidents surven
 missions ;
 
 4° Les salariés accomplissant un stage de formation dans les conditions prévues par les articles L. 236-10, L. 434-10 et L.
-451-1 du code du travail, pour les accidents survenus par le fait ou à l'occasion de cette formation.
+451-1 du code du travail, pour les accidents survenus par le fait ou à l'occasion de cette formation ;
+
+5° Les bénéficiaires des allocations mentionnées au sixième alinéa (4°) de l'article L. 322-4 du code du travail pour les
+accidents survenus par le fait ou à l'occasion des actions favorisant leur reclassement.
 
 En ce qui concerne les personnes visées au présent article, des décrets déterminent à qui incombent les obligations de
 l'employeur et fixent les bases des cotisations et celles des indemnités.
@@ -26907,7 +26918,7 @@ l'employeur et fixent les bases des cotisations et celles des indemnités.
 
 	**Modifié par**:
 
-	  - Loi n°85-1409 1985-12-30 art. 13 JORF 31 décembre 1985 en vigueur le 1er janvier 1986
+	  - Loi n°86-76 du 17 janvier 1986 - art. 33 () JORF 18 janvier 1986
 
 	**Nouveaux textes**:
 
@@ -26916,6 +26927,7 @@ l'employeur et fixent les bases des cotisations et celles des indemnités.
 	**Cite**:
 
 	  - Code du travail - art. L236-10 (M)
+	  - Code du travail - art. L322-4 (M)
 	  - Code du travail - art. L434-10 (M)
 	  - Code du travail - art. L451-1 (M)
 	  - Code du travail - art. L990-8 (T)
@@ -31012,7 +31024,10 @@ désignés, en application de l'article L. 990-8 du code du travail, pour siège
 administratifs ou paritaires, pour les accidents survenus par le fait ou à l'occasion de leurs missions ;
 
 4° Les salariés accomplissant un stage de formation dans les conditions prévues par les articles L. 236-10, L. 434-10 et L.
-451-1 du code du travail, pour les accidents survenus par le fait ou à l'occasion de cette formation.
+451-1 du code du travail, pour les accidents survenus par le fait ou à l'occasion de cette formation ;
+
+5° Les bénéficiaires des allocations mentionnées au sixième alinéa (4°) de l'article L. 322-4 du code du travail pour les
+accidents survenus par le fait ou à l'occasion des actions favorisant leur reclassement.
 
 Des décrets fixent les modalités de prise en charge, par les caisses d'assurance-accident agricole des départements du Haut-
 Rhin, du Bas-Rhin et de la Moselle, des risques susceptibles de survenir aux personnes visées au présent article ainsi que
@@ -31023,7 +31038,7 @@ obligations de l'employeur.
 
 	**Modifié par**:
 
-	  - Loi n°85-1409 1985-12-30 art. 13 JORF 31 décembre 1985 en vigueur le 1er janvier 1986
+	  - Loi n°86-76 du 17 janvier 1986 - art. 33 () JORF 18 janvier 1986
 
 	**Nouveaux textes**:
 
@@ -31032,6 +31047,7 @@ obligations de l'employeur.
 	**Cite**:
 
 	  - Code du travail - art. L236-10 (M)
+	  - Code du travail - art. L322-4 (M)
 	  - Code du travail - art. L434-10 (M)
 	  - Code du travail - art. L451-1 (M)
 	  - Code du travail - art. L990-8 (T)
