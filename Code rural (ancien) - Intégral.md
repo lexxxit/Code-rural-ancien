@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1982-01-31
+Version Consolidée au 1982-02-01
 
 ###### Article 162
 
@@ -18244,6 +18244,112 @@ collectives.
 	  - Code rural - art. L713-5 (M)
 
 
+###### Article 992-1
+
+Sans préjudice des dispositions de l'article 992-2 et des 1er, 2è et 4è alinéas de l'article 993, la durée hebdomadaire du
+travail peut varier à condition que sur une période de douze mois consécutifs, cette durée n'excède pas en moyenne la durée
+légale fixée à l'article 992 et que les conditions de sa modulation soient prévues par une convention collective ou un accord
+collectif étendus ou par un accord collectif d'entreprise ou d'établissement. Dans ce cas, sauf dispositions conventionnelles
+différentes, seules les heures de travail effectuées au-delà de cette durée moyenne s'imputent sur le contingent prévu à
+l'article 993-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 992, 992-2, 993, 993-2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Ordonnance 82-109 1982-01-30 art. 2 JORF 31 janvier 1982 en vigueur le 1er février 1982
+
+	**Abrogé par**:
+
+	  - Loi n°88-1202 du 30 décembre 1988 - art. 48 (V) JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L713-21 (V)
+	  - Code rural - art. L713-6 (M)
+
+
+###### Article 992-2
+
+Les heures supplémentaires effectuées au-delà de la durée hebdomadaire du travail fixée par l'article 992 ou de la durée
+considérée comme équivalente, en application du dernier alinéa de cet article, donnent lieu à une majoration de :
+
+25 p. 100 pour les huit premières heures ;
+
+50 p. 100 pour les heures suivantes.
+
+**Nota:**
+
+Nota : Décret 91-830 du 27 août 1991 art. 1 : toute infraction aux dispositions du présent article du code rural est punie de
+la peine d'amende prévue pour les contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 992
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Ordonnance 82-109 1982-01-30 art. 3 JORF 31 janvier 1982 en vigueur le 1er février 1982
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L713-7 (M)
+
+
+###### Article 993
+
+Les heures supplémentaires de travail prévues à l'article précédent ouvrent droit à un repos compensateur dans les conditions
+définies ci-après.
+
+Dans les entreprises de plus de dix salariés, la durée de ce repos compensateur est égale à 20 p. 100 du temps de travail
+accompli en heures supplémentaires au-delà de quarante-deux heures.
+
+Dans tous les établissements énumérés au 7° de l'article 1144, qui n'ont pas une activité de production agricole, toutes les
+heures supplémentaires effectuées au-delà du contingent fixé par le décret mentionné à l'article 993-2, ouvrent droit à un
+repos compensateur dont la durée est égale à 50 p. 100 desdites heures.
+
+Par dérogation aux dispositions du second alinéa du présent article, la durée du repos compensateur peut, en ce qui concerne
+les entreprises ou exploitations occupant des salariés définis aux 1° à 3°, 5°, 6°, 9° et 10° de l'article 1144, et les
+établissements énumérés au 7° du même article qui ont une activité de production agricole, être calculée sur la base d'un ou
+de plusieurs jours de congé par an lorsque la durée hebdomadaire de travail des salariés intéressés a dépassé en moyenne
+quarante-deux heures pendant une période de douze mois consécutifs. Ce mode de calcul ne peut résulter que d'une convention
+collective ou d'un accord collectif étendus ; il doit s'appliquer à l'ensemble des salariés des entreprises liées par cette
+convention ou cet accord.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Ordonnance 82-109 1982-01-30 art. 4 JORF 31 janvier 1982 en vigueur le 1er février 1982
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L713-10 (V)
+	  - Code rural - art. L713-9 (M)
+
+	**Cite**:
+
+	  - Code rural 993-2, 1144
+
+
 ###### Article 993-1
 
 Le repos prévu aux 2e et 3e alinéas de l'article 993 ne peut être pris que par journée entière, chacune étant réputée
@@ -18307,6 +18413,171 @@ de la peine d'amende prévue pour les contraventions de la 4e classe.
 	  - Code rural - art. L713-9 (M)
 
 
+###### Article 993-2
+
+Un décret détermine un contingent annuel d'heures supplémentaires pouvant être effectuées après information, s'ils existent,
+du comité d'entreprise ou, à défaut, des délégués du personnel.
+
+Un contingent supérieur ou inférieur à celui qui est ci-dessus prévu peut être fixé par une convention collective ou un
+accord collectif étendus.
+
+A défaut de détermination du contingent par voie conventionnelle, les modalités de son utilisation doivent donner lieu, au
+moins une fois par an, à une consultation du comité d'entreprise ou des délégués du personnel, s'ils existent, à moins que
+celles-ci ne soient prévues par une convention ou un accord d'entreprise.
+
+**Nota:**
+
+Nota : Décret 91-830 du 27 août 1991 art. 1 : toute infraction aux dispositions du présent article du code rural est punie de
+la peine d'amende prévue pour les contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Ordonnance 82-109 1982-01-30 art. 6 JORF 31 janvier 1982 en vigueur le 1er février 1982
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L713-11 (M)
+
+
+###### Article 993-3
+
+Des heures supplémentaires effectuées au-delà du contingent déterminé en application de l'article 993-2 peuvent être
+autorisées, dans les limites fixées ci-après, par l'inspecteur du travail après avis, s'ils existent, du comité d'entreprise
+ou, à défaut, des délégués du personnel.
+
+**Nota:**
+
+Nota : Décret 91-830 du 27 août 1991 art. 1 : toute infraction aux dispositions du présent article du code rural est punie de
+la peine d'amende prévue pour les contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 993-2
+
+	**Nouveaux textes**:
+
+	  - Code rural L713-12
+	  - Code rural - art. L713-12 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance 82-109 1982-01-30 art. 6 JORF 31 janvier 1982 en vigueur le 1er février 1982
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 994
+
+L'exécution d'heures supplémentaires ne peut avoir pour effet de porter à plus de quarante-six heures la durée moyenne
+hebdomadaire de travail calculée sur une période quelconque de douze semaines consécutives, et à plus de quarante-huit heures
+la durée de travail au cours d'une même semaine.
+
+A titre exceptionnel, pour certains types d'activités, dans certaines régions ou dans certaines entreprises, des dérogations
+applicables à des périodes déterminées peuvent être apportées à la limite de quarante-six heures fixée ci-dessus.
+
+En outre, en cas de circonstances exceptionnelles, notamment de travaux dont l'exécution ne peut être différée, certaines
+entreprises peuvent être autorisées à dépasser, pendant une période limitée, le plafond de quarante-huit heures fixé au
+premier alinéa du présent article, sans toutefois que ce dépassement puisse avoir pour effet de porter la durée du travail à
+plus de soixante heures par semaine. Si les circonstances motivant les demandes de dérogation affectent au même moment des
+entreprises d'un même secteur, l'autorisation accordée peut concerner l'ensemble de ces entreprises.
+
+Le comité d'entreprise ou, à défaut, les délégués du personnel donnent leur avis sur ces dérogations. Cet avis est transmis à
+l'inspecteur des lois sociales en agriculture.
+
+Toutefois, pour les entreprises et exploitations agricoles occupant des salariés définis aux 1°, 2°, 3°, 5°, 6° 9° et 10° de
+l'article 1144, ainsi que les établissements figurant au 7° du même article qui ont une activité de production agricole, la
+limite de quarante-six heures est calculée sur une période de douze mois consécutifs ; dans les mêmes entreprises, et
+exploitations et établissements, le plafond de soixante heures mentionné au troisième alinéa du présent article peut être
+dépassé à la condition que le nombre d'heures supplémentaires effectuées au-delà de ce plafond n'excède pas soixante heures
+au cours d'une période de douze mois consécutifs.
+
+Un décret en Conseil d'Etat, pris après consultation de la section agricole spécialisée de la commission supérieure des
+conventions collectives, fixe l'ensemble des mesures nécessaires à l'application des dispositions des deuxième et troisième
+alinéas ci-dessus.
+
+**Nota:**
+
+Nota : Décret 91-830 du 27 août 1991 art. 1 : toute infraction aux dispositions du présent article du code rural et à celles
+des décrets pris pour l'application du présent article, est punie de la peine d'amende prévue pour les contraventions de la
+4e classe.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-401 1948-03-10 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°71-1049 1971-12-24 art. 3 JORF 28 décembre 1971
+	  - Loi n°74-1116 1974-12-27 art. 1 JORF 28 décembre 1974
+	  - Loi n°75-1253 1975-12-27 art. 3 JORF 30 décembre 1975
+	  - Ordonnance 82-109 1982-01-30 art. 7 JORF 31 janvier 1982 en vigueur le 1er février 1982
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L713-13 (V)
+
+	**Cite**:
+
+	  - Code rural 1144
+
+
+###### Article 995
+
+Dans les activités et professions non couvertes par les décrets prévus à l'article 992, un décret en Conseil d'Etat fixe les
+obligations mises à la charge des employeurs en vue de permettre le contrôle de l'application des dispositions légales et
+conventionnelles relatives à la durée et à l'aménagement du temps de travail.
+
+**Nota:**
+
+Nota : Décret 91-830 du 27 août 1991 art. 1 : toute infraction aux dispositions du présent article du code rural et à celles
+des décrets pris pour l'application du présent article, est punie de la peine d'amende prévue pour les contraventions de la
+4e classe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 992
+
+	**Anciens textes**:
+
+	  - Loi n°48-401 1948-03-10 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°74-1116 1974-12-27 art. 1 JORF 29 décembre 1974
+	  - Ordonnance 82-109 1982-01-30 art. 8 JORF 31 janvier 1982 en vigueur le 1er février 1982
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L713-20 (V)
+
+
 ###### Article 996
 
 Dans les professions énumérées à l'article 992, les femmes ne peuvent être employées à un travail effectif de plus de dix
@@ -18334,6 +18605,71 @@ travail est interdit.
 	**Cite**:
 
 	  - Code rural 992
+
+
+###### Article 997
+
+Chaque semaine, le salarié agricole ou similaire a droit à un repos, à prendre le dimanche, d'une durée minimale de vingt-
+quatre heures consécutives.
+
+Lorsque le travail du dimanche est indispensable au fonctionnement de l'entreprise, le repos hebdomadaire peut être donné
+pour tout ou partie du personnel, soit toute l'année, soit à certaines époques de l'année seulement, suivant l'une des
+modalités ci-après :
+
+a) Un autre jour que le dimanche sous réserve que le jour de repos tombe le dimanche au moins une fois sur quatre ;
+
+b) Une demi-journée le dimanche avec un repos compensateur d'une journée par roulement et par quinzaine ;
+
+c) Par roulement à condition que le jour de repos tombe le dimanche au moins deux fois par mois.
+
+Une convention collective ou un accord collectif étendus peuvent prévoir que les entreprises agricoles ayant une activité à
+caractère industriel et qui fonctionnent à l'aide d'un personnel d'exécution et d'encadrement composé de deux groupes dont
+l'un a pour seule fonction de suppléer l'autre pendant le ou les jours de repos accordés à celui-ci en fin de semaine, sont
+autorisées à déroger à l'obligation de donner le repos hebdomadaire le dimanche.
+
+L'utilisation de cette dérogation est subordonnée à la conclusion d'un accord d'entreprise ou d'établissement ou à
+l'autorisation de l'inspecteur du travail donnée après consultation des délégués syndicaux et avis du comité d'entreprise ou
+des délégués du personnel, s'ils existent.
+
+La rémunération de ces salariés est majorée d'au moins 50 p. 100 par rapport à celle qui serait due pour une durée
+équivalente effectuée suivant l'horaire normal de l'entreprise.
+
+A défaut de convention collective ou d'accord collectif étendus, un décret en conseil d'état peut prévoir les conditions dans
+lesquelles la dérogation prévue au troisième alinéa peut-être accordée.
+
+En cas de circonstances exceptionnelles, notamment de travaux dont l'exécution ne peut être différée, le repos hebdomadaire
+peut être suspendu pour une durée limitée ; les intéressés bénéficieront, au moment choisi d'un commun accord entre
+l'employeur et le salarié, d'un repos d'une durée égale au repos supprimé.
+
+Les repos auxquels ont droit, au cours d'une période déterminée, les spécialistes occupés à des opérations continues peuvent
+être en partie différés sous réserve que le nombre de repos de vingt-quatre heures consécutives soit toujours au moins égal à
+celui des semaines comprises dans ladite période et que chaque salarié ait le plus possible de repos le dimanche.
+
+Les dérogations aux dispositions du premier alinéa ci-dessus ne sont pas applicables aux enfants, non libérés de l'obligation
+scolaire, qui exécutent des travaux légers pendant les vacances scolaires.
+
+Un décret en Conseil d'Etat, pris après avis de la section agricole spécialisée de la commission supérieure des conventions
+collectives, fixe l'ensemble des mesures nécessaires à l'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-401 1948-03-10 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°74-1116 1974-12-27 art. 1 JORF 28 décembre 1974
+	  - Ordonnance 82-109 1982-01-30 art. 9 JORF 31 janvier 1982 en vigueur le 1er février 1982
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L714-1 (M)
+	  - Code rural - art. L714-2 (M)
 
 
 ###### Article 998
