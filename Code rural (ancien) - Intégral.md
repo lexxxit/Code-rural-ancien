@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1976-06-17
+Version Consolidée au 1976-07-11
 
 ###### Article 162
 
@@ -17440,6 +17440,60 @@ Toutes dispositions contraires au présent article sont abrogées.
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1034
+
+L'employeur qui ne s'est pas conformé aux prescriptions de la législation relative aux assurances sociales agricoles est
+poursuivi devant le tribunal de police, soit à la requête du ministère public, sur la demande du ministre de l'agriculture ou
+de l'inspecteur divisionnaire des lois sociales en agriculture compétent, soit, éventuellement, à la requête du ministre de
+l'agriculture ou de toute autre partie intéressée ; il est passible d'une amende de 600 F à 1.300 F prononcée par le tribunal
+sans préjudice de la condamnation par le même jugement et à la requête du ministère public ou de la partie civile, au
+paiement de la somme représentant les contributions dont le versement lui incombait, ainsi qu'au paiement des intérêts de
+retard. L'amende est appliquée autant de fois qu'il y a de personnes employées dans des conditions contraires aux
+prescriptions relatives à l'immatriculation et au paiement des cotisations d'assurances sociales agricoles, sans que le total
+des amendes puisse dépasser 1.800 F.
+
+En cas de récidive, le contrevenant est poursuivi devant le tribunal correctionnel et puni d'une amende de 1.300 F à 3.000 F,
+sans préjudice de la condamnation par le même jugement et à la requête du ministère public ou de la partie civile au paiement
+des contributions dont le versement lui incombait ainsi qu'au paiement des intérêts de retard.
+
+Le tribunal peut, en outre, dans ce cas, prononcer pour une durée de six mois à cinq ans :
+
+a) L'inéligibilité du contrevenant aux chambres de commerce, aux tribunaux de commerce, aux chambres d'agriculture et
+chambres de métiers, aux conseils de prud'hommes ;
+
+b) Son incapacité à faire partie des comités et conseils consultatifs constitués auprès du Gouvernement.
+
+Il peut également ordonner, dans tous les cas, que le jugement de condamnation sera publié intégralement ou par extraits,
+dans les journaux qu'il désignera et affiché dans les lieux qu'il indiquera, le tout aux frais du contrevenant sans que le
+coût de l'insertion puisse dépasser 10 F.
+
+L'employeur qui a retenu par devers lui indûment la cotisation ouvrière précomptée sur le salaire en application de l'article
+1031 est passible des peines prévues aux articles 406 et 408 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°76-622 1976-07-10 art. 2 JORF 11 juillet 1976
+
+	**Cite**:
+
+	  - Code pénal 406, 408
+	  - Code rural 1031
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L725-21 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-28 art. 4
+
+
 ###### Article 1035
 
 Pour les infractions visées au premier alinéa de l'article 1034, il y a récidive lorsque dans les douze mois antérieurs à la
@@ -17724,6 +17778,52 @@ acquises.
 	**Abrogé par**:
 
 	  - Loi n°88-1202 du 30 décembre 1988 - art. 43 () JORF 31 décembre 1988
+
+
+###### Article 1046
+
+Lorsque, sans entrer dans les cas régis par les dispositions législatives applicables aux accidents du travail, la lésion
+dont l'assuré social ou son ayant droit est atteint est imputable à un tiers, l'assuré ou ses ayants droit conservent contre
+l'auteur de l'accident le droit de demander la réparation du préjudice causé, conformément aux règles du droit commun, dans
+la mesure où ce préjudice n'est pas réparé par application du présent chapitre.
+
+Les caisses de mutualité sociale agricole sont tenues de servir à l'assuré ou à ses ayants droit les prestations prévues par
+le présent chapitre, sauf recours de leur part contre l'auteur responsable de l'accident dans les conditions prévues à
+l'alinéa ci-après.
+
+Si la responsabilité du tiers auteur de l'accident est entière ou si elle est partagée avec la victime, la caisse est admise
+à poursuivre le remboursement des prestations mises à sa charge à due concurrence de la part d'indemnité incombant au tiers
+qui répare l'atteinte à l'intégrité physique de la victime, à l'exclusion de la part d'indemnité, de caractère personnel,
+correspondant aux souffrances physiques ou morales par elle endurées et au préjudice esthétique et d'agrément. De même, en
+cas d'accident suivi de mort, la part d'indemnité correspondant au préjudice moral des ayants droit leur demeure acquise.
+
+L'intéressé ou ses ayants droit doivent indiquer, en tout état de la procédure, la qualité d'assuré social de la victime de
+l'accident ainsi que les caisses de mutualité sociale agricole auxquelles celle-ci est ou était affiliée pour les divers
+risques. A défaut de cette indication, la nullité du jugement sur le fond pourra être demandée pendant deux ans, à compter de
+la date à partir de laquelle ledit jugement est devenu définitif, soit à la requête du ministère public, soit à la demande
+des caisses de mutualité sociale agricole intéressées ou du tiers responsable lorsque ces derniers y auront intérêt.
+
+La victime ou ses ayants droit sont admis à faire valoir les droits résultant pour eux de l'action en indemnité formée
+conformément aux trois premiers alinéas du présent article par priorité sur ceux des caisses en ce qui concerne son action en
+remboursement des déboursés.
+
+Le règlement amiable pouvant intervenir entre les tiers et l'assuré ne peut être opposé à la caisse de mutualité sociale
+qu'autant que celle-ci a été invitée à y participer par lettre recommandée. Il ne devient définitif que quinze jours après
+l'envoi de cette lettre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-28 art. 25
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°76-622 1976-07-10 art. 3 JORF 11 juillet 1976
 
 
 ###### Article 1047
@@ -23619,6 +23719,34 @@ régime institué par la loi n° 66-950 du 22 décembre 1966.
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1252-2
+
+Bénéficient des dispositions du présent titre relatives aux accidents du travail et aux maladies professionnelles :
+
+1° Les élèves des établissements d'enseignement technique et de formation professionnelle agricoles pour les accidents
+survenus par le fait ou à l'occasion de cet enseignement ou de cette formation ;
+
+2° Les personnes qui participent bénévolement au fonctionnement d'organismes à objet social sans caractère lucratif créés
+dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle au profit des professions agricoles, en vertu ou pour
+l'application d'un texte législatif ou réglementaire, lorsqu'elles ne bénéficient pas déjà de ces dispositions à un autre
+titre. Un décret détermine la nature desdits organismes et en établit la liste.
+
+Des décrets fixent les modalités de prise en charge, par les caisses d'assurance-accident agricole des départements du Haut-
+Rhin, du Bas-Rhin et de la Moselle, des risques susceptibles de survenir aux personnes visées au présent article ainsi que
+les bases des cotisations et des indemnités ; ils déterminent également la personne morale ou physique à qui incombent les
+obligations de l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L761-14 (V)
 
 
 ###### Article 1253
