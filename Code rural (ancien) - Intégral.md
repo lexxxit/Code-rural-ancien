@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1994-02-11
+Version Consolidée au 1994-03-01
 
 ###### Article 1143-2
 
@@ -5609,12 +5609,8 @@ Les contrevenants aux dispositions de l'article 218 seront punis des peines pré
 
 ###### Article 326-1
 
-Les infractions aux dispositions de l'article 201-1 seront punies d'une amende de 250 à 600 F.
-
-En cas de récidive de l'infraction aux dispositions du premier alinéa dudit article, l'amende sera de 600 à 1.300 F.
-
-En cas de récidive de l'infraction aux dispositions du deuxième alinéa dudit article, le délit sera porté devant le tribunal
-correctionnel et puni d'une amende de 360 à 20.000 F.
+Les infractions aux dispositions de l'article 201-1 seront punies de l'amende prévue pour les contraventions de la deuxième
+classe.
 
 **Liens relatifs à cet article**
 
@@ -5625,14 +5621,16 @@ correctionnel et puni d'une amende de 360 à 20.000 F.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-	**Créé par**:
-
-	  - Loi n°56-464 1956-05-07 art. 2 JORF 9 mai 1956
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°89-469 du 10 juillet 1989 - art. 7 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 327 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 327
@@ -5688,7 +5686,7 @@ textes pris pour leur application sera punie des peines encourues pour les contr
 
 ###### Article 329
 
-Seront punis d'un emprisonnement de deux mois à six mois et d'une amende de 360 à 15.000 F :
+Seront punis d'un emprisonnement de six mois et d'une amende de 25.000 F :
 
 1° Ceux qui, au mépris des défenses de l'administration, auront laissé leurs animaux infectés communiquer avec d'autres ;
 
@@ -5707,19 +5705,20 @@ contagieuses ou avoir été exposés à la contagion.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1881-07-21 art. 31
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 330
 
-Seront punis d'un emprisonnement de six mois à trois ans et d'une amende de 240 à 15.000 F :
+Seront punis d'un emprisonnement de trois ans et d'une amende de 25000 F :
 
 1° Ceux qui auront vendu ou mis en vente de la viande provenant d'animaux qu'ils savaient morts de maladies contagieuses
 quelles qu'elles soient, ou abattus comme atteints de la peste bovine, du charbon, de la morve et de la rage ;
@@ -5732,62 +5731,72 @@ contagion parmi les autres animaux.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1881-07-21 art. 32
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 331
 
 Quiconque aura volontairement fait naître ou contribué à répandre une épizootie chez les vertébrés domestiques ou sauvages,
-ou chez les insectes, les crustacés ou les mollusques d'élevage, sera puni d'un emprisonnement de un an à cinq ans et d'une
-amende de 20 000 F à 500 000 F ou de l'une de ces deux peines seulement. La tentative sera punie comme le délit consommé.
+ou chez les insectes, les crustacés ou les mollusques d'élevage, sera puni d'un emprisonnement de cinq ans et d'une amende de
+500 000 F ou de l'une de ces deux peines seulement. La tentative sera punie comme le délit consommé.
 
 Quiconque aura involontairement, par inobservation des règlements, fait naître ou contribué à répandre une épizootie dans une
-espèce appartenant à l'un des groupes définis à l'alinéa précédent sera puni d'une amende de 10 000 F à 100 000 F et d'un
-emprisonnement de deux mois à deux ans ou de l'une de ces deux peines seulement.
+espèce appartenant à l'un des groupes définis à l'alinéa précédent sera puni d'une amende de 100 000 F et d'un emprisonnement
+de deux ans ou de l'une de ces deux peines seulement.
 
-S'il s'agit de la fièvre aphteuse, la peine d'amende encourue en vertu du premier alinéa est de 50 000 F à 1 000 000 F et
-celle encourue en vertu du deuxième alinéa est de 20 000 F à 200 000 F.
+S'il s'agit de la fièvre aphteuse, la peine d'amende encourue en vertu du premier alinéa est de 1 000 000 F et celle encourue
+en vertu du deuxième alinéa est de 200 000 F.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-639 du 10 juillet 1991 - art. 8 () JORF 12 juillet 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 332
 
-Toute infraction aux dispositions des articles 224 à 233, 240, 241 alinéas 3, 4 et 5, 242 à 245, 248 à 254, 274, alinéas 3, 4
-et 5, non spécifiés au présent titre, sera punie de 3 000 à 6 000 F d'amende. Les contraventions aux dispositions du
-règlement d'administration publique pris pour l'exécution des dispositions des sections 2 et 3 du chapitre III du titre III
-du présent livre, seront suivant les cas, passibles d'une amende de 3 000 à 6 000 F qui sera prononcée par le juge du
-tribunal d'instance du canton.
+Toute infraction aux dispositions des articles 224 à 233, 240, 241, alinéas 3, 4 et 5, 242 à 244, 248 à 254, 274, alinéas 3,
+4 et 5, non spécifiée au présent titre, sera punie de l'amende prévue pour les contravention de la 5e classe. Les
+contraventions aux dispositions du décret pris pour l'exécution des dispositions des sections 2 et 3 du chapitre III du titre
+III du présent livre, seront suivant les cas, passibles de l'amende prévue pour les contravention de la 5e classe qui sera
+prononcée par le juge du tribunal d'instance du canton.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 224 à 233, 240, 241, 242 à 245, 248 à 254, 274
+	  - Code rural 224 à 233, 240, 241, 242 à 244, 248 à 254, 274
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Loi n°89-469 du 10 juillet 1989 - art. 7 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Loi n°1881-07-21 art. 34
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 333
@@ -5818,7 +5827,7 @@ titre que ce soit, les peines peuvent être portées au double du maximum fixé 
 
 ###### Article 334
 
-Seront punis d'une amende de 3 000 à 6 000 F :
+Seront punis de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe :
 
 a) Ceux qui n'auront pas effectué les déclarations prescrites à l'article 264 ou qui n'auront pas remis à l'équarrisseur les
 cadavres d'animaux ou les viandes visées au même article ;
@@ -5840,29 +5849,23 @@ prononcée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural 264, 270, 273, 275
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1942-02-02 art. 18
-
 	**Modifié par**:
 
-	  - Loi n°75-1336 1975-12-31 art. 13 JORF 3 janvier 1976
-	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Loi n°89-469 du 10 juillet 1989 - art. 7 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code pénal - art. 131-13 (M)
+	  - Code rural 264, 270, 273, 275
 
 
 ###### Article 335
 
-Seront punis d'une amende de 10 000 F à 100 000 F et d'un emprisonnement de deux mois à deux ans ou de l'une de ces deux
-peines seulement :
+Seront punis d'une amende de 100 000 F et d'un emprisonnement de deux ans ou de l'une de ces deux peines seulement :
 
 1° ceux qui auront acquis, détenu, cédé à titre gratuit ou onéreux ou utilisé du vaccin antiaphteux en dehors des conditions
 prévues à l'article 234 ;
@@ -5878,18 +5881,22 @@ prévues à l'article 234 ;
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°91-639 du 10 juillet 1991 - art. 9 () JORF 12 juillet 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 336
 
 Toute personne, tenue en application de l'article 226 d'en faire la déclaration, qui aura omis de déclarer ou qui aura
 cherché à dissimuler l'existence d'un animal atteint ou soupçonné d'être atteint de fièvre aphteuse ou ayant été exposé à la
-contagion sera punie d'une amende de 10 000 F à 200 000 F et d'un emprisonnement de deux mois à deux ans ou de l'une de ces
-deux peines seulement.
+contagion sera punie d'une amende de 200 000 F et d'un emprisonnement de deux ans ou de l'une de ces deux peines seulement.
 
 En cas de condamnation, le tribunal pourra ordonner que le jugement sera, intégralement ou par extrait, affiché pendant
 quinze jours à la mairie du lieu où a été commis le délit et publié dans un journal régional et une revue à caractère
@@ -5904,16 +5911,20 @@ professionnel, aux frais du condamné.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-639 du 10 juillet 1991 - art. 10 () JORF 12 juillet 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 337
 
-Est puni d'une peine d'emprisonnement de deux mois à deux ans et d'une amende de de 10 000 F à 100 000 F ou de l'une de ces
-deux peines seulement :
+Est puni de deux ans d'emprisonnement et de 100 000 F d'amende :
 
 a) Le fait d'introduire sur le territoire métropolitain ou dans les départements d'outre-mer des animaux vivants ou leurs
 produits, des denrées animales ou d'origine animale ne répondant pas aux conditions sanitaires ou ayant trait à la protection
@@ -5933,9 +5944,8 @@ certificats ou documents prévus à l'article 275-8 ;
 
 e) Le fait de ne pas respecter les prescriptions édictées en application de l'article 275-9.
 
-Sont punies d'une peine d'emprisonnement de un an à cinq ans et d'une amende de 100 000 F à 500 000 F ou de l'une de ces deux
-peines seulement les infractions définies aux précédents alinéas lorsqu'elles ont entraîné des atteintes graves pour la santé
-humaine ou animale.
+Les peines sont portées à cinq ans d'emprisonnement et à 500 000 F d'amende lorsque les infractions définies aux précédents
+alinéas ont entraîné des atteintes graves pour la santé humaine ou animale.
 
 Le tribunal peut ordonner l'affichage ou la diffusion de la décision prononcée dans les conditions prévues par le code pénal.
 
@@ -5948,17 +5958,22 @@ Le tribunal peut ordonner l'affichage ou la diffusion de la décision prononcée
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-114 du 10 février 1994 - art. 10 () JORF 11 février 1994
+	  - Loi n°92-1336 1992-12-16 art. 373 JORF 23 décembre 1992 en vigueur 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 339
 
 Quiconque aura transporté, remis, à titre gratuit ou onéreux, de la semence d'animaux domestiques ou aura sciemment procédé à
-une insémination artificielle en infraction aux dispositions prévues par l'article 308 sera puni d'une amende de 600 à 15.000
-F. Le tribunal pourra en outre prononcer la confiscation du matériel ayant servi à la récolte, la vente, la conservation, le
+une insémination artificielle en infraction aux dispositions prévues par l'article 308 sera puni d'une amende de 25 000 F. Le
+tribunal pourra en outre prononcer la confiscation du matériel ayant servi à la récolte, la vente, la conservation, le
 transport et l'utilisation de la semence, ainsi que des reproducteurs mâles.
 
 **Liens relatifs à cet article**
@@ -5967,9 +5982,9 @@ transport et l'utilisation de la semence, ainsi que des reproducteurs mâles.
 
 	  - Code rural 308
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Loi n°46-1055 du 15 mai 1946 - art. 4 (Ab)
+	  - Code rural L671-8
 
 	**Codifié par**:
 
@@ -5977,7 +5992,11 @@ transport et l'utilisation de la semence, ainsi que des reproducteurs mâles.
 
 	**Modifié par**:
 
-	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
 
 
 ###### Article 340
@@ -6068,10 +6087,10 @@ c) Les soins de première urgence autres que ceux nécessités par les maladies 
 ###### Article 341
 
 Sous réserve des dispositions prévues aux articles 311-1 et 340-1, l'exercice illégal, avec ou sans rémunération, de la
-médecine ou de la chirurgie des animaux est puni d'une amende de 5 000 F à 60 000 F et d'un emprisonnement de dix jours à
-trois mois ou de l'une de ces deux peines seulement et, en cas de récidive, d'une amende de 20 000 F à 120 000 F et d'un
-emprisonnement de un à six mois ou de l'une de ces deux peines seulement. Dans tous les cas, le tribunal peut ordonner la
-fermeture de l'établissement et prononcer la confiscation du matériel ayant permis l'exercice illégal.
+médecine ou de la chirurgie des animaux est puni d'une amende de 60 000 F et d'un emprisonnement de trois mois ou de l'une de
+ces deux peines seulement et, en cas de récidive, d'une amende de 120 000 F et d'un emprisonnement de six mois ou de l'une de
+ces deux peines seulement. Dans tous les cas, le tribunal peut ordonner la fermeture de l'établissement et prononcer la
+confiscation du matériel ayant permis l'exercice illégal.
 
 **Liens relatifs à cet article**
 
@@ -6082,10 +6101,15 @@ fermeture de l'établissement et prononcer la confiscation du matériel ayant pe
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°89-412 du 22 juin 1989 - art. 35 () JORF 24 juin 1989
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ## Titre X : De la protection des végétaux.
@@ -6699,12 +6723,12 @@ l'économie et des finances.
 
 ###### Article 363
 
-Toute infraction aux dispositions du présent titre et à celles des règlements pris pour son application sera punie d'une
-amende de 3.000 à 6.000 F.
+Toute infraction aux dispositions du présent titre et à celles des règlements pris pour son application sera punie de
+l'amende prévue pour les contraventions de la 5e classe.
 
-Seront punis d'un emprisonnement d'un mois à un an et d'une amende de 1.500 à 20.000 F ceux qui auront introduit en France
-l'un des objets énoncés aux articles 348 et 349 sans déclaration ou à l'aide d'une fausse déclaration de provenance ou de
-toute autre manoeuvre frauduleuse.
+Seront punis d'un emprisonnement d'un an et d'une amende de 25 000 F ceux qui auront introduit en France l'un des objets
+énoncés aux articles 348 et 349 sans déclaration ou à l'aide d'une fausse déclaration de provenance ou de toute autre
+manoeuvre frauduleuse.
 
 En cas de récidive, dans le délai de cinq ans, les peines peuvent être portées au double du maximum fixé ci-dessus.
 
@@ -6714,17 +6738,14 @@ En cas de récidive, dans le délai de cinq ans, les peines peuvent être porté
 
 	  - Code rural 348, 349
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2627 1945-11-02 art. 23
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
 	**Modifié par**:
 
-	  - Loi n°89-469 du 10 juillet 1989 - art. 7 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 364
@@ -8002,13 +8023,17 @@ La responsabilité personnelle des membres chargés de l'administration de la ca
 statuts ou des dispositions du présent livre.
 
 En outre, en cas de fausses déclarations relatives aux statuts ou aux noms et qualités des administrateurs ou du directeur,
-ils peuvent être poursuivis et punis d'une amende de 2.500 à 5.000 F.
+ils peuvent être poursuivis et punis de l'amende prévue pour les contraventions de la 5e classe.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 635
@@ -13909,16 +13934,11 @@ Toutes dispositions contraires au présent article sont abrogées.
 L'employeur qui ne s'est pas conformé aux prescriptions de la législation relative aux assurances sociales agricoles est
 poursuivi devant le tribunal de police, soit à la requête du ministère public, sur la demande du ministre de l'agriculture ou
 de l'inspecteur divisionnaire des lois sociales en agriculture compétent, soit, éventuellement, à la requête du ministre de
-l'agriculture ou de toute autre partie intéressée ; il est passible d'une amende de 600 F à 1.300 F prononcée par le tribunal
-sans préjudice de la condamnation par le même jugement et à la requête du ministère public ou de la partie civile, au
-paiement de la somme représentant les contributions dont le versement lui incombait, ainsi qu'au paiement des intérêts de
-retard. L'amende est appliquée autant de fois qu'il y a de personnes employées dans des conditions contraires aux
-prescriptions relatives à l'immatriculation et au paiement des cotisations d'assurances sociales agricoles, sans que le total
-des amendes puisse dépasser 1.800 F.
-
-En cas de récidive, le contrevenant est poursuivi devant le tribunal correctionnel et puni d'une amende de 1.300 F à 3.000 F,
-sans préjudice de la condamnation par le même jugement et à la requête du ministère public ou de la partie civile au paiement
-des contributions dont le versement lui incombait ainsi qu'au paiement des intérêts de retard.
+l'agriculture ou de toute autre partie intéressée ; il est passible de l'amende prévue pour les contraventions de la 3e
+classe prononcée par le tribunal sans préjudice de la condamnation par le même jugement et à la requête du ministère public
+ou de la partie civile, au paiement de la somme représentant les contributions dont le versement lui incombait, ainsi qu'au
+paiement des intérêts de retard. L'amende est appliquée autant de fois qu'il y a de personnes employées dans des conditions
+contraires aux prescriptions relatives à l'immatriculation et au paiement des cotisations d'assurances sociales agricoles.
 
 Le tribunal peut, en outre, dans ce cas, prononcer pour une durée de six mois à cinq ans :
 
@@ -13932,30 +13952,35 @@ dans les journaux qu'il désignera et affiché dans les lieux qu'il indiquera, l
 coût de l'insertion puisse dépasser 10 F.
 
 L'employeur qui a retenu par devers lui indûment la cotisation ouvrière précomptée sur le salaire en application de l'article
-1031 est passible des peines prévues aux articles 406 et 408 du code pénal.
+1031 est passible des peines prévues aux articles 314-1 et 314-10 du code pénal.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°76-622 1976-07-10 art. 2 JORF 11 juillet 1976
-
 	**Cite**:
 
-	  - Code pénal 406, 408
+	  - Code pénal - art. 314-1 (M)
+	  - Code pénal - art. 314-10 (V)
 	  - Code rural 1031
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L725-21 (Ab)
+	  - Code rural L725-21
+	  - Code rural R725-23
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°1935-10-28 art. 4
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 327 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1035
@@ -13963,9 +13988,6 @@ L'employeur qui a retenu par devers lui indûment la cotisation ouvrière préco
 Pour les infractions visées au premier alinéa de l'article 1034, il y a récidive lorsque dans les douze mois antérieurs à la
 date d'expiration du délai d'un mois imparti par l'avertissement ou la mise en demeure prévus à l'article 1036 le
 contrevenant a déjà subi une condamnation pour une contravention identique.
-
-En cas de pluralité de contraventions entraînant les peines de la récidive l'amende est appliquée autant de fois qu'on a
-relevé de nouvelles contraventions. Toutefois, le total des amendes ne peut dépasser 7.200 F.
 
 **Liens relatifs à cet article**
 
@@ -13976,10 +13998,15 @@ relevé de nouvelles contraventions. Toutefois, le total des amendes ne peut dé
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°89-474 du 10 juillet 1989 - art. 2 () JORF 12 juillet 1989
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 327 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1036
@@ -14105,7 +14132,7 @@ peuvent prétendre à bénéficier de la pension de retraite du régime des assu
 
 ###### Article 1047
 
-Sont passibles d'une amende de 360 à 25.000 F et d'un emprisonnement de six jours à deux mois :
+Sont passibles d'une amende de 25.000 F et d'un emprisonnement de deux mois :
 
 1° Les administrateurs, directeurs, agents de toutes sociétés ou institutions recevant, sans avoir été dûment agréés ou
 autorisés à cet effet, les versements visés à la section 2 du présent chapitre ;
@@ -14115,17 +14142,24 @@ dans l'encaissement ou dans la gestion, le tout sans préjudice de plus fortes p
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code rural L723-45
+	  - Code rural - art. L723-45 (M)
+
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 43 () JORF 31 décembre 1988
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L723-45 (M)
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 #### Section 4 : Régime facultatif, régime complémentaire.
@@ -14762,6 +14796,43 @@ Les cotisations sont à la charge des assujettis.
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1072
+
+Toute personne appelée à l'occasion de ses fonctions ou attributions à intervenir dans l'établissement des cotisations est
+tenue au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal et passible des peines prévues
+auxdits articles.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L723-42
+	  - Code rural - art. L723-42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Anciens textes**:
+
+	  - Loi n°1949-07-16 art. 12
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 327 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
+
+
 #### Section 2 : Dégrèvements.
 
 ###### Article 1073
@@ -14879,46 +14950,49 @@ Ces amendes sont recouvrées comme en matière d'amendes pénales par les percep
 
 Ainsi qu'il est dit aux articles 18, 19, 20 et 21 de la loi du 22 août 1946 non repris par le présent code :
 
-Est passible d'une amende de 1.000 à 2.000 F quiconque se rend coupable de fraudes ou de fausses déclarations pour obtenir ou
-tenter de faire obtenir des prestations qui ne sont pas dues, sans préjudice des peines résultant de l'application d'autres
-lois s'il y échet.
+Est passible d'une amende de 30 000 F quiconque se rend coupable de manoeuvres frauduleuses ou de fausses déclarations pour
+obtenir ou tenter d'obtenir des prestations qui ne sont pas dues, sans préjudice des peines résultant de l'application
+d'autres lois s'il y échet. En cas de récidive, le maximum de l'amende sera porté au double.
 
-Sera puni d'une amende de 1.000 à 2.000 F, et, en cas de récidive dans un délai d'un an, d'une amende de 2.000 à 20.000 F
-tout intermédiaire convaincu d'avoir offert ou fait offrir ses services moyennant émoluments convenus à l'avance, à un
-allocataire en vue de lui faire obtenir des prestations qui peuvent lui être dues.
+Sera puni d'une amende de 30 000 F tout intermédiaire convaincu d'avoir offert ou fait offrir ses services moyennant
+émoluments convenus d'avance, à un allocataire en vue de lui faire obtenir des prestations qui peuvent lui être dues. En cas
+de récidive, le maximum de l'amende sera porté au double.
 
-Le maximum des deux peines sera toujours appliqué au délinquant lorsqu'il aura subi une condamnation pour la même infraction
-et le tribunal pourra ordonner l'insertion du nouveau jugement dans un ou plusieurs journaux de la localité, le tout aux
-frais du condamné, sans que le coût de l'insertion puisse dépasser 50 F.
+En cas de condamnation le tribunal pourra ordonner l'insertion du jugement dans un ou plusieurs journaux de la localité, le
+tout aux frais du condamné, sans que le coût de l'insertion puisse dépasser 1 000 F.
 
 Quiconque, par voies de fait, menaces ou manoeuvres concertées, aura organisé ou tenté d'organiser le refus par les
 assujettis de se conformer aux prescriptions de la législation des prestations familiales et notamment de s'affilier à une
-caisse (de sécurité sociale ou) d'allocations familiales, ou de payer des cotisations dues, sera puni d'un emprisonnement de
-trois mois à deux ans et d'une amende de 720 à 20.000 F.
+caisse de sécurité sociale ou d'allocations familiales, ou de payer des cotisations dues, sera puni d'un emprisonnement de
+deux ans et d'une amende de 25 000 F.
 
-Sera passible d'un emprisonnement d'un mois à six mois et d'une amende de 600 à 1.000 F quiconque aura, par quelque moyen que
-ce soit, incité les assujettis à refuser de se conformer aux prescriptions de la législation des prestations familiales et
-notamment de s'affilier à une caisse (de sécurité sociale ou) d'allocations familiales ou de payer les cotisations dues.
+Sera passible d'un emprisonnement de six mois et d'une amende de 25 000 F quiconque aura, par quelque moyen que ce soit,
+incité les assujettis à refuser de se conformer aux prescriptions de la législation des prestations familiales et notamment
+de s'affilier à une caisse de sécurité sociale ou d'allocations familiales ou de payer les cotisations dues.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°85-17 du 4 janvier 1985 - art. 26 () JORF 5 janvier 1985
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L725-13 (M)
 	  - Code rural - art. L725-14 (Ab)
 	  - Code rural - art. L725-15 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1938-05-31 art. 21
+	  - Code rural L725-13
+	  - Code rural L725-14
+	  - Code rural L725-15
 
 	**Cite**:
 
@@ -17123,9 +17197,9 @@ l'assiette forfaitaire définis à l'article 1003-12. Son taux est fixé par dé
 Dès que l'état des cotisations visées par la mise en demeure prévue à l'article 1143-2 peut être rendu exécutoire,
 l'assujetti sera, si le ministre de l'agriculture, l'inspecteur départemental des lois sociales en agriculture ou toute autre
 autorité administrative désignée par le ministre de l'agriculture en fait la demande, poursuivi devant le tribunal de police
-à la requête du ministère public. Il est passible d'une amende de 600 F à 3.000 F prononcée par le tribunal, sans préjudice
-de la condamnation par le même jugement au paiement de la somme représentant les contributions dont le versement lui
-incombait ainsi qu'au paiement des majorations de retard.
+à la requête du ministère public. Il est passible de l'amende prévue pour les contraventions de la 3e classe prononcée par le
+tribunal, sans préjudice de la condamnation par le même jugement au paiement de la somme représentant les contributions dont
+le versement lui incombait ainsi qu'au paiement des majorations de retard.
 
 **Liens relatifs à cet article**
 
@@ -17133,19 +17207,29 @@ incombait ainsi qu'au paiement des majorations de retard.
 
 	  - Code rural 1143-2
 
+	**Nouveaux textes**:
+
+	  - Code rural R725-55
+
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°70-365 1970-04-29 art. 3, art. 4 JORF 30 avril 1970
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1130
 
-En cas de récidive, le délinquant est puni d'une amende de 1.300 F à 5.000 F, sans préjudice de la condamnation, par le même
-jugement, au paiement des contributions dont le versement lui incombait ainsi qu'au paiement des majorations de retard.
+En cas de récidive, le délinquant est poursuivi devant le tribunal correctionnel et puni de l'amende prévue pour les
+contraventions de la 5e classe, sans préjudice de la condamnation, par le même jugement, au paiement des contributions dont
+le versement lui incombait ainsi qu'au paiement des majorations de retard.
 
 Il y a récidive lorsque, dans les douze mois antérieurs à la date de l'expiration du délai de quinzaine imparti par la mise
 en demeure prévue à l'article 1143-2, le contrevenant a déjà subi une condamnation pour une contravention identique.
@@ -17163,17 +17247,23 @@ b) son incapacité à faire partie des comités et conseils consultatifs constit
 
 	  - Code rural 1143-2
 
+	**Nouveaux textes**:
+
+	  - Code rural L725-16
+	  - Code rural - art. L725-16 (V)
+
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°70-365 1970-04-29 art. 3 JORF 30 avril 1970
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 327 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L725-16 (V)
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1131
@@ -17240,25 +17330,36 @@ parties intéressées.
 
 Quiconque sera convaincu d'avoir, moyennant une rémunération quelconque, offert, accepté de prêter ou prêté des services à un
 exploitant en vue de lui permettre de se soustraire aux obligations mises à sa charge par la présente section, sera puni
-d'une amende de 360 F à 25.000 F et d'un emprisonnement d'un mois à six mois et, en cas de récidive dans le délai d'un an,
-d'une amende de 3.600 F à 50.000 F et d'un emprisonnement de trois mois à deux ans.
+d'une amende de 25.000 F et d'un emprisonnement de six mois et, en cas de récidive dans le délai d'un an, d'une amende de
+50.000 F et d'un emprisonnement de deux ans.
 
 En outre, s'il y a lieu, le tribunal pourra prononcer à l'égard du délinquant les peines accessoires prévues à l'article
 1130.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L725-16 (V)
-
 	**Cite**:
 
 	  - Code rural 1130
+
+	**Nouveaux textes**:
+
+	  - Code rural L725-16
+	  - Code rural - art. L725-16 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 #### Section 3 : Organisation administrative et financière.
@@ -22178,19 +22279,31 @@ peuvent exercer une des professions suivantes :
 agent ou courtier d'assurance, directeur ou administrateur d'un établissement de crédit autre que le crédit agricole mutuel,
 d'une compagnie d'assurance ou d'une caisse de sécurité sociale, agent d'affaires ou conseil juridique.
 
-Les infractions à ces dispositions seront sanctionnées par une amende de 180 F au moins et 25 000 F au plus et par un
-emprisonnement de six mois au moins et de deux ans au plus ou par l'une de ces deux peines seulement.
+Les infractions à ces dispositions seront sanctionnées par une amende de 25 000 F et par un emprisonnement de deux ans au
+plus ou par l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L723-44
+	  - Code rural L771-4
+	  - Code rural - art. L723-44 (M)
+	  - Code rural - art. L771-4 (V)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Code rural - art. L723-44 (M)
-	  - Code rural - art. L771-4 (V)
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1241
@@ -22296,12 +22409,12 @@ sont tenus de recevoir, à toute époque, les inspecteurs et contrôleurs des lo
 assermentés des caisses de mutualité sociale agricole qui se présentent pour vérifier l'application régulière des
 dispositions du chapitre III-1 du titre II du présent livre.
 
-L'article 990 ci-dessus est applicable aux infractions aux dispositions du chapitre III-1 du titre II du présent livre. Pour
-l'application dudit article 990, les agents assermentés des caisses de mutualité sociale agricole auront les mêmes pouvoirs
+L'article 985 ci-dessus est applicable aux infractions aux dispositions du chapitre III-1 du titre II du présent livre. Pour
+l'application dudit article 985, les agents assermentés des caisses de mutualité sociale agricole auront les mêmes pouvoirs
 et bénéficieront de la même protection que les inspecteurs et contrôleurs des lois sociales en agriculture.
 
-Sont punis d'une amende de 3 000 à 10 000 F et, en cas de récidive, de 6 000 à 20 000 F ceux qui ont mis obstacle à
-l'accomplissement de ses devoirs par un des inspecteurs, contrôleurs ou agents visés au présent article.
+Sont punis de l'amende prévue pour les contraventions de la 5e classe, en première infraction, et en récidive ceux qui ont
+mis obstacle à l'accomplissement de ses devoirs par un des inspecteurs, contrôleurs ou agents visés au présent article.
 
 Les dispositions du code pénal qui prévoient et répriment les actes de résistance, les outrages et les violences contre les
 officiers de police judiciaire sont, en outre, applicables à ceux qui se rendent coupables de faits de même nature à l'égard
@@ -22309,18 +22422,31 @@ des inspecteurs, contrôleurs ou agents.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°55-433 1955-04-16
+	  - Code rural 985, 1106-12
 
 	**Nouveaux textes**:
 
+	  - Code rural L724-11
+	  - Code rural L724-13
+	  - Code rural L724-9
 	  - Code rural - art. L724-11 (M)
 	  - Code rural - art. L724-13 (M)
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code rural 990, 1106-12
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1244-2
