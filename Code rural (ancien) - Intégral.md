@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1963-02-20
+Version Consolidée au 1963-03-08
 
 ###### Article 162
 
@@ -2583,6 +2583,43 @@ limite des plus-values réalisées par les collectivités bénéficiaires.
 	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
+###### Article 143
+
+Lorsque les associations syndicales ou leurs unions n'ont pas été constituées en temps utile, il est pourvu à la constitution
+d'associations ou d'unions forcées auxquelles les dispositions de l'article 142 sont applicables.
+
+Les départements, les communes ainsi que les groupements de ces collectivités, les syndicats mixtes créés en application de
+l'article 152 du code de l'administration communale, et les districts urbains peuvent toutefois obtenir, dans des conditions
+qui seront fixées par un règlement d'administration publique, la remise des ouvrages et en assurer la gestion et l'entretien.
+Les dispositions prévues aux articles 142, 144 et 145 leur sont applicables, sous réserve des adaptations nécessaires.
+
+Jusqu'à la constitution de ces associations ou unions, ou la prise en charge par les organismes ci-dessus mentionnés,
+l'exploitation des ouvrages peut être assurée par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'administration communale 152
+	  - Code rural 142, 144, 145
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1951-06-07 art. 7
+
+	**Modifié par**:
+
+	  - Loi n°63-233 1963-03-07 art. 4 JORF 8 mars 1963
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
 ###### Article 144
 
 Un décret en Conseil d'Etat, pris sur le rapport des ministres de l'agriculture et de l'économie et des finances, détermine
@@ -2810,6 +2847,57 @@ dépenses d'intérêt public.
 	**Modifié par**:
 
 	  - Ordonnance 58-1374 1958-12-30 art. 106 JORF 31 décembre 1958 rectificatif 5 février 1959
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 151-1
+
+Sans préjudice des dispositions des articles 140 à 151 du présent code, le ministre de l'agriculture peut prescrire
+l'exécution par l'Etat de tous travaux d'équipement rural sur la demande des collectivités locales ou des établissements
+publics qui auront souscrit l'engagement préalable de prendre en charge l'exploitation et l'entretien des ouvrages qui leur
+seront remis en pleine propriété, et de rembourser à l'Etat une fraction des dépenses dans les conditions qui seront fixées
+par un arrêté du ministre de l'agriculture, du ministre de l'intérieur et du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 140 à 151
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°63-233 1963-03-07 art. 5 JORF 8 mars 1963
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 151-2
+
+Les dispositions du troisième alinéa de l'article 177 s'appliquent aux travaux de même nature entrepris par l'Etat dans les
+conditions prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 177
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°63-233 1963-03-07 art. 6 JORF 8 mars 1963
 
 	**Abrogé par**:
 
@@ -3368,6 +3456,184 @@ plus-value des terres après le dessèchement ; elle donne son avis sur l'organi
 	**Abrogé par**:
 
 	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+### Chapitre III : Des travaux entrepris par les départements et les communes ainsi que par leurs groupements et les syndicats mixtes.
+
+###### Article 175
+
+Les départements, les communes ainsi que les groupements de ces collectivités et les syndicats mixtes créés en application de
+l'article 152 du code de l'administration communale sont autorisés à exécuter et à prendre en charge les travaux entrant dans
+les catégories ci-dessous définies, lorsqu'ils présentent pour eux, du point de vue agricole ou du point de vue de
+l'aménagement des eaux, un caractère d'urgence ou d'intérêt général :
+
+1° Lutte contre l'érosion, défense contre les torrents, reboisement et aménagement des versants, défense contre les
+incendies ;
+
+2° Défense des rives et du fond des rivières non domaniales ;
+
+3° Curage, approfondissement, redressement et régularisation des canaux et cours d'eau non domaniaux et des canaux de
+dessèchement et d'irrigation ;
+
+4° Dessèchement des marais ;
+
+5° Assainissement des terres humides et insalubres ;
+
+6° Irrigation, épandage, colmatage et limonage ;
+
+7° Aménagement, soit du bassin d'un cours d'eau non domanial ou d'une partie de ce bassin, soit seulement d'un cours d'eau
+non domanial ou d'une section de celui-ci.
+
+Lorsque les travaux intéressent plusieurs départements ou plusieurs communes, il est constitué des institutions
+interdépartementales ou des syndicats de communes. Ces institutions ou syndicats relèvent administrativement du préfet du
+département où est situé le siège de ces organismes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'administration communale 152
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°63-233 1963-03-07 art. 1 JORF 8 mars 1963
+
+	**Anciens textes**:
+
+	  - Loi n°1941-02-16
+
+
+###### Article 176
+
+Un arrêté du préfet, sur rapport de l'ingénieur en chef chargé du contrôle, ou un arrêté concerté du ministre de
+l'agriculture et du ministre de l'intérieur lorsque les travaux doivent s'étendre sur plusieurs départements, définit la
+nature et l'étendue des travaux à réaliser, fixe le montant des dépenses prévues, la proportion dans laquelle les travaux
+doivent s'étendre sur plusieurs départements, définit la nature et l'étendue des travaux à réaliser, fixe le montant des
+dépenses prévues, la proportion dans laquelle les départements, les communes, ainsi que les groupements de ces collectivités
+et les syndicats mixtes créés en application de l'article 152 du code de l'administration communale sont autorisés à faire
+participer les intéressés aux charges de premier établissement et aux frais d'entretien et d'exploitation. Les bases
+générales de la répartition de cette participation sont fixées compte tenu de la mesure dans laquelle chacun a rendu
+l'aménagement nécessaire ou utile ou y trouve son intérêt. L'arrêté définit, en outre, les modalités d'entretien ou
+d'exploitation de l'aménagement. Il peut en prévoir la prise en charge par une association syndicale ou par une des
+associations foncières mentionnées à l'article 28 du code rural à laquelle seraient remis les ouvrages. Cet arrêté est
+précédé d'une enquête dont les formes sont déterminées par un règlement d'administration publique.
+
+Lorsque l'arrêté visé à l'alinéa précédent est un arrêté du préfet, il indique également par commune les terrains dont
+l'occupation temporaire est reconnue nécessaire, le numéro que les parcelles à occuper portent sur le plan cadastral et le
+nom des propriétaires tel qu'il est inscrit sur la matrice des rôles.
+
+A titre transitoire, en attendant que soient précisées les formes de l'enquête instituée par le présent article, celle-ci est
+poursuivie dans les conditions prévues à l'article 2 du décret n° 59-936 du 31 juillet 1959.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'administration communale 152
+	  - Code rural 28
+	  - Décret n°59-936 1959-07-31 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°63-233 1963-03-07 art. 1 JORF 8 mars 1963
+
+	**Anciens textes**:
+
+	  - Loi n°1941-02-16
+
+
+###### Article 177
+
+Les départements, les communes ainsi que les groupements de ces collectivités et les syndicats mixtes créés en application de
+l'article 152 du code de l'administration communale sont, ainsi que leurs concessionnaires, investis, pour la réalisation des
+travaux, de tous les droits et servitudes dont disposent les associations syndicales autorisées.
+
+Le recouvrement des cotisations des intéressés est effectué comme en matière de contributions directes.
+
+Lorsqu'il s'agit d'un des aménagements mentionnés au 7° de l'article 175, il peut être procédé à l'expropriation des droits
+d'eau, exercés ou non, des propriétaires riverains, à l'exclusion de ceux qui sont exercés dans le cadre de concessions de
+forces hydrauliques, en application de la loi du 16 octobre 1919.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'administration communale 152
+	  - Code rural 175
+	  - Loi n°1919-10-16
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°63-233 1963-03-07 art. 1 JORF 8 mars 1963
+
+	**Anciens textes**:
+
+	  - Loi n°1941-02-16
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 178
+
+Lorsque l'arrêté mentionné à l'article 176 a prévu que l'entretien et l'exploitation des ouvrages sont confiés à une
+association syndicale autorisée à créer, à laquelle seront remis les ouvrages, et si cette association ne peut être
+constituée en temps utile, il est pourvu, par arrêté préfectoral, à la constitution d'une association forcée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 176
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°63-233 1963-03-07 art. 1 JORF 8 mars 1963
+
+	**Anciens textes**:
+
+	  - Loi n°1941-02-16
+
+
+###### Article 179
+
+Les dépenses d'entretien et de conservation en bon état des ouvrages exécutés en application des articles 175 à 178 inclus du
+code rural ont un caractère obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 175 à 178
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°63-233 1963-03-07 art. 1 JORF 8 mars 1963
+
+	**Anciens textes**:
+
+	  - Loi n°1941-02-16
 
 
 ### Chapitre IV : Restauration de l'habitat rural
