@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1987-06-17
+Version Consolidée au 1987-07-23
 
 ###### Article 40-3
 
@@ -2686,7 +2686,7 @@ habitation.
 Au cas de plantations ou semis exécutés en violation de ces conditions, les exonérations d'impôts et avantages fiscaux de
 toute nature prévus en faveur des propriétés boisées ou des reboisements seront supprimés, les propriétaires pourront être
 tenus de détruire le boisement irrégulier et il pourra, lors des opérations de remembrement, ne pas être tenu compte de la
-nature boisée du terrain ;
+nature boisée du terrain ; il pourra être procédé à la destruction d'office des boisements irréguliers.
 
 2° Ils définissent les périmètres dans lesquels seront développées, par priorité, les actions forestières ainsi que les
 utilisations des terres et les mesures d'accueil en milieu rural, complémentaires des actions forestières, à condition de
@@ -2716,9 +2716,11 @@ relative au développement et à la protection de la montagne.
 
 	**Modifié par**:
 
-	  - Loi n°85-1496 1985-12-31 art. 14 II, art. 15 I, II JORF 3 janvier 1986
-	  - Loi n°85-1496 du 31 décembre 1985 - art. 14 () JORF 3 janvier 1986
-	  - Loi n°85-1496 du 31 décembre 1985 - art. 15 () JORF 3 janvier 1986
+	  - Loi n°87-565 du 22 juillet 1987 - art. 31 () JORF 23 juillet 1987
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
 ###### Article 52-2
@@ -4559,11 +4561,30 @@ En cas de condamnation pour infraction aux dispositions du présent article, le 
 prendre pour faire cesser l'infraction ou en éviter la récidive et le délai dans lequel ces mesures devront être exécutées,
 ainsi qu'une astreinte dans les formes définies à l'article 463 du code rural.
 
+Les décisions d'autorisation ou des arrêtés complémentaire du représentants de l'Etat fixent les dispositions nécessaires
+pour assurer la sécurité des personnes et la protection de l'environnement.
+
+Indépendamment des poursuites pénales qui peuvent être exercées lorsqu'un officier de police judiciaire ou un agent public
+habilité à cet effet a constaté l'inobservation des conditions imposées à l'exploitant d'un des ouvrages soumis à
+autorisation, en application du présent article et nonobstant les dispositions de l'article 26 du code du domaine public
+fluvial et de la navigation intérieure, le représentant de l'Etat peut mettre l'exploitant en demeure de satisfaire à ces
+conditions dans un délai déterminé.
+
+Si, à l'expiration de ce délai, l'exploitant n'a pas obtempéré à cette injonction, le représentant de l'Etat peut :
+
+- soit faire procéder d'office, aux frais de l'exploitant, à l'exécution des mesures prescrites ;
+
+- soit obliger l'exploitant à consigner entre les mains d'un comptable public une somme répondant du montant des travaux ;
+cette somme lui sera restituée au fur et à mesure de l'exécution des travaux ;
+
+- soit décider la mise hors service temporaire de l'ouvrage.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Code rural 463
+	  - Code du domaine public fluvial et de la navigation - art. 26 (Ab)
 
 	**Codifié par**:
 
@@ -4571,7 +4592,11 @@ ainsi qu'une astreinte dans les formes définies à l'article 463 du code rural.
 
 	**Modifié par**:
 
-	  - Loi n°84-512 du 29 juin 1984 - art. 6 () JORF 30 juin 1984
+	  - Loi n°87-565 du 22 juillet 1987 - art. 48 () JORF 23 juillet 1987
+
+	**Abrogé par**:
+
+	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
 
 	**Anciens textes**:
 
