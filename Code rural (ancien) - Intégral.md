@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1963-12-31
+Version Consolidée au 1964-04-07
 
 ###### Article 162
 
@@ -14803,17 +14803,6 @@ et les règles de fonctionnement sont déterminées par des décrets.
 #### Section 1 : Prestations
 
 ##### Paragraphe 1 : Allocation de vieillesse.
-
-###### Article 1112
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
 
 ###### Article 1113
 
