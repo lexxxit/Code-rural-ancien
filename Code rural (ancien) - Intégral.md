@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1957-05-14
+Version Consolidée au 1957-12-31
 
 ###### Article 162
 
@@ -4742,6 +4742,26 @@ traitements insecticides et anticryptogamiques.
 	**Anciens textes**:
 
 	  - Ordonnance 45-2627 1945-11-02 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+###### Article 347
+
+Conformément aux dispositions des articles 1608 et 1648 du code général des impôts, les fédérations départementales agréées
+bénéficient de recettes constituées par une imposition spéciale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1608, 1648
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2627 1945-11-02 art. 6
 
 	**Codifié par**:
 
@@ -12860,17 +12880,6 @@ exerçant son recours contre les chefs d'entreprise ou les compagnies d'assuranc
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-
-###### Article 1208
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
 
 
 ###### Article 1210
