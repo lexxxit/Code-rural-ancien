@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1991-07-01
+Version Consolidée au 1991-07-12
 
 ###### Article 40-3
 
@@ -72,24 +72,6 @@ S'il survient des réclamations, elles sont portées devant le tribunal administ
 	**Abrogé par**:
 
 	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
-
-
-###### Article 237
-
-Lorsque les opérations de vaccination collective sont entreprises, sous la direction des services vétérinaires, à la suite
-d'un accord entre les organisations professionnelles, agricoles et vétérinaires, le vaccin est livré à un prix réduit aux
-propriétaires qui supportent les frais de ces opérations, à condition que la vaccination porte sur au moins 60 % de
-l'effectif d'une espèce sensible dans le département ou la région intéressé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°53-313 1953-04-11 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
 
 
 ###### Article 1143-2
@@ -8817,6 +8799,59 @@ revenus tirés de l'exercice d'une profession libérale. Ces dispositions s'appl
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
+###### Article 215-9
+
+Les vétérinaires investis d'un mandat sanitaire en application de l'article 215-8 sont tenus, dans les limites des
+départements pour lesquels le mandat sanitaire leur a été attribué, d'informer sans délai le préfet des manquements aux
+dispositions des articles 214 à 252 dont ils ont connaissance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 215-8, 214 à 252
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°91-639 du 10 juillet 1991 - art. 1 () JORF 12 juillet 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 215-10
+
+Les préfets peuvent attribuer la qualification de vétérinaire officiel aux vétérinaires investis d'un mandat sanitaire dans
+leurs départements respectifs. Cette qualification habilite, dans les limites de leur circonscription de mandat sanitaire et
+sous le contrôle et l'autorité des préfets et des directeurs des services vétérinaires concernés, les vétérinaires investis
+d'un mandat sanitaire à établir et délivrer tous certificats et documents exigés en matière d'exportation d'animaux vivants,
+tant en ce qui concerne l'application des prescriptions communautaires que les exigences sanitaires formulées par les
+autorités compétentes des pays de destination.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°91-639 du 10 juillet 1991 - art. 2 () JORF 12 juillet 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
 ### Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux.
 
 ###### Article 216
@@ -8972,7 +9007,11 @@ déclaration sans application de mesures de police sanitaire.
 
 Tout propriétaire, toute personne ayant, à quelque titre que ce soit, la charge des soins ou la garde d'un animal atteint ou
 soupçonné d'être atteint de l'une des maladies contagieuses prévues par les articles 224 ou 225 est tenu d'en faire
-immédiatement la déclaration au maire de la commune où se trouve l'animal.
+immédiatement la déclaration à un vétérinaire sanitaire ainsi qu'au maire de la commune où se trouve l'animal.
+
+En outre, toute personne ayant, dans l'exercice d'une profession en rapport avec l'élevage, connaissance de l'existence d'un
+animal présentant des signes de fièvre aphteuse ou ayant été exposé à la contagion est tenue d'en faire immédiatement la
+déclaration à un vétérinaire sanitaire ou au maire de la commune où se trouve l'animal.
 
 L'animal atteint ou soupçonné d'être atteint d'une maladie contagieuse doit être immédiatement, et avant même que l'autorité
 administrative ait répondu à l'avertissement, séquestré, séparé et maintenu isolé autant que possible des autres animaux
@@ -8996,10 +9035,15 @@ est applicable à l'enfouissement, à moins que le maire, en cas d'urgence, n'en
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1898-06-21 art. 31
+	  - Loi n°91-639 du 10 juillet 1991 - art. 3 () JORF 12 juillet 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 227
@@ -9007,9 +9051,9 @@ est applicable à l'enfouissement, à moins que le maire, en cas d'urgence, n'en
 Le maire doit, dès qu'il a été prévenu, s'assurer de l'accomplissement des prescriptions contenues dans l'article précédent
 et y pourvoir d'office, s'il y a lieu.
 
-Aussitôt que la déclaration prescrite par l'article précédent a été faite, ou, à défaut de déclaration, dès qu'il a
-connaissance de la maladie, le maire fait procéder sans retard, par le vétérinaire sanitaire, à la visite de l'animal ou à
-l'autopsie du cadavre.
+Aussitôt que la déclaration prescrite par l'article précédent a été faite ou, à défaut de déclaration, dès qu'il suspecte la
+maladie ou en a connaissance, le maire s'assure de la visite de l'animal ou de l'autopsie du cadavre par le vétérinaire
+sanitaire. Le cas échéant, il y fait procéder sans retard.
 
 Ce vétérinaire constate et, au besoin, prescrit la complète exécution des dispositions de l'article 226 et les mesures de
 désinfection immédiatement nécessaires.
@@ -9028,10 +9072,15 @@ neuvième (6°) et dixième (7°) alinéas de l'article 228.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°89-412 du 22 juin 1989 - art. 12 () JORF 24 juin 1989
+	  - Loi n°91-639 du 10 juillet 1991 - art. 3 () JORF 12 juillet 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 228
@@ -9427,48 +9476,38 @@ qui prend alors un arrêté de déclaration d'infection.
 
 ###### Article 234
 
-Le ministre de l'agriculture peut, par arrêté pris après avis du comité consultatif des épizooties, rendre obligatoire la
-vaccination contre la fièvre aphteuse pour tout ou partie des espèces sensibles et déterminer les conditions d'application de
-cette vaccination, ainsi que les régions dans lesquelles elle est mise en oeuvre.
+La vaccination contre la fièvre aphteuse est interdite sur tout le territoire national et pour toutes les espèces.
+
+Il est interdit à quiconque, en dehors des établissements agréés par l'autorité administrative, d'acquérir, de détenir ou de
+céder, à titre gratuit ou onéreux, du vaccin antiaphteux.
+
+Toutefois, lorsqu'une épizootie de fièvre aphteuse menace de prendre un caractère extensif, la vaccination de certaines
+catégories d'animaux sur un territoire et pendant une période déterminés peut être rendue obligatoire dans les conditions
+prévues par un décret en Conseil d'Etat. La décision institutive précise la nature du vaccin à utiliser et les fournisseurs
+habilités. Elle peut imposer que les animaux des troupeaux vaccinés soient marqués et que leur circulation soit limitée.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°53-313 1953-04-11 art. 1
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°91-639 du 10 juillet 1991 - art. 4 () JORF 12 juillet 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 235
 
-Le ministre de l'agriculture peut, par arrêté, rendre obligatoire l'apposition d'une marque sur les animaux, au moment de la
-vaccination contre la fièvre aphteuse.
+La manipulation des virus aphteux aux fins de recherche, de diagnostic ou de fabrication d'antigènes ou de vaccins n'est
+autorisée que dans les établissements agréés par l'autorité administrative.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°53-313 1953-04-11 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-
-###### Article 236
-
-Les inoculations et le marquage sont effectués par les vétérinaires sanitaires à un tarif fixé par arrêté préfectoral après
-avis des organisations professionnelles agricoles et vétérinaires. Ce tarif est fixé forfaitairement par animal, compte tenu
-des frais d'intervention et de déplacement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°53-313 1953-04-11 art. 3
 
 	**Codifié par**:
 
@@ -9476,31 +9515,75 @@ des frais d'intervention et de déplacement.
 
 	**Modifié par**:
 
-	  - Décret n°61-494 1961-05-15 art. 1 JORF 19 mai 1961
+	  - Loi n°91-639 du 10 juillet 1991 - art. 5 () JORF 12 juillet 1991
 
 
-###### Article 238
+###### Article 236
 
-Si les disponibilités en vaccins antiaphteux sont insuffisantes pour faire face aux nécessités de la lutte contre une
-épizootie, le ministre de l'agriculture peut faire obligation aux fabricants, importateurs et détenteurs de vaccins
-antiaphteux de déclarer la totalité de leur production, de leurs importations et de leurs stocks.
+En cas de suspicion ou de constatation de fièvre aphteuse, la circulation des personnes et des véhicules en provenance ou à
+destination d'une exploitation faisant l'objet d'un arrêté de mise sous surveillance, en application de l'article 227, ou
+d'un arrêté portant déclaration d'infection, en application de l'article 228, est subordonnée à l'autorisation du préfet.
+L'autorisation impose le respect des conditions sanitaires propres à éviter la contagion. En cas de nécessité, le préfet peut
+limiter le nombre des personnes autorisées à pénétrer dans l'exploitation ou à en sortir.
 
-Le service vétérinaire assure le contrôle du recensement et la répartition des vaccins aux vétérinaires selon les nécessités
-de la prophylaxie.
+L'arrêté portant déclaration d'infection détermine un périmètre à l'intérieur duquel la circulation des personnes et des
+véhicules est soumise à des conditions sanitaires propres à éviter la contagion. Le préfet peut, en outre, y interdire tout
+rassemblement de personnes risquant de favoriser la propagation de l'épizootie.
+
+Les mesures prises en application des alinéas précédents sont levées trente jours au plus tard après l'achèvement des
+opérations sanitaires propres à éviter la contagion.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°53-313 1953-04-11 art. 5
+	  - Code rural 227, 228
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°91-639 du 10 juillet 1991 - art. 6 () JORF 12 juillet 1991
 
 	**Abrogé par**:
 
-	  - Loi n°91-639 du 10 juillet 1991 - art. 11 () JORF 12 juillet 1991
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 237
+
+Dès la suspicion ou la confirmation d'un foyer de fièvre aphteuse, le préfet déclenche immédiatement le plan d'intervention
+qu'il a préparé. Ce plan d'intervention prévoit les mesures à prendre en application, notamment, des articles 227, 228, 234
+et 236 du présent code, ainsi que les moyens de secours à mettre en oeuvre pour prévenir la propagation de la maladie.
+
+Le déclenchement du plan permet au préfet de procéder à la réquisition des moyens de secours nécessaires, dans les conditions
+prévues par l'ordonnance n° 59-63 du 6 janvier 1959 relative aux réquisitions de biens et de services.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 227, 228, 234, 236
+	  - Ordonnance 59-63 1959-01-06
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°91-639 du 10 juillet 1991 - art. 7 () JORF 12 juillet 1991
+
+	**Abrogé par**:
+
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
@@ -11725,17 +11808,23 @@ Il est institué un conseil supérieur de l'ordre des vétérinaires ayant son s
 ###### Article 316
 
 Un code de déontologie est édicté par décret en Conseil d'Etat, après avis du Conseil supérieur de l'ordre des vétérinaires
-et consultation des organisations syndicales de vétérinaires ainsi que de la commission nationale vétérinaire.
+et consultation des organisations syndicales de vétérinaires ainsi que du comité consultatif de la santé et de la protection
+des animaux.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-412 du 22 juin 1989 - art. 29 () JORF 24 juin 1989
+	  - Loi n°91-639 du 10 juillet 1991 - art. 12 () JORF 12 juillet 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 317
@@ -12152,6 +12241,30 @@ contagion parmi les autres animaux.
 	  - Loi n°1881-07-21 art. 32
 
 
+###### Article 331
+
+Quiconque aura volontairement fait naître ou contribué à répandre une épizootie chez les vertébrés domestiques ou sauvages,
+ou chez les insectes, les crustacés ou les mollusques d'élevage, sera puni d'un emprisonnement de un an à cinq ans et d'une
+amende de 20 000 F à 500 000 F ou de l'une de ces deux peines seulement. La tentative sera punie comme le délit consommé.
+
+Quiconque aura involontairement, par inobservation des règlements, fait naître ou contribué à répandre une épizootie dans une
+espèce appartenant à l'un des groupes définis à l'alinéa précédent sera puni d'une amende de 10 000 F à 100 000 F et d'un
+emprisonnement de deux mois à deux ans ou de l'une de ces deux peines seulement.
+
+S'il s'agit de la fièvre aphteuse, la peine d'amende encourue en vertu du premier alinéa est de 50 000 F à 1 000 000 F et
+celle encourue en vertu du deuxième alinéa est de 20 000 F à 200 000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°91-639 du 10 juillet 1991 - art. 8 () JORF 12 juillet 1991
+
+
 ###### Article 332
 
 Toute infraction aux dispositions des articles 224 à 233, 240, 241 alinéas 3, 4 et 5, 242 à 245, 248 à 254, 274, alinéas 3, 4
@@ -12251,21 +12364,19 @@ prononcée.
 
 ###### Article 335
 
-Les infractions aux dispositions des articles 234 à 239 et aux dispositions des textes pris pour leur application seront
-punies d'une amende de 1 300 à 3 000 F par contravention constatée.
+Seront punis d'une amende de 10 000 F à 100 000 F et d'un emprisonnement de deux mois à deux ans ou de l'une de ces deux
+peines seulement :
 
-Le tribunal peut prononcer la déchéance du bénéfice des mesures prises en faveur des victimes des calamités publiques à
-l'encontre des contrevenants.
+1° ceux qui auront acquis, détenu, cédé à titre gratuit ou onéreux ou utilisé du vaccin antiaphteux en dehors des conditions
+prévues à l'article 234 ;
 
-Les dispositions des articles 142 et 143 du code pénal sont applicables en ce qui concerne les marques prévues à l'article
-235.
+2° ceux qui auront manipulé du virus aphteux en dehors des conditions prévues à l'article 235.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 234 à 239, 235
-	  - Code pénal 142, 143
+	  - Code rural 234, 235
 
 	**Codifié par**:
 
@@ -12273,12 +12384,33 @@ Les dispositions des articles 142 et 143 du code pénal sont applicables en ce q
 
 	**Modifié par**:
 
-	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Loi n°89-469 du 10 juillet 1989 - art. 7 (V) JORF 11 juillet 1989 an vigueur le le 1er janvier 1990
+	  - Loi n°91-639 du 10 juillet 1991 - art. 9 () JORF 12 juillet 1991
 
-	**Anciens textes**:
 
-	  - Loi n°1953-04-11 art. 9
+###### Article 336
+
+Toute personne, tenue en application de l'article 226 d'en faire la déclaration, qui aura omis de déclarer ou qui aura
+cherché à dissimuler l'existence d'un animal atteint ou soupçonné d'être atteint de fièvre aphteuse ou ayant été exposé à la
+contagion sera punie d'une amende de 10 000 F à 200 000 F et d'un emprisonnement de deux mois à deux ans ou de l'une de ces
+deux peines seulement.
+
+En cas de condamnation, le tribunal pourra ordonner que le jugement sera, intégralement ou par extrait, affiché pendant
+quinze jours à la mairie du lieu où a été commis le délit et publié dans un journal régional et une revue à caractère
+professionnel, aux frais du condamné.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 226
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°91-639 du 10 juillet 1991 - art. 10 () JORF 12 juillet 1991
 
 
 ###### Article 339
