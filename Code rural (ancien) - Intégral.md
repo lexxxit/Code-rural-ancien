@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1998-01-01
+Version Consolidée au 1998-06-14
 
 # Livre Ier : Régime du sol
 
@@ -10622,7 +10622,8 @@ Les heures supplémentaires de travail prévues à l'article précédent ouvrent
 définies ci-après.
 
 Dans les entreprises de plus de dix salariés, la durée de ce repos compensateur est égale à 50 p. 100 du temps de travail
-accompli en heures supplémentaires au-delà de quarante-deux heures.
+accompli en heures supplémentaires au-delà de quarante-deux heures. Ce seuil est fixé à quarante et une heures à compter du
+1er janvier 1999.
 
 Dans les établissements énumérés au 7° de l'article 1144 qui n'ont pas une activité de production agricole, les heures
 supplémentaires effectuées au-delà du contingent fixé par le décret mentionné à l'article 993-2 ouvrent droit à un repos
@@ -10635,9 +10636,9 @@ Par dérogation aux dispositions du second alinéa du présent article, la duré
 les entreprises ou exploitations occupant des salariés définis aux 1° à 3°, 5°, 6°, 9° et 10° de l'article 1144, et les
 établissements énumérés au 7° du même article qui ont une activité de production agricole, être calculée sur la base d'un ou
 de plusieurs jours de congé par an lorsque la durée hebdomadaire de travail des salariés intéressés a dépassé en moyenne
-quarante-deux heures pendant une période de douze mois consécutifs. Ce mode de calcul ne peut résulter que d'une convention
-collective ou d'un accord collectif étendus ; il doit s'appliquer à l'ensemble des salariés des entreprises liées par cette
-convention ou cet accord.
+quarante-deux heures pendant une période de douze mois consécutifs. Cette moyenne est fixée à quarante et une heures à
+compter du 1er janvier 1999. Ce mode de calcul ne peut résulter que d'une convention collective ou d'un accord collectif
+étendus ; il doit s'appliquer à l'ensemble des salariés des entreprises liées par cette convention ou cet accord.
 
 **Nota:**
 
@@ -10646,22 +10647,30 @@ de la peine d'amende prévue pour les contraventions de la 4e classe.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°93-1313 1993-12-20 art. 42 IV JORF 21 décembre 1993
+	  - Code rural 1144, 993-2
 
 	**Nouveaux textes**:
 
+	  - Code rural L713-10
+	  - Code rural L713-9
 	  - Code rural - art. L713-10 (V)
 	  - Code rural - art. L713-9 (M)
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code rural 993-2, 1144
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°98-461 1998-06-13 art. 8 IV, V JORF 14 juin 1998
+	  - Loi n°98-461 du 13 juin 1998 - art. 8 () JORF 14 juin 1998
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 993-1
@@ -10679,10 +10688,13 @@ Les modalités d'information par l'employeur des droits acquis par le salarié ;
 
 Le délai de présentation à l'employeur de la demande du bénéfice du repos compensateur ;
 
-Le délai maximum suivant l'ouverture du droit pendant lequel le repos doit obligatoirement être pris ;
-
 Les conditions dans lesquelles l'attribution du repos compensateur peut être différée compte tenu des impératifs liés au
 fonctionnement de l'entreprise ou de l'exploitation.
+
+Le repos compensateur doit obligatoirement être pris dans un délai maximum de deux mois suivant l'ouverture du droit sous
+réserve des cas de report définis par décret. L'absence de demande de prise du repos par le salarié ne peut entraîner la
+perte de son droit au repos. Dans ce cas, l'employeur est tenu de lui demander de prendre effectivement ses repos dans un
+délai maximum d'un an.
 
 A défaut d'accord entre des organisations syndicales d'employeurs et de salariés les plus représentatives au plan national,
 un décret fixe également les modalités d'application du présent article en cas d'activités saisonnières.
@@ -10695,8 +10707,6 @@ salarié dont le décès survient avant qu'il ait pu bénéficier du repos compe
 acquis des droits suffisants pour pouvoir prendre ce repos. Elle est alors versée à ceux des ayants droit qui auraient
 qualité pour obtenir le paiement des salaires arriérés.
 
-L'indemnité ci-dessus a le caractère de salaire.
-
 **Nota:**
 
 Nota - Décret 91-830 du 27 août 1991, art. 1 : toute infraction aux dispositions du présent article du code rural est punie
@@ -10704,27 +10714,22 @@ de la peine d'amende prévue pour les contraventions de la 4e classe.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural 993
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
-
-	  - Loi n°76-657 du 16 juillet 1976 - art. 5 () JORF 18 juillet 1976 en vigueur le 1er juillet 1976
-	  - Loi n°76-657 du 16 juillet 1976 - art. 7 (V) JORF 18 juillet 1976 en vigueur le 1er juillet 1976
-
 	**Modifié par**:
 
-	  - Ordonnance 82-109 1982-01-30 art. 5, art. 15 JORF 31 janvier 1982
-	  - Ordonnance n°82-109 du 30 janvier 1982 - art. 15 (V) JORF 31 janvier 1982
+	  - Loi n°98-461 1998-06-13 art. 8 VI, VII JORF 14 juin 1998
+	  - Loi n°98-461 du 13 juin 1998 - art. 8 () JORF 14 juin 1998
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L713-9 (M)
+
+	**Cite**:
+
+	  - Code rural 993
 
 
 ###### Article 993-2
@@ -13328,6 +13333,46 @@ Ces cotisations, dont le taux est fixé par décret, sont à la charge des salar
 	**Modifié par**:
 
 	  - Loi n°82-1 du 4 janvier 1982 - art. 5 () JORF 5 janvier 1982
+
+
+###### Article 1031-3
+
+Par dérogation aux dispositions de l'article 1031, en cas de passage avec l'accord du salarié d'un régime de travail à temps
+complet à un régime de travail à temps partiel au sens de l'article L. 212-4-2 du code du travail, l'assiette des cotisations
+destinées à financer l'assurance vieillesse peut être maintenue à la hauteur du salaire correspondant à son activité exercée
+à temps plein. La part salariale correspondant à ce supplément d'assiette n'est pas assimilable, en cas de prise en charge
+par l'employeur, à une rémunération. Un décret en Conseil d'Etat détermine les conditions de mise en oeuvre de cette
+disposition par les employeurs.
+
+L'option retenue lors de la transformation de l'emploi vaut seulement dans le cas d'une activité à temps partiel exercée à
+titre exclusif et tant que l'activité reste exercée dans ces conditions.
+
+Un décret en Conseil d'Etat fixe le taux de ces cotisations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1031
+	  - Code du travail - art. L212-4-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural L741-24
+	  - Code rural - art. L741-24 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°98-461 du 13 juin 1998 - art. 12 () JORF 14 juin 1998
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1032
