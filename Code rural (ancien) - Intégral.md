@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1960-08-04
+Version Consolidée au 1960-08-07
 
 ###### Article 162
 
@@ -70,6 +70,48 @@ l'effectif d'une espèce sensible dans le département ou la région intéressé
 	**Abrogé par**:
 
 	  - Décret n°64-862 du 3 août 1964 - art. 33 (Ab) JORF 25 août 1964
+
+
+### Chapitre Ier : Des commissions communales et départementales d'aménagement foncier
+
+###### Article 1
+
+L'aménagement foncier agricole et rural a pour objet, dans le cadre des dispositions du titre Ier de la loi n° 60-808 du 5
+août 1960 et notamment de son article 7, d'assurer une structure des propriétés et des exploitations agricoles et forestières
+conforme à une utilisation rationnelle des terres et des bâtiments, compte tenu en particulier de la nature des sols et de
+leur conservation, de leur vocation culturale, des techniques agricoles et de leur évolution, du milieu humain et du
+peuplement rural, de l'économie générale du pays et de l'économie propre du terroir considéré.
+
+L'aménagement foncier est réalisé notamment par :
+
+- une nouvelle répartition parcellaire des terres et des bâtiments au moyen du remembrement, des cessions et échanges des
+droits de propriété et d'exploitation ;
+
+- l'exécution de travaux d'infrastructure nécessaires à l'aménagement des terres, tels les travaux connexes au remembrement
+et tous autres de nature à améliorer rationnellement la productivité ;
+
+- la mise en valeur des terres incultes récupérables et le boisement ;
+
+- l'encouragement aux diverses formes de groupements volontaires de propriétés et d'exploitations, ainsi qu'à
+l'agrandissement des exploitations non rentables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 1
+
+	**Cite**:
+
+	  - Loi n°60-808 1960-08-05 art. 7
+
+	**Modifié par**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
 
 
 ### Chapitre II : De la réorganisation de la propriété foncière
@@ -527,6 +569,60 @@ Un règlement d'administration publique détermine les conditions d'application 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+
+### Chapitre V : De la mise en valeur des terres incultes récupérables.
+
+###### Article 41
+
+L'Etat, les collectivités et établissements publics, les sociétés agréées d'aménagement foncier et d'établissement rural
+peuvent, dans les conditions prévues aux articles 175 à 177 du code rural, faire participer les personnes appelées à
+bénéficier des travaux de mise en valeur des terres incultes qu'ils entreprennent, aux dépenses desdits travaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 175 à 177
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1942-02-19 art. 8, art. 10
+
+	**Modifié par**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 19 () JORF 7 août 1960
+
+
+###### Article 42
+
+Sont fixées par décret en Conseil d'Etat les conditions dans lesquelles l'Etat, les collectivités et établissements publics
+peuvent mettre les immeubles dont ils ont la propriété ou qu'ils ont acquis en vue de la réalisation d'opérations
+d'aménagement foncier, à la disposition des organismes prévus aux articles 14 et 15 de la loi n° 60-808 du 5 août 1960
+chargés par le ministre de l'agriculture, sous son contrôle, de faciliter l'établissement à la terre des agriculteurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1942-02-19 art. 11
+
+	**Cite**:
+
+	  - Loi n°60-808 1960-08-05 art. 14, art. 15
+	  - Loi n°60-808 du 5 août 1960 - art. 14 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 19 () JORF 7 août 1960
 
 
 ### Chapitre VII : Dispositions diverses.
