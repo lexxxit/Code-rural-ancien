@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1957-03-24
+Version Consolidée au 1957-05-14
 
 ###### Article 162
 
@@ -5528,6 +5528,26 @@ Le conseil supérieur de la chasse est doté de la personnalité civile et de l'
 	**Abrogé par**:
 
 	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
+###### Article 399
+
+Les dépenses de fonctionnement des conseils régionaux de la chasse sont couvertes à l'aide des ressources dont dispose le
+conseil supérieur de la chasse.
+
+Les conseils régionaux de la chasse donnent leur avis sur toutes les questions ayant trait à l'organisation et à
+l'amélioration de la chasse ainsi que sur la réglementation de la chasse à établir dans leurs régions respectives ; leurs
+propositions sont transmises au conseil supérieur de la chasse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-06-28
 
 
 ## Titre II : Pêche fluviale
