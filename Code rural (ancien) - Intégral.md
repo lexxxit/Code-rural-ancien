@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1966-12-29
+Version Consolidée au 1967-06-02
 
 ###### Article 162
 
@@ -8456,6 +8456,44 @@ l'Etat ;
 	**Modifié par**:
 
 	  - Loi n°64-1245 1964-12-16 art. 34 JORF 18 décembre 1964
+
+
+###### Article 405
+
+Dans les fleuves, rivières, canaux et autres cours d'eau affluant à la mer, la pêche est soumise aux règlements maritimes en
+aval du point de cessation de salure des eaux et s'exerce, sans fermage ni licence, au profit des marins de la marine
+marchande.
+
+En amont de la limite de salure des eaux et jusqu'aux anciennes limites des affaires maritimes telles qu'elles étaient fixées
+antérieurement aux décrets des 8 novembre et 28 décembre 1926, la pêche est soumise aux règles de police et de conservation
+de la pêche fluviale. Les marins de la marine marchande qui au moment de la mise en vigueur de ce dernier décret exerçaient
+la pêche dans cette zone et qui en avaient fait la demande avant le 1er janvier 1928, conservent le droit de pratiquer cette
+pêche sans fermage ni licence concurremment avec les pêcheurs non marins.
+
+Dans la zone comprise entre le point de cessation de salure des eaux et les nouvelles limites des affaires maritimes fixées
+par le décret du 17 juin 1938, les autres marins de la marine marchande peuvent y exercer la pêche sans fermage moyennant une
+licence délivrée à titre gratuit.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1926-11-08
+	  - Décret n°1926-12-28
+	  - Décret n°1938-06-17
+
+	**Anciens textes**:
+
+	  - Décret n°1938-06-17 art. 5
+	  - Loi n°1829-04-15 art. 3 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°65-550 1965-07-09 art. 49 JORF 10 juillet 1965
 
 
 ###### Article 406
