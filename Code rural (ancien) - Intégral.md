@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1985-01-01
+Version Consolidée au 1985-01-04
 
 ###### Article 162
 
@@ -24184,23 +24184,28 @@ exploitants agricoles des départements d'outre-mer dans les conditions et sous 
 
 ###### Article 1142-2
 
-Est considéré comme exploitant agricole pour l'application du présent chapitre toute personne exploitant en une qualité autre
-que celle de salarié des terres dont la superficie est au moins égale dans chaque département au minimum prévu à l'article
-1142-13 du présent code.
+Est considéré comme exploitant agricole pour l'application du présent chapitre toute personne mettant en valeur, en une
+qualité autre que celle de salarié, une exploitation répondant aux conditions fixées à l'article 1142-13.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°69-1162 1969-12-24 art. 5 JORF 27 décembre 1969
+	  - Loi n°85-10 du 3 janvier 1985 - art. 84 () JORF 4 janvier 1985
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L762-28 (V)
+	  - Code rural L762-28
 
 	**Cite**:
 
@@ -24236,16 +24241,32 @@ professionnelle ne prive pas l'intéressé du droit à l'allocation ou à la ret
 
 ###### Article 1142-4
 
-L'allocation n'est due aux personnes continuant leur exploitation que si les terres exploitées ne dépassent pas une
-superficie fixée par décret, compte tenu de la nature des cultures.
+L'allocation n'est due aux personnes continuant leur exploitation que si la superficie pondérée de celle-ci, définie
+conformément aux dispositions de l'article 1142-13, ne dépasse pas un seuil fixé par décret.
 
 Des dispositions particulières peuvent être prévues à l'égard des veuves exploitant avec le concours d'un seul salarié.
 
+**Nota:**
+
+Ordonnance n° 2004-605 du 24 juin 2004, art. 2 : maintien du versement de certaines allocations.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1142-13
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°85-10 du 3 janvier 1985 - art. 85 () JORF 4 janvier 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006
 
 
 ###### Article 1142-5
@@ -24445,22 +24466,38 @@ aux articles L. 532-4, L. 542-1, L. 543-4, L. 543-9, L. 758-2, L. 758-3 du code 
 
 ###### Article 1142-13
 
-Est considérée comme exploitant agricole pour l'application du présent chapitre toute personne exploitant en une qualité
-autre que celle de salarié des terres dont la superficie est au moins égale dans chaque département à un minimum fixé par
-décret, compte tenu de la nature des cultures.
+Est considérée comme exploitant agricole pour l'application du présent chapitre toute personne mettant en valeur, en une
+qualité autre que celle de salarié, une exploitation dont l'importance est au moins égale à un minimum fixé par décret et
+évaluée en superficie pondérée.
+
+Un décret fixe les critères d'équivalence utilisés pour le calcul de cette superficie pondérée, compte tenu de la nature des
+productions végétales et animales.
+
+En application de ces critères, un arrêté interministériel détermine les coefficients d'équivalence applicables dans chaque
+département.
 
 Dans le bail à métayage ou colonat partiaire, le bailleur et le preneur sont considérés, pour l'application de l'alinéa
 précédent, comme mettant chacun en valeur la totalité de l'exploitation.
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code rural L762-7
+	  - Code rural - art. L762-7 (V)
+
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Code rural - art. L762-7 (V)
+	  - Loi n°85-10 du 3 janvier 1985 - art. 86 () JORF 4 janvier 1985
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1142-14
@@ -24468,16 +24505,20 @@ précédent, comme mettant chacun en valeur la totalité de l'exploitation.
 Les allocations familiales dont bénéficient les exploitants agricoles des départements d'outre-mer sont celles prévues à
 l'article L. 758 du code de la sécurité sociale.
 
-Le nombre de journées de travail servant de base au calcul des allocations est déterminé par décret en fonction de la surface
-cultivée et de la nature des cultures.
+Le nombre de journées de travail servant de base au calcul des allocations est déterminé par décret en fonction de la
+superficie pondérée de l'exploitation.
 
 Un arrêté interministériel fixe, pour chaque département, le montant des allocations.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°55-433 1955-04-16
+	  - Loi n°85-10 du 3 janvier 1985 - art. 87 () JORF 4 janvier 1985
+
+	**Abrogé par**:
+
+	  - Loi n°86-1383 1986-12-31 art. 14 I JORF 3 janvier 1987
 
 	**Cite**:
 
@@ -24486,17 +24527,17 @@ Un arrêté interministériel fixe, pour chaque département, le montant des all
 
 ###### Article 1142-15
 
-Les cotisations varient, dans la limite d'une superficie maximum de 6 hectares pondérés en fonction de la surface de
-l'exploitation et de la nature des cultures. Un décret fixe dans chaque département le taux des cotisations.
+Les cotisations varient, dans la limite d'une superficie maximum de 6 hectares pondérés en fonction de la superficie pondérée
+de l'exploitation.
 
 Dans le bail à métayage ou colonat partiaire, le preneur et le bailleur sont tenus l'un et l'autre au paiement de ces
 cotisations qui sont partagées entre eux selon une proportion fixée par décret.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°55-433 1955-04-16
+	  - Loi n°85-10 du 3 janvier 1985 - art. 87 () JORF 4 janvier 1985
 
 	**Nouveaux textes**:
 
@@ -25486,15 +25527,42 @@ L'employeur, soit personnellement, soit par l'intermédiaire d'un de ses prépos
 déclarer à la caisse de mutualité sociale agricole tout accident dont il a eu connaissance directement ou indirectement et
 remettre à la victime une feuille d'accident.
 
+La caisse peut autoriser un employeur à remplacer la déclaration des accidents n'entraînant ni arrêt de travail, ni soins
+médicaux par une inscription sur un registre ouvert à cet effet. Un décret fixe les conditions d'application de cet article
+et les critères d'attribution de l'autorisation et de son retrait ainsi que les modalités de l'inscription.
+
+Ce registre est tenu à la disposition des agents de contrôle des caisses et des services chargés de l'inspection du travail.
+
+Lorsqu'un accident ayant fait l'objet d'une simple inscription sur un registre entraîne ultérieurement un arrêt de travail ou
+des soins médicaux, l'employeur est tenu d'adresser à la caisse la déclaration prévue au premier alinéa.
+
+Tout manquement à l'obligation de déclaration ou d'inscription sur le registre prévue au premier et au deuxième alinéa est
+sanctionné dans les conditions fixées par l'article L. 471-1 et R. 471-3 du code de la sécurité sociale.
+
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-26
+	  - Code rural - art. L751-26 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Code rural - art. L751-26 (M)
+	  - Loi n°85-10 du 3 janvier 1985 - art. 74 () JORF 4 janvier 1985
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L471-1 (M)
+	  - Code de la sécurité sociale. - art. R471-3 (V)
 
 
 ###### Article 1164
@@ -25631,19 +25699,34 @@ Sous réserve des dispositions des articles 1156 et 1158, les litiges relatifs �
 la compétence exclusive du contentieux général de la sécurité sociale suivant des modalités fixées par décret en Conseil
 d'Etat.
 
+Les juridictions visées au premier alinéa de l'article L. 142-2 du code de la sécurité sociale devant lesquelles sont portées
+en première instance les contestations relatives aux taux d'incapacité permanente statuent en dernier ressort sur celles pour
+lesquelles le taux d'incapacité, fixé par la décision attaquée, est inférieur à 10 p. 100.
+
 **Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L751-32 (M)
 
 	**Cite**:
 
 	  - Code rural 1156, 1158
+	  - Code de la sécurité sociale. - art. L142-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-32
+	  - Code rural - art. L751-32 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°85-10 du 3 janvier 1985 - art. 57 () JORF 4 janvier 1985
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 #### Section 6 : Dispositions relatives aux maladies professionnelles.
@@ -27355,6 +27438,60 @@ l'application du présent article en ce qui concerne l'assurance garantissant le
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-3
+
+En cas d'accidents du travail et de la vie privée, ou en cas de maladies professionnelles telles qu'elles sont définies à
+l'article 1170 du présent code, l'assurance prévue au présent chapitre doit garantir :
+
+A. - Le remboursement :
+
+Des frais médicaux, chirurgicaux, pharmaceutiques et d'hospitalisation ; 
+
+Des frais de fourniture et de renouvellement des appareils de prothèse et d'orthopédie ;
+
+Des frais de réadaptation fonctionnelle et de rééducation professionnelle ;
+
+Des frais de transport de la victime entre le lieu de l'accident et sa résidence habituelle ou l'établissement de soins le
+plus proche.
+
+B. - Le paiement de pensions d'invalidité dans le cas où l'assuré est reconnu totalement inapte à l'exercice de la profession
+agricole.
+
+L'assurance garantit également le paiement de pension d'invalidité aux chefs d'exploitation ou d'entreprise mentionnés à
+l'article 1106-1 (I-1°) qui présentent une invalidité réduisant au moins des deux tiers leur capacité de travail, à la
+condition qu'ils n'aient exercé cette profession au cours des cinq dernières années qu'avec le concours de leur conjoint et
+d'un seul salarié ou d'un seul aide familial.
+
+Lorsque la réduction de capacité de travail ou l'inaptitude totale à l'exercice de la profession agricole résulte pour partie
+d'un accident ou d'une maladie professionnelle, l'intéressé peut néanmoins prétendre aux prestations d'invalidité, dès lors
+que cette réduction de capacité ou cette inaptitude est imputable pour moitié au moins à l'accident ou à la maladie
+professionnelle.
+
+Les modalités d'application du présent article sont fixées, en tant que de besoin, par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1170, 1106-1
+
+	**Modifié par**:
+
+	  - Loi n°75-1242 1975-12-27 art. 14 JORF 28 décembre 1975
+	  - Loi n°85-10 du 3 janvier 1985 - art. 93 () JORF 4 janvier 1985
+
+	**Cité par**:
+
+	  - Décret n°78-360 du 8 mars 1978 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L752-21 (M)
+	  - Code rural - art. L752-3 (M)
+	  - Code rural - art. L752-4 (M)
+	  - Code rural - art. L752-5 (M)
 
 
 ###### Article 1234-4
