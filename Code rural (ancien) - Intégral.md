@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1987-01-28
+Version Consolidée au 1987-06-17
 
 ###### Article 40-3
 
@@ -23345,6 +23345,85 @@ salariés non compris dans le champ d'application de ces accords.
 	**Nouveaux textes**:
 
 	  - Code rural - art. L727-3 (V)
+
+
+###### Article 1051-1
+
+L'autorité compétente de l'Etat peut, dans l'intérêt des affiliés, imposer l'usage de clauses types dans les statuts et
+règlements des institutions relevant de l'article 1050, réalisant des opérations de prévoyance et habilitées à gérer des
+plans d'épargne en vue de la retraite.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1050
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 3 () JORF 18 juin 1987
+
+	**Abrogé par**:
+
+	  - Loi n°89-474 1989-07-10 art. 9 III JORF 12 juillet 1989
+
+
+###### Article 1051-2
+
+Les plans d'épargne en vue de la retraite proposés par les institutions relevant de l'article 1050 ne pourront, à peine de
+nullité, être souscrits que par les affiliés bénéficiant d'au moins un avantage garanti par l'institution au titre d'une
+convention collective, d'un accord d'entreprise ou d'un contrat d'assurance de groupe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1050
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 3 () JORF 18 juin 1987
+
+	**Abrogé par**:
+
+	  - Loi n°89-474 1989-07-10 art. 9 III JORF 12 juillet 1989
+
+
+###### Article 1051-3
+
+Chaque avantage mis en oeuvre par les institutions visées à l'article 1050 sur la base de leurs statuts et règlements relève
+obligatoirement de sections financièrement distinctes.
+
+Les actifs représentatifs des opérations garanties et notamment de celles qui sont relatives au plan d'épargne en vue de la
+retraite sont affectés par un privilège général au règlement des engagements des institutions relevant de l'article 1050
+envers les affiliés correspondant à ces opérations. Ce privilège prend rang après le 6° de l'article 2101 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 3 () JORF 18 juin 1987
+
+	**Abrogé par**:
+
+	  - Loi n°89-474 1989-07-10 art. 9 III JORF 12 juillet 1989
+
+	**Cite**:
+
+	  - Code civil - art. 2101 (M)
+	  - Code rural 1050
 
 
 #### Section 5 : Organisation administrative et financière.
