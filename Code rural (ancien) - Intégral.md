@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1987-01-01
+Version Consolidée au 1987-01-03
 
 ###### Article 40-3
 
@@ -26343,31 +26343,6 @@ précédent, comme mettant chacun en valeur la totalité de l'exploitation.
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-
-###### Article 1142-14
-
-Les allocations familiales dont bénéficient les exploitants agricoles des départements d'outre-mer sont celles prévues à
-l'article L. 758 du code de la sécurité sociale.
-
-Le nombre de journées de travail servant de base au calcul des allocations est déterminé par décret en fonction de la
-superficie pondérée de l'exploitation.
-
-Un arrêté interministériel fixe, pour chaque département, le montant des allocations.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°85-10 du 3 janvier 1985 - art. 87 () JORF 4 janvier 1985
-
-	**Abrogé par**:
-
-	  - Loi n°86-1383 1986-12-31 art. 14 I JORF 3 janvier 1987
-
-	**Cite**:
-
-	  - Code de la sécurité sociale L758
 
 
 ###### Article 1142-15
