@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1989-06-14
+Version Consolidée au 1989-06-24
 
 ###### Article 40-3
 
@@ -8274,19 +8274,24 @@ vente des animaux, conformément aux dispositions de l'article 200.
 
 ###### Article 213
 
-Les maires peuvent prendre toutes dispositions propres à empêcher la divagation des chiens et des chats. Ils peuvent ordonner
-que les chiens et les chats soient tenus en laisse et que les chiens soient muselés. Ils prescrivent que les chiens et les
-chats errants et tous ceux qui seraient trouvés sur la voie publique, dans les champs ou dans les bois, seront conduits à la
-fourrière et abattus si leur propriétaire reste inconnu et s'ils n'ont pas été réclamés par lui ; l'abattage est réalisé dès
-l'expiration d'un délai de quatre jours ouvrables et francs après la capture. Dans le cas où ces animaux sont identifiés par
-le port d'un collier sur lequel figurent le nom et le domicile de leur maître ou par tout autre procédé défini par arrêté du
-ministre compétent, le délai d'abattage est porté à huit jours.
+Les maires doivent prendre toutes dispositions propres à empêcher la divagation des chiens et des chats. Ils peuvent ordonner
+que ces animaux soient tenus en laisse et que les chiens soient muselés. Ils prescrivent que les chiens et les chats errants
+et tous ceux qui seraient saisis sur la voie publique, dans les champs ou dans les bois, seront conduits à la fourrière où il
+seront gardés pendant un délai minimum de quatre jours ouvrés et francs. Dans le cas où ces animaux sont identifiés par le
+port d'un collier sur lequel figurent le nom et le domicile de leur maître ou par tout autre procédé défini par arrêté du
+ministre compétent, ce délai minimum est porté à huit jours ouvrés et francs. Les propriétaires des animaux identifiés sont
+avisés par les soins des responsables de la fourrière.
 
-Les propriétaires, fermiers ou métayers ont le droit de saisir ou de faire saisir par le garde-champêtre ou tout autre agent
-de la force publique les chiens que leurs maîtres laissent divaguer dans les bois, les vignes ou les récoltes. Les chiens
-saisis sont conduits au lieu de dépôt désigné par l'autorité communale et si, dans les délais ci-dessus fixés, ces chiens
-n'ont point été réclamés et si les dommages et les autres frais ne sont poins payés, ils peuvent être abattus sur l'ordre du
-maire.
+Les propriétaires, locataires, fermiers ou métayers ont le droit de saisir ou de faire saisir par un agent de la force
+publique les chiens et les chats que leurs maîtres laissent divaguer dans les propriétés privées. Les animaux saisis sont
+conduits à la fourrière.
+
+La capacité de chaque fourrière est constatée par arrêté du maire de la commune où elle est installée. Passé les délais fixés
+au premier alinéa du présent article, les animaux peuvent être gardés jusqu'à ce que la capacité maximale de la fourrière
+soit atteinte. L'euthanasie est pratiquée sur les animaux non réclamés, selon l'ordre, sauf nécessité, de leur entrée dans
+l'établissement.
+
+Les animaux ne peuvent être restitués à leurs propriétaire qu'après paiement des frais de fourrière.
 
 **Liens relatifs à cet article**
 
@@ -8294,51 +8299,95 @@ maire.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1898-06-21 art. 16
-
 	**Modifié par**:
 
-	  - Loi n°76-629 du 10 juillet 1976 - art. 12 () JORF 13 juillet 1976
+	  - Loi n°89-412 du 22 juin 1989 - art. 1 () JORF 24 juin 1989
+
+
+###### Article 213-1
+
+Est considéré comme en état de divagation tout chien qui, en dehors d'une action de chasse ou de la garde d'un troupeau,
+n'est plus sous la surveillance effective de son maître, se trouve hors de portée de voix de celui-ci ou de tout instrument
+sonore permettant son rappel, ou qui est éloigné de son propriétaire ou de la personne qui en est responsable d'une distance
+dépassant cent mètres. Tout chien abandonné, livré à son seul instinct, est en état de divagation.
+
+Est considéré comme en état de divagation tout chat non identifié trouvé à plus de deux cents mètres des habitations ou tout
+chat trouvé à plus de mille mètres du domicile de son maître et qui n'est pas sous la surveillance immédiate de celui-ci,
+ainsi que tout chat dont le propriétaire n'est pas connu et qui est saisi sur la voie publique ou sur la propriété d'autrui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 2 () JORF 24 juin 1989
+
+
+###### Article 213-2
+
+Il est interdit de laisser divaguer les chiens et les chats.
+
+Les articles 529 à 529-2 et 530 à 530-2 du code de procédure pénale sont applicables aux infractions en matière de divagation
+réprimées par le présent code et par le code pénal.
+
+Un décret en Conseil d'Etat fixe le montant des amendes forfaitaires et des amendes forfaitaires majorées et détermine les
+modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 3 () JORF 24 juin 1989
+
+	**Cite**:
+
+	  - Code de procédure pénale 529 à 529-2, 530 à 530-2
 
 
 ## Titre III : De la lutte contre les maladies des animaux
 
 ###### Article 214
 
-Le ministre de l'agriculture peut, suivant les modalités prévues par un arrêté conjoint des ministres de l'agriculture et de
-l'économie et des finances, prendre toute mesures destinées à prévenir l'apparition, à enrayer le développement et à
-poursuivre l'extinction des maladies des animaux réputées contagieuses, en vertu du présent titre. Des décrets en Conseil
-d'Etat définiront les modalités selon lesquelles pourront être prises les mesures de lutte contre les maladies des animaux
-non ainsi réputées contagieuses.
+Suivant les modalités prévues par un arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de l'économie
+et des finances, le ministre chargé de l'agriculture peut prendre toute mesures destinées à prévenir l'apparition, à enrayer
+le développement et à poursuivre l'extinction des maladies des animaux réputées contagieuses, en vertu du présent titre. Des
+décrets en Conseil d'Etat définiront les modalités selon lesquelles pourront être prises les mesures de lutte contre les
+maladies des animaux non ainsi réputées contagieuses.
 
-Un comité consultatif des épizooties, dont l'organisation est déterminée par règlement d'administration publique, donne son
-avis sur les mesures que peut exiger une maladie. Le ministre lui communique tous renseignements relatifs aux épizooties.
+La Commission nationale vétérinaire, à laquelle le ministre chargé de l'agriculture communique tous renseignements relatifs
+aux épizooties, donne son avis sur le choix des maladies pouvant faire l'objet de mesures réglementaires et sur les mesures
+que peut exiger une maladie.
 
-Le ministre de l'agriculture peut accorder aux exploitants qui en font la demande, en vue du diagnostic de la prévention et
-du traitement des maladies des animaux, de l'élimination des animaux malades, de la réfection du logement des animaux et de
-l'assainissement du milieu, des subventions dont le montant est déterminé par des arrêtés conjoints des ministres de
-l'agriculture et de l'économie et des finances.
+Le ministre chargé de l'agriculture peut accorder aux exploitants qui en font la demande, en vue du diagnostic de la
+prévention et du traitement des maladies des animaux, de l'élimination des animaux malades, de la réfection du logement des
+animaux et de l'assainissement du milieu, des subventions dont le montant est déterminé par des arrêtés conjoints du ministre
+chargé de l'agriculture et du ministre chargé de l'économie et des finances.
 
 Ces arrêtés fixent les conditions d'indemnisation des propriétaires dont les animaux ont été abattus sur l'ordre de
-l'administration.
+l'administration ainsi que les conditions de la participation financière éventuelle de l'Etat aux autres frais
+obligatoirement entraînés par l'élimination des animaux.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-11-29 art. 1
-	  - Loi n°1898-06-21 art. 64
-	  - Loi n°1941-04-16 art. 1, art. 2, art. 3
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Décret n°63-136 du 18 février 1963 - art. 1 () JORF 20 février 1963
+	  - Loi n°89-412 du 22 juin 1989 - art. 4 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 214-1
@@ -8364,31 +8413,83 @@ Un décret en Conseil d'Etat déterminera les conditions d'application du prése
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-###### Article 215
+###### Article 214-1 A
 
-Un service des épizooties est établi dans chacun des départements en vue d'assurer l'exécution de toutes les prescriptions de
-police sanitaire des animaux.
+Le ministre chargé de l'agriculture peut, selon des modalités définies par un décret en Conseil d'Etat, prendre toutes
+mesures destinées à collecter les données et informations d'ordre épidémiologique et à en assurer le traitement et la
+diffusion. Les vétérinaires, à titre personnel, les laboratoires vétérinaires départementaux et les organisations
+professionnelles agricoles et vétérinaires peuvent être associés, sur leur demande, à la collecte et à l'utilisation de ces
+données et informations.
 
-Les frais de ce service sont compris parmi les dépenses obligatoires à la charge des budgets départementaux et assimilés aux
-dépenses classées sous les paragraphes 1er à 4 de l'article 60 de la loi du 10 août 1871.
+Le ministre chargé de l'agriculture peut accorder des subventions pour la collecte, le traitement et la diffusion de ces
+données et informations d'ordre épidémiologique.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Cite**:
+	**Créé par**:
 
-	  - Loi n°1871-08-10 art. 60
-
-	**Anciens textes**:
-
-	  - Loi n°1898-06-21 art. 62
+	  - Loi n°89-412 du 22 juin 1989 - art. 5 () JORF 24 juin 1989
 
 	**Abrogé par**:
 
-	  - Loi n°89-412 du 22 juin 1989 - art. 38 (V) JORF 24 juin 1989
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 214-1 B
+
+Le ministre chargé de l'agriculture peut, à la demande des propriétaires ou détenteurs d'animaux intéressés, conduire des
+actions de prophylaxie contre certaines maladies animales, dans le cadre d'actions à caractère collectif, entreprises avec la
+collaboration d'organismes à vocation sanitaire dont les statuts sont approuvés par ledit ministre et de propriétaires ou
+détenteurs d'animaux, intervenant à titre individuel.
+
+Le ministre chargé de l'agriculture peut apporter un soutien financier à la réalisation des programmes collectifs,
+économiquement et techniquement justifiés, de lutte contre des maladies animales dirigés par des maîtres d'oeuvre autres que
+l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 6 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 214-2
+
+Les mesures prises en application du premier alinéa de l'article 214 peuvent présenter un caractère d'obligation en dehors
+des cas prévus à l'article 214-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 214, 214-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 7 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 215-1
@@ -8517,6 +8618,92 @@ Un décret en Conseil d'Etat détermine les conditions d'application des article
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
+###### Article 215-6
+
+Le ministre chargé de l'agriculture peut attribuer à des agents mentionnés aux articles 215-1 et 215-2 et nommément désignés
+une compétence territoriale débordant des limites du département où ils sont affectés et pouvant être étendue à la totalité
+du territoire national. Les conditions d'application de cette disposition sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 215-1, 215-2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 8 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 215-7
+
+Les propriétaires ou détenteurs d'animaux soumis aux opérations de prophylaxie collective des maladies des animaux dirigées
+par l'Etat sont tenus de faire assurer l'exécution de ces opérations, y compris l'abattage. En cas de carence ou de refus,
+ces opérations peuvent être exécutées d'office aux frais des intéressés par l'administration compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 9 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 215-8
+
+Sous réserve des dispositions de l'article 311-1, les actes accomplis dans le cadre des opérations de prophylaxie collective
+des maladies des animaux dirigées par l'Etat sont confiés aux personnes répondant aux conditions édictées aux articles 309 à
+309-7.
+
+Pour exécuter les opérations prévues au présent article ainsi que les opérations de police sanitaire les concernant, ces
+personnes doivent être investies d'un mandat sanitaire par l'administration compétente. Les conditions d'attribution et
+d'exercice de ce mandat sanitaire sont fixées par décret en Conseil d'Etat.
+
+Les tarifs des rémunérations perçues à ce titre sont fixés, de façon forfaitaire, par des conventions conclues dans les
+conditions fixées par un décret en Conseil d'Etat entre représentants de la profession vétérinaire et des propriétaires ou
+détenteurs d'animaux, et soumises à l'agrément de l'autorité administrative compétente ; en cas de carence ou lorsque les
+parties concernées n'ont pu aboutir à un accord, ces tarifs sont fixés par cette autorité.
+
+Ces rémunérations sont assimilées, pour l'application du code général des impôts et du code de la sécurité sociale, à des
+revenus tirés de l'exercice d'une profession libérale. Ces dispositions s'appliquent à compter du 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 309 à 309-7, 311-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 10 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
 ### Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux.
 
 ###### Article 216
@@ -8568,113 +8755,6 @@ Ils peuvent prendre les mesures provisoires qu'ils jugent utiles pour arrêter l
 	**Abrogé par**:
 
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
-
-
-#### Section 1 : De la police sanitaire des maladies non contagieuses.
-
-###### Article 220
-
-L'exposition des animaux de l'espèce bovine, porteurs de lésions d'hypodermose (varron), est interdite dans les réunions ci-
-après désignées :
-
-a) Concours agricoles ;
-
-b) Foires et marchés aux bestiaux ;
-
-c) Ventes publiques ;
-
-d) Et, d'une façon générale, dans tous les rassemblements d'animaux ayant pour but l'exposition ou la mise en vente des
-animaux de l'espèce bovine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1941-02-22 art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°89-412 du 22 juin 1989 - art. 38 (V) JORF 24 juin 1989
-
-
-###### Article 221
-
-Tout détenteur d'animaux varronnés est tenu de procéder à ses frais au traitement des sujets infestés.
-
-A défaut, il sera pourvu d'office, aux frais du défaillant, sans préjudice des poursuites qui pourront être exercées en
-application de l'article 327.
-
-Des arrêtés du ministre de l'agriculture fixent les modalités d'application de cette mesure.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 327
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1941-02-22 art. 3
-
-	**Abrogé par**:
-
-	  - Loi n°89-412 du 22 juin 1989 - art. 38 (V) JORF 24 juin 1989
-
-
-###### Article 222
-
-Nul ne peut détenir ni exposer en vue de la vente, ni vendre des produits destinés au traitement de l'hypodermose bovine s'il
-n'en fait connaître la composition exacte et complète.
-
-Cette composition doit être indiquée en caractères apparents tant sur les récipients contenant ces produits que sur les
-enveloppes extérieures de ces récipients, ainsi que sur les prospectus et tous documents publicitaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1941-02-22 art. 4
-
-	**Abrogé par**:
-
-	  - Loi n°89-412 du 22 juin 1989 - art. 38 (V) JORF 24 juin 1989
-
-
-###### Article 223
-
-Les directeurs départementaux des services vétérinaires ou leurs délégués, les maires ou leurs délégués peuvent requérir les
-exploitants de les mettre à même d'examiner le bétail en vue de la constatation des mesures prescrites par les articles 220
-et 221 et par les textes réglementaires édictés en vue de leur application.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 220, 221
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1941-02-22 art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°89-412 du 22 juin 1989 - art. 38 (V) JORF 24 juin 1989
 
 
 #### Section 2 : De la police sanitaire des maladies contagieuses.
@@ -8733,22 +8813,46 @@ La peste équine chez tous les équidés.
 
 ###### Article 225
 
-Un décret rendu sur le rapport du ministre de l'agriculture, après avis du comité consultatif des épizooties, peut ajouter à
-la nomenclature des maladies réputées contagieuses dans chacune des espèces d'animaux énoncées ci-dessus toutes autres
-maladies contagieuses dénommées ou non, qui prendraient un caractère dangereux.
+Un décret, pris après avis de la commission nationale vétérinaire, peut ajouter à la nomenclature des maladies contagieuses
+dans toutes les espèces d'animaux, toutes maladies contagieuses, dénommées ou non, qui prendraient un caractère dangereux.
 
-Les mesures de police sanitaire peuvent être étendues, par un décret rendu dans la même forme, aux animaux d'espèces autres
-que celles ci-dessus désignées.
+Les mesures de police sanitaire peuvent être étendues, par décret, à ces mêmes espèces animales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1898-06-21 art. 30
+	  - Loi n°89-412 du 22 juin 1989 - art. 11 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 225-1
+
+Un décret, pris après avis de la commission nationale vétérinaire, établit la liste des maladies qui donnent lieu à
+déclaration sans application de mesures de police sanitaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 11 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 226
@@ -8798,52 +8902,71 @@ Ce vétérinaire constate et, au besoin, prescrit la complète exécution des di
 désinfection immédiatement nécessaires.
 
 Il donne, d'urgence, communication au maire des mesures qu'il a prescrites, et, dans le plus bref délai, adresse son rapport
-au préfet.
+au préfet qui prend, s'il est nécessaire, un arrêté de mise sous surveillance en cas de simple suspicion de maladie réputée
+contagieuse ; cet arrêté peut entraîner l'application des mesures énumérées aux quatrième (1°), septième (4°), huitième (5°),
+neuvième (6°) et dixième (7°) alinéas de l'article 228.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 226
+	  - Code rural 226, 228
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1898-06-21 art. 32
+	  - Loi n°89-412 du 22 juin 1989 - art. 12 () JORF 24 juin 1989
 
 
 ###### Article 228
 
 Après la constatation de la maladie, le préfet statue sur les mesures à mettre en exécution dans le cas particulier.
 
-Il prend, s'il est nécessaire, un arrêté portant déclaration d'infection.
+Il prend, s'il est nécessaire, un arrêté portant déclaration d'infection remplaçant éventuellement un arrêté de mise sous
+surveillance.
 
 Cette déclaration peut entraîner, dans le périmètre qu'elle détermine, l'application des mesures suivantes :
 
-1° L'isolement, la séquestration, la visite, le recensement et la marque des animaux et troupeaux dans ce périmètre ; 
+1° L'isolement, la séquestration, la visite, le recensement et la marque des animaux et troupeaux dans ce périmètre ;
 
 2° La mise en interdit de ce même périmètre ;
 
-3° L'interdiction momentanée ou la réglementation des foires et marchés, du transport et de la circulation du bétail ;
+3° L'interdiction momentanée ou la réglementation des foires et marchés, du transport et de la circulation de tous les
+animaux d'espèces susceptibles de contamination ;
 
-4° La désinfection des écuries, étables, voitures ou autres moyens de transport, la désinfection ou même la destruction des
+4° Les prélèvements nécessaires au diagnostic ou aux enquêtes épidémiologiques ;
+
+5° La désinfection des écuries, étables, voitures ou autres moyens de transport, la désinfection ou même la destruction des
 objets à l'usage des animaux malades ou qui ont été souillés par eux, et généralement des objets quelconques pouvant servir
 de véhicules à la contagion.
 
-Un règlement d'administration publique détermine celles de ces mesures qui sont applicables suivant la nature des maladies.
+6° L'obligation de détruire les cadavres ;
+
+7° L'interdiction de vendre les animaux ;
+
+8° L'abattage des animaux malades ou contaminés ou des animaux ayant été exposés à la contagion ;
+
+9° Le traitement ou la vaccination des animaux.
+
+Un décret en Conseil d'Etat détermine celles de ces mesures qui sont applicables suivant la nature des maladies.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1898-06-21 art. 33
+	  - Loi n°89-412 du 22 juin 1989 - art. 13 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 229
@@ -8925,31 +9048,33 @@ dans le même troupeau, ou en contact avec des animaux atteints de péripneumoni
 La rage, lorsqu'elle est constatée chez les animaux de quelque espèce qu'ils soient, entraîne l'abattage, qui ne peut être
 différé sous aucun prétexte.
 
-Les animaux domestiques suspects de rage et ceux qu'ils auraient pu contaminer, hormis le cas où ils se trouvent déjà soumis
-à des mesures de police sanitaire par l'effet d'un arrêté portant déclaration d'infection rendu par application de l'article
-228, sont placés, par arrêté du préfet, sous la surveillance des services vétérinaires. Cet arrêté peut entraîner
-l'application des mesures énumérées au 1° et 4° de l'article 228.
+Les animaux suspects de rage et ceux qu'ils auraient pu contaminer, hormis le cas où ils se trouvent déjà soumis à des
+mesures de police sanitaire par l'effet d'un arrêté portant déclaration d'infection rendu par application de l'article 228,
+sont placés, par arrêté du préfet, sous la surveillance des services vétérinaires. Cet arrêté peut entraîner l'application
+des mesures énumérées aux quatrième (1°), huitième (5°), dixième (7°) et onzième (8°) alinéas de l'article 228.
 
-Tout propriétaire, toute personne ayant à quelque titre que ce soit la charge des soins ou la garde d'un animal domestique
-ayant été en contact, soit par morsure ou par griffure, soit de tout autre manière, avec un animal reconnu enragé ou suspect
-de l'être, est tenu d'en faire immédiatement la déclaration au maire de la commune où se trouve l'animal ainsi contaminé.
+Tout propriétaire, toute personne ayant à quelque titre que ce soit la charge des soins ou la garde d'un animal ayant été en
+contact, soit par morsure ou par griffure, soit de tout autre manière, avec un animal reconnu enragé ou suspect de l'être,
+est tenu d'en faire immédiatement la déclaration au maire de la commune où se trouve l'animal ainsi contaminé.
 
-Les carnivores domestiques ayant été en contact avec un animal reconnu enragé sont abattus. Il en est de même pour tout autre
-animal domestique mordu ou griffé par un animal reconnu enragé. Toutefois, à la demande expresse de leur propriétaire, les
-chiens, les herbivores et les porcins valablement vaccinés contre la rage pourront, dans certains cas et sous certaines
-réserves, être conservés. Ces cas et ces réserves sont déterminés par un arrêté ministériel, ainsi que les conditions et
-modalités requises pour que la vaccination soit considérée comme valable.
+Les carnivores ayant été en contact avec un animal reconnu enragé sont abattus. Il en est de même pour tout autre animal
+mordu ou griffé par un animal reconnu enragé. Toutefois, à la demande expresse de leur propriétaire, les animaux valablement
+vaccinés contre la rage pourront, dans certains cas, et sous certaines réserves, être conservés ; un arrêté du ministre
+chargé de l'agriculture, pris après avis du Centre national d'études vétérinaires et alimentaires, détermine ces cas et ces
+réserves, les espèces animales auxquelles ils s'appliquent ainsi que les conditions requises pour que la vaccination soit
+considérée comme valable.
 
-L'abattage des animaux domestiques suspects et de ceux qu'ils auraient pu contaminer de rage peut être ordonné, dans tous les
-cas, si ces animaux se montrent dangereux ou si le respect des mesures de police sanitaire qui leur sont applicables ne peut
-être ou n'est pas assuré.
+L'abattage des animaux suspects et de ceux qu'ils auraient pu contaminer de rage peut être ordonné, dans tous les cas, si ces
+animaux se montrent dangereux ou si le respect des mesures de police sanitaire qui leur sont applicables ne peut être ou
+n'est pas assuré.
 
-L'abattage des animaux domestiques visés aux alinéas 1, 4 et 5 du présent article est effectué à la diligence des
-propriétaires ou détenteurs ou, dans le cas où ces derniers seraient défaillants, par les agents de la force publique.
+L'abattage des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité visés aux alinéas 1, 4 et 5 du
+présent article est effectué à la diligence des propriétaires ou détenteurs ou, dans le cas où ces derniers seraient
+défaillants, par les agents de la force publique.
 
-Lorsque la rage est constatée sur des animaux sauvages, leur abattage est effectué par les agents de la force publique, les
-lieutenants de louveterie, les agents assermentés chargés de la police de la chasse ou, à défaut, par toute personne
-titulaire d'un permis de chasser à ce requise par le maire.
+Lorsque la rage est constatée sur des animaux sauvages autres que ceux mentionnés à l'alinéa précédent, leur abattage est
+effectué par les agents de la force publique, les lieutenants de louveterie, les agents assermentés chargés de la police de
+la chasse ou, à défaut, par toute personne titulaire d'un permis de chasser à ce requise par le maire.
 
 **Liens relatifs à cet article**
 
@@ -8960,22 +9085,23 @@ titulaire d'un permis de chasser à ce requise par le maire.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1898-06-21 art. 38
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°75-347 du 14 mai 1975 - art. 17 () JORF 15 mai 1975 en vigueur le 1er juillet 1975
+	  - Loi n°89-412 du 22 juin 1989 - art. 14 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 232-1
 
 Tout animal ayant mordu ou griffé une personne, même s'il n'est pas suspect de rage, est, si l'on peut s'en saisir sans
 l'abattre, soumis par son propriétaire ou détenteur et à ses frais à la surveillance d'un vétérinaire. Les mêmes dispositions
-s'appliquent aux animaux ayant mordu ou griffé des animaux domestiques dans les territoires définis par arrêté du ministre
-compétent, dans lesquels la rage a été constatée.
+s'appliquent aux animaux ayant mordu ou griffé des animaux domestiques et des animaux sauvages apprivoisés ou tenus en
+captivité dans les territoires définis par arrêté du ministre compétent, dans lesquels la rage a été constatée.
 
 Dès qu'elle a connaissance des faits de la nature de ceux visés à l'alinéa qui précède, l'autorité, investie des pouvoirs de
 police, rappelle au propriétaire ou détenteur les obligations ci-dessus définies et, en tant que de besoin, le met en demeure
@@ -8986,6 +9112,15 @@ de les observer dans les vingt-quatre heures.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 14 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 232-2
@@ -9075,6 +9210,27 @@ Le ministre peut ne prendre ces mesures que dans certains territoires et pour ce
 
 	  - Décret n°55-433 1955-04-16
 	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 232-5-1
+
+Dans les départements officiellement déclarés infectés de rage, la vaccination antirabique est obligatoire pour tous les
+carnivores domestiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 17 () JORF 24 juin 1989
 
 	**Abrogé par**:
 
@@ -9363,25 +9519,6 @@ introduction, l'invasion d'une maladie contagieuse.
 	  - Loi n°94-114 du 10 février 1994 - art. 4 () JORF 11 février 1994
 
 
-###### Article 245
-
-Les bureaux de douane et ports de mer ouverts à l'importation des animaux soumis à la visite sont déterminés par décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1898-06-21 art. 56
-
-	**Abrogé par**:
-
-	  - Loi n°89-412 du 22 juin 1989 - art. 38 (V) JORF 24 juin 1989
-
-
 ###### Article 246
 
 Sont interdites :
@@ -9408,11 +9545,15 @@ b) L'introduction sur le territoire métropolitain des mêmes animaux.
 
 ###### Article 247
 
-Le ministre de l'agriculture peut prohiber l'entrée en France ou ordonner la mise en quarantaine des animaux susceptibles de
-communiquer une maladie contagieuse, ou tous les objets pouvant présenter le même danger.
+Le ministre chargé de l'agriculture peut prohiber l'entrée en France ou ordonner la mise en quarantaine et le contrôle des
+animaux pouvant communiquer une maladie contagieuse ou non, ainsi que de tous produits, denrées animales ou d'origine animale
+ou de tous objets pouvant présenter le même danger.
 
-Il peut, à la frontière, prescrire l'abattage, sans indemnité, des animaux malades ou ayant été exposés à la contagion, et,
-enfin, prendre toutes les mesures que la crainte de l'invasion d'une maladie rendraient nécessaires.
+Il peut, à la frontière ou sur le territoire national durant la quarantaine, prescrire l'abattage des animaux malades ou
+ayant été exposés à la contagion, la destruction des produits, denrées animales ou d'origine animale ou objets exposés à la
+contamination et, enfin, prendre toutes les mesures que la crainte de l'invasion d'une maladie rendrait nécessaires.
+
+Les mesures susceptibles d'être prises en application de l'alinéa précédent ne donnent lieu à aucune indemnité.
 
 **Liens relatifs à cet article**
 
@@ -9420,9 +9561,39 @@ enfin, prendre toutes les mesures que la crainte de l'invasion d'une maladie ren
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1898-06-21 art. 57
+	  - Loi n°89-412 du 22 juin 1989 - art. 15 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 4 () JORF 11 février 1994
+
+
+###### Article 247-1
+
+Les dispositions prévues à l'article 247 sont applicables aux animaux, produits, objets, denrées animales ou d'origine
+animale dans lesquels sont suspectés ou détectés des substances toxiques ou leurs résidus.
+
+Un décret en Conseil d'Etat détermine les conditions d'application de cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 247
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 16 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 4 () JORF 11 février 1994
 
 
 ###### Article 248
@@ -10139,6 +10310,97 @@ cas de stricte nécessité.
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
+###### Article 276-1
+
+L'attribution en lot ou prime de tout animal vivant, à l'exception des animaux d'élevage dans le cadre de fêtes, foires,
+concours et manifestations à caractère agricole, est interdite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 17 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 276-2
+
+Tous les chiens et chats faisant l'objet soit d'un transfert de propriété à titre onéreux, soit d'une cession à titre gratuit
+par une association ou une fondation de protection des animaux doivent être, à la diligence du vendeur ou du donateur,
+préalablement identifiés par tatouage ou par tout autre procédé agréé par le ministre chargé de l'agriculture, selon les
+modalités fixées par décret en Conseil d'Etat.
+
+Dans les territoires couverts par un arrêté ministériel déclarant une zone atteinte par la rage, tous les chiens et les chats
+faisant l'objet d'un transfert de propriété, à quelque titre que ce soit, doivent être identifiés selon les modalités prévues
+à l'alinéa précédent.
+
+A compter du 1er janvier 1992, tous les chiens et les chats faisant l'objet d'un transfert de propriété, à quelque titre que
+ce soit, doivent être identifiés selon les modalités prévues au premier alinéa du présent article.
+
+Dans les départements officiellement déclarés infectés de rage, l'identification est obligatoire pour tous les carnivores
+domestiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 17 () JORF 24 juin 1989
+
+
+###### Article 276-3
+
+L'utilisation habituelle d'installations en vue de la vente, du toilettage, du transit ou de la garde de chiens ou de chats
+est soumise à des règles sanitaires qui sont, ainsi que les modalités de contrôle correspondantes, fixées par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 17 () JORF 24 juin 1989
+
+
+###### Article 276-4
+
+Tous les équidés faisant l'objet d'un transfert de propriété, à quelque titre que ce soit, doivent être préalablement, à la
+diligence du vendeur ou du donateur, identifiés par tatouage ou par tout autre procédé agréé par le ministre chargé de
+l'agriculture, selon les modalités fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural 276-6
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 17 () JORF 24 juin 1989
+
+	**Transféré par**:
+
+	  - Loi n°99-5 du 6 janvier 1999 - art. 14 (Ab) JORF 7 janvier 1999
+
+
 ###### Article 277
 
 Tout entrepreneur de transport par terre ou par eau doit pourvoir, toutes les douze heures au moins, à l'abreuvement et à
@@ -10260,9 +10522,10 @@ dans lesquelles doit s'effectuer, dans les gares de chemins de fer, la surveilla
 
 ###### Article 281
 
-Le vétérinaire sanitaire, au cas où il trouve les locaux insalubres pour les animaux domestiques, indique les mesures à
-prendre ; en cas d'inexécution, il adresse au maire et au préfet un rapport dans lequel il fait connaître les mesures de
-désinfection et de nettoyage qu'il a recommandées et qu'il juge utiles pour y remédier.
+Le vétérinaire sanitaire, au cas où il trouve les locaux insalubres pour les animaux domestiques et les animaux sauvages
+apprivoisés ou tenus en captivité, indique les mesures à prendre ; en cas d'inexécution, il adresse au maire et au préfet un
+rapport dans lequel il fait connaître les mesures de désinfection et de nettoyage qu'il a recommandées et qu'il juge utiles
+pour y remédier.
 
 Le préfet peut ordonner aux frais de qui de droit, et dans un délai qu'il détermine, l'exécution de ces mesures.
 
@@ -10273,14 +10536,15 @@ En cas d'urgence, le maire peut prescrire des mesures provisoires.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1898-06-21 art. 70
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°76-629 du 10 juillet 1976 - art. 11 () JORF 13 juillet 1976
+	  - Loi n°89-412 du 22 juin 1989 - art. 18 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 282
@@ -10353,8 +10617,8 @@ sont exécutées, l'usage des locaux dont l'insalubrité a été constatée est 
 
 Les vétérinaires inspecteurs, qu'ils soient fonctionnaires ou agents contractuels à temps complet de l'Etat, ont qualité,
 dans les limites du département où ils sont affectés, pour rechercher et constater les infractions aux dispositions des
-articles 276 à 283 du présent code sur la protection des animaux domestiques et des textes réglementaires pris pour leur
-application.
+articles 276 à 283 du présent code sur la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en
+captivité et des textes réglementaires pris pour leur application.
 
 **Liens relatifs à cet article**
 
@@ -10366,9 +10630,9 @@ application.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-1030 1972-11-15 art. 2 JORF 16 novembre 1972
+	  - Loi n°89-412 du 22 juin 1989 - art. 18 () JORF 24 juin 1989
 
 
 ###### Article 283-2
@@ -10484,6 +10748,32 @@ accompagnés par un officier ou agent de police judiciaire.
 	  - Loi n°82-373 1982-05-06 art. 4 JORF 7 mai 1982
 
 
+###### Article 283-6
+
+Le ministre chargé de l'agriculture peut attribuer à des agents mentionnés aux articles 283-1 et 283-2 et nommément désignés
+une compétence territoriale débordant des limites du département où ils sont affectés et pouvant être étendue à la totalité
+du territoire national. Les conditions d'application de cette disposition sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 283-1, 283-2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 19 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
 ## Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.
 
 ###### Article 284
@@ -10524,7 +10814,14 @@ le tic proprement dit avec ou sans usure des dents ;
 
 les boiteries anciennes intermittentes ;
 
-la fluxion périodique des yeux.
+l'uvéite isolée ;
+
+l'anémie infectieuse des équidés.
+
+Sont considérés comme atteints d'anémie infectieuse des équidés et peuvent donner lieu à rédhibition les animaux qui ont fait
+l'objet d'une recherche de la maladie par des épreuves effectuées selon des procédés et critères approuvés par la commission
+nationale vétérinaire et dont le résultat a été reconnu positif par un laboratoire agréé par le ministre chargé de
+l'agriculture.
 
 Pour l'espèce porcine :
 
@@ -10556,9 +10853,6 @@ Sont considérés comme atteints de leucose enzootique et peuvent donner lieu à
 d'une recherche de la maladie par des épreuves effectuées selon des procédés et des critères approuvés par la commission
 nationale vétérinaire et dont le résultat a été reconnu positif par un laboratoire agréé par le ministère de l'agriculture.
 
-Aucune action en garantie ne saurait être introduite si l'acheteur a libéré par écrit, au moment de la vente de l'animal, le
-vendeur de toute garantie.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -10567,11 +10861,146 @@ vendeur de toute garantie.
 
 	**Modifié par**:
 
-	  - Loi n°85-772 du 25 juillet 1985 - art. 127 () JORF 26 juillet 1985
+	  - Loi n°89-412 du 22 juin 1989 - art. 20 () JORF 24 juin 1989
+	  - Loi n°89-412 du 22 juin 1989 - art. 21 () JORF 24 juin 1989
+	  - Loi n°89-412 du 22 juin 1989 - art. 38 (V) JORF 24 juin 1989
 
 	**Cite**:
 
 	  - Code civil - art. 1641 (V)
+
+
+###### Article 285-1
+
+Sont réputés vices rédhibitoires, pour l'application des articles 284 et 285 aux transactions portant sur des chiens ou des
+chats :
+
+1° Pour l'espèce canine :
+
+a) La maladie de Carré ;
+
+b) L'hépatite contagieuse (maladie de Rubarth) ;
+
+c) La parvovirose canine ;
+
+d) La dysplasie coxofémorale ; en ce qui concerne cette maladie, pour les animaux vendus avant l'âge d'un an, les résultats
+de tous les examens radiographiques pratiqués jusqu'à cet âge sont pris en compte en cas d'action résultant des vices
+rédhibitoires ;
+
+e) L'ectopie testiculaire pour les animaux âgés de plus de six mois ;
+
+f) L'atrophie rétinienne ;
+
+2° Pour l'espèce féline :
+
+a) La leucopénie infectieuse ;
+
+b) La péritonite infectieuse féline ;
+
+c) L'infection par le virus leucémogène félin ;
+
+d) L'infection par le virus de l'immuno-dépression.
+
+Pour les maladies transmissibles du chien et du chat mentionnées aux a, b et c du 1° et aux a, b et c du 2° ci-dessus, les
+dispositions de l'article 1647 du code civil ne s'appliquent que si un diagnostic de suspicion a été établi par un
+vétérinaire ou docteur vétérinaire dans les délais fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 284, 285
+	  - Code civil - art. 1647 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 22 () JORF du 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 285-2
+
+Les délais impartis aux acheteurs de chiens et de chats pour provoquer la nomination d'experts chargés, en vertu de l'article
+290, de dresser procès-verbal et pour intenter l'action résultant des vices rédhibitoires sont fixés par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 290
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 22 () JORF du 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 285-3
+
+Sous réserve des dispositions du chapitre IV de la loi n° 78-23 du 10 janvier 1978 sur la protection et l'information des
+consommateurs de produits et services et des décrets pris pour son application, aucune action en garantie ne saurait être
+introduite si l'acheteur a libéré par écrit, de façon manuscrite, au moment de la vente de l'animal, le vendeur de toute
+garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Loi n°78-23 1978-01-10
+
+	**Abrogé par**:
+
+	  - Loi n°99-5 1996-01-06 art. 27 JORF 7 janvier 1999
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 22 () JORF du 24 juin 1989
+
+
+###### Article 285-4
+
+Un décret en Conseil d'Etat, pris après avis de la Commission nationale vétérinaire, peut, en tant que de besoin, actualiser
+la liste des vices rédhibitoires énumérés aux articles 285 et 285-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 285, 285-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 22 () JORF du 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 286
@@ -10656,27 +11085,28 @@ domestiques, si le prix en cas de vente, ou la valeur en cas d'échange, ne dép
 
 ###### Article 290
 
-Quel que soit le délai pour intenter l'action, l'acheteur, à peine d'être non recevable, doit provoquer, dans les délais de
-l'article 289, la nomination d'experts chargés de dresser procès-verbal. La requête est présentée verbalement ou par écrit,
-au juge du tribunal d'instance du lieu où se trouve l'animal ; ce juge constate dans son ordonnance la date de la requête et
-nomme immédiatement un ou trois experts qui doivent opérer dans le plus bref délai.
+Quel que soit le délai pour intenter l'action, l'acheteur, à peine d'être non recevable, doit provoquer, dans des délais
+fixés par décret en Conseil d'Etat, la nomination d'experts chargés de dresser procès-verbal. La requête est présentée
+verbalement ou par écrit, au juge du tribunal d'instance du lieu où se trouve l'animal ; ce juge constate dans son ordonnance
+la date de la requête et nomme immédiatement un ou trois experts qui doivent opérer dans le plus bref délai.
 
 Ces experts vérifient l'état de l'animal, recueillent tous les renseignements utiles, donnent leur avis et, à la fin de leur
 procès-verbal, affirment par serment la sincérité de leurs opérations.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural 289
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1884-08-02 art. 7
+	  - Loi n°89-412 du 22 juin 1989 - art. 23 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 291
@@ -10829,11 +11259,33 @@ consultatif de l'élevage.
 
 ###### Article 309
 
-Tout vétérinaire ou docteur vétérinaire désirant exercer sa profession est tenu, dans le mois qui suit son établissement, de
-faire enregistrer, sans frais, son diplôme à la préfecture de son département et au greffe du tribunal de grande instance de
-son arrondissement. L'enregistrement du diplôme doit être obligatoirement suivi, dans le délai de six mois, de la production
-d'un certificat d'inscription au tableau de l'ordre des vétérinaires. Le fait de porter son domicile dans un autre
-département oblige à un nouvel enregistrement du diplôme dans le même délai.
+Tout vétérinaire de nationalité française ou ressortissant d'un autre Etat membre de la Communauté économique européenne qui
+remplit les conditions d'exercice prévues par la loi n° 82-899 du 20 octobre 1982 relative à l'exercice des activités de
+vétérinaire et qui désire exercer sa profession est tenu, au préalable, de faire enregistrer sans frais son diplôme à la
+préfecture de son département et au greffe du tribunal de grande instance de son arrondissement. L'enregistrement du diplôme
+doit être, préalablement à l'exercice de la profession, suivi de la production d'un certificat d'inscription au tableau de
+l'ordre des vétérinaires délivré par le conseil régional de l'ordre des vétérinaires. Le fait de porter son domicile dans un
+autre département oblige à un nouvel enregistrement du diplôme.
+
+Dans la limite d'un quota annuel fixé par décret en Conseil d'Etat, le ministre chargé de l'agriculture peut autoriser à
+exercer la médecine et la chirurgie des animaux les personnes de nationalité française ou ressortissantes d'un autre Etat
+membre de la Communauté économique européenne qui, titulaires d'un diplôme, certificat ou titre de vétérinaire émanant de
+pays tiers et figurant sur une liste établie par arrêté du ministre chargé de l'agriculture, ont satisfait à la vérification
+de leurs connaissances en matière de législation sanitaire ou qui, titulaires d'un diplôme, certificat ou titre de
+vétérinaire, émanant d'un pays tiers et n'étant pas inscrit sur cette liste, ont satisfait à la vérification d'ensemble de
+leurs connaissances selon des modalités fixées par décret en Conseil d'Etat.
+
+Ces autorisations sont délivrées selon l'ordre d'antériorité des demandes.
+
+En outre, l'autorisation d'exercer la médecine et la chirurgie des animaux peut être accordée par décision du ministre chargé
+de l'agriculture à tout ressortissant d'un Etat membre de la Communauté économique européenne titulaire d'un diplôme français
+d'université ou d'un diplôme reconnu comme équivalent délivré par un autre Etat membre de la Communauté économique
+européenne. Cette disposition est applicable jusqu'à l'expiration d'une période de cinq années à compter de l'année d'entrée
+en vigueur de la loi n° 89-412 du 22 juin 1989 modifiant et complétant certaines dispositions du livre II du code rural ainsi
+que certains articles du code de la santé publique.
+
+Préalablement à l'exercice effectif de la profession, les personnes autorisées à pratiquer la médecine et la chirurgie des
+animaux doivent procéder aux formalités d'enregistrement et d'inscription prévues au premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
@@ -10841,24 +11293,29 @@ département oblige à un nouvel enregistrement du diplôme dans le même délai
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°1938-06-17 art. 3
+	  - Loi n°82-899 1982-10-20
+	  - Loi n°89-412 1989-06-22
+
+	**Modifié par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 24 () JORF 24 juin 1989
 
 
 ###### Article 309-1
 
-Par dérogation aux dispositions législatives en vigueur et notamment aux articles 309 et 340 du présent code, et à condition
-de posséder la nationalité française ou la nationalité d'un Etat dont les ressortissants tiennent de conventions ou
-réglementations internationales le droit de bénéficier des présentes dispositions au même titre que les français, les élèves
-des écoles nationales vétérinaires pourvus d'une attestation établissant qu'ils ont subi avec succès les examens de fin de
-troisième année de ces écoles sont autorisés, dans les conditions définies par le présent article et les articles suivants,
-ainsi que par les règlements pris pour leur exécution, à pratiquer la médecine et la chirurgie des animaux en qualité
-d'assistants de vétérinaires ou de docteurs vétérinaires exerçant régulièrement cette médecine et cette chirurgie.
+Par dérogation aux dispositions législatives en vigueur et notamment aux articles 309 et 340, et à condition de posséder la
+nationalité française ou celle d'un des autres Etats membres de la Communauté économique européenne ou d'un Etat dont les
+ressortissants tiennent des conventions ou réglementations internationales le droit de bénéficier des présentes dispositions
+au même titre que les Français, les élèves des écoles vétérinaires françaises, pourvus d'une attestation établissant qu'ils
+ont subi avec succès les examens de fin de troisième année de ces écoles, sont autorisés, dans les conditions définies par le
+présent article et les articles suivants, ainsi que par les règlements pris pour leur exécution, à pratiquer la médecine et
+la chirurgie des animaux en qualité d'assistants de vétérinaires exerçant régulièrement cette médecine et cette chirurgie.
 
-Doit être considéré comme assistant pour l'application du présent article et de l'article suivant celui qui soigne, en dehors
-de la présence mais sous l'autorité d'un vétérinaire ou d'un docteur vétérinaire, des animaux de la clientèle de celui-ci,
-lequel continue à assurer la gestion de son cabinet.
+Pour l'application du présent article et de l'article suivant, est considéré comme assistant celui qui, en dehors de la
+présence mais sous l'autorité d'un vétérinaire, intervient, à titre médical ou chirurgical, sur les animaux habituellement
+soignés par celui-ci, lequel, s'il exerce à titre libéral, continue à assurer la gestion de son cabinet.
 
 **Liens relatifs à cet article**
 
@@ -10870,15 +11327,15 @@ lequel continue à assurer la gestion de son cabinet.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°71-450 1971-06-16 art. 1 JORF 17 juin 1971
+	  - Loi n°89-412 du 22 juin 1989 - art. 25 () JORF 24 juin 1989
 
 
 ###### Article 309-2
 
 Par dérogation aux dispositions législatives en vigueur et sous réserve des conditions de nationalité indiquées à l'article
-précédent, les anciens élèves des écoles nationales vétérinaires ne possédant pas encore le diplôme de docteur vétérinaire,
+précédent, les anciens élèves des écoles vétérinaires françaises ne possédant pas encore le diplôme de docteur vétérinaire,
 mais pourvus d'une attestation établissant qu'ils ont subi avec succès les examens de fin de quatrième année de ces écoles,
 sont autorisés, dans les conditions définies par le présent article et les articles suivants ainsi que par les règlements
 pris pour leur exécution, à pratiquer la médecine et la chirurgie des animaux en qualité soit d'assistants soit de
@@ -10901,19 +11358,24 @@ peuvent toutefois exercer pendant un temps supplémentaire égal à celui pendan
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°71-450 1971-06-16 art. 1 JORF 17 juin 1971
+	  - Loi n°89-412 du 22 juin 1989 - art. 26 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 309-3
 
-Les élèves et anciens élèves des écoles nationales vétérinaires, admis à exercer la médecine et la chirurgie vétérinaires, en
+Les élèves et anciens élèves des écoles vétérinaires françaises, admis à exercer la médecine et la chirurgie vétérinaires, en
 application des dispositions qui précèdent, les exercent sous la responsabilité civile des vétérinaires et docteurs
 vétérinaires qui recourent à leurs services.
 
-Les modalités des rapports entre chaque élève ou ancien élève des écoles nationales vétérinaires, d'une part, et le
+Les modalités des rapports entre chaque élève ou ancien élève des écoles vétérinaires françaises, d'une part, et le
 vétérinaire ou docteur vétérinaire qui recourt à ses services, d'autre part, doivent faire l'objet d'un contrat écrit. A
 défaut de contrat, les modalités sont régies par des arrêtés du ministre de l'agriculture pris après avis du conseil
 supérieur de l'ordre des vétérinaires et qui peuvent comporter des dispositions variant suivant les régions et les catégories
@@ -10924,15 +11386,20 @@ de soins donnés.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°71-450 1971-06-16 art. 1 JORF 17 juin 1971
+	  - Loi n°89-412 du 22 juin 1989 - art. 26 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 309-4
 
-Les élèves et les anciens élèves des écoles nationales vétérinaires ne peuvent assister ou remplacer des vétérinaires ou des
+Les élèves et les anciens élèves des écoles vétérinaires françaises ne peuvent assister ou remplacer des vétérinaires ou des
 docteurs vétérinaires qu'après avoir déclaré à l'administration leur intention ainsi que le nom du vétérinaire ou docteur
 vétérinaire qu'ils assisteront ou remplaceront.
 
@@ -10944,10 +11411,15 @@ conseil régional de l'ordre des vétérinaires au tableau duquel ils sont inscr
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°71-450 1971-06-16 art. 1 JORF 17 juin 1971
+	  - Loi n°89-412 du 22 juin 1989 - art. 26 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 309-5
@@ -10978,7 +11450,7 @@ vétérinaires prévu aux articles 309-1 et 309-2 ou suspendre le droit de l'int
 
 ###### Article 309-6
 
-Au cas de survenance d'une épizootie, les anciens élèves et élèves des écoles nationales vétérinaires remplissant les
+Au cas de survenance d'une épizootie, les anciens élèves et élèves des écoles vétérinaires françaises, remplissant les
 conditions prévues aux articles 309-1 et 309-2, peuvent, dans les cas et conditions déterminés par décret en Conseil d'Etat,
 pratiquer la médecine et la chirurgie vétérinaires sans avoir la qualité d'assistant ou de remplaçant de vétérinaires ou
 docteurs vétérinaires.
@@ -10992,15 +11464,20 @@ docteurs vétérinaires.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°71-450 1971-06-16 art. 1 JORF 17 juin 1971
+	  - Loi n°89-412 du 22 juin 1989 - art. 26 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 309-7
 
-Les élèves ou anciens élèves des écoles nationales vétérinaires exerçant dans les conditions définies par les articles 309-1
+Les élèves ou anciens élèves des écoles vétérinaires françaises exerçant dans les conditions définies par les articles 309-1
 et suivants ci-dessus sont soumis, en raison des actes qu'ils accomplissent à cette occasion, aux lois et règlements
 régissant l'exercice de la médecine et de la chirurgie vétérinaires. Ils doivent observer les règlements pris par le conseil
 supérieur de l'ordre des vétérinaires et notamment le code de déontologie. Ils relèvent des chambres de discipline du conseil
@@ -11019,10 +11496,15 @@ Les décisions des chambres de discipline sont portées sans délai à la connai
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°71-450 1971-06-16 art. 1 JORF 17 juin 1971
+	  - Loi n°89-412 du 22 juin 1989 - art. 26 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 309-8
@@ -11049,26 +11531,36 @@ Un décret en Conseil d'Etat définira les conditions d'application des articles
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-###### Article 310
+###### Article 309-9
 
-Il est établi, chaque année, dans chaque département, une liste portant les noms et prénoms, la résidence, la date et la
-provenance du diplôme des vétérinaires ou docteurs-vétérinaires.
+Seuls les vétérinaires remplissant les conditions posées par l'article 309 et par les textes réglementaires pris pour son
+exécution peuvent exercer en commun la médecine et la chirurgie des animaux dans le cadre des sociétés civiles
+professionnelles régies par la loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles et le décret
+n° 79-885 du 11 octobre 1979.
 
-Cette liste est affichée dans toutes les communes du département.
+Cet exercice en commun ne peut être entrepris qu'après l'accomplissement par la société civile professionnelle de
+vétérinaires des formalités relatives à son inscription au tableau de l'ordre, exigées par les articles 309 et 318.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 309, 318
+	  - Loi n°66-879 1966-11-29
+	  - Décret n°79-885 1979-10-11
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Loi n°1938-06-17 art. 4
+	  - Loi n°89-412 du 22 juin 1989 - art. 27 () JORF 24 juin 1989
 
 	**Abrogé par**:
 
-	  - Loi n°89-412 du 22 juin 1989 - art. 38 (V) JORF 24 juin 1989
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 311
@@ -11129,9 +11621,19 @@ Le décret en Conseil d'Etat mentionné ci-dessus détermine les conditions d'ex
 
 ###### Article 312
 
-Dans chacune des circonscriptions régionales qui sont déterminées par un arrêté du ministre de l'agriculture, tous les
-vétérinaires et docteurs vétérinaires en exercice forment un ordre des vétérinaires ayant son siège au chef-lieu de la
-région.
+Il est institué, dans chacune des circonscriptions régionales qui sont déterminées par un arrêté du ministre chargé de
+l'agriculture, un ordre régional des vétérinaires formé de tous les vétérinaires en exercice qui remplissent les conditions
+fixées aux articles 309 et 309-9.
+
+Les membres des conseils régionaux de l'ordre sont élus par les vétérinaires inscrits au tableau de l'ordre tel que défini à
+l'article 318.
+
+Les membres des conseils régionaux de l'ordre élisent les membres du Conseil supérieur de l'ordre des vétérinaires prévu à
+l'article 315.
+
+Sont seuls électeurs et éligibles les vétérinaires établis ou exerçant à titre principal en France.
+
+Un décret en Conseil d'Etat fixe les modalités des élections aux conseils régionaux et au conseil supérieur.
 
 Toutefois ne sont pas soumis à cette règle les vétérinaires et docteurs vétérinaires appartenant au cadre actif du service
 vétérinaire de l'armée ainsi que les vétérinaires et docteurs vétérinaires investis d'une fonction publique n'ayant pas
@@ -11139,13 +11641,22 @@ d'autre activité professionnelle vétérinaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°47-1564 1947-08-23
+	  - Code rural 309, 309-9, 318, 315
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 28 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 315
@@ -11170,6 +11681,22 @@ Il est institué un conseil supérieur de l'ordre des vétérinaires ayant son s
 	**Abrogé par**:
 
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 316
+
+Un code de déontologie est édicté par décret en Conseil d'Etat, après avis du Conseil supérieur de l'ordre des vétérinaires
+et consultation des organisations syndicales de vétérinaires ainsi que de la commission nationale vétérinaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 29 () JORF 24 juin 1989
 
 
 ###### Article 317
@@ -11205,39 +11732,48 @@ Soit d'une sanction prononcée en application de l'ordonnance du 27 juin 1944 mo
 
 ###### Article 318
 
-Le conseil régional de l'ordre dresse, par département, le tableau des vétérinaires et docteurs vétérinaires remplissant les
-conditions requises et admis à exercer leur profession. Ce tableau est tenu à jour au début de chaque année ; il est déposé à
-la préfecture ainsi qu'au parquet du tribunal de grande instance du chef-lieu de chacun des départements de la région.
+Le conseil régional de l'ordre dresse, chaque année et pour chaque département compris dans son ressort, le tableau des
+vétérinaires qui remplissent les conditions fixées à l'article 309 et des sociétés civiles professionnelles de vétérinaires
+qui remplissent les conditions fixées à l'article 309-9. Ce tableau est déposé à la préfecture ainsi qu'au parquet du
+tribunal de grande instance du chef-lieu de chacun des départements de la région ; il est, en outre, affiché dans toutes les
+communes du département.
 
-L'inscription doit être demandée par les intéressés au conseil de la région dans laquelle ils se proposent d'exercer leur
-profession. La demande doit être accompagnée du diplôme de vétérinaire ou de docteur vétérinaire en original ou en copie
-certifiée conforme.
+L'inscription au tableau de l'ordre doit être demandée par les intéressés, agissant à titre personnel ou en qualité de
+membres d'une société civile professionnelle, au conseil de l'ordre de la région dans laquelle ils se proposent d'exercer
+leur profession. La demande doit être accompagnée du diplôme, titre ou certificat permettant l'exercice de la profession
+vétérinaire en original ou en copie certifiée conforme.
 
-Le conseil régional de l'ordre doit statuer dans un délai maximum de deux mois, à compter de la demande, après vérification
-des titres du demandeur. Ce délai est prolongé lorsqu'il est indispensable de procéder à une enquête hors de la France
-continentale. L'inscription ne peut être refusée que par décision motivée.
-
-En cas de changement de domicile professionnel, l'inscription est transférée d'office au tableau dressé par le département du
-nouveau domicile.
+Le conseil régional de l'ordre doit statuer dans un délai maximum de deux mois à compter de la demande, après vérification
+des titres du demandeur ou, s'agissant d'une société civile professionnelle, des demandeurs. Ce délai est prolongé lorsqu'il
+est indispensable de procéder à une enquête hors du territoire national. L'inscription ne peut être refusée que par décision
+motivée.
 
 Le refus d'inscription au tableau de l'ordre ouvre droit à recours dans les conditions prévues à l'article 323.
 
-En demandant leur inscription au tableau, les vétérinaires et docteurs vétérinaires s'engagent sous la foi du serment à
-exercer leur profession avec conscience et probité.
+En demandant leur inscription au tableau ou celle de la société civile professionnelle dont ils sont associés, les
+vétérinaires s'engagent sous la foi du serment à exercer leur profession avec conscience et probité.
+
+En cas de changement de domicile professionnel, l'inscription est transférée d'office au tableau du département du nouveau
+domicile.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 323
-
-	**Anciens textes**:
-
-	  - Loi n°47-1564 1947-08-23 art. 11, art. 12, art. 13
+	  - Code rural 309, 309-9, 323
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 30 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 319
@@ -11298,8 +11834,8 @@ La suspension temporaire du droit d'exercer la profession pour une durée maximu
 excéder le ressort de la chambre régionale qui a prononcé la suspension. Cette sanction entraîne l'inéligibilité de
 l'intéressé à un conseil de l'ordre pendant toute la durée de la suspension ;
 
-La suspension temporaire du droit d'exercer la profession pour une durée maximum de dix ans sur tout le territoire de la
-France métropolitaine (et de l'Algérie). Cette sanction comporte l'interdiction définitive de faire partie d'un conseil de
+La suspension temporaire du droit d'exercer la profession pour une durée maximum de dix ans sur tout le territoire des
+départements métropolitains et d'outre-mer. Cette sanction comporte l'interdiction définitive de faire partie d'un conseil de
 l'ordre.
 
 L'exercice de la profession en période de suspension est passible des peines applicables à l'exercice illégal de la médecine
@@ -11317,13 +11853,18 @@ maximum de un mois.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°47-1564 1947-08-23
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 31 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 322
@@ -11550,79 +12091,102 @@ transport et l'utilisation de la semence, ainsi que des reproducteurs mâles.
 
 ###### Article 340
 
-Sous réserve des dispositions de la loi n° 82-899 du 20 octobre 1982 relative à l'exercice des activités de vétérinaire et
-des dispositions transitoires prévues par l'article 6 de la loi du 17 juin 1938 relative à l'exercice de la médecine
-vétérinaire et par la loi du 22 septembre 1948 relative à l'exercice de la médecine et de la chirurgie des animaux par des
-vétérinaires étrangers, ceux qui exercent de façon habituelle, avec ou sans rémunération, la médecine ou la chirurgie des
-animaux sans être de nationalité française, sans être munis du diplôme d'Etat français de vétérinaire ou du diplôme d'Etat
-français de docteur vétérinaire et sans être habilités par le conseil régional de l'ordre des vétérinaires, seront punis, en
-cas de récidive, d'un emprisonnement de un à six mois et d'une amende de 7.200 à 60.000 F ou de l'une de ces deux peines
-seulement.
+Exerce illégalement la médecine ou la chirurgie des animaux :
 
-Seront punis des mêmes peines en cas de récidive :
+1° Toute personne qui ne remplit pas les conditions prévues à l'article 309 et qui, à titre habituel, en matière médicale ou
+chirurgicale, même en présence d'un vétérinaire, donne des consultations, établit des diagnostics ou des expertises, délivre
+des prescriptions ou certificats, pratique des soins préventifs ou curatifs ou des interventions de convenance ;
 
-1° Les vétérinaires et docteurs vétérinaires qui, frappés de suspension, auront néanmoins exercé leur art de façon
-habituelle ;
-
-2° Les personnes visées à l'article 6 de la loi du 17 juin 1938 et qui exerceraient la médecine ou la chirurgie des animaux
-sans avoir obtenu leur inscription sur le registre spécial prévu par cet article ;
-
-3° Les élèves et anciens élèves des écoles vétérinaires relevant des articles 309-1 à 309-8 qui, frappés de suspension ou
-d'interdiction, auront néanmoins exercé l'art vétérinaire.
-
-Toutefois, ne tomberont pas sous le coup des alinéas précédents les interventions faites par les maréchaux-ferrants dans les
-maladies du pied, les opérations de castration des animaux autres que les équidés et les soins d'urgence, hors le cas de
-maladies contagieuses. L'exercice de la médecine vétérinaire dans les maladies contagieuses des animaux sans diplôme de
-vétérinaire sera puni des peines prévues à l'article 328.
-
-Ne tombent pas sous le coup des dispositions des alinéas précédents les interventions faites par les fonctionnaires et agents
-des catégories désignées en application de l'article 311-1.
+2° Le vétérinaire ainsi que l'élève ou ancien élève des écoles vétérinaires françaises relevant des articles 309-1 à 309-8
+qui, frappés de suspension ou d'interdiction, exercent l'art vétérinaire.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 309-1 à 309-8, 328, 311-1
-	  - Loi n°1938-06-17 art. 6
-	  - Loi n°48-1465 1948-09-22
-	  - Loi n°82-899 1982-10-20
+	  - Code rural 309, 309-1 à 309-8
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°89-412 du 22 juin 1989 - art. 33 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 340-1
+
+Toutefois, ne tombent pas sous le coup des dispositions relatives à l'exercice illégal des activités de vétérinaire visées à
+l'article 340 :
+
+a) Les interventions faites par :
+
+1° Les maréchaux-ferrants pour les maladies du pied et les pareurs bovins dans le cadre des opérations habituelles de parage
+du pied ;
+
+2° Les élèves des écoles vétérinaires françaises et de l'Ecole nationale des services vétérinaires dans le cadre de
+l'enseignement dispensé par ces établissements ;
+
+3° Les vétérinaires inspecteurs dans le cadre de leurs attributions et les agents spécialisés en pathologie apicole,
+habilités par l'autorité administrative compétente et intervenant sous sa responsabilité dans la lutte contre les maladies
+apiaires ;
+
+4° Les fonctionnaires et agents qualifiés, titulaires ou contractuels relevant des services vétérinaires du ministère de
+l'agriculture et de la forêt, appartenant aux catégories désignées conformément à l'article 311-1 et intervenant dans les
+limites prévues par ledit article ;
+
+5° Les propriétaires ou les détenteurs d'animaux de rapport qui pratiquent, sur leurs propres animaux ou sur ceux dont ils
+ont la garde, dans le respect des dispositions légales ou réglementaires, et en particulier de celles qui régissent la
+protection animale, les soins et les actes d'usage courant, nécessaires à la bonne conduite de leur élevage ;
+
+6° Les directeurs des laboratoires agréés par le ministre chargé de l'agriculture pour la réalisation des examens concourant
+à l'établissement d'un diagnostic.
+
+Les conditions d'agrément de ces laboratoires ainsi que la nature de ces examens sont fixées par décret en Conseil d'Etat ;
+
+7° Dans des conditions fixées par décret en Conseil d'Etat, les ingénieurs et les techniciens diplômés intervenant dans le
+cadre de leurs activités zootechniques, placés sous l'autorité d'un vétérinaire ou d'un organisme à vocation sanitaire agréé
+par le ministre chargé de l'agriculture, ou relevant de la loi n° 66-1005 du 28 décembre 1966 sur l'élevage ;
+
+b) Les castrations des animaux autres que les équidés et les carnivores domestiques ;
+
+c) Les soins de première urgence autres que ceux nécessités par les maladies contagieuses.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 340, 311-1
+	  - Loi n°66-1005 1966-12-28
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1881-07-21 art. 30
-	  - Loi n°1898-06-21 art. 40
-	  - Loi n°1938-06-17 art. 1, art. 5, art. 7
-
 	**Modifié par**:
 
-	  - Ordonnance 58-1297 1958-12-23 art. 11 JORF 24 décembre 1958
-	  - Loi n°71-450 1971-06-16 art. 2 JORF 17 juin 1971
-	  - Loi n°79-6 1979-01-02 art. 2 JORF 3 janvier 1979
-	  - Loi n°82-899 du 20 octobre 1982 - art. 4 () JORF 21 octobre 1982
+	  - Loi n°89-412 du 22 juin 1989 - art. 34 () JORF 24 juin 1989
 
 
 ###### Article 341
 
-Toute personne qui aura fait une fausse déclaration en vue de son inscription au tableau de l'ordre des vétérinaires, sera
-punie d'un emprisonnement de un à trois mois et d'une amende de 3 600 à 20 000 F, ou de l'une de ces deux peines seulement.
-
-Sera puni d'un emprisonnement de six jours à six mois et d'une amende de 300 à 15 000 F ou de l'une de ces deux peines
-seulement, tout vétérinaire ou docteur vétérinaire qui, ayant fait l'objet d'une des sanctions ou mesures administratives
-visées à l'article 317, participerait à l'activité d'un conseil régional ou du conseil supérieur de l'ordre des vétérinaires.
+Sous réserve des dispositions prévues aux articles 311-1 et 340-1, l'exercice illégal, avec ou sans rémunération, de la
+médecine ou de la chirurgie des animaux est puni d'une amende de 5 000 F à 60 000 F et d'un emprisonnement de dix jours à
+trois mois ou de l'une de ces deux peines seulement et, en cas de récidive, d'une amende de 20 000 F à 120 000 F et d'un
+emprisonnement de un à six mois ou de l'une de ces deux peines seulement. Dans tous les cas, le tribunal peut ordonner la
+fermeture de l'établissement et prononcer la confiscation du matériel ayant permis l'exercice illégal.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 317
-
-	**Anciens textes**:
-
-	  - Loi n°47-1564 1947-08-23 art. 22, art. 23
+	  - Code rural 311-1, 340-1
 
 	**Codifié par**:
 
@@ -11630,7 +12194,7 @@ visées à l'article 317, participerait à l'activité d'un conseil régional ou
 
 	**Modifié par**:
 
-	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+	  - Loi n°89-412 du 22 juin 1989 - art. 35 () JORF 24 juin 1989
 
 
 ## Titre X : De la protection des végétaux.
