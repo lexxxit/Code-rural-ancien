@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1985-12-05
+Version Consolidée au 1986-01-01
 
 ###### Article 162
 
@@ -22901,9 +22901,10 @@ cas d'accident suivi de mort, la part d'indemnité correspondant au préjudice m
 
 L'intéressé ou ses ayants droit doivent indiquer, en tout état de la procédure, la qualité d'assuré social de la victime de
 l'accident ainsi que les caisses de mutualité sociale agricole auxquelles celle-ci est ou était affiliée pour les divers
-risques. A défaut de cette indication, la nullité du jugement sur le fond pourra être demandée pendant deux ans, à compter de
-la date à partir de laquelle ledit jugement est devenu définitif, soit à la requête du ministère public, soit à la demande
-des caisses de mutualité sociale agricole intéressées ou du tiers responsable lorsque ces derniers y auront intérêt.
+risques. Ils doivent appeler ces caisses en déclaration de jugement commun. A défaut du respect de l'une de ces obligations,
+la nullité du jugement sur le fond pourra être demandée pendant deux ans, à compter de la date à partir de laquelle ledit
+jugement est devenu définitif, soit à la requête du ministère public, soit à la demande des caisses de mutualité sociale
+agricole intéressées ou du tiers responsable lorsque ces derniers y auront intérêt.
 
 La victime ou ses ayants droit sont admis à faire valoir les droits résultant pour eux de l'action en indemnité formée
 conformément aux trois premiers alinéas du présent article par priorité sur ceux des caisses en ce qui concerne son action en
@@ -22915,17 +22916,14 @@ l'envoi de cette lettre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1935-10-28 art. 25
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
 	**Modifié par**:
 
-	  - Loi n°76-622 1976-07-10 art. 3 JORF 11 juillet 1976
+	  - Loi n°85-677 1985-07-05 art. 40, art. 47 JORF 6 juillet 1985 en vigueur le 1er janvier 1986
+	  - Loi n°85-677 du 5 juillet 1985 - art. 40 () JORF 6 juillet 1985 en vigueur le 1er janvier 1986
+
+	**Abrogé par**:
+
+	  - Loi n°88-1202 du 30 décembre 1988 - art. 43 () JORF 31 décembre 1988
 
 
 ###### Article 1047
@@ -26487,20 +26485,19 @@ disposition est établie par décret ;
 
 3° Les salariés agricoles désignés, en application de l'article L. 990-8 du code du travail, pour siéger dans une commission,
 un conseil ou un comité administratifs ou paritaires, pour les accidents survenus par le fait ou à l'occasion de leurs
-missions.
+missions ;
+
+4° Les salariés accomplissant un stage de formation dans les conditions prévues par les articles L. 236-10, L. 434-10 et L.
+451-1 du code du travail, pour les accidents survenus par le fait ou à l'occasion de cette formation.
 
 En ce qui concerne les personnes visées au présent article, des décrets déterminent à qui incombent les obligations de
 l'employeur et fixent les bases des cotisations et celles des indemnités.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
 	**Modifié par**:
 
-	  - Loi n°78-754 1978-07-17 art. 13 III JORF 18 juillet 1978
+	  - Loi n°85-1409 1985-12-30 art. 13 JORF 31 décembre 1985 en vigueur le 1er janvier 1986
 
 	**Nouveaux textes**:
 
@@ -26508,6 +26505,9 @@ l'employeur et fixent les bases des cotisations et celles des indemnités.
 
 	**Cite**:
 
+	  - Code du travail - art. L236-10 (M)
+	  - Code du travail - art. L434-10 (M)
+	  - Code du travail - art. L451-1 (M)
 	  - Code du travail - art. L990-8 (T)
 
 
@@ -29295,19 +29295,31 @@ faute intentionnelle commise par eux, le conjoint, les enfants, descendants, all
 ouvriers ou domestiques du chef d'entreprise ou d'exploitation ainsi que toute personne vivant habituellement au foyer de
 celui-ci.
 
+La victime ou ses ayants droit doivent appeler l'organisme assureur  en déclaration de jugement commun ; à défaut, la nullité
+du jugement sur le fond pourra être demandée pendant deux ans à compter de la date à partir de laquelle ledit jugement est
+devenu définitif, soit à la requête du ministère public, soit à la demande de l'assureur ou du tiers responsable lorsque ces
+derniers y ont intérêt.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°83-1071 1983-12-14 art. 5 JORF 15 décembre 1983
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L752-12 (M)
+	  - Code rural L752-12
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°85-677 1985-07-05 art. 41, art. 47 JORF 6 juillet 1985 en vigueur le 1er janvier 1986
+	  - Loi n°85-677 du 5 juillet 1985 - art. 41 () JORF 6 juillet 1985 en vigueur le 1er janvier 1986
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1234-13
@@ -30585,11 +30597,14 @@ dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle au profit des 
 l'application d'un texte législatif ou réglementaire, lorsqu'elles ne bénéficient pas déjà de ces dispositions à un autre
 titre. Un décret détermine la nature desdits organismes et en établit la liste ;
 
-3° Les salariés d'entreprises agricoles ayant leur siège dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle
+3° Les salairés d'entreprises agricoles ayant leur siège dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle
 désignés, en application de l'article L. 990-8 du code du travail, pour sièger dans une commission, un conseil ou un comité
-administratifs ou paritaires, pour les accidents survenus par le fait ou à l'occasion de leurs missions.
+administratifs ou paritaires, pour les accidents survenus par le fait ou à l'occasion de leurs missions ;
 
-Des décrets fixent les modalités de prise en charge, par les caisses d'assurance accident agricole des départements du Haut-
+4° Les salariés accomplissant un stage de formation dans les conditions prévues par les articles L. 236-10, L. 434-10 et L.
+451-1 du code du travail, pour les accidents survenus par le fait ou à l'occasion de cette formation.
+
+Des décrets fixent les modalités de prise en charge, par les caisses d'assurance-accident agricole des départements du Haut-
 Rhin, du Bas-Rhin et de la Moselle, des risques susceptibles de survenir aux personnes visées au présent article ainsi que
 les bases des cotisations et des indemnités ; ils déterminent également la personne morale ou physique à qui incombent les
 obligations de l'employeur.
@@ -30598,7 +30613,7 @@ obligations de l'employeur.
 
 	**Modifié par**:
 
-	  - Loi n°78-754 1978-07-17 art. 13 JORF 18 juillet 1978
+	  - Loi n°85-1409 1985-12-30 art. 13 JORF 31 décembre 1985 en vigueur le 1er janvier 1986
 
 	**Nouveaux textes**:
 
@@ -30606,6 +30621,9 @@ obligations de l'employeur.
 
 	**Cite**:
 
+	  - Code du travail - art. L236-10 (M)
+	  - Code du travail - art. L434-10 (M)
+	  - Code du travail - art. L451-1 (M)
 	  - Code du travail - art. L990-8 (T)
 
 
