@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1999-12-31
+Version Consolidée au 2000-01-01
 
 # Livre Ier : Régime du sol
 
@@ -17712,34 +17712,36 @@ activité professionnelle ou qui n'exploitent qu'une surface inférieure à la m
 l'intégralité des allocations familiales agricoles sont tenus des mêmes obligations pour eux-mêmes, leurs conjoints et les
 enfants mineurs ou assimilés à leur charge.
 
-Le défaut de versement des cotisations n'exclut les assurés du bénéfice de l'assurance qu'à l'expiration d'un délai de six
-mois à compter de la mise en demeure faite par lettre recommandée avec accusé de réception. La mise en demeure devra, à peine
-de nullité, rappeler les termes du présent alinéa.
-
-Nonobstant l'application des dispositions de l'alinéa précédent, le chef d'exploitation ou d'entreprise dont l'exploitation
-ou l'entreprise fait l'objet d'une liquidation judiciaire et qui ne remplit plus les conditions pour relever d'un régime
-d'assurance maladie obligatoire peut bénéficier, à compter du jugement de liquidation judiciaire, des dispositions de
-l'article L. 161-8 du code de la sécurité sociale.
+Le chef d'exploitation ou d'entreprise dont l'exploitation ou l'entreprise fait l'objet d'une liquidation judiciaire et qui
+ne remplit plus les conditions pour relever d'un régime d'assurance maladie obligatoire peut bénéficier, à compter du
+jugement de liquidation judiciaire, des dispositions de l'article L. 161-8 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1106-1
+	  - Code de la sécurité sociale. - art. L161-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural L722-13
+	  - Code rural L725-19
+	  - Code rural - art. L722-13 (V)
+	  - Code rural - art. L725-19 (V)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°94-43 du 18 janvier 1994 - art. 73 () JORF 19 janvier 1994
+	  - Loi n°99-641 du 27 juillet 1999 - art. 6 (Ab) JORF 28 juillet 1999 en vigueur le 1er janvier 2000
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L722-13 (V)
-	  - Code rural - art. L725-19 (V)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L161-8 (M)
-	  - Code rural 1106-1
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1106-15
@@ -20486,7 +20488,7 @@ III. - Un décret en Conseil d'Etat détermine les conditions d'application du p
 
 ###### Article 1143-2
 
-Les caisses de mutualité sociale agricole sont chargées du recouvrement des cotisations et, éventuellement, des pénalités de
+Les caisses de mutualité sociale agricole sont chargées du recouvrement des cotisations et des majorations et pénalités de
 retard dues au titre des régimes de protection sociale agricole dont elles assurent l'application.
 
 Indépendamment de la procédure contentieuse prévue aux articles L. 142-1 et suivants du code de la sécurité sociale et de
@@ -20499,14 +20501,11 @@ des délais et selon des conditions fixés par décret, tous les effets d'un jug
 l'hypothèque judiciaire ;
 
 2° L'état exécutoire signé par le préfet dans le cadre d'une procédure sommaire dont le recouvrement est effectué comme en
-matière de contribution directe ;
-
-3° L'opposition, nonobstant les dispositions des articles 557 et suivants du code de procédure civile, faite à concurrence
-des cotisations et des pénalités dues sur les fonds détenus pour le compte des débiteurs par tous tiers détenteurs.
+matière de contribution directe.
 
 Les organismes visés à l'article 1106-9 sont chargés des mêmes missions et disposent des mêmes voies et moyens que les
 caisses de mutualité sociale agricole en ce qui concerne le recouvrement des cotisations prévues aux articles 1106-6 et
-suivants, ainsi que des pénalités de retard.
+suivants, ainsi que des majorations et pénalités de retard.
 
 En cas de redressement ou de liquidation judiciaires, les pénalités ou majorations de retard dues par le redevable à la date
 du jugement d'ouverture, ainsi que les frais de poursuites, sont remis.
@@ -20519,14 +20518,19 @@ les organes collectifs habilités à utiliser les procédures de recouvrement é
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°94-475 du 10 juin 1994 - art. 30 () JORF 11 juin 1994
+	  - Loi n°99-641 1999-07-27 art. 14 V, VI, VII JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+	  - Loi n°99-641 du 27 juillet 1999 - art. 14 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code de procédure civile 557
 	  - CODE DE PROCEDURE PENALE - art. 418 (V)
 	  - CODE DE PROCEDURE PENALE - art. 536 (M)
 	  - Code de la sécurité sociale. - art. L142-1 (V)
@@ -20543,6 +20547,10 @@ les organes collectifs habilités à utiliser les procédures de recouvrement é
 	  - Code rural - art. L725-4 (VT)
 	  - Code rural - art. L725-5 (V)
 	  - Code rural - art. L725-6 (V)
+	  - Code rural L725-3
+	  - Code rural L725-4
+	  - Code rural L725-5
+	  - Code rural L725-6
 
 
 ###### Article 1143-3
@@ -20623,6 +20631,43 @@ les procédures prévues à l'article 1143-2.
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1143-5
+
+Les articles L. 243-4 et L. 243-5 du code de la sécurité sociale sont applicables au paiement des cotisations, des
+majorations et pénalités de retard dues aux régimes légaux de protection sociale agricole. Ils sont également applicables, à
+défaut de dispositions particulières, aux institutions mentionnées à l'article 1050 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1050
+	  - Code de la sécurité sociale. - art. L243-4 (M)
+	  - Code de la sécurité sociale. - art. L243-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural L725-9
+	  - Code rural - art. L725-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°87-588 du 30 juillet 1987 - art. 15 (V) JORF 31 juillet 1987
+
+	**Modifié par**:
+
+	  - Loi n°99-641 du 27 juillet 1999 - art. 14 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 1143-6
 
 Est entachée d'une nullité d'ordre public toute clause ou convention conclue par toute personne légalement tenue de cotiser à
@@ -20687,6 +20732,67 @@ invalidité des personnes non salariées des professions agricoles.
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L355-2 (M)
+
+
+###### Article 1143-8
+
+Lorsqu'elles sont munies d'un titre exécutoire, au sens de l'article 3 de la loi n° 91-650 du 9 juillet 1991 portant réforme
+des procédures civiles d'exécution, à l'encontre des employeurs de main-d'oeuvre agricole ou des personnes physiques non
+salariées agricoles, les caisses de mutualité sociale agricole habilitées à décerner la contrainte définie à l'article 1143-2
+peuvent, au moyen d'une opposition, enjoindre aux tiers dépositaires, détenteurs ou redevables de sommes appartenant ou
+devant revenir au débiteur, de verser au lieu et place de celui-ci, auxdits organismes, les fonds qu'ils détiennent ou qu'ils
+doivent à concurrence des cotisations et des majorations et pénalités de retard au titre des régimes de protection sociale
+agricole bénéficiant du privilège ou ayant donné lieu à une inscription de privilège, en application de l'article 1143-5.
+
+L'opposition motivée est notifiée au tiers détenteur et au débiteur par le directeur de l'organisme. Elle affecte, dès
+réception par le tiers, les sommes faisant l'objet du titre exécutoire au paiement desdites cotisations, majorations et
+pénalités de retard, quelle que soit la date à laquelle les créances, même conditionnelles ou à terme, que le débiteur
+possède à l'encontre du tiers deviennent exigibles. L'opposition emporte l'effet d'attribution immédiate prévu à l'article 43
+de la loi n° 91-650 du 9 juillet 1991 précitée à concurrence des sommes pour lesquelles elle est pratiquée. Lorsqu'une
+personne est simultanément destinataire de plusieurs oppositions établies au nom du débiteur, elle doit, en cas
+d'insuffisance des fonds, exécuter ces demandes en proportion de leurs montants respectifs.
+
+L'opposition peut être contestée devant le juge de l'exécution, par le débiteur ou par le tiers détenteur, dans le mois
+suivant sa notification. Le paiement est différé pendant ce délai, et le cas échéant jusqu'à ce qu'il soit statué, sauf si le
+juge autorise le paiement pour la somme qu'il détermine.
+
+Sont en outre applicables les articles 24, 44 et 47 de la loi n° 91-650 du 9 juillet 1991 précitée.
+
+Les présentes dispositions ne sont pas applicables aux sommes dues par le tiers détenteur au titre des rémunérations qui ne
+peuvent être saisies que dans les conditions et selon la procédure prévue par les articles L. 142-1 et suivants du code du
+travail.
+
+Les organismes visés à l'article 1106-9 disposent de la même procédure d'opposition à tiers détenteur et sous les mêmes
+conditions que les caisses de mutualité sociale agricole pour le recouvrement des cotisations prévues aux articles 1106-6 et
+suivants ainsi que des majorations et pénalités de retard.
+
+Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1143-2, 1143-5, 1106-9, 1106-6
+	  - Loi n°91-650 1991-07-09 art. 3, art. 24, art. 43, art. 44, art. 47
+	  - Code du travail - art. L142-1 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code rural L725-12
+	  - Code rural - art. L725-12 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°99-641 du 27 juillet 1999 - art. 14 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ## Titre III : Accidents du travail et risques agricoles
