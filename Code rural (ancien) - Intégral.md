@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1995-02-02
+Version Consolidée au 1995-02-03
 
 # Livre Ier : Régime du sol
 
@@ -469,29 +469,41 @@ public, est autorisée par un acte déclarant d'utilité publique les travaux.
 
 ### Chapitre III : Curages, élargissements et redressements
 
+#### Section 1 : Curage et entretien.
+
 ###### Article 114
 
-Le curage comprend tous les travaux nécessaires pour rétablir un cours d'eau dans sa largeur et sa profondeur naturelles,
-sans préjudice de ce qui est réglé à l'égard des alluvions par les articles 556 et 557 du code civil.
+Sans préjudice des articles 556 et 557 du code civil et des dispositions de la loi n° 92-3 du 3 janvier 1992 sur l'eau, le
+propriétaire riverain est tenu à un curage régulier pour rétablir le cours d'eau dans sa largeur et sa profondeur naturelles,
+à l'entretien de la rive par élagage et recépage de la végétation arborée et à l'enlèvement des embâcles et débris, flottants
+ou non, afin de maintenir l'écoulement naturel des eaux, d'assurer la bonne tenue des berges et de préserver la faune et la
+flore dans le respect du bon fonctionnement des écosystèmes aquatiques.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Cite**:
 
+	  - Loi n°92-3 1992-01-03
 	  - Code civil - art. 556 (M)
 	  - Code civil - art. 557 (V)
+
+	**Modifié par**:
+
+	  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 	**Nouveaux textes**:
 
 	  - Code de l'environnement - art. L215-14 (V)
+	  - Code de l'environnement - art. L215-14 (M)
 
 	**Cité par**:
 
@@ -499,14 +511,17 @@ sans préjudice de ce qui est réglé à l'égard des alluvions par les articles
 
 	**Anciens textes**:
 
-	  - Loi n°1898-04-08 art. 18
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 18 (Ab)
 
 
 ###### Article 115
 
-Il est pourvu au curage des cours d'eau non domaniaux et à l'entretien des ouvrages qui s'y rattachent, de la manière
-prescrite par les anciens règlements ou d'après les usages locaux.
+Il est pourvu au curage et à l'entretien des cours d'eau non domaniaux ainsi qu'à l'entretien des ouvrages qui s'y rattachent
+de la manière prescrite par les anciens règlements ou d'après les usages locaux.
+
+Toutefois, les propriétaires riverains ne sont assujettis à recevoir sur leurs terrains les matières de curage que si leur
+composition n'est pas incompatible avec la protection des sols et des eaux, notamment en ce qui concerne les métaux lourds et
+autres éléments toxiques qu'elles peuvent contenir.
 
 Les préfets sont chargés, sous l'autorité du ministre compétent, de prendre les dispositions nécessaires pour l'exécution de
 ces règlements et usages.
@@ -516,54 +531,67 @@ ces règlements et usages.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°95-101 1995-02-02 art. 23 I, II, IV JORF 3 février 1995
+	  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 	**Nouveaux textes**:
 
 	  - Code de l'environnement - art. L215-15 (V)
+	  - Code de l'environnement - art. L215-15 (M)
 
 	**Anciens textes**:
 
-	  - Loi n°1898-04-08 art. 19
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 19 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-
-
-#### Section 1 : Curage et entretien.
 
 ###### Article 116
 
-A défaut d'anciens règlements ou usages locaux, ou si l'application des règlements et l'exécution du mode de curage consacré
-par l'usage présentent des difficultés, ou bien encore si les changements survenus exigent des dispositions nouvelles, il est
-procédé en conformité des dispositions régissant les associations syndicales.
+A défaut d'anciens règlements ou usages locaux, il est procédé en conformité des dispositions régissant les associations
+syndicales.
 
 Lorsque le groupement d'associations syndicales, soit autorisées, soit constituées d'office, paraît nécessaire au bon
 aménagement, soit du bassin d'un cours d'eau non domanial ou d'une partie de ce bassin, soit seulement de ce cours d'eau lui-
 même ou d'une section de celui-ci, une union de ces diverses associations peut être constituée d'office dans les conditions
 fixées par décret en Conseil d'Etat nonobstant l'absence de consentement unanime des associations intéressées.
 
+Le présent article s'applique sans préjudice des dispositions de l'article 31 de la loi n° 92-3 du 3 janvier 1992 précitée.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Cite**:
+
+	  - Loi n°92-3 1992-01-03 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°95-101 1995-02-02 art. 23 I, II, V JORF 3 février 1995
+	  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 	**Nouveaux textes**:
 
 	  - Code de l'environnement - art. L215-16 (V)
+	  - Code de l'environnement - art. L215-16 (M)
 
 	**Anciens textes**:
 
-	  - Loi n°1898-04-08 art. 20
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 20 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°63-233 1963-03-07 art. 3 JORF 8 mars 1963
-	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
-	  - Loi n°73-596 1973-07-04 art. 5 JORF 5 juillet 1973
 
 
 ###### Article 117
@@ -604,39 +632,61 @@ Le privilège ainsi créé prend rang immédiatement après celui du Trésor pub
 ###### Article 118
 
 Toutes les contestations relatives à l'exécution des travaux, à la répartition de la dépense et aux demandes en réduction ou
-décharge formées par les imposés sont portées devant le tribunal administratif sauf recours au Conseil d'Etat.
+décharge formées par les imposés sont portées devant les juridictions administratives.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+	  - Loi n°95-101 1995-02-02 art. 23 I, II, VI JORF 3 février 1995
+	  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 	**Nouveaux textes**:
 
 	  - Code de l'environnement - art. L215-18 (V)
+	  - Code de l'environnement - art. L215-18 (M)
 
 	**Anciens textes**:
 
-	  - Loi n°1898-04-08 art. 24
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 24 (Ab)
 
 
 ###### Article 119
 
-Les travaux d'élargissement, de régularisation et de redressement des cours d'eau non domaniaux qui sont jugés nécessaires
-pour compléter les travaux de curage, sont assimilés à ces derniers, et leur exécution est poursuivie en vertu des articles
-précédents.
+Pendant la durée des travaux, les propriétaires sont tenus de laisser passer sur leurs terrains les fonctionnaires et agents
+chargés de la surveillance, les entrepreneurs et ouvriers, ainsi que les engins mécaniques strictement nécessaires à la
+réalisation des travaux.
+
+Les terrains actuellement bâtis ou clos de murs ainsi que les cours et les jardins attenant aux habitations sont exempts de
+la servitude en ce qui concerne le passage des engins.
+
+Ce droit s'exerce autant que possible en suivant la rive du cours d'eau et en respectant les arbres et les plantations
+existants.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°95-101 1995-02-02 art. 23 I, II, VII JORF 3 février 1995
+	  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 	**Nouveaux textes**:
 
@@ -644,32 +694,95 @@ précédents.
 
 	**Anciens textes**:
 
-	  - Loi n°1898-04-08 art. 25
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 25 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
 
 
 #### Section 2 : Elargissement, régularisation et redressement.
 
+###### Article 120
+
+Sans préjudice des dispositions de la loi n° 92-3 du 3 janvier 1992 sur l'eau, l'exécution des travaux d'élargissement, de
+régularisation et de redressement des cours d'eau non domaniaux est poursuivie dans les conditions prévues aux articles 116 à
+118.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 116 à 118
+	  - Loi n°92-3 1992-01-03
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°95-101 1995-02-02 art. 23 I, VIII, IX JORF 3 février 1995
+	  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-20 (Ab)
+
+	**Cité par**:
+
+	  - Code rural - art. L133-5 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 26 (Ab)
+
+
+#### Section 3 : Dispositions communes.
+
 ###### Article 121
 
-Pendant la durée des travaux, les propriétaires sont tenus de laisser passer sur leurs terrains les fonctionnaires et agents
-chargés de la surveillance, ainsi que les entrepreneurs et ouvriers.
+Un programme pluriannuel d'entretien et de gestion, dénommé plan simple de gestion, peut être soumis à l'agrément du
+représentant de l'Etat dans le département par tout propriétaire riverain d'un cours d'eau non domanial et toute association
+syndicale de propriétaires riverains.
 
-Ce droit doit s'exercer autant que possible en suivant la rive du cours d'eau.
+Le bénéfice des aides de l'Etat et de ses établissements publics attachées au curage, à l'entretien et à la restauration des
+cours d'eau est accordé prioritairement aux propriétaires qui établissent un plan simple de gestion ou y souscrivent.
+
+Le représentant de l'Etat dans le département accorde son agrément après avis, le cas échéant, de la commission locale de
+l'eau instituée en application de l'article 5 de la loi n° 92-3 du 3 janvier 1992 sur l'eau.
+
+Le plan comprend :
+
+- un descriptif de l'état initial du cours d'eau, de son lit, des berges, de la faune et de la flore ;
+
+- un programme annuel de travaux d'entretien et de curage et, si nécessaire, un programme de travaux de restauration,
+précisant notamment les techniques employées et les conséquences sur l'environnement ;
+
+- un plan de financement de l'entretien, de la gestion et, s'il y a lieu, des travaux de restauration.
+
+Le plan est valable pour une période de cinq ans éventuellement renouvelable.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Cite**:
+
+	  - Loi n°92-3 1992-01-03 art. 5
 
 	**Modifié par**:
 
-	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+	  - Loi n°95-101 1995-02-02 art. 23 I, X, XI JORF 3 février 1995
+	  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 	**Nouveaux textes**:
 
@@ -681,17 +794,14 @@ Ce droit doit s'exercer autant que possible en suivant la rive du cours d'eau.
 
 	**Anciens textes**:
 
-	  - Loi n°1898-04-08 art. 27
 	  - Loi n°1898-04-08 du 8 avril 1898 - art. 27 (Ab)
 
 
-#### Section 3 : Dispositions communes.
-
 ###### Article 122
 
-Si les travaux de curage, d'élargissement, de régularisation et de redressement intéressent la salubrité publique, l'acte qui
-les ordonne peut, après avis du conseil général et des conseils municipaux intéressés, mettre une partie de la dépense à la
-charge des communes dont le territoire est assaini.
+Si les travaux de curage, d'entretien, d'élargissement, de régularisation et de redressement intéressent la salubrité
+publique, l'acte qui les ordonne peut, après avis du conseil général et des conseils municipaux intéressés, mettre une partie
+de la dépense à la charge des communes dont le territoire est assaini.
 
 Dans ce cas, le même acte détermine quelles sont les communes intéressées et fixe la part que chacune d'elles doit supporter
 dans la dépense.
@@ -701,19 +811,75 @@ dans la dépense.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
-
-	**Anciens textes**:
-
-	  - Loi n°1898-04-08 art. 28
-	  - Loi n°1898-04-08 du 8 avril 1898 - art. 28 (Ab)
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Modifié par**:
 
-	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+	  - Loi n°95-101 1995-02-02 art. 23 I, X, XII JORF 3 février 1995
+	  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 	**Nouveaux textes**:
 
 	  - Code de l'environnement - art. L215-22 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 28 (Ab)
+
+
+###### Article 122-1
+
+Les propriétaires riverains de canaux d'arrosage désaffectés rétrocédés par les associations syndicales autorisées sont tenus
+de les entretenir pour maintenir leur fonction d'écoulement des eaux pluviales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°95-101 1995-02-02 art. 23 I, X, XIII JORF 3 février 1995
+	  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-23 (Ab)
+
+
+###### Article 122-2
+
+Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°95-101 1995-02-02 art. 23 I, X, XIII JORF 3 février 1995
+	  - Loi n°95-101 du 2 février 1995 - art. 23 () JORF 3 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-24 (Ab)
 
 
 ## Titre VI : Equipement rural
