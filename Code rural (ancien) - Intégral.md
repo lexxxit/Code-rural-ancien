@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1982-05-07
+Version Consolidée au 1982-07-14
 
 ###### Article 162
 
@@ -23590,6 +23590,32 @@ pour l'attribution de la pension de réversion lorsqu'un enfant au moins est iss
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1122-2-2
+
+Lorsqu'un assuré a disparu de son domicile depuis plus d'un an, son conjoint a droit à la retraite de réversion dans les
+conditions et sous les réserves prévues à l'article L. 351-1 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L732-49 (M)
+	  - Code rural L732-49
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L351-1 (M)
 
 
 #### Section 2 : Cotisations.
