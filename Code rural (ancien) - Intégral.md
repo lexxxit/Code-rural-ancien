@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1967-07-13
+Version Consolidée au 1967-08-20
 
 ###### Article 162
 
@@ -15272,25 +15272,6 @@ La caisse centrale est, sous réserve des dispositions du présent livre, régie
 	**Cite**:
 
 	  - Loi n°1898-04-01 art. 16
-
-
-###### Article 1053
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°67-701 1967-08-16 art. 1 JORF 20 août 1967
-
-	**Anciens textes**:
-
-	  - Loi n°1952-04-14 art. 17
 
 
 ###### Article 1057
