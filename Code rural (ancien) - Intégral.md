@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1999-12-30
+Version Consolidée au 1999-12-31
 
 # Livre Ier : Régime du sol
 
@@ -18712,6 +18712,38 @@ cette obtention, au niveau atteint durant l'année au cours de laquelle a pris e
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1121-5-1
+
+Les personnes dont la retraite servie à titre personnel a pris effet au cours de l'année 1997 et qui justifient avoir acquis,
+en qualité de chef d'exploitation ou d'entreprise, un nombre de points de retraite proportionnelle supérieur à un minimum
+fixé par décret, peuvent prétendre, à compter de l'année 1998, à l'attribution gratuite de points de retraite proportionnelle
+prévue à l'article 1121-5 si elles remplissent les autres conditions mentionnées au premier alinéa dudit article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1121-5
+
+	**Nouveaux textes**:
+
+	  - Code rural L732-33
+	  - Code rural - art. L732-33 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi - art. 117 () JORF 31 décembre 1999
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 1121-6
 
 I. - Les chefs d'exploitation ou d'entreprise agricole dont la pension servie à titre personnel a pris effet avant le 1er
@@ -18724,6 +18756,9 @@ leurs périodes d'assurance en tant que chef d'exploitation ou d'entreprise agri
 accomplies à titre exclusif ou principal. Ce même décret précise les modalités suivant lesquelles seront déterminées les
 périodes d'assurance précédemment mentionnées.
 
+A compter du 1er janvier 2000, le minimum de retraite proportionnelle mentionné à l'alinéa précédent est relevé par décret.
+La majoration totale qui en résulte n'est pas cumulable avec celle prévue au II qui s'applique en priorité.
+
 II. - Les titulaires de la majoration forfaitaire des pensions de réversion prévue au deuxième alinéa du VI de l'article 71
 de la loi n° 95-95 du 1er février 1995 de modernisation de l'agriculture bénéficient, à compter du 1er janvier 1999, d'une
 majoration de cette dernière, lorsqu'ils justifient de périodes minimum d'activité non salariée agricole accomplies à titre
@@ -18732,7 +18767,9 @@ exclusif ou principal.
 Cette majoration a pour objet de porter le montant de celle-ci à un montant minimum qui est fixé par décret et qui tient
 compte de leurs périodes d'activité non salariée agricole accomplies à titre exclusif ou principal.
 
-Cette majoration n'est pas cumulable avec la majoration prévue au I qui s'applique en priorité.
+Au titre de l'année 1999, cette majoration n'est pas cumulable avec la majoration prévue au I qui s'applique en priorité.
+
+A compter du 1er janvier 2000, le montant minimum mentionné au deuxième alinéa est relevé par décret.
 
 III. - Les personnes dont la retraite forfaitaire a pris effet avant le 1er janvier 1998 bénéficient, à compter du 1er
 janvier 1999, d'une majoration de la retraite forfaitaire qui leur est servie à titre personnel, lorsqu'elles justifient de
@@ -18749,23 +18786,33 @@ S'agissant des chefs d'exploitation ou d'entreprise agricole qui ont également 
 familial, ils sont considérés comme aides familiaux pour l'application des dispositions du présent article dès lors qu'ils
 ont exercé en cette dernière qualité pendant une durée supérieure à un seuil fixé par décret.
 
+A compter du 1er janvier 2000, pour les personnes remplissant les conditions fixées au premier alinéa, le montant, tel que
+prévu au deuxième alinéa, de cette majoration, est relevé par décret.
+
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L732-33
+	  - Code rural - art. L732-33 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Cite**:
 
 	  - Loi n°95-95 du 1 février 1995 - art. 71 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 120 () JORF 31 décembre 1998
+	  - Loi - art. 114 () JORF 31 décembre 1999
+	  - Loi n°99-1172 1999-12-30 art. 114 I, II, III Finances pour 2000 JORF 31 décembre 1999
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L732-33 (M)
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1122
@@ -18879,13 +18926,16 @@ du premier alinéa de l'article 1121-1 ;
 2° Une pension de retraite proportionnelle dans les conditions prévues, selon le cas, au 2° de l'article 1121 ou au 2° de
 l'article 1142-5.
 
-Les personnes mentionnées au premier alinéa du présent I peuvent, dans un délai de deux ans suivant la publication de la loi
-n° 99-574 du 9 juillet 1999 d'orientation agricole et pour les périodes antérieures au 1er janvier 1999, qui seront définies
-par décret, pendant lesquelles elles ont cotisé et acquis des droits en qualité de conjoint au régime d'assurance vieillesse
-des personnes non salariées des professions agricoles en application de l'article 1122-1 et du a de l'article 1123, acquérir
-des droits à la pension de retraite proportionnelle moyennant le versement de cotisations afférentes à ces périodes. Les
-conditions d'application du présent alinéa sont fixées par un décret qui précise notamment le mode de calcul des cotisations
-et le nombre maximum d'années pouvant faire l'objet du rachat.
+Les personnes mentionnées au premier alinéa du présent I peuvent, pour les périodes antérieures au 1er janvier 1999, qui
+seront définies par décret, pendant lesquelles elles ont cotisé et acquis des droits en qualité de conjoint au régime
+d'assurance vieillesse des personnes non salariées des professions agricoles en application de l'article 1122-1 et du a de
+l'article 1123, acquérir des droits à la pension de retraite proportionnelle moyennant le versement de cotisations afférentes
+à ces périodes. Les conjoints dont la situation était régie au 31 décembre 1998 par les dispositions de l'article 1122-1 et
+qui n'ont pas opté avant le 1er juillet 2000 pour le statut de conjoint collaborateur mentionné à l'article L. 321-5 en
+conservant ce statut de manière durable dans les conditions fixées par le décret prévu au quatrième alinéa de l'article
+1121-5, ne peuvent effectuer de rachat au titre du présent alinéa. Les conditions d'application du présent alinéa sont fixées
+par un décret qui précise notamment le mode de calcul des cotisations et le nombre maximum d'années pouvant faire l'objet du
+rachat.
 
 Le conjoint survivant du collaborateur d'exploitation ou d'entreprise agricole a droit, dans les conditions énoncées au
 premier alinéa de l'article 1122, à une retraite de réversion d'un montant égal à un pourcentage, fixé par décret, de la
@@ -18902,21 +18952,27 @@ conditions prévues à l'avant-dernier alinéa du I du présent article.
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°99-574 1999-07-09
-	  - Code rural 1121, 1121-1, 1142-5, 1122-1, 1123, 1122
+	  - Loi - art. 115 () JORF 31 décembre 1999
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°99-574 du 9 juillet 1999 - art. 28 () JORF 10 juillet 1999
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L732-35 (M)
 	  - Code rural - art. L732-43 (M)
 	  - Code rural - art. L732-44 (M)
+	  - Code rural L732-35
+	  - Code rural L732-44
+
+	**Cite**:
+
+	  - Code rural 1121, 1121-1, 1142-5, 1122-1, 1123, L321-5, 1121-5, 1122
 
 
 ###### Article 1122-2
