@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1998-10-14
+Version Consolidée au 1998-12-31
 
 # Livre Ier : Régime du sol
 
@@ -11221,33 +11221,28 @@ dispositions du livre IX du code de la sécurité sociale et à l'exception des 
 nombre d'enfants pour les ressortissants du régime de protection sociale des personnes non salariées des professions
 agricoles ;
 
-b) Le remboursement de frais de personnels mis par les caisses de mutualité sociale agricole à la disposition des services
-relevant du ministre chargé de l'agriculture et compétents en matière de protection sociale agricole ;
-
-c) Le remboursement au budget général :
-
-- des dépenses de fonctionnement dans la limite maximale des deux tiers desdites dépenses, des services relevant du ministre
-chargé de l'agriculture et compétents en matière de protection sociale agricole ;
-
-- de la rémunération des agents de l'Etat dont l'activité est consacrée au service des prestations sociales agricoles, ainsi
-que les dépenses de matériels correspondantes ;
-
-d) Les frais de fonctionnement de budget annexe du comité de gestion prévu à l'article 1003-1, de la commission supérieure
-des prestations familiales agricoles et de la commission consultative des assurances sociales agricoles ;
-
 e) Le remboursement des avances du Trésor ;
 
 f) Les versements au fonds de réserve visé à l'article 1003-5.
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code rural - art. L731-4 (M)
+	  - Code rural - art. L731-5 (M)
+	  - Code rural - art. L731-6 (MMN)
+	  - Code rural L731-4
+	  - Code rural L731-5
+	  - Code rural L731-6
+
 	**Cite**:
 
-	  - Code rural 1003-1, 1003-5
-	  - Loi n°74-1094 du 24 décembre 1974 - art. 2, v. init.
 	  - Code de la sécurité sociale. - art. L135-1 (M)
 	  - Code de la sécurité sociale. - art. L135-2 (MMN)
 	  - Code de la sécurité sociale. - art. L815-3-1 (M)
+	  - Code rural 1003-5
+	  - Loi n°74-1094 du 24 décembre 1974 - art. 2, v. init.
 
 	**Codifié par**:
 
@@ -11255,14 +11250,12 @@ f) Les versements au fonds de réserve visé à l'article 1003-5.
 
 	**Modifié par**:
 
-	  - Loi - art. 30 () JORF 31 décembre 1995
-	  - Loi - art. 31 () JORF 31 décembre 1995
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 116
+	  - Loi - art. 119 () JORF 31 décembre 1998
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code rural - art. L731-4 (M)
-	  - Code rural - art. L731-5 (M)
-	  - Code rural - art. L731-6 (MMN)
+	  - Loi - art. 40 (V) JORF 31 décembre 2003
 
 
 ###### Article 1003-5
@@ -16092,6 +16085,62 @@ compte des durées justifiées par l'intéressé au titre du présent article et
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1121-6
+
+I. - Les chefs d'exploitation ou d'entreprise agricole dont la pension servie à titre personnel a pris effet avant le 1er
+janvier 1997 et qui justifient de périodes minimum d'activité non salariée agricole et d'assurance en tant que chef
+d'exploitation ou d'entreprise agricole accomplies à titre exclusif ou principal peuvent bénéficier, à compter du 1er janvier
+1999, d'une majoration de la retraite proportionnelle qui leur est servie à titre personnel.
+
+Cette majoration a pour objet de porter le montant de celle-ci à un minimum qui est fixé par décret et qui tient compte de
+leurs périodes d'assurance en tant que chef d'exploitation ou d'entreprise agricole et d'activités non salariées agricoles
+accomplies à titre exclusif ou principal. Ce même décret précise les modalités suivant lesquelles seront déterminées les
+périodes d'assurance précédemment mentionnées.
+
+II. - Les titulaires de la majoration forfaitaire des pensions de réversion prévue au deuxième alinéa du VI de l'article 71
+de la loi n° 95-95 du 1er février 1995 de modernisation de l'agriculture bénéficient, à compter du 1er janvier 1999, d'une
+majoration de cette dernière, lorsqu'ils justifient de périodes minimum d'activité non salariée agricole accomplies à titre
+exclusif ou principal.
+
+Cette majoration a pour objet de porter le montant de celle-ci à un montant minimum qui est fixé par décret et qui tient
+compte de leurs périodes d'activité non salariée agricole accomplies à titre exclusif ou principal.
+
+Cette majoration n'est pas cumulable avec la majoration prévue au I qui s'applique en priorité.
+
+III. - Les personnes dont la retraite forfaitaire a pris effet avant le 1er janvier 1998 bénéficient, à compter du 1er
+janvier 1999, d'une majoration de la retraite forfaitaire qui leur est servie à titre personnel, lorsqu'elles justifient de
+périodes de cotisations à ladite retraite, ou de périodes assimilées déterminées par décret, et qu'elles ne sont pas
+titulaires d'un autre avantage servi à quelque titre que ce soit par le régime d'assurance vieillesse des membres non
+salariés des professions agricoles. Toutefois, le bénéfice d'une retraite proportionnelle acquise à titre personnel et
+inférieure à un montant fixé par décret ne fait pas obstacle au versement de ladite majoration.
+
+Ce décret fixe le montant de la majoration en fonction de la qualité de conjoint, d'aide familial et, le cas échéant, de chef
+d'exploitation ou d'entreprise agricole, en fonction des durées justifiées par l'intéressé au titre du présent paragraphe et
+en fonction du montant de la retraite proportionnelle éventuellement perçue.
+
+S'agissant des chefs d'exploitation ou d'entreprise agricole qui ont également exercé leur activité en qualité d'aide
+familial, ils sont considérés comme aides familiaux pour l'application des dispositions du présent article dès lors qu'ils
+ont exercé en cette dernière qualité pendant une durée supérieure à un seuil fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Loi n°95-95 du 1 février 1995 - art. 71 (Ab)
+
+	**Créé par**:
+
+	  - Loi - art. 120 () JORF 31 décembre 1998
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L732-33 (M)
 
 
 ###### Article 1122
