@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1963-08-02
+Version Consolidée au 1963-12-31
 
 ###### Article 162
 
@@ -12244,6 +12244,48 @@ Toute disposition des baux restrictive des droits stipulés par le présent titr
 	  - Décret n°83-212 1982-03-16 art. 3 JORF 22 mars 1983
 
 
+###### Article 861
+
+Les dispositions du présent titre s'appliquent aux baux ci-après énumérés : baux d'élevage avicole, d'étangs servant à
+l'élevage piscicole, baux d'établissements horticoles, de cultures maraîchères et de cultures de champignons, ainsi que les
+baux d'élevage apicole.
+
+En sont exclus les locations de jardins d'agrément et d'intérêt familial, les baux de chasse et de pêche.
+
+Les baux du domaine de l'Etat, des départements, des communes et des établissements publics, lorsqu'ils portent sur des biens
+ruraux constituant ou non une exploitation agricole complète, sont soumis aux dispositions du présent titre. Toutefois, le
+preneur ne peut invoquer le droit au renouvellement du bail lorsque la collectivité ou l'établissement public lui a fait
+connaître, dans un délai de dix-huit mois avant la fin du bail, sa décision d'utiliser les biens loués, directement et en
+dehors de toute aliénation, à une fin d'intérêt général.
+
+En outre, en cas d'aliénation, le preneur ne peut exercer le droit de préemption si l'aliénation est consentie à un organisme
+ayant un but d'intérêt public et si les biens vendus sont nécessaires à la réalisation de l'objectif poursuivi par
+l'organisme acquéreur.
+
+Enfin, le bail peut à tout moment être résilié sur tout ou partie des biens loués lorsque ces biens sont nécessaires à la
+réalisation d'un projet déclaré d'utilité publique ; dans ce cas, le preneur a droit à une indemnité, à raison du préjudice
+qu'il subit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Décret n°83-212 1982-03-16 art. 3 JORF 22 mars 1983
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2380 1945-10-17 art. 47
+
+	**Modifié par**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 11 () JORF 7 août 1960
+	  - Loi n°63-1332 1963-12-30 art. 12 JORF 31 décembre 1963
+
+
 ## Titre V : Bail emphytéotique.
 
 ###### Article 948
@@ -15100,6 +15142,180 @@ caisses de mutualité sociale agricole les frais résultant pour elles des opér
 	**Abrogé par**:
 
 	  - Loi n°67-1172 1967-12-22 art. 13 II JORF 29 décembre 1967
+
+
+### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.
+
+###### Article 1142-1
+
+Les dispositions du chapitre IV ci-dessus relatives à l'assurance vieillesse des personnes non salariées, sont étendues aux
+exploitants agricoles des départements d'outre-mer dans les conditions et sous les réserves suivantes.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L762-26
+	  - Code rural - art. L762-26 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code rural - art. R113-1 (V)
+
+
+###### Article 1142-4
+
+L'allocation n'est due aux personnes continuant leur exploitation que si les terres exploitées ne dépassent pas une
+superficie fixée par décret, compte tenu de la nature des cultures.
+
+Des dispositions particulières peuvent être prévues à l'égard des veuves exploitant avec le concours d'un seul salarié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1142-6
+
+Le taux de la cotisation prévue à l'article 1123, 1° a du présent code est égal à la moitié du taux appliqué dans la
+métropole.
+
+Le taux de la cotisation prévue à l'article 1123, 1° b du présent code est fixé par décret. Les personnes morales de droit
+privé exploitant des terres sont assujetties au paiement de cette cotisation.
+
+Dans le bail à métayage ou colonat partiaire, le preneur et le bailleur sont tenus l'un et l'autre au paiement de la
+cotisation prévue au premier alinéa du présent article ; la cotisation prévue au second alinéa est partagée entre eux selon
+une proportion fixée par décret.
+
+Un décret fixe les conditions dans lesquelles les cotisations sont majorées pour la couverture des frais de gestion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-33 (V)
+
+	**Cite**:
+
+	  - Code rural 1123
+
+
+###### Article 1142-7
+
+Sont exonérés de la double cotisation prévue à l'article 1142-6 les bénéficiaires soit de l'allocation ou de la retraite de
+vieillesse agricole, soit de l'allocation de vieillesse des non salariés, soit de l'allocation ou de la retraite des vieux
+travailleurs salariés qui exploitent de terres dont la superficie est inférieure à un minimum fixé par décret pour chaque
+département, compte tenu de la nature des cultures.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1142-6
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°84-575 du 9 juillet 1984 - art. 29 () JORF 10 juillet 1984
+
+
+###### Article 1142-8
+
+La caisse générale de sécurité sociale de chacun des départements intéressés assure la gestion du régime institué au présent
+chapitre. Elle relève pour cette partie de son activité de la caisse nationale d'assurance vieillesse agricole dans les
+conditions prévues aux articles 1108 et 1137 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-1 (M)
+
+	**Cite**:
+
+	  - Code rural 1108, 1137
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1142-9
+
+Les dispositions relatives aux principes fondamentaux applicables en matière de sécurité sociale dans les départements
+d'outre-mer en ce qui concerne le contentieux, le recouvrement des cotisations, les pénalités, la saisissabilité et la
+cessibilité des prestations sont étendues à l'assurance vieillesse des non salariés agricoles.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L762-5
+	  - Code rural - art. L762-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1142-10
+
+Le budget annexe des prestations sociales agricoles comprend les recettes et les dépenses instituées par le présent chapitre,
+à l'exclusion de celles relatives à la gestion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi - art. 103 () JORF 31 décembre 2000
+
+
+###### Article 1142-11
+
+Ne sont pas applicables à l'assurance vieillesse des non-salariés agricoles des départements d'outre-mer les articles 1107,
+1109, 1110, 1111, 1114, 1121, 1122-4, 1125 à 1135 inclus du présent code, ainsi que toutes les dispositions contraires à
+celles du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L762-27 (M)
+
+	**Cite**:
+
+	  - Code rural 1107, 1109, 1110, 1111, 1114, 1121, 1122-4, 1125 à 1135
 
 
 ## Titre III : Accidents du travail et risques agricoles
