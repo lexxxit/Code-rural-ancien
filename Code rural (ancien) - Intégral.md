@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1958-12-25
+Version Consolidée au 1958-12-31
 
 ###### Article 162
 
@@ -1756,6 +1756,37 @@ Des règlements d'administration publique déterminent les conditions d'applicat
 	**Abrogé par**:
 
 	  - Loi n°92-1283 du 11 décembre 1992 - art. 1 (V) JORF 12 décembre 1992
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 151
+
+Les travaux de recherches d'eau en vue de la réalisation des projets d'alimentation en eau potable des communes rurales
+peuvent être exécutés par l'Etat avec une participation financière ultérieure des collectivités utilisatrices comprise entre
+5 % et 25 % des dépenses.
+
+Les dépenses afférentes aux travaux visés à l'alinéa 1er ci-dessus sont imputées sur les crédits ouverts pour chaque année au
+ministre de l'agriculture en vue de l'octroi de subventions pour travaux d'alimentation en eau potable.
+
+La participation financière ultérieure des collectivités utilisatrices présente un caractère de fonds de concours pour
+dépenses d'intérêt public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1950-07-21 art. 23
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1374 1958-12-30 art. 106 JORF 31 décembre 1958 rectificatif 5 février 1959
+
+	**Abrogé par**:
+
 	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
