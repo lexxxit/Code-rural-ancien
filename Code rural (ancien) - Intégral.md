@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1985-10-01
+Version Consolidée au 1985-10-04
 
 ###### Article 162
 
@@ -19221,6 +19221,189 @@ ministre de la justice, détermine les conditions d'application du présent chap
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+
+### Chapitre V bis : Prêts spéciaux d'élevage.
+
+###### Article 787-1
+
+Les caisses de crédit agricole mutuel peuvent accorder à leurs sociétaires, dans les conditions fixées au présent chapitre,
+des prêts dits "Prêts spéciaux d'élevage" destinés à faciliter le financement des investissements qui ont pour objet, à
+l'exclusion des acquisitions de fonds de terre :
+
+1° a) L'accroissement de l'effectif des animaux appartenant aux espèces bovine, ovine et caprine ou issus de l'une des races
+de chevaux lourds définies par arrêté du ministre de l'agriculture ;
+
+b) Le remplacement des animaux des espèces citées au a éliminés dans le cadre de mesures obligatoires d'éradication d'une
+maladie contagieuse faisant l'objet soit d'un plan national défini par le ministre de l'agriculture, soit d'un programme
+régional ou départemental approuvé ou mis en oeuvre en application d'une convention passée au nom de l'Etat.
+
+Pour la détermination du montant du prêt ne peut alors être prise en compte que la différence entre le prix d'acquisition des
+animaux de remplacement et le produit de la vente des animaux abattus majoré des indemnités obtenues.
+
+2° La construction, l'extension et l'aménagement des bâtiments d'élevage et de leurs annexes répondant :
+
+- soit aux conditions d'octroi fixées en application des dispositions de l'article 188 du code rural, des subventions
+spéciales prévues à l'article 180 du même code ;
+
+- soit, en ce qui concerne les chevaux lourds mentionnés au 1° (a) ci-dessus, l'élevage des petits animaux et les
+infrastructures à usage piscicole ou aquacole, à des conditions techniques particulières définies par arrêté du ministre de
+l'agriculture et du ministre chargé des finances.
+
+3° L'acquisition des matériels destinés à l'amélioration de la production fourragère et de son traitement dont la liste est
+fixée par arrêté du ministre de l'agriculture et du ministre chargé des finances.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 180, 188
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Décret n°85-1058 1985-10-02 art. 1 JORF 4 octobre 1985
+
+
+###### Article 787-3
+
+Le bénéfice de la bonification afférente à l'octroi d'un prêt spécial d'élevage est subordonné au respect constaté par le
+commissaire de la République, des dispositions de la loi sur l'élevage du 28 décembre 1966 et du décret n° 78-415 du 23 mars
+1978 relatif à l'identification permanente et généralisée du cheptel bovin ainsi que des dispositions relatives aux
+prophylaxies obligatoires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Loi n°66-1005 1966-12-28
+	  - Décret n°78-415 1978-03-23
+
+	**Créé par**:
+
+	  - Décret n°85-1058 1985-10-02 art. 1 JORF 4 octobre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°91-906 du 11 septembre 1991 - art. 2 (V) JORF 13 septembre 1991
+
+
+###### Article 787-4
+
+Les conditions définies au premier alinéa de l'article 787-2 sont, par arrêté conjoint du ministre chargé de l'agriculture et
+du ministre chargé des finances, adaptées à la situation particulière des demandeurs dont l'exploitation est située en zone
+de montagne ou en zone agricole défavorisée définies conformément au titre Ier du décret n° 77-566 du 3 juin 1977.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 787-2
+	  - Décret n°77-566 1977-06-03
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Décret n°85-1058 1985-10-02 art. 1 JORF 4 octobre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°91-906 du 11 septembre 1991 - art. 2 (V) JORF 13 septembre 1991
+
+
+###### Article 787-5
+
+La durée des prêts spéciaux d'élevage peut atteindre :
+
+Dix-huit ans pour le financement des bâtiments et de leurs annexes ;
+
+Pour les accroissements d'effectifs d'animaux et pour le remplacement des animaux abattus dans le cadre des mesures de
+prophylaxie obligatoire :
+
+- quinze ans pour les espèces bovine et chevaline ;
+
+- douze ans pour l'espèce ovine ;
+
+- sept ans pour l'espèce caprine ;
+
+Dix ans pour les investissements destinés à l'amélioration de la production fourragère et de son traitement.
+
+Ces prêts peuvent être assortis d'un différé d'amortissement maximal de trois mois. Cette durée maximale ne peut être
+atteinte que pour des prêts concernant le financement des bâtiments et de leurs annexes ainsi que les achats d'animaux des
+espèces bovine et chevaline.
+
+Un différé total (intérêts et capital) d'une durée maximale de deux ans ainsi qu'un allongement de deux ans de la durée
+maximale du prêt peuvent être accordés pour l'achat de cheptel reproducteur bovin destiné à la production de viande.
+
+Les durées maximales des prêts consentis pour financer des bâtiments ou des investissements destinés à l'amélioration de la
+production fourragère et de son traitement peuvent être augmentées de deux ans au bénéfice des emprunteurs dont
+l'exploitation répond aux conditions de localisation et de superficie fixées par le décret n° 77-566 du 3 juin 1977 pour
+l'attribution de l'indemnité spéciale de montagne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Décret n°77-566 1977-06-03
+
+	**Créé par**:
+
+	  - Décret n°85-1058 1985-10-02 art. 1 JORF 4 octobre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°91-906 du 11 septembre 1991 - art. 2 (V) JORF 13 septembre 1991
+
+
+###### Article 787-6
+
+La quotité des prêts spéciaux d'élevage est de 70 p. 100 au maximum du montant des investissements financés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Décret n°85-1058 1985-10-02 art. 1 JORF 4 octobre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°91-906 du 11 septembre 1991 - art. 2 (V) JORF 13 septembre 1991
+
+
+###### Article 787-7
+
+La durée maximale de bonification des prêts spéciaux d'élevage, le taux d'intérêt en vigueur pendant la période bonifiée, le
+montant maximal de ces prêts ainsi que le montant maximal de l'encours par exploitation sont fixés, après avis du conseil
+d'administration de la Caisse nationale de crédit agricole, par arrêté conjoint du ministre de l'agriculture et du ministre
+chargé des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Décret n°85-1058 1985-10-02 art. 1 JORF 4 octobre 1985
 
 
 ### Chapitre VI : Dispositions d'application.
