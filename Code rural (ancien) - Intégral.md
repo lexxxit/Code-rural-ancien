@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1983-03-22
+Version Consolidée au 1983-07-22
 
 ###### Article 162
 
@@ -2828,6 +2828,33 @@ voies communales.
 	**Modifié par**:
 
 	  - Ordonnance n°59-115 du 7 janvier 1959 - art. 11 () JORF 9 janvier 1959
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 60
+
+L'affectation à l'usage du public peut s'établir notamment par la destination du chemin, jointe soit au fait d'une
+circulation générale et continue, soit à des actes réitérés de surveillance et de voirie de l'autorité municipale.
+
+La destination du chemin peut être définie notamment par l'inscription sur le plan départemental des itinéraires de promenade
+et de randonnée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1881-08-20 art. 2
+
+	**Modifié par**:
+
+	  - Loi n°83-663 du 22 juillet 1983 - art. 57 () JORF 23 juillet 1983 rectificatif 25 septembre 1983
 
 	**Abrogé par**:
 
