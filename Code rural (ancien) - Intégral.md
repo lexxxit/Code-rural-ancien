@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1976-11-11
+Version Consolidée au 1976-12-07
 
 ###### Article 162
 
@@ -21175,6 +21175,57 @@ occasionnellement un emploi salarié chez un autre exploitant agricole.
 	  - Code rural - art. L751-20 (M)
 
 
+###### Article 1158
+
+Les caisses de mutualité sociale agricole peuvent accorder des ristournes sur la cotisation ou imposer des cotisations
+supplémentaires dans les conditions fixées par arrêté du ministre de l'agriculture, pour tenir compte selon le cas :
+
+Soit des mesures de prévention ou de soins prises par l'employeur ;
+
+Soit des risques exceptionnels présentés par l'exploitation révélés notamment par une infraction constatée en application de
+l'article L. 611-10 du code du travail ou résultant de l'inobservation des mesures individuelles ou collectives de prévention
+décidées par application de l'article 1171.
+
+Pour l'imposition d'une cotisation supplémentaire, en dehors du cas d'infraction constatée en application de l'article L.
+611-10 du code du travail, l'envoi d'une injonction préalable n'est pas exigé en ce qui concerne les dispositions générales
+de prévention ayant fait l'objet d'un arrêté d'extension du ministre de l'agriculture et les mesures particulières de
+prévention rendues obligatoires par arrêté du ministre de l'agriculture pour tous les employeurs d'un secteur professionnel
+déterminé, à moins que ces arrêtés n'en aient disposé autrement.
+
+Il en est de même pour l'imposition d'une cotisation supplémentaire plus élevée en cas de récidive dans un délai de trois ans
+ou en cas de persistance, après l'expiration du délai fixé, de la situation ayant donné lieu à l'imposition d'une cotisation
+supplémentaire.
+
+La cotisation supplémentaire est due à partir de la date à laquelle ont été constatés les risques exceptionnels.
+
+Les décisions des caisses sont susceptibles de recours devant la section de tarification de la commission nationale technique
+mentionnée à l'article 1156.
+
+En cas de carence de la caisse, l'inspecteur du travail, chef du service régional de l'inspection des lois sociales en
+agriculture, peut statuer, sauf recours devant ladite commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-21 (M)
+	  - Code rural L751-21
+
+	**Cite**:
+
+	  - Code du travail - art. L611-10 (M)
+	  - Code rural 1171, 1156
+
+
 ###### Article 1159
 
 Les métayers mentionnés au 8° de l'article 1144 sont seuls tenus au paiement de la cotisation envers la caisse. Le
@@ -23710,6 +23761,83 @@ prévue à l'article 990 en faveur des inspecteurs et contrôleurs des lois soci
 
 	  - Code de la sécurité sociale L423
 	  - Code rural 990, 1144, 1166
+
+
+###### Article 1244-4
+
+L'inobservation des dispositions générales de prévention établies par application de l'article 1171 et qui ont fait l'objet
+d'un arrêté d'extension du ministre de l'agriculture ainsi que celle des mesures particulières de prévention rendues
+obligatoires par arrêté du ministre de l'agriculture pour tous les employeurs d'un secteur professionnel déterminé peut être
+constatée tant par les inspecteurs du travail placés sous l'autorité du ministre de l'agriculture que par les agents chargés
+du contrôle de la prévention mentionnés à l'article 1244-3 (alinéa 1er) et à l'article 1246 (5e alinéa).
+
+Elle peut faire l'objet de procès-verbaux dans les conditions prévues à l'article L. 611-10 du code du travail.
+
+Lorsque certaines de ces dispositions générales sont soumises à un délai d'exécution, ce délai sera fixé par accord entre la
+caisse de mutualité sociale agricole intéressée et le chef du service régional de l'inspection des lois sociales en
+agriculture.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1171, 1244-3, 1246
+	  - Code du travail - art. L611-10 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural L724-12
+	  - Code rural - art. L724-12 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1244-5
+
+Les caisses de mutualité sociale agricole communiquent aux services de l'inspection des lois sociales en agriculture, de leur
+propre initiative ou à la demande de ces derniers, les renseignements dont elles disposent et qui sont relatifs aux risques
+d'accidents du travail et de maladies professionnelles inhérents aux exploitations ou entreprises agricoles et, en
+particulier, ceux qui concernent les matières mises en oeuvre ou produits utilisés, les résultats des analyses de prélèvement
+opérés par les agents de la prévention mentionnés à l'article 1246 (5e alinéa) et les mesures relatives aux ambiances de
+travail.
+
+Les services de l'inspection des lois sociales en agriculture fournissent aux caisses de mutualité sociale agricole les
+renseignements et la documentation qu'ils possèdent et dont les caisses ont besoin pour procéder à l'étude de toute question
+relevant de leur compétence.
+
+Les agents chargés du contrôle de la prévention mentionnés à l'article 1244-3 (alinéa 1er) et à l'article 1246 (5e alinéa)
+ont qualité pour procéder aux prélèvements mentionnés au premier alinéa. Les dispositions du dernier alinéa de l'article L.
+611-8 du code du travail sont applicables à ces prélèvements.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1246, 1244-3
+	  - Code du travail - art. L611-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural L724-3
+	  - Code rural L724-8
+	  - Code rural - art. L724-3 (V)
+	  - Code rural - art. L724-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1245
