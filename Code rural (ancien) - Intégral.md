@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1993-01-01
+Version Consolidée au 1993-01-05
 
 ###### Article 1143-2
 
@@ -6495,35 +6495,70 @@ fermeture de l'établissement et prononcer la confiscation du matériel ayant pe
 
 ###### Article 342
 
-Le ministre de l'agriculture dresse la liste des fléaux des cultures contre lesquels la lutte est organisée dans les
-conditions qu'il fixe.
+Le ministre de l'agriculture dresse la liste des organismes nuisibles contre lesquels la lutte est organisée dans les
+conditions qu'il fixe. Sont considérés comme des organismes nuisibles tous les ennemis des végétaux ou des produits végétaux,
+qu'ils appartiennent au règne animal ou végétal ou se présentent sous forme de virus, mycoplasmes ou autres agents
+pathogènes.
 
 Cette liste est établie par arrêté après avis d'un conseil consultatif de la protection des végétaux, dont la composition est
 fixée par arrêté.
 
 Elle comprend :
 
-a) Les parasites des végétaux contre lesquels la lutte est obligatoire en tous lieux de façon permanente ;
+a) Les organismes nuisibles contre lesquels la lutte est obligatoire en tous lieux de façon permanente ;
 
-b) Les parasites et petits animaux dont la pullulation peut présenter, à certains moments, un danger rendant nécessaires,
-dans un périmètre déterminé, des mesures particulières de défense.
+b) Les organismes nuisibles dont la pullulation peut présenter, à certains moments, un danger rendant nécessaires, dans un
+périmètre déterminé, des mesures particulières de défense.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°45-2627 du 2 novembre 1945 - art. 1, v. init.
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 28 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ### Chapitre Ier : Groupements de défense contre les ennemis des cultures.
 
+###### Article 343
+
+Des groupements communaux ou intercommunaux, constitués conformément à la loi du 21 mars 1884, modifiée par la loi du 12 mars
+1920, assurent la lutte contre les organismes nuisibles. Peuvent adhérer à ces groupements toutes personnes intéressées à
+cette lutte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Cite**:
+
+	  - Loi n°1884-03-21
+	  - Loi n°1920-03-12
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
 ###### Article 344
 
-Dans chaque circonscription communale ou intercommunale, un seul groupement de défense contre les ennemis des cultures est
+Dans chaque circonscription communale ou intercommunale, un seul groupement de défense contre les organismes nuisibles est
 agréé par le préfet.
 
 Ne peuvent bénéficier de l'agrément que des groupements de défense satisfaisant aux conditions suivantes :
@@ -6538,13 +6573,38 @@ Ne peuvent bénéficier de l'agrément que des groupements de défense satisfais
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Ordonnance 45-2627 1945-11-02 art. 3
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 345
+
+Ne peut être agréée dans chaque département qu'une seule fédération.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 346
@@ -6557,51 +6617,12 @@ arrêtés ministériels ou préfectoraux ;
 2° De généraliser et de synchroniser les traitements préventifs et curatifs nécessaires au maintien du bon état sanitaire des
 cultures, et à cet effet, notamment, de diffuser les indications fournies par les stations régionales d'avertissement ;
 
-3° De signaler au directeur des services agricoles de leur département l'apparition de tout nouveau parasite figurant sur la
-liste prévue à l'article 342, ou le développement inaccoutumé des parasites dont la présence est normalement constatée sur
-leur territoire ;
+3° De signaler au directeur des services agricoles de leur département l'apparition de tout nouvel organisme nuisible
+figurant sur la liste prévue à l'article 342, ou le développement inaccoutumé des organismes nuisibles dont la présence est
+normalement constatée sur leur territoire ;
 
 4° D'exécuter, soit à la demande du service de la protection des végétaux, soit à la demande des particuliers, les
 traitements insecticides et anticryptogamiques.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2627 1945-11-02 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-
-###### Article 347
-
-Conformément aux dispositions des articles 1608 et 1648 du code général des impôts, les fédérations départementales agréées
-bénéficient de recettes constituées par une imposition spéciale.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1608, 1648
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2627 1945-11-02 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-
-### Chapitre II : Mesures de défense contre les parasites et petits animaux.
-
-###### Article 348
-
-Sous réserve d'exceptions autorisées par le ministre de l'agriculture pour l'exécution des travaux de laboratoire, il est
-interdit d'introduire en France, de détenir sciemment et de transporter les parasites réputés dangereux définis par l'article
-342 quel que soit le stade de leur évolution (parasites formés, oeufs, larves, nymphes, graines, germes, etc.).
 
 **Liens relatifs à cet article**
 
@@ -6609,59 +6630,109 @@ interdit d'introduire en France, de détenir sciemment et de transporter les par
 
 	  - Code rural 342
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Ordonnance 45-2627 1945-11-02 art. 7
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 347
+
+Les fédérations départementales agréées peuvent seules recevoir des subventions de l'Etat et du département pour la défense
+contre les ennemis des cultures.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+### Chapitre II : Mesures de défense contre les organismes nuisibles.
+
+###### Article 348
+
+Sous réserve d'exceptions autorisées par le ministre chargé de l'agriculture soit pour l'exécution de travaux de recherche,
+soit en application de décisions communautaires concernant les cas de faible contamination, il est interdit d'introduire en
+France, de détenir sciemment et de transporter les organismes nuisibles définis par l'article 342 quel que soit le stade de
+leur évolution (parasites formés, oeufs, larves, nymphes, graines, germes, etc.).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 342
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 29 () JORF 5 janvier 1993
 
 
 ###### Article 349
 
 Des arrêtés du ministre de l'agriculture déterminent les conditions dans lesquelles peuvent circuler en France les végétaux
 ou parties des végétaux, les terres, fumiers et compost, ainsi que les sacs et autres emballages susceptibles de servir de
-support aux parasites réputés dangereux. Ces arrêtés sont également signés par le ministre de l'économie et des finances
-quand ils règlent les conditions de l'importation de ces matières ou produits ou prévoient l'intervention du service des
-douanes. Des interdictions d'importation peuvent être prononcées.
+support aux organismes nuisibles. Ces arrêtés sont également signés par le ministre de l'économie et des finances quand ils
+règlent les conditions de l'importation de ces matières ou produits ou prévoient l'intervention du service des douanes. Des
+interdictions d'importation peuvent être prononcées.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2627 1945-11-02 art. 8
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
 
 
 ###### Article 350
 
 Toute personne qui, sur un fonds lui appartenant ou cultivé par elle, ou sur des produits ou matières qu'elle détient en
-magasin, constate la présence d'un parasite dangereux, nouvellement apparu dans la commune, doit en faire immédiatement la
+magasin, constate la présence d'un organisme nuisible, nouvellement apparu dans la commune, doit en faire immédiatement la
 déclaration au maire de la commune de sa résidence. Le maire la transmet d'urgence au directeur départemental des services
 agricoles.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2627 1945-11-02 art. 9
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
 
 
 ###### Article 351
 
 Les propriétaires ou exploitants ou tous détenteurs ou transporteurs de plantes ou parties de plantes, y compris les fruits
 frais, sont tenus d'ouvrir leurs terrains et jardins clos ou non, ainsi que leurs dépôts ou magasins, aux agents de la
-protection des végétaux chargés de la recherche, de l'identification ou de la destruction des parasites réputés dangereux.
-Ces agents sont habilités à procéder à la saisie des produits et objets susceptibles de véhiculer des parasites réputés
-dangereux.
+protection des végétaux chargés de la recherche, de l'identification ou de la destruction des organismes nuisibles. Ces
+agents sont habilités à procéder à la saisie des produits et objets susceptibles de véhiculer des organismes nuisibles.
 
 **Liens relatifs à cet article**
 
@@ -6669,15 +6740,15 @@ dangereux.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance 1945-11-02 art. 10
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
 
 
 ###### Article 352
 
 Le ministre de l'agriculture prescrit par arrêté tous traitements ou mesures nécessaires pour combattre la propagation des
-parasites et animaux inscrits sur la liste prévue à l'article 342. Il peut ordonner la mise en quarantaine, la désinfection,
+organismes nuisibles inscrits sur la liste prévue à l'article 342. Il peut ordonner la mise en quarantaine, la désinfection,
 l'interdiction de planter et de multiplier, et, au besoin, la destruction par le feu ou par tout autre procédé, des végétaux
 existants sur le terrain envahi ou sur les terrains et locaux environnants.
 
@@ -6690,13 +6761,13 @@ L'arrêté préfectoral doit être soumis, dans la quinzaine, à l'approbation d
 
 	  - Code rural 342
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2627 1945-11-02 art. 11
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
 
 
 ###### Article 353
@@ -6709,7 +6780,7 @@ Une allocation, ne dépassant pas les deux tiers de leur valeur, peut être acco
 du directeur des services agricoles, pour la perte résultant de la destruction des végétaux non contaminés ordonnée par
 mesure de précaution.
 
-Aucune allocation n'est accordée pour la destruction des végétaux sur lesquels l'existence du parasite dangereux a été
+Aucune allocation n'est accordée pour la destruction des végétaux sur lesquels l'existence de l'organisme nuisible été
 constatée toutes les fois que le propriétaire ou l'usager du terrain sur lequel se trouvent les végétaux n'a pas effectué la
 déclaration prévue à l'article 350 et ne peut prouver à dire de témoins ou de toute autre manière que des traitements ont été
 effectués en vue de leur destruction.
@@ -6720,13 +6791,13 @@ effectués en vue de leur destruction.
 
 	  - Code rural 350
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2627 1945-11-02 art. 12
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
 
 
 ###### Article 354
@@ -6737,7 +6808,7 @@ nécessaires pour l'exécution de ces arrêtés. Il les notifie aux intéressés
 adresse copie de cette notification au préfet du département et au maire de la commune sur le territoire de laquelle les
 opérations doivent avoir lieu.
 
-Les travaux de défense sanitaire sont alors effectués par le groupement agréé de défense contre les ennemis des cultures sous
+Les travaux de défense sanitaire sont alors effectués par le groupement agréé de défense contre les organismes nuisibles sous
 le contrôle du service de la protection des végétaux, et, au cas de carence de ce groupement, par ce service lui-même.
 
 Le coût des travaux est recouvré par ledit groupement. Faute de paiement par les intéressés dans un délai de trois mois, ou
@@ -6747,13 +6818,13 @@ exécutoire par le préfet. Au cas de recouvrement par voie de rôle, la somme d
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2627 1945-11-02 art. 13
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
 
 
 ###### Article 355
@@ -6763,32 +6834,121 @@ obligations que les particuliers.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Ordonnance 45-2627 1945-11-02 art. 14
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+### Chapitre III : Contrôle sanitaire des végétaux, produits végétaux et autres objets.
+
+###### Article 356
+
+Sont soumis à contrôle sanitaire, lorsqu'ils sont susceptibles d'être contaminés par des organismes nuisibles figurant sur la
+liste mentionnée à l'article 342 :
+
+a) Les végétaux, c'est-à-dire les plantes vivantes et les parties vivantes de plantes, y compris les semences ;
+
+b) Les produits végétaux, c'est-à-dire les produits d'origine végétale non transformés ou ayant fait l'objet d'une
+préparation simple, pour autant qu'il ne s'agit pas de végétaux ;
+
+c) Les autres objets, c'est-à-dire les supports de culture, moyens de transport et emballages de ces végétaux ou produits
+végétaux.
+
+La liste des végétaux, produits végétaux et autres objets soumis à contrôle sanitaire en application du premier alinéa est
+déterminée par arrêté du ministre chargé de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 342
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 30 () JORF 5 janvier 1993
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 31 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
-### Chapitre III : Contrôle des pépinières.
+###### Article 356-1
 
-###### Article 356
+Toute personne qui, dans le cadre de son activité professionnelle, produit ou importe de pays extérieurs à la Communauté
+économique européenne des végétaux, produits végétaux et autres objets soumis au contrôle sanitaire en application de
+l'article 356 ou qui combine ou divise des lots desdits végétaux ou produits végétaux doit être inscrite sur le registre
+officiel du contrôle phytosanitaire, sous un numéro d'immatriculation délivré par le ministre chargé de l'agriculture.
 
-Sont seules autorisées à vendre ou à mettre en vente les plants, boutures, greffes, porte-greffes des végétaux vivaces
-ligneux, les personnes physiques ou morales munies d'une carte de contrôle sanitaire délivrée par l'inspecteur de la
-protection des végétaux.
+Peuvent être dispensés, dans des conditions fixées par décret, de l'obligation prévue au précédent alinéa les petits
+producteurs dont la totalité de la production et de la vente de végétaux, produits végétaux et autres objets soumis au
+contrôle sanitaire est destinée, pour un usage final et sur le marché local, à des personnes qui ne sont pas engagées
+professionnellement dans la production de végétaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 356
+
+	**Anciens textes**:
+
+	  - Code rural 356
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 30 () JORF 5 janvier 1993
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 31 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 356-2
+
+Un décret détermine la procédure d'immatriculation, les cas dans lesquels l'immatriculation d'un magasin collectif ou centre
+d'expédition situé dans la zone de production peut être admise en substitution de l'immatriculation individuelle de
+producteurs, ainsi que les informations que les personnes immatriculées doivent communiquer à l'autorité administrative.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 45-2627 1945-11-02 art. 15
+	  - Code rural 356
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 30 () JORF 5 janvier 1993
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 31 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ###### Article 357
@@ -6798,40 +6958,53 @@ concertés des ministres de l'économie et des finances et de l'agriculture.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2627 1945-11-02 art. 16
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 30 () JORF 5 janvier 1993
 
 
 ###### Article 358
 
-La carte de contrôle sanitaire est délivrée sur présentation d'un récépissé constatant le versement, au Trésor public, du
-montant des droits afférents au contrôle des pépinières.
+Lorsque, à l'occasion du contrôle sanitaire effectué chez les personnes visées à l'article 356-1 ou au point d'entrée sur le
+territoire français en provenance de pays extérieurs à la Communauté économique européenne, les végétaux, produits végétaux
+et autres objets mentionnés à l'article 356 n'apparaissent pas contaminés par les organismes nuisibles mentionnés au a de
+l'article 342, l'autorité chargée de ce contrôle délivre, dans des conditions fixées par décret, un passeport phytosanitaire
+qui reste attaché auxdits végétaux, produits végétaux ou autres objets. La validité géographique de ce passeport peut être
+limitée si les végétaux, produits végétaux ou autres objets présentent des risques pour certaines zones.
+
+Lorsque les résultats du contrôle sanitaire ne sont pas satisfaisants, le passeport n'est pas délivré.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Ordonnance 45-2627 1945-11-02 art. 17
+	  - Code rural 356-1, 356, 342
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 30 () JORF 5 janvier 1993
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 32 () JORF 5 janvier 1993
+
 
 ###### Article 359
 
-Le contrôle de l'état sanitaire des pépinières est assuré par les inspecteurs et contrôleurs de la protection des végétaux.
-Lorsqu'ils constatent la présence d'un des parasites animaux ou végétaux inscrits sur la liste prévue à l'article 342, ces
-fonctionnaires peuvent faire procéder à la destruction de tout ou partie des pépinières contaminées ou à leur mise en
-quarantaine jusqu'à désinfection complète.
+Le contrôle de l'état sanitaire des végétaux, produits végétaux et autres objets mentionnés à l'article 356 est assuré par
+les inspecteurs et contrôleurs de la protection des végétaux. Lorsqu'ils constatent la présence d'un des organismes nuisibles
+inscrits sur la liste prévue à l'article 342, ces fonctionnaires peuvent faire procéder à la destruction de tout ou partie
+des végétaux, produits végétaux et autres objets mentionnés à l'article 356 contaminés ou à leur mise en quarantaine jusqu'à
+désinfection complète.
 
-Ils mettent au préalable en demeure le propriétaire, le directeur ou gérant, d'exécuter dans un délai de six jours les
-mesures de destruction ou de désinfection nécessaires.
+Ils mettent au préalable en demeure le propriétaire, d'exécuter dans un délai de six jours les mesures de destruction ou de
+désinfection nécessaires.
 
 Au cas d'inexécution de ces mesures dans les délais prescrits, procès-verbal est dressé aux fins de poursuites judiciaires ;
 la destruction des sujets contaminés est alors exécutée par le service de la protection des végétaux, aux frais du
@@ -6843,15 +7016,17 @@ Le coût des travaux est recouvré dans les formes et conditions prévues à l'a
 
 	**Cite**:
 
-	  - Code rural 342, 354
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2627 1945-11-02 art. 18
+	  - Code rural 356, 342, 354
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 30 () JORF 5 janvier 1993
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 33 () JORF 5 janvier 1993
 
 
 ### Chapitre IV : Contrôle à l'exportation et à l'importation.
@@ -6902,25 +7077,25 @@ dans les conditions fixées par arrêté ministériel.
 ###### Article 362
 
 Les frais de toute nature résultant de l'application des mesures sanitaires réglementant l'importation des végétaux, produits
-et matières susceptibles d'introduire en France des organismes animaux ou végétaux nuisibles, sont à la charge des
-importateurs. Les droits dus par chaque importateur sont calculés d'après un tarif fixé par arrêté des ministres de
-l'agriculture et de l'économie et des finances. Ils sont acquittés par les intéressés comme en matière de douane au moment de
-la déclaration en douane de ces végétaux, matières et produits.
+et matières susceptibles d'introduire en France des organismes nuisibles, sont à la charge des importateurs. Les droits dus
+par chaque importateur sont calculés d'après un tarif fixé par arrêté des ministres de l'agriculture et de l'économie et des
+finances. Ils sont acquittés par les intéressés comme en matière de douane au moment de la déclaration en douane de ces
+végétaux, matières et produits.
 
-Les mesures de refoulement ou de destruction de produits contaminés, ordonnées par les agents du service de la protection des
+Les mesures de refoulement ou de destruction de produits contaminés ordonnées par les agents du service de la protection des
 végétaux, sont exécutées aux frais des importateurs et sous le contrôle de l'administration des douanes. Les modalités
 d'application de ces mesures pourront être précisées par des arrêtés concertés des ministres de l'agriculture et de
 l'économie et des finances.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2627 1945-11-02 art. 22
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 27 () JORF 5 janvier 1993
 
 
 ### Chapitre V : Sanctions et dispositions diverses.
@@ -6958,7 +7133,11 @@ En cas de récidive, dans le délai de cinq ans, les peines peuvent être porté
 ###### Article 364
 
 Les inspecteurs et contrôleurs du cadre permanent de la protection des végétaux sont qualifiés pour constater les infractions
-aux dispositions prévues ci-dessus.
+aux dispositions prévues ci-dessus. En outre, sont habilitées à rechercher et constater les infractions à l'obligation de
+faire accompagner les végétaux, produits végétaux ou autres objets mentionnés à l'article 356 du passeport phytosanitaire
+prévu à l'article 358 les agents des douanes dans les conditions prévues aux articles 60, 61, 65 et 322 bis du code des
+douanes et les agents de la concurrence, de la consommation et de la répression des fraudes dans les conditions prévues par
+la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services.
 
 Un décret contresigné par le ministre de l'agriculture, le ministre de l'économie et des finances et le garde des sceaux,
 ministre de la justice, détermine leurs pouvoirs ainsi que ceux des autres fonctionnaires appelés à collaborer à
@@ -6966,13 +7145,22 @@ l'application du présent titre en matière de recherche et de constatation des 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2627 1945-11-02 art. 24
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 34 () JORF 5 janvier 1993
+
+	**Cite**:
+
+	  - Code des douanes - art. 322 bis (M)
+	  - Code des douanes - art. 60 (V)
+	  - Code des douanes - art. 61 (V)
+	  - Code des douanes - art. 65 (M)
+	  - Code rural 358
+	  - Loi n°1905-08-01
 
 
 ## Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte.
