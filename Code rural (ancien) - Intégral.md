@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1972-07-01
+Version Consolidée au 1972-10-26
 
 ###### Article 162
 
@@ -18452,204 +18452,1119 @@ les procédures prévues à l'article 1143-2.
 
 ### Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles
 
+#### Section 1 : Bénéficiaires et risques couverts.
+
+###### Article 1144
+
+Il est institué un régime d'assurance obligatoire contre les accidents du travail et les maladies professionnelles au profit
+des catégories de personnes ci-dessous énumérées :
+
+1° Les ouvriers et employés occupés dans les exploitations agricoles de quelque nature qu'elles soient ainsi que dans les
+exploitations d'élevage, de dressage, d'entraînement, les haras, les entreprises de toute nature, bureaux, dépôts ou magasins
+de vente se rattachant à des syndicats ou exploitations agricoles lorsque le syndicat ou l'exploitation agricole constitue le
+principal établissement ;
+
+2° Les ouvriers et employés occupés dans les établissements de conchyliculture et de pisciculture et établissements
+assimilés, à l'exception de ceux qui relèvent du régime social des marins ;
+
+3° Les ouvriers et employés occupés dans les exploitations de bois.
+
+Sont considérées comme exploitation de bois :
+
+a) Les travaux d'abattage, ébranchage, éhouppage, débardage sous toutes ses formes, les travaux précédant ou suivant
+normalement ces opérations tels que débroussaillage, nettoyage des coupes ainsi que le transport de bois effectué par
+l'entreprise qui a procédé à tout ou partie des opérations précédentes ;
+
+b) Lorsqu'ils sont effectués sur le parterre de la coupe, les travaux de façonnage, de conditionnement des bois, de sciage et
+de carbonisation, quels que soient les procédés utilisés.
+
+Ces travaux conservent le caractère agricole lorsqu'ils sont effectués en dehors du parterre de la coupe par une entreprise
+ou une section d'entreprise dont l'activité principale est l'exploitation forestière ou la production de bois brut de
+sciage ;
+
+4° Les salariés des artisans ruraux n'employant pas plus de deux ouvriers de façon permanente ;
+
+5° Les salariés des entreprises de battage et de travaux agricoles ;
+
+6° Les gardes-chasse, gardes-pêche, gardes forestiers, jardiniers, jardiniers gardes de propriété et, de manière générale,
+toute personne qui, n'ayant pas la qualité d'entrepreneur, est occupée par des groupements ou des particuliers à la mise en
+état et à l'entretien des jardins ;
+
+7° Les salariés des organismes de mutualité agricole, des caisses de crédit agricole mutuel, des chambres d'agriculture, du
+centre national pour l'aménagement des structures des exploitations agricoles, des coopératives agricoles, des sociétés
+d'intérêt collectif agricole, des sociétés à caractère coopératif dites fruitières, des sociétés agricoles diverses, des
+syndicats agricoles, des associations syndicales de propriétaires dont l'objet est agricole et, d'une manière générale, de
+tout groupement professionnel agricole ;
+
+8° Les métayers visés à l'article 1025 ;
+
+9° Les apprentis et, sous réserve des dispositions de l'article 37 de la loi n° 71-575 du 16 juillet 1971, les stagiaires
+relevant du régime des assurances sociales agricoles occupés dans les exploitations, entreprises, organismes et groupements
+ci-dessus énumérés ;
+
+10° Les employés de maison au service d'un exploitant agricole lorsqu'ils exercent habituellement leur activité sur le lieu
+de l'exploitation agricole.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 37 (V)
+	  - Code rural 1025
+
+	**Cité par**:
+
+	  - Loi n°89-474 du 10 juillet 1989 - art. 4 (V)
+	  - Décret n°95-942 du 25 août 1995 - art. 2 (V)
+	  - Décret n°2003-685 du 24 juillet 2003 - art. 2 (Ab)
+	  - Code de la sécurité sociale. - art. L931-3 (V)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L722-1 (M)
+	  - Code rural - art. L722-2 (M)
+	  - Code rural - art. L722-20 (M)
+	  - Code rural - art. L722-3 (M)
+	  - Code rural - art. L751-1 (M)
+
+
+###### Article 1146
+
+Est considéré comme accident du travail, quelle qu'en soit la cause, l'accident survenu par le fait ou à l'occasion du
+travail à toute personne visée à l'article 1144, salariée ou travaillant, à quelque titre ou en quelque lieu que ce soit,
+pour un ou plusieurs employeurs ou chefs d'exploitation ou d'entreprise agricole.
+
+Est également considéré comme accident du travail, lorsque la victime ou ses ayants droit apportent la preuve que l'ensemble
+des conditions ci-après sont remplies ou lorsque l'enquête permet à la caisse de mutualité sociale agricole de disposer sur
+ce point de présomptions suffisantes, l'accident survenu à un travailleur visé à l'article 1144 pendant le trajet d'aller et
+retour entre :
+
+a) sa résidence principale, une résidence secondaire présentant un caractère de stabilité ou tout autre lieu où le
+travailleur se rend de façon habituelle pour des motifs d'ordre familial et le lieu de travail ;
+
+b) le lieu du travail et le restaurant, la cantine ou, d'une manière plus générale, le lieu où le travailleur prend
+habituellement ses repas, et dans la mesure où le parcours n'a pas été interrompu ou détourné pour un motif dicté par
+l'intérêt personnel et étranger aux nécessités essentielles de la vie courante ou indépendant de l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1144
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-6
+	  - Code rural - art. L751-6 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1147
+
+Si une personne mentionnée à l'article 1144 est occupée par un même employeur principalement à un travail prévu audit
+article, et occasionnellement à une autre tâche, les dispositions du présent chapitre s'appliquent aux accidents qui
+surviendraient au cours de cette autre tâche.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1144
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-3
+	  - Code rural - art. L751-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+#### Section 2 : Prestations.
+
+###### Article 1148
+
+Les dispositions de nature législative du titre III et du chapitre IV du titre V du livre IV du code de la sécurité sociale
+relatives aux prestations en matière d'accidents du travail et de maladies professionnelles sont applicables au régime défini
+au présent chapitre.
+
+Des décrets en Conseil d'Etat fixeront les modalités d'application du précédent alinéa.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-8
+	  - Code rural - art. L751-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+#### Section 3 : Faute intentionnelle, faute inexcusable, responsabilité des tiers, réparations complémentaires.
+
+###### Article 1149
+
+Les dispositions des articles L. 451-1, L. 452-1 à L. 452-5, L. 453-1, L. 454-1, L. 455-1, L. 455-2 et R. 452-1 du code de la
+sécurité sociale sont applicables au régime défini au présent chapitre.
+
+Toutefois, à la référence au livre III du code de la sécurité sociale contenue dans l'article L. 453-1, est substituée la
+référence à l'article 1038 du code rural.
+
+Des décrets en Conseil d'Etat fixeront les modalités d'application du premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-9 (M)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L451-1, L452-1 à L452-5, L453-1, L454-1, L455-1, L455-2, R452-1
+	  - Code de la sécurité sociale. - art. L451-1 (M)
+	  - Code de la sécurité sociale. - art. L453-1 (V)
+	  - Code de la sécurité sociale. - art. L454-1 (M)
+	  - Code de la sécurité sociale. - art. L455-1 (V)
+	  - Code de la sécurité sociale. - art. L455-2 (M)
+	  - Code de la sécurité sociale. - art. R452-1 (V)
+	  - Code rural 1038, L453-1
+
+
+#### Section 4 : Organisation administrative et financière.
+
+###### Article 1151
+
+Les caisses départementales ou pluridépartementales de mutualité sociale agricole :
+
+- déterminent le taux des cotisations de chaque employeur et recouvrent les sommes dues ;
+
+- exercent des actions de prévention contre les accidents du travail et les maladies professionnelles dans les conditions
+prévues à la section 7 du présent chapitre.
+
+Des décrets, pris sur le rapport du ministre de l'agriculture, fixeront les conditions dans lesquelles seront organisées les
+opérations de liquidation et de paiement prévues au présent titre, y compris les frais d'appareillage.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-11
+	  - Code rural - art. L751-11 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1152
+
+La caisse centrale de secours mutuels agricoles est chargée :
+
+- de coordonner l'action et la gestion des caisses départementales et pluridépartementales ;
+
+- d'assurer la compensation des charges techniques, de gestion, d'action sanitaire et sociale, de contrôle médical et de
+prévention ;
+
+- de promouvoir la prévention des accidents du travail et des maladies professionnelles dans les conditions prévues à la
+section 7 du présent chapitre ;
+
+- de recueillir, de rassembler toutes les statistiques et les fournir au ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1153
+
+Les ressources du régime doivent couvrir intégralement les charges de celui-ci, ci-après énumérées :
+
+- prestations prévues aux sections 2 et 9 ;
+
+- dépenses de prévention ;
+
+- frais de gestion, de contrôle médical, d'action sanitaire et sociale ;
+
+- dépenses relatives, en ce qui concerne les salariés agricoles, à des accidents survenus et à des maladies professionnelles
+constatées avant le 1er juillet 1973 et constituées par la revalorisation des rentes allouées en application de la
+législation alors en vigueur, les allocations et les frais d'appareillage mentionnés aux articles 1231, 1231-1 et 1231-1 bis,
+les rentes accordées au titre des articles 1204 et 1207, la réparation des accidents survenus par fait de guerre, les frais
+de rééducation prévus à l'article 1209 ;
+
+- le surcroît de dépenses pouvant résulter en ce qui concerne les salariés agricoles de l'application des modalités
+techniques de fournitures et réparations et de renouvellement des appareils de prothèse ou d'orthopédie, prévues par les
+articles L. 431-1 et suivants du code de la sécurité sociale en faveur des victimes d'accidents du travail survenus
+antérieurement au 1er janvier 1955.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-12 (M)
+	  - Code rural L751-12
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L431-1 (V)
+	  - Code rural 1231, 1231-1, 1231-1 bis, 1204, 1207, 1209
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1154
+
+La cotisation due à la caisse de mutualité sociale agricole par chaque employeur est assise, dans la limite d'un plafond, sur
+les rémunérations soumises à cotisations d'assurances sociales agricoles, qui sont perçues par ses ouvriers, employés ou
+assimilés bénéficiant du régime.
+
+Cette cotisation est versée auprès de la caisse de mutualité sociale agricole.
+
+Un décret en Conseil d'Etat précisera, en tant que de besoin, les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-13 (M)
+
+
+###### Article 1155
+
+Un arrêté du ministre de l'agriculture fixe annuellement, pour chaque catégorie de risque, le taux des cotisations techniques
+après avis de la section des accidents du travail du conseil supérieur des prestations sociales agricoles, saisie par le
+ministre des propositions établies par la caisse centrale de secours mutuels agricoles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-15 (M)
+
+
+###### Article 1156
+
+Les caisses de mutualité sociale agricole classent dans les différentes catégories retenues par le ministre de l'agriculture
+les risques particuliers à chaque employeur. Ce classement peut être contesté soit par l'employeur, soit par l'inspecteur
+divisionnaire des lois sociales en agriculture devant la section de tarification de la commission nationale technique prévue
+à l'article L. 143-4 du code de la sécurité sociale siégeant en formation agricole.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-16 (M)
+	  - Code rural L751-16
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L143-4 (M)
+
+
+###### Article 1157
+
+Le ministre de l'agriculture fixe, dans les conditions définies à l'article 1155, le taux des cotisations techniques
+forfaitaires pour certaines catégories de travailleurs occasionnels et notamment pour les exploitants agricoles qui occupent
+occasionnellement un emploi salarié chez un autre exploitant agricole.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1155
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-19 (M)
+	  - Code rural - art. L751-20 (M)
+
+
+###### Article 1159
+
+Les métayers mentionnés au 8° de l'article 1144 sont seuls tenus au paiement de la cotisation envers la caisse. Le
+propriétaire des biens exploités est tenu de reverser au métayer une part de cotisation proportionnelle à sa part dans les
+produits de l'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1144
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-23
+	  - Code rural - art. L751-23 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1160
+
+La part des ressources affectée aux dépenses de prévention ainsi qu'aux frais de gestion, de contrôle médical et d'action
+sanitaire et sociale est fixée par arrêté conjoint du ministre de l'agriculture et du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-24 (M)
+	  - Code rural L751-24
+
+
+###### Article 1161
+
+Les dispositions relatives aux procédures de recouvrement et aux délais de prescription des articles 1143-2 et 1143-3 sont
+applicables aux sommes dues en application des articles 1176 et 1177.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1143-2, 1143-3, 1176, 1177
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-25
+	  - Code rural - art. L751-25 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1162
+
+Les correspondances postales relatives au fonctionnement du régime bénéficient de la dispense d'affranchissement dans les
+conditions fixées par arrêté conjoint du ministre de l'agriculture et du ministre des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°87-39 1987-01-27 art. 13 III, IV JORF 28 janvier en vigueur le 1er janvier 1987
+	  - Loi n°87-39 du 27 janvier 1987 - art. 13 (V) JORF 28 janvier en vigueur le 1er janvier 1987
+
+
+#### Section 5 : Formalités, procédure, contentieux.
+
+###### Article 1163
+
+L'employeur, soit personnellement, soit par l'intermédiaire d'un de ses préposés, doit, dans un délai fixé par décret,
+déclarer à la caisse de mutualité sociale agricole tout accident dont il a eu connaissance directement ou indirectement et
+remettre à la victime une feuille d'accident.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-26 (M)
+
+
+###### Article 1164
+
+L'employeur est tenu de délivrer à la victime une feuille d'accident. Le praticien consulté par la victime est tenu d'établir
+en double exemplaire un certificat, d'en adresser un à la caisse de mutualité sociale agricole et de remettre l'autre à la
+victime.
+
+Il en est de même lors de la constatation de la guérison de la blessure sans incapacité permanente ou, s'il y a incapacité
+permanente, au moment où est constatée la consolidation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-27 (M)
+	  - Code rural L751-27
+
+
+###### Article 1165
+
+Lorsque le praticien consulté par la victime ne s'est pas conformé, sauf impossibilité due à l'urgence, aux prescriptions
+relatives à l'établissement et à la transmission des certificats médicaux, la caisse, et, dans le cas prévu à l'article L.
+432-3 du code de la sécurité sociale, la victime ou ses ayants droit ne sont pas tenus au paiement des honoraires.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-28
+	  - Code rural - art. L751-28 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L432-3 (V)
+
+
+###### Article 1166
+
+Il appartient à la caisse de mutualité sociale agricole, lorsque la blessure paraît devoir entraîner la mort ou une
+incapacité permanente de travail ou lorsque la victime est décédée, de faire procéder à une enquête par un agent assermenté
+préalablement agréé par le ministre de l'agriculture.
+
+L'enquête est contradictoire ; la victime ou ses ayants droit peuvent se faire assister. Un expert technique peut être
+désigné dans des conditions fixées par décret, en vue d'assister l'agent enquêteur. Le procès-verbal de l'agent assermenté
+fait foi jusqu'à preuve du contraire. La caisse doit adresser copie du procès-verbal d'enquête à la victime ou à ses ayants
+droit.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-29
+	  - Code rural - art. L751-29 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1167
+
+Les dispositions de l'article L. 442-4 du code de la sécurité sociale sont applicables en cas d'accident suivi de mort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-30 (M)
+	  - Code rural L751-30
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L442-4 (M)
+
+
+###### Article 1168
+
+La caisse de mutualité sociale agricole fixe la date de guérison ou de consolidation de la blessure et, dans ce dernier cas,
+établit des propositions relatives au taux d'incapacité permanente de travail.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-31
+	  - Code rural - art. L751-31 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1169
+
+Sous réserve des dispositions des articles 1156 et 1158, les litiges relatifs à l'application du présent chapitre relèvent de
+la compétence exclusive du contentieux général de la sécurité sociale suivant des modalités fixées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-32 (M)
+
+	**Cite**:
+
+	  - Code rural 1156, 1158
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+#### Section 6 : Dispositions relatives aux maladies professionnelles.
+
+###### Article 1170
+
+Les dispositions de nature législative du titre VI du livre IV du code de la sécurité sociale sont applicables au régime
+défini au présent chapitre.
+
+Des décrets en Conseil d'Etat fixeront les modalités d'application du précédent alinéa.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-7
+	  - Code rural - art. L751-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+#### Section 7 : Prévention.
+
+###### Article 1171
+
+Des décrets en Conseil d'Etat détermineront les conditions dans lesquelles seront définies et mises en oeuvre les mesures
+destinées à assurer la prévention contre les accidents du travail et les maladies professionnelles des salariés agricoles
+ainsi que les moyens de financement correspondants et les modalités de la participation paritaire des employeurs et des
+salariés notamment dans des comités techniques auprès des organismes de mutualité sociale agricole chargés de la gestion de
+la prévention.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-48
+	  - Code rural - art. L751-48 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+#### Section 8 : Contrôles et sanctions.
+
+###### Article 1172
+
+Le contrôle médical de la victime pendant la période d'incapacité temporaire et en cas de rechute est exercé selon les règles
+applicables en matière d'assurance maladie des salariés agricoles.
+
+Les mêmes sanctions sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-33
+	  - Code rural - art. L751-33 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1173
+
+Les caisses de mutualité sociale agricole prennent en charge dans les mêmes conditions qu'en matière d'assurance maladie des
+salariés agricoles et suivant des modalités fixées par décret en Conseil d'Etat, les honoraires et frais de déplacement de
+praticiens, les frais de déplacement des victimes et les frais d'expertise de ces dernières exposés du fait du contrôle
+médical.
+
+Toutefois, la juridiction compétente peut mettre à la charge de la victime ou de ses ayants droit tout ou partie des frais et
+honoraires entraînés par des examens ou expertises prescrits à leur demande lorsque celle-ci est reconnue comme étant
+manifestement abusive.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-34
+	  - Code rural - art. L751-34 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1174
+
+Dans des conditions fixées par décret, les dispositions des l'articles L. 145-1 à L. 145-4, L. 145-6 à L. 145-8, R. 145-15 à
+R. 145-18 du code de la sécurité sociale sont appliquées en cas de fautes, abus, fraudes et autres faits relevés à l'encontre
+des médecins, chirurgiens-dentistes, sages-femmes, auxiliaires médicaux et pharmaciens à l'occasion des soins dispensés aux
+victimes d'accidents du travail ou de maladies professionnelles agricoles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L145-1 à L145-4, L145-6 à L145-8, R145-15 à R145-18
+
+
+###### Article 1175
+
+Les dispositions de l'article L. 482-4 du code de la sécurité sociale sont étendues au régime institué par le présent
+chapitre.
+
+Les actes définis aux articles L. 471-2 à L. 471-4 du même code sont punis des peines prévues à ces articles, lorsqu'ils sont
+commis dans l'application du présent régime.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-40
+	  - Code rural L751-41
+	  - Code rural - art. L751-40 (M)
+	  - Code rural - art. L751-41 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L482-4, L471-2 à L471-4
+	  - Code de la sécurité sociale. - art. L482-4 (V)
+
+
+###### Article 1176
+
+Indépendamment des majorations de retard dues pour les cotisations qui n'ont pas été acquittées dans le délai réglementaire,
+les caisses de mutualité sociale agricole sont fondées à poursuivre auprès de l'employeur, dans les conditions fixées aux
+alinéas suivants, le remboursement des prestations d'accidents du travail effectivement servies par elles aux salariés de
+l'entreprise.
+
+Cette sanction est encourue lorsque, à la date de l'accident du travail, l'employeur n'avait pas acquitté l'intégralité des
+cotisations d'accidents du travail dues pour son personnel.
+
+Cette sanction est limitée au remboursement des prestations effectivement servies entre la date d'accident du travail et la
+date de l'acquittement des cotisations impayées par l'employeur pour l'ensemble de son personnel lors de l'accident du
+travail du salarié ou assimilé.
+
+Ce remboursement ne pourra, d'autre part, être supérieur au montant des cotisations dues pour l'ensemble du personnel à la
+date de l'accident du travail.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-35
+	  - Code rural - art. L751-35 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1177
+
+La caisse de mutualité sociale agricole peut réclamer le remboursement de la totalité des dépenses faites par elle à la suite
+d'un accident à l'employeur qui n'a pas déclaré celui-ci ou n'a pas remis à la victime une feuille d'accidents dans les
+conditions réglementaires.
+
+Ce remboursement ne pourra, d'autre part, être supérieur à un montant fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-36 (M)
+	  - Code rural - art. L751-37 (M)
+
+
 #### Section 9 : Indemnisation de certaines victimes d'accidents du travail survenus ou de maladies professionnelles constatées avant l'entrée en vigueur de dispositions nouvelles concernant ces accidents ou maladies.
 
-###### Article 1185
+###### Article 1178
 
-(texte abrogé).
+Les victimes d'accidents survenus ou de maladies constatées avant le 1er juillet 1973, qui ne remplissaient pas les
+conditions fixées par la législation alors en vigueur, ou leurs ayants droit, ont droit à une allocation lorsqu'ils apportent
+la preuve qu'ils auraient rempli et continuent à remplir l'ensemble des conditions exigées, pour obtenir une rente, par les
+dispositions du chapitre Ier du titre III du livre VII du présent code, ou par les textes intervenus postérieurement au 1er
+juillet 1973.
 
-**Liens relatifs à cet article**
+L'allocation ne peut être attribuée à la victime que lorsque, par suite d'un ou de plusieurs accidents du travail ou maladies
+professionnelles, le taux d'incapacité permanente est au moins égal à 10 p. 100. Le montant de l'allocation est calculé par
+l'application des règles fixées aux articles L. 434-2 et R. 434-1 à R. 434-4 et L. 434-8 à L. 434-10, L. 434-1 et L. 434-14
+du code de la sécurité sociale sur la base du salaire minimum prévu aux articles L. 434-16, R. 434-27 et R. 434-29 dudit
+code.
 
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
-
-
-###### Article 1186
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
-
-
-###### Article 1187
-
-(texte abrogé).
+Le titulaire de l'allocation prévue au premier alinéa du présent article, dont l'infirmité résultant de l'accident ou de la
+maladie nécessite un appareil de prothèse ou d'orthopédie a droit à la fourniture, à la réparation et au renouvellement de
+cet appareil, selon les modalités techniques prévues en application de l'article L. 432-5 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Abrogé par**:
 
-	  - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-42 (M)
+	  - Code rural L751-42
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L434-2, R434-1 à R434-4, L434-8 à L434-10, L434-1, L434-14, L432-5, L434-16
+	  - Code de la sécurité sociale. - art. L432-5 (V)
+	  - Code de la sécurité sociale. - art. L434-1 (M)
+	  - Code de la sécurité sociale. - art. L434-14 (V)
+	  - Code de la sécurité sociale. - art. L434-16 (V)
+	  - Code de la sécurité sociale. - art. L434-2 (M)
 
 
-###### Article 1188
+###### Article 1179
 
-(texte abrogé).
+La victime d'un accident du travail survenu ou d'une maladie professionnelle constatée avant le 1er juillet 1973 qui, en
+raison des conséquences de l'accident ou de la maladie et par suite d'une aggravation survenue postérieurement à l'expiration
+du délai prévu à l'article 19 de la loi du 9 avril 1898, est atteinte d'une incapacité permanente de travail l'obligeant à
+avoir recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires de la vie reçoit :
+
+- s'il y a lieu, une allocation portant le montant annuel de sa rente à celui de la rente calculée sur la base du taux
+d'incapacité permanente totale ;
+
+- une majoration calculée conformément aux dispositions des articles L. 434-2, 3ème alinéa et R. 434-3 du code de la sécurité
+sociale.
+
+Il incombe au demandeur d'apporter la preuve :
+
+- de l'incapacité permanente totale, si elle n'avait pas été constatée antérieurement, en application de la loi du 15
+décembre 1922 modifiée ;
+
+- du lien de cause à effet entre les conséquences de l'accident ou de la maladie et l'état de la victime ;
+
+- du caractère obligatoire de l'assistance d'une tierce personne.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Abrogé par**:
 
-	  - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-43 (M)
+	  - Code rural L751-43
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L434-2 (M)
+	  - Code de la sécurité sociale. - art. R434-3 (M)
+	  - Loi n°1898-04-09 art. 19
+	  - Loi n°1922-12-15
 
 
-###### Article 1189
+###### Article 1181
 
-(texte abrogé).
+Si l'accident ou la maladie a donné lieu à réparation, les prestations accordées en application des articles 1178 à 1180 sont
+réduites du montant de la rente correspondant à la réparation accordée, éventuellement revalorisé dans les conditions fixées
+par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-45 (M)
+	  - Code rural L751-45
+
+	**Cite**:
+
+	  - Code rural 1178 à 1180
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Abrogé par**:
 
-	  - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-###### Article 1190
+###### Article 1182
 
-(texte abrogé).
+Les allocations et majorations accordées en vertu des articles 1178 à 1180 sont revalorisées par application des coefficients
+mentionnés à l'article L. 434-17 du code de la sécurité sociale.
+
+Elles sont dues à compter de la date de la demande et au plus tôt au 1er juillet 1973. Toutefois, en ce qui concerne les
+décès survenus après le 30 juin 1973, le conjoint survivant a droit à l'allocation à compter de la date du décès, si sa
+demande a été présentée dans les six mois suivant cette date.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L751-46 (M)
+	  - Code rural L751-46
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L434-17 (M)
+	  - Code rural 1178 à 1180
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Abrogé par**:
 
-	  - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-###### Article 1191
+###### Article 1183
 
-(texte abrogé).
+Les victimes d'accidents survenus ou de maladies professionnelles constatées avant le 1er juillet 1973 ont droit à la prise
+en charge, dans les conditions de délais prévues par la législation alors en vigueur, des frais médicaux, chirurgicaux,
+pharmaceutiques et des frais d'hospitalisation entraînés par une rechute rendant nécessaire un traitement médical, qu'il y
+ait ou non incapacité temporaire.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-47
+	  - Code rural - art. L751-47 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Abrogé par**:
 
-	  - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
-###### Article 1192
+###### Article 1184
 
-(texte abrogé).
+Les victimes d'accidents survenus ou de maladies constatées après le 30 juin 1973, ou leurs ayants droit, qui ne
+remplissaient pas les conditions prévues par la législation applicable à la date de survenance de l'accident ou de
+constatation de la maladie, mais qui apporteraient la preuve qu'ils auraient rempli et continueraient à remplir les
+conditions requises par des dispositions nouvelles, modifiant ou complétant le présent chapitre, intervenues postérieurement
+à la date de l'accident ou de la constatation médicale de la maladie pourront demander le bénéfice de ces dernières
+dispositions.
+
+Les droits résultant des dispositions de l'alinéa précédent prendront effet, en ce qui concerne les prestations, de la date
+du dépôt de la demande.
+
+Ces prestations se substitueront, pour l'avenir, aux autres avantages accordés à la victime ou à ses ayants droit, pour le
+même accident, au titre des assurances sociales. Si l'accident a donné lieu à réparation au titre du droit commun, le montant
+desdites réparations éventuellement revalorisé dans les conditions fixées par décret en Conseil d'Etat sera déduit du montant
+des avantages accordés à la victime ou à ses ayants droit en exécution du présent article.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-5
+	  - Code rural - art. L751-5 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Cité par**:
+
+	  - Décret n°60-323  du 2 avril 1960  - art. 2 (VT)
+	  - Décret n°60-323  du 2 avril 1960  - art. 24 (VT)
 
 	**Abrogé par**:
 
-	  - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
-
-
-###### Article 1193
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
-
-
-###### Article 1194
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
-
-
-###### Article 1195
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
-
-
-###### Article 1196
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
-
-
-###### Article 1197
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°72-965 du 25 octobre 1972 - art. 2 () JORF 26 octobre 1972
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ### Chapitre II : Assurances et fonds spéciaux aux accidents du travail agricole.
+
+###### Article 1198
+
+Les sociétés ou caisses d'assurances et de réassurances mutuelles agricoles constituées dans les termes de l'article 1235
+sont admises à couvrir les risques de mort et d'incapacité permanente résultant de l'application des dispositions des
+chapitres III et IV du présent titre à condition de se soumettre, dans leur fonctionnement, aux garanties édictées, en ce qui
+concerne les sociétés d'assurances mutuelles, par la législation relative au contrôle des assurances privées.
+
+Les sociétés d'assurances mutuelles agricoles réassurées au moins à un degré pour les risques de toute nature par des caisses
+de réassurances mutuelles recevront seules, chaque année, de l'Etat, dans les conditions déterminées par un décret, les
+subventions spéciales représentant la moitié au maximum des cotisations que devraient payer ceux de leurs adhérents visés à
+l'article 1234-19 du code rural.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1235, 1234-19
+
+	**Nouveaux textes**:
+
+	  - Code rural L752-33
+	  - Code rural - art. L752-33 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
 
 ###### Article 1199
 
@@ -18674,6 +19589,32 @@ conformément à leurs statuts.
 Un arrêté du ministre de l'agriculture fixe les modalités des élections desdits conseils.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1201
+
+Nonobstant toute clause contraire des contrats, les organismes d'assurances sont tenus de servir au titre de l'assurance
+obligatoire des exploitants contre les accidents et les maladies professionnelles, les prestations prévues au chapitre III du
+présent titre, et, au titre de l'assurance complémentaire, les prestations prévues au chapitre IV du présent titre.
+
+Un arrêté du ministre des finances et du ministre de l'agriculture détermine, le cas échéant, les nouvelles primes et
+cotisations corrélatives à toute modification apportée au calcul de ces prestations.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L752-34
+	  - Code rural - art. L752-34 (Ab)
 
 	**Codifié par**:
 
@@ -18837,6 +19778,90 @@ l'instance engagée et lui transmettre les significations et autres actes de pro
 	  - Loi n°2003-591 2003-07-02 art. 31
 
 
+###### Article 1217
+
+Conformément aux dispositions de l'article 10 de la loi du 2 septembre 1954, les rentes allouées en réparation d'accidents du
+travail ou de maladies professionnelles survenus dans les professions agricoles, ayant entraîné la mort de la victime ou une
+incapacité permanente au moins égale à 10 p. 100, sont majorées en appliquant les coefficients suivants au salaire annuel
+ayant servi de base à la liquidation de la rente, avant toute réduction légale ou élévation à un minimum prévu par le présent
+titre.
+
+Période au cours de laquelle est survenu l'accident (années), coefficient à appliquer au salaire de base :
+
+antérieure à 1915 : 180.
+
+1915 et 1916 : 150.
+
+1917 : 120.
+
+1918 : 100.
+
+1919 : 80.
+
+1920 : 65.
+
+1921 et 1922 : 52.
+
+1923 à 1925 : 42.
+
+1926 et 1927 : 35.
+
+1928 et 1929 : 30.
+
+1930 à 1936 : 27.
+
+1937 et 1938 : 23.
+
+1939 à 1941 : 20.
+
+1942 : 17.
+
+1943 : 14.
+
+1944 : 11.
+
+1945 : 7,3.
+
+1946 : 4,7.
+
+1947 : 3,3.
+
+1948 : 2,3.
+
+1949 : 1,7.
+
+1950 : 1,6.
+
+1951 : 1,3.
+
+1952 à 1954 : 1.
+
+Le nouveau montant de la rente est obtenu en appliquant au salaire revalorisé les règles de calcul des rentes prévues aux
+articles 50 et 53 de la loi du 30 octobre 1946 modifiée et dans la législation en vigueur pour les professions agricoles
+antérieurement au 1er juillet 1973.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L753-8
+	  - Code rural - art. L753-8 (M)
+
+	**Cite**:
+
+	  - Loi n°46-2426 1946-10-30 art. 50, art. 53
+	  - Loi n°54-892 1954-09-02 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 1218
 
 Conformément aux dispositions de l'article 11 de la loi du 2 septembre 1954, lorsqu'une même victime bénéficie de plusieurs
@@ -18898,6 +19923,37 @@ Toutefois, la rente ainsi obtenue ne pourra être supérieure à la limite prév
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1220
+
+Conformément aux dispositions de l'article 13 de la loi du 2 septembre 1954, le montant de l'allocation prévue à l'article
+1231 est calculé sur la base du salaire annuel minimum prévu aux articles L. 434-16, R. 434-27 et R. 434-29 du code de la
+sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°54-892 1954-09-02 art. 13
+	  - Code de la sécurité sociale. - art. L434-16 (V)
+	  - Code de la sécurité sociale. - art. R434-27 (T)
+	  - Code de la sécurité sociale. - art. R434-29 (T)
+	  - Code rural 1231
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L753-15 (M)
+	  - Code rural L753-15
+
+
 ###### Article 1221
 
 Conformément aux dispositions de l'article 14 de la loi du 2 septembre 1954, le montant annuel de la bonification ajoutée à
@@ -18913,6 +19969,64 @@ au deuxième alinéa de l'article 50 de la loi du 30 octobre 1946.
 	  - Code rural 1217
 	  - Loi n°46-2426 1946-10-30 art. 50
 	  - Loi n°54-892 1954-09-02 art. 14
+
+	**Nouveaux textes**:
+
+	  - Code rural L753-8
+	  - Code rural - art. L753-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1222
+
+Les assurés des professions agricoles bénéficiaires de l'assurance facultative ont droit à la majoration calculée suivant les
+dispositions de l'article 1217 si leur rente a été liquidée sur un gain déclaré, qui, à la date de l'accident, était égal ou
+supérieur au salaire moyen prévu par la législation en vigueur pour les professions agricoles avant le 1er juillet 1973.
+
+Pour les assurés facultatifs dont la rente a été liquidée sur un gain inférieur au salaire moyen susvisé, la rente nouvelle
+est égale à celle que le titulaire aurait obtenue sur la base d'un gain annuel de 2 760 F, cette rente étant réduite dans la
+proportion du gain déclaré par rapport au salaire moyen, sans pouvoir être inférieure à celle qui résulterait du gain annuel
+minimum susceptible d'être déclaré au titre de l'assurance facultative.
+
+Toutefois, les assurés facultatifs dont la rente a été liquidée au titre d'un accident du travail survenu avant le 1er avril
+1943 bénéficient sans conditions de la majoration prévue à l'alinéa 1er du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L753-8 (M)
+
+	**Cite**:
+
+	  - Code rural 1217
+
+
+###### Article 1223
+
+Conformément aux dispositions de l'article 16 de la loi du 2 septembre 1954, les rentes revalorisées conformément aux
+dispositions des articles précédents, ainsi que les allocations et bonifications accordées aux bénéficiaires des articles
+1220 et 1221, sont affectées des coefficients de revalorisation prévus à l'article L. 434-17 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1220, 1221
+	  - Loi n°54-892 1954-09-02 art. 16
+	  - Code de la sécurité sociale. - art. L434-17 (M)
 
 	**Nouveaux textes**:
 
@@ -18958,6 +20072,105 @@ d'accidents du travail avec certaines pensions d'invalidité.
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1226
+
+Les dispositions des articles 1217 à 1222 sont applicables aux victimes d'accidents du travail survenus ou de maladies
+professionnelles constatées avant le 1er septembre 1954 ou à leurs ayants droit.
+
+Le salaire annuel minimum servant de base au calcul de la rente lorsque l'accident a occasionné une réduction de capacité au
+moins égale à 10 p. 100, est fixé à 2 760 F à la date du 1er septembre 1954.
+
+Les arrêtés de revalorisation des rentes auront effet, en matière d'accidents du travail et de maladies professionnelles, le
+1er mars au lieu du 1er avril.
+
+Le premier coefficient, qui est applicable à compter du 1er mars 1955, est celui qui résulte du rapport prévu à l'article 56
+de l'ordonnance du 19 octobre 1945, l'année 1953 étant l'année considérée et l'année 1954 l'année écoulée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1217 à 1222
+	  - Ordonnance 45-2454 1945-10-19 art. 56
+
+	**Nouveaux textes**:
+
+	  - Code rural R753-7
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°72-965 du 25 octobre 1972 - art. 4 () JORF 26 octobre 1972
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1228
+
+Conformément aux dispositions de l'article 25 de la loi du 2 septembre 1954, le bénéfice des dispositions des articles 1217 à
+1222 est accordé de plein droit, avec effet du 1er septembre 1954, aux victimes ou ayants droit de victimes d'accidents du
+travail si, à la date du 12 septembre 1954, ils bénéficiaient des dispositions législatives antérieures ayant même objet ou
+si, remplissant les conditions pour en bénéficier, ils avaient, à la même date, adressé une demande à cet effet au directeur
+général de la Caisse des dépôts et consignations.
+
+Les victimes ou ayants droit de victimes d'accidents du travail visés au précédent alinéa, dont les rentes sont
+revalorisables conformément aux dispositions des articles 1217 et suivants, mais qui avant le 12 septembre 1954, n'avaient
+pas réclamé le bénéfice de majorations de rentes ou qui ne pouvaient y prétendre, ainsi que les bénéficiaires du supplément
+de rente accordé en vertu de la législation en vigueur pour les professions agricoles antérieurement au 1er juillet 1973 en
+raison de la faute inexcusable de l'employeur, doivent adresser une demande au directeur général de la Caisse des dépôts et
+consignations.
+
+Si cette demande est antérieure au 1er septembre 1955, le bénéfice de la revalorisation leur est accordé avec effet du 1er
+septembre 1954.
+
+Les demandes présentées à partir du 1er septembre 1955 n'auront effet qu'à compter de la première échéance trimestrielle de
+la Caisse nationale d'assurances sur la vie qui suivra la présentation de la demande. Toutefois, elles auront effet de la
+date d'entrée en jouissance de la rente principale si elles sont présentées dans le délai de six mois à compter de la date de
+la décision qui a fixé le montant de ladite rente. Quelle que soit la date d'effet de la demande, il est toujours tenu compte
+des augmentations appliquées aux rentes à cette date.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1217 à 1222
+	  - Loi n°54-892 1954-09-02 art. 25
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+
+###### Article 1229
+
+Dans tous les cas où, en application de la législation en vigueur pour les professions agricoles antérieurement au 1er
+juillet 1973, la rente a été remplacée, en totalité ou en partie, par un capital ou par une rente réversible sur la tête du
+conjoint, le remplacement est supposé, pour le calcul de la majoration, ne pas avoir été effectué.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L753-10
+	  - Code rural - art. L753-10 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 1230
 
 En cas de nouveau mariage, le conjoint survivant cesse de plein droit de bénéficier de la majoration à la date d'exigibilité
@@ -18984,6 +20197,38 @@ de l'indemnité substituée à la rente en vertu de l'article 53 de la loi du 30
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1231-1
+
+Les dispositions de l'article 1231 sont également applicables aux travailleurs salariés ou assimilés au sens de la
+législation en vigueur pour les professions agricoles antérieurement au 1er juillet 1973, victimes d'accidents survenus ou de
+maladies constatées alors que lesdits accidents ou maladies ne pouvaient pas donner lieu à indemnisation aux termes de la
+législation en vigueur, ou à leurs ayants droit, lorsqu'ils apportent la preuve qu'ils auraient rempli et continuent à
+remplir l'ensemble des conditions exigées pour obtenir une rente par les dispositions nouvelles modifiant ou complétant
+ladite législation.
+
+L'allocation prend effet de la date de présentation de la demande.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1231
+
+	**Nouveaux textes**:
+
+	  - Code rural L753-18
+	  - Code rural - art. L753-18 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 1232
 
 Si, au moment où s'est produit un accident mortel du travail, la profession était assujettie à la législation sur le risque
@@ -18996,6 +20241,39 @@ l'accident.
 
 	  - Code rural L753-21
 	  - Code rural - art. L753-21 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234
+
+Les dispositions du deuxième alinéa de l'article 1209 du présent code ne sont pas applicables dans le cas d'accidents du
+travail survenus et de maladies professionnelles constatées dans les professions agricoles après le 30 juin 1973, quelle que
+soit la qualité de la victime. Il en est de même, en ce qui concerne les bénéficiaires du chapitre Ier du présent titre, des
+dispositions des articles 1204, 1207 et 1211 à 1230 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1209, 1204, 1207, 1211 à 1230
+
+	**Nouveaux textes**:
+
+	  - Code rural L753-23
+	  - Code rural L753-4
+	  - Code rural L753-7
+	  - Code rural L753-8
+	  - Code rural - art. L753-4 (M)
+	  - Code rural - art. L753-7 (M)
+	  - Code rural - art. L753-8 (M)
 
 	**Codifié par**:
 
@@ -19384,6 +20662,29 @@ indiquer le nouvel organisme d'assurances choisi par l'intéressé.
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1234-17
+
+Les litiges relatifs à l'application du présent chapitre sont de la compétence des tribunaux de droit commun.
+
+Un décret fixera les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L752-17 (M)
+	  - Code rural L752-17
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
 ###### Article 1234-18
 
 Les sociétés et organismes visés à l'article 1234-8 sont tenus de fournir au ministre de l'agriculture, dans les formes et
@@ -19402,6 +20703,252 @@ conditions fixées par celui-ci, les statistiques concernant l'assurance prévue
 	**Cite**:
 
 	  - Code rural 1234-8
+
+
+###### Article 1234-19
+
+Les chefs d'exploitation ou d'entreprise agricole mentionnés à l'article 1234-2 peuvent souscrire pour eux-mêmes et
+l'ensemble des personnes définies à l'article 1234-1, selon des modalités fixées par décret, une assurance complémentaire
+leur garantissant, pour les accidents et les maladies professionnelles au sens des dispositions du chapitre 1er du présent
+titre survenus dans le cadre de leur activité agricole, tout ou partie des prestations définies aux articles L. 431-1, L.
+433-1 à L. 433-3, L. 434-1, L. 434-2, L. 434-7 à L. 434-10, L. 434-13 à L. 434-17, L. 435-1, L. 435-2, R. 433-1 à R. 433-4,
+R. 433-9, R. 433-10, R. 433-14, R. 434-1 à R. 434-4, R. 434-27, R. 434-29, D. 435-1, D. 435-2, L. 431-2, L. 434-3, L. 434-6,
+L. 436-1, R. 434-5, R. 434-6, R. 434-10, R. 436-5, L. 443-1, R. 443-1, L. 443-2, R. 441-16 et R. 443-2 du code de la sécurité
+sociale.
+
+Nonobstant les termes des articles L. 434-2, R. 434-1 à R. 434-4 du code de la sécurité sociale, aucune majoration pour
+tierce personne ne sera accordée au titre de l'assurance complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L752-22 (M)
+	  - Code rural L752-22
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L431-1, L433-1 à L433-3, L434-1, L434-2, L434-7 à L434-10, L434-13 à L434-17, L435-1, L435-2, R433-1 à R433-4, R433-9, R433-10, R433-14, R434-1 à R434-4, R434-27, R434-29, D435-1, D435-2, L431-2, L434-3, L434-6, L436-1, R4
+	  - Code de la sécurité sociale. - art. D435-1 (V)
+	  - Code de la sécurité sociale. - art. D435-2 (V)
+	  - Code de la sécurité sociale. - art. L431-1 (V)
+	  - Code de la sécurité sociale. - art. L431-2 (M)
+	  - Code de la sécurité sociale. - art. L434-1 (M)
+	  - Code de la sécurité sociale. - art. L434-2 (M)
+	  - Code de la sécurité sociale. - art. L434-3 (M)
+	  - Code de la sécurité sociale. - art. L434-6 (V)
+	  - Code de la sécurité sociale. - art. L435-1 (V)
+	  - Code de la sécurité sociale. - art. L435-2 (V)
+	  - Code de la sécurité sociale. - art. L436-1 (V)
+	  - Code de la sécurité sociale. - art. L443-1 (V)
+	  - Code de la sécurité sociale. - art. L443-2 (V)
+	  - Code de la sécurité sociale. - art. R433-10 (V)
+	  - Code de la sécurité sociale. - art. R433-14 (V)
+	  - Code de la sécurité sociale. - art. R433-9 (V)
+	  - Code de la sécurité sociale. - art. R434-10 (T)
+	  - Code de la sécurité sociale. - art. R434-27 (T)
+	  - Code de la sécurité sociale. - art. R434-29 (T)
+	  - Code de la sécurité sociale. - art. R434-5 (M)
+	  - Code de la sécurité sociale. - art. R434-6 (M)
+	  - Code de la sécurité sociale. - art. R436-5 (V)
+	  - Code de la sécurité sociale. - art. R441-16 (V)
+	  - Code de la sécurité sociale. - art. R443-1 (V)
+	  - Code de la sécurité sociale. - art. R443-2 (V)
+	  - Code rural 1234-2, 1234-1
+
+
+### Chapitre IV : Assurance complémentaire contre les accidents du travail et les maladies professionnelles des personnes non salariées de l'agriculture.
+
+###### Article 1234-20
+
+L'assurance prévue à l'article 1234-19 peut être souscrite auprès des sociétés pratiquant l'assurance contre les accidents
+mentionnés à l'article 1235 du présent code, des organismes d'assurances agréés dans les conditions prévues au décret-loi du
+14 juin 1938 et des organismes d'assurances régis par le code de la mutualité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1235, 1234-19
+	  - Décret-loi 1938-06-14
+
+	**Nouveaux textes**:
+
+	  - Code rural L752-28
+	  - Code rural - art. L752-28 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-21
+
+La rente accordée au titre de l'assurance complémentaire est cumulable avec la pension d'invalidité prévue au paragraphe B de
+l'article 1234-3 dans la limite du montant de la rente qui serait accordée à l'assuré pour une incapacité permanente de
+travail de 100 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1234-3
+
+	**Nouveaux textes**:
+
+	  - Code rural L752-23
+	  - Code rural - art. L752-23 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-22
+
+L'indemnité journalière et les rentes dues au titre de l'assurance complémentaire sont calculées sur la base du gain annuel
+déclaré par l'assuré à l'assureur dans le contrat en vigueur à la date de survenance de l'accident ou de constatation de la
+maladie. Toutefois, le gain ainsi déclaré ne peut être inférieur à un minimum fixé par le ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Arrêté du 18 octobre 1985 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L752-24 (M)
+	  - Code rural L752-24
+
+
+###### Article 1234-23
+
+Les bénéficiaires d'un contrat d'assurance complémentaire bénéficient, pour le paiement des prestations garanties par celui-
+ci, du privilège prévu à l'article 2101 (6°) du code civil et, en outre, pour le paiement des indemnités dues pour incapacité
+permanente ou accident suivi de mort, de la garantie du fonds commun prévue à l'article 1204 du présent code. Dans ce cas,
+les articles 1205 et 1206 du même code sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1204, 1205, 1206
+	  - Code civil - art. 2101 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural L752-25
+	  - Code rural - art. L752-25 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-24
+
+Les personnes ayant adhéré volontairement à la législation sur les accidents du travail applicable aux salariés agricoles
+antérieurement au 1er juillet 1973 ont droit aux allocations et majorations prévues aux articles 1179 et 1180.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1179, 1180
+
+	**Nouveaux textes**:
+
+	  - Code rural L752-27
+	  - Code rural - art. L752-27 (P)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-25
+
+La procédure contentieuse relative à l'application du présent chapitre est de la compétence des juridictions de droit commun
+suivant les règles en vigueur pour les professions agricoles antérieurement au 1er juillet 1973.
+
+Un décret en Conseil d'Etat précisera, en tant que de besoin, les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L752-31
+	  - Code rural - art. L752-31 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1234-26
+
+Les dispositions du premier alinéa de l'article 1234-5 et des articles 1234-6, 1234-11, 1234-12 et 1234-18 sont applicables
+au régime d'assurance complémentaire institué par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L752-26 (M)
+	  - Code rural - art. L752-29 (M)
+	  - Code rural - art. L752-32 (M)
+
+	**Cite**:
+
+	  - Code rural 1234-5, 1234-6, 1234-11, 1234-12, 1234-18
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
 
 
 ## Titre IV : Dispositions diverses
@@ -19643,6 +21190,26 @@ professionnelles et sociales du ministère de l'agriculture est fixée par un d�
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1244
+
+L'article 990 est applicable aux infractions prévues aux chapitres II, III et IV du titre II et aux chapitres Ier et III du
+titre III du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L724-2 (V)
+
+	**Cite**:
+
+	  - Code rural 990
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
 ###### Article 1244-1
 
 Les chefs d'exploitation ou d'entreprise et les titulaires d'allocations ou retraites de vieillesse visés à l'article 1106-12
@@ -19707,6 +21274,42 @@ titre III du présent livre.
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
+###### Article 1244-3
+
+Les chefs d'exploitation et d'entreprise agricoles ainsi que toutes personnes employant à leur service des salariés ou
+assimilés visés à l'article 1144 sont tenus de recevoir, à toute époque, les inspecteurs et contrôleurs du service de
+l'inspection des lois sociales en agriculture, les agents chargés du contrôle de la prévention affectés à ce service, les
+agents chargés de procéder aux enquêtes visées à l'article 1166 et les agents assermentés des caisses de mutualité sociale
+agricole qui se présentent pour vérifier l'application régulière des dispositions du chapitre Ier du titre III du présent
+livre.
+
+Les agents chargés du contrôle de la prévention agréés par le ministre de l'agriculture et assermentés dans les conditions
+prévues au dernier alinéa de l'article L. 423 du code de la sécurité sociale, les agents chargés de procéder aux enquêtes
+visées à l'article 1166 et les agents assermentés des caisses de mutualité sociale agricole bénéficient de la protection
+prévue à l'article 990 en faveur des inspecteurs et contrôleurs des lois sociales en agriculture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cité par**:
+
+	  - Code du travail - art. R4411-64 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L724-11 (M)
+	  - Code rural - art. L724-8 (M)
+	  - Code rural - art. L724-9 (M)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L423
+	  - Code rural 990, 1144, 1166
+
+
 ###### Article 1245
 
 Les inspecteurs et contrôleurs des lois sociales en agriculture peuvent requérir des caisses de la mutualité sociale agricole
@@ -19729,6 +21332,44 @@ dernier, tous documents relatifs à leur gestion.
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1246
+
+Les agents agréés et assermentés des caisses de mutualité sociale agricole sont chargés de collaborer au contrôle de
+l'application des dispositions des chapitres II et III du titre II et du chapitre Ier du titre III du présent livre.
+
+Ils ont qualité pour dresser, en cas d'infraction constatée par eux, des procès-verbaux qui feront foi jusqu'à preuve
+contraire, à condition d'être contresignés par un inspecteur des lois sociales en agriculture.
+
+Tout agent, non agréé ou ayant eu connaissance officielle que l'agrément lui a été retiré, qui aura exercé ou continué
+d'exercer sa mission en invoquant les pouvoirs conférés par le présent article sera passible des peines prévues par l'article
+197 du code pénal. La caisse dont dépend ou a dépendu cet agent sera déclarée civilement responsable de l'amende prononcée,
+sans préjudice du retrait d'agrément de cette caisse.
+
+Toute violation de serment est punie conformément à l'article 378 du code pénal.
+
+Les agents agréés et assermentés chargés du contrôle de la prévention instituée à la section VII du titre III du présent
+livre ont les mêmes pouvoirs, dans l'exercice des missions qui leur incombent, que les agents agréés et assermentés des
+caisses de mutualité sociale agricole.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Code pénal 197, 378
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L724-10 (V)
+	  - Code rural - art. L724-5 (V)
+	  - Code rural - art. L724-7 (M)
+	  - Code rural - art. L724-8 (M)
+	  - Code rural - art. L724-9 (M)
 
 
 ###### Article 1247
@@ -19853,6 +21494,40 @@ agricoles et d'assurance maladie, invalidité, maternité institués par les cha
 
 
 ## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
+
+###### Article 1251
+
+Le bénéfice des dispositions des articles L. 449 (1er alinéa), L. 452, L. 453, et L. 454 du code de la sécurité sociale, 1217
+et 1221 est accordé aux assurés des professions agricoles et forestières visées au livre III (2è partie) du code local des
+assurances sociales en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, conformément à l'article
+1226, à condition qu'au moment de l'accident la victime ait eu la qualité de travailleur agricole salarié.
+
+La liquidation et la charge de l'ensemble des prestations dues aux travailleurs salariés ci-dessus désignés, pour les
+accidents survenus après la date fixée à l'article 1226, sont assumées par l'organisme d'assurance dont ils relèvent.
+
+Pour les assurés des professions agricoles et forestières visés au livre III (2e partie) du code local visé ci-dessus, autres
+que les salariés désignés par l'alinéa 1er du présent article, le gain annuel moyen servant de base au calcul des rentes et à
+la majoration de celles déjà liquidées est fixé en application des dispositions de l'article 938 dudit code local. Cette
+fixation prend effet à la même date que les dispositions prévues en faveur des assurés agricoles facultatifs du régime
+général.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L761-16 (V)
+	  - Code rural - art. L761-17 (M)
+	  - Code rural - art. L761-21 (M)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L449, L452, L453, L454
+	  - Code rural 1217, 1221, 1226
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
 
 ###### Article 1252
 
