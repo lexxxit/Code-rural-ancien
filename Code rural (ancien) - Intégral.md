@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1991-01-01
+Version Consolidée au 1991-01-05
 
 ###### Article 40-3
 
@@ -17341,21 +17341,6 @@ a) Pour des raisons techniques,
 b) Pour des raisons économiques à condition qu'une convention ou un accord collectif étendu ait prévu une telle
 organisation. 
 
-Une convention collective ou un accord collectif étendus peuvent prévoir que les entreprises agricoles ayant une activité à
-caractère industriel et qui fonctionnent à l'aide d'un personnel d'exécution et d'encadrement composé de deux groupes dont
-l'un a pour seule fonction de suppléer l'autre pendant le ou les jours de repos accordés à celui-ci en fin de semaine, sont
-autorisées à déroger à l'obligation de donner le repos hebdomadaire le dimanche.
-
-L'utilisation de cette dérogation est subordonnée à la conclusion d'un accord d'entreprise ou d'établissement ou à
-l'autorisation de l'inspecteur du travail donnée après consultation des délégués syndicaux et avis du comité d'entreprise ou
-des délégués du personnel, s'ils existent.
-
-La rémunération de ces salariés est majorée d'au moins 50 p. 100 par rapport à celle qui serait due pour une durée
-équivalente effectuée suivant l'horaire normal de l'entreprise.
-
-A défaut de convention collective ou d'accord collectif étendus, un décret en Conseil d'Etat peut prévoir les conditions dans
-lesquelles la dérogation prévue au dixième alinéa peut être accordée.
-
 En cas de circonstances exceptionnelles, notamment de travaux dont l'exécution ne peut être différée, le repos hebdomadaire
 peut être suspendu pour une durée limitée ; les intéressés bénéficieront, au moment choisi d'un commun accord entre
 l'employeur et le salarié, d'un repos d'une durée égale au repos supprimé.
@@ -17378,12 +17363,59 @@ politique sociale agricoles.
 
 	**Modifié par**:
 
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 48 (V) JORF 31 décembre 1988
+	  - Loi n°91-1 du 3 janvier 1991 - art. 20 (V) JORF 5 janvier 1991
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L714-1 (M)
 	  - Code rural - art. L714-2 (M)
+
+
+###### Article 997-1
+
+Une convention ou un accord collectif étendu peut prévoir que les entreprises agricoles ayant une activité à caractère
+industriel et qui fonctionnent à l'aide d'un personnel d'exécution composé de deux groupes dont l'un a pour seule fonction de
+remplacer l'autre pendant le ou les jours de repos accordés à celui-ci sont autorisées à donner le repos hebdomadaire un jour
+autre que le dimanche. Cette dérogation s'applique également au personnel nécessaire à l'encadrement de l'équipe de
+suppléance.
+
+L'utilisation de cette dérogation est subordonnée à la conclusion d'un accord d'entreprise ou d'établissement ou à
+l'autorisation de l'inspecteur du travail donnée après consultation des délégués syndicaux et avis du comité d'entreprise ou
+des délégués du personnel, s'ils existent.
+
+La convention ou l'accord collectif étendu prévu au premier alinéa comporte obligatoirement des dispositions concernant :
+
+1° Les conditions particulières de mise en oeuvre de la formation du personnel travaillant en équipe de suppléance et la
+rémunération du temps de formation ;
+
+2° Les modalités d'exercice du droit des salariés de l'équipe de suppléance d'occuper un emploi autre que de suppléance.
+
+La rémunération des salariés est majorée d'au moins 50 p. 100 par rapport à celle qui serait due pour une durée équivalente
+effectuée suivant l'horaire normal de l'entreprise. Cette majoration ne s'applique pas lorsque les salariés de l'équipe de
+suppléance sont amenés à remplacer durant la semaine les salariés partis en congé.
+
+A défaut de convention ou d'accord collectif étendu, un décret en Conseil d'Etat peut prévoir les conditions dans lesquelles
+la dérogation prévue au premier alinéa peut être accordée.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L714-3
+	  - Code rural - art. L714-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°91-1 du 3 janvier 1991 - art. 20 (V) JORF 5 janvier 1991
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 998
