@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1987-01-03
+Version Consolidée au 1987-01-28
 
 ###### Article 40-3
 
@@ -23323,33 +23323,28 @@ dans leur champ d'application professionnel et territorial.
 
 ###### Article 1051
 
-Des arrêtés du ministre de l'agriculture et du ministre de l'économie et des finances étendront, sur proposition ou après
-avis de la section agricole spécialisée de la commission supérieure des conventions collectives, à la condition qu'aucune
-opposition n'ait été formulée au sein de ladite section, tout ou partie des dispositions étendues de conventions collectives,
-relatives à la retraite, à des employeurs, à des salariés et anciens salariés non compris dans le champ d'application de ces
-conventions.
+Des arrêtés du ministre de l'agriculture et du ministre chargé de l'économie et des finances étendront, sur proposition ou
+après avis motivé de la sous-commission des conventions et accords de la commission nationale de la négociation collective,
+tout ou partie des dispositions étendues des accords visés à l'article 1050, à des employeurs, à des salariés et anciens
+salariés non compris dans le champ d'application de ces accords.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1050
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-1223 du 29 décembre 1972 - art. 3 () JORF 30 décembre 1972 en vigueur le 1er juillet 1973
+	  - Loi n°87-39 du 27 janvier 1987 - art. 8 () JORF 28 janvier 1987
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L727-3 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°68-757 1968-08-16 art. 1 JORF 25 août 1968
-
-	**Anciens textes**:
-
-	  - Loi n°1952-07-25 art. 1, art. 2, art. 3
 
 
 #### Section 5 : Organisation administrative et financière.
@@ -24290,7 +24285,10 @@ au titre de l'adhésion du chef d'exploitation aux dispositions du titre III du 
 
 e) Des suites des accidents survenus dans un régime obligatoire d'assurance maladie dont relevaient, soit en qualité
 d'assurés, soit en qualité d'ayants droit, les personnes visées à l'article 1106-1 I avant leur assujettissement au présent
-régime.
+régime ;
+
+f) Des accidents survenus aux personnes visées au 1°, 2° et 5° du paragraphe I de l'article 1106-1 dans l'exercice d'une
+activité secondaire non salariée non-agricole.
 
 3° De l'invalidité.
 
@@ -24306,20 +24304,18 @@ sociales et le contrôle médical de l'aide sociale. Ce contrôle sera organisé
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural 1106-1
-	  - Loi n°66-950 1966-12-22
-
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
+	**Cite**:
+
+	  - Loi n°66-950 1966-12-22
+	  - Code rural 1106-1
+
 	**Modifié par**:
 
-	  - Loi n°71-1061 1971-12-29 art. 48 JORF 30 décembre 1971
-	  - Loi n°72-1121 1972-12-20 art. 63 II JORF 21 décembre 1972
-	  - Loi n°82-1 1982-01-04 art. 10 JORF 5 janvier 1982
+	  - Loi n°87-39 du 27 janvier 1987 - art. 9 () JORF 28 janvier 1987
 
 	**Nouveaux textes**:
 
