@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1990-07-14
+Version Consolidée au 1990-10-01
 
 ###### Article 40-3
 
@@ -12204,6 +12204,49 @@ titre que ce soit, les peines peuvent être portées au double du maximum fixé 
 	**Abrogé par**:
 
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 334
+
+Seront punis d'une amende de 3 000 à 6 000 F :
+
+a) Ceux qui n'auront pas effectué les déclarations prescrites à l'article 264 ou qui n'auront pas remis à l'équarrisseur les
+cadavres d'animaux ou les viandes visées au même article ;
+
+b) Les équarrisseurs qui n'auront pas procédé aux enlèvements dans les délais prescrits aux articles 264 et 270 ;
+
+c) Tout équarrisseur qui se livrera au commerce des viandes et produits carnés destinés à l'alimentation humaine ou au négoce
+du bétail et des chevaux ;
+
+d) Tout inspecteur d'un service d'inspection des viandes, tout préposé à ce service, tout inspecteur d'un atelier
+d'équarrissage qui exercera la profession d'équarrisseur ou aura des intérêts directs ou indirects dans un atelier
+d'équarrissage ;
+
+e) Tout équarrisseur qui aura contrevenu aux dispositions des arrêtés pris par le ministre de l'agriculture et le ministre de
+la qualité de la vie, en exécution des articles 273 et 275.
+
+Dans les cas de récidive ou d'infractions commises de mauvaise foi, une peine d'un à six mois d'emprisonnement pourra être
+prononcée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 264, 270, 273, 275
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1942-02-02 art. 18
+
+	**Modifié par**:
+
+	  - Loi n°75-1336 1975-12-31 art. 13 JORF 3 janvier 1976
+	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Loi n°89-469 du 10 juillet 1989 - art. 7 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
 
 
 ###### Article 335
