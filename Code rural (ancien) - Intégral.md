@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1992-01-04
+Version Consolidée au 1992-06-18
 
 ###### Article 40-3
 
@@ -12760,6 +12760,650 @@ l'application du présent titre en matière de recherche et de constatation des 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+
+## Titre XI : Dispositions particulières à la collectivité territoriale de Mayotte.
+
+###### Article 364-1
+
+Les dispositions du présent livre en vigueur à la date du 7 avril 1992 sont applicables à la collectivité territoriale de
+Mayotte, à l'exception de celles des articles 189 à 199, 215-6, 215-8, 216, 264 à 294, 309 à 324-1, 334, 340, 340-1, 341, 343
+à 347, du second alinéa de l'article 352, des deuxième et troisième alinéas de l'article 354, des articles 357 et 358 ainsi
+que du dernier alinéa de l'article 359 et sous réserve des dispositions suivantes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 189 à 199, 215-6, 215-8, 216, 264 à 294, 309 à 324-1, 334, 340, 340-1, 341, 343 à 347, 352, 354, 357, 358, 359
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+### Section 1 : De la garde des animaux domestiques.
+
+###### Article 364-2
+
+Le représentant du Gouvernement prend l'arrêté prévu au deuxième alinéa de l'article 213-1 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 213-1 A
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+### Section 2 : De la lutte contre les maladies des animaux.
+
+###### Article 364-3
+
+I. - Le représentant du Gouvernement prend les arrêtés prévus au premier alinéa de l'article 214.
+
+II. - Le deuxième alinéa de l'article 214 n'est pas applicable.
+
+III. - Les arrêtés prévus aux troisième et quatrième alinéas de l'article 214 sont également signés par le ministre des
+départements et territoires d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 214
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364-4
+
+Les pouvoirs conférés au ministre chargé de l'agriculture par les articles 214-1 A et 214-1 B sont exercés par le
+représentant du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 214-1 A, 214-1 B
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364-5
+
+Aux articles 225 et 225-1, les mots : "un décret, pris après avis de la Commission nationale vétérinaire" sont remplacés par
+les mots :
+
+"un arrêté du représentant du Gouvernement pris après avis du directeur des services agricoles".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 225, 225-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364-6
+
+Les pouvoirs attribués au ministre de l'agriculture par le dernier alinéa de l'article 231 sont exercés par le représentant
+du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 231
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364-7
+
+L'arrêté prévu au quatrième alinéa de l'article 232 est pris par le représentant du Gouvernement, après avis du directeur des
+services agricoles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 232
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364-8
+
+Le représentant du Gouvernement exerce les pouvoirs conférés aux ministres par les articles 232-4, 232-5, 239, 247 et 250.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 232-4, 232-5, 239, 247, 250
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364-9
+
+L'article 232-6 est ainsi rédigé :
+
+"Art. 232-6 : Lorsque la rage prend un caractère envahissant et qu'elle a son origine dans l'infection d'animaux sauvages, le
+représentant du Gouvernement peut prescrire, dans la mesure nécessaire pour arrêter la diffusion du virus, la destruction des
+animaux sauvages et l'application des mesures de sécurité que nécessite cette destruction".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 232-6
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364-10
+
+Aux articles 234, 236, 237, 240, 242 et 247-1, les mots : "décret en Conseil d'Etat" sont remplacés par les mots : "arrêté du
+représentant du Gouvernement".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 234, 236, 237, 240, 242, 247-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364-11
+
+I. - Les arrêtés interministériels prévus au premier alinéa de l'article 243 sont également signés par le ministre chargé des
+départements et territoires d'outre-mer.
+
+II. - La décision prévue au deuxième alinéa du même article est prise par le ministre chargé des départements et territoires
+d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 243
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+### Section 3 : Du contrôle sanitaire des animaux et des viandes.
+
+###### Article 364-12
+
+L'article 255 est ainsi rédigé :
+
+"Art. 255 : Un arrêté du représentant du Gouvernement pris après avis du directeur des services agricoles prévoit les cas
+dans lesquels les viandes provenant d'animaux tuberculeux sont saisies. Cet arrêté détermine également les cas dans lesquels
+ces viandes doivent être détruites et ceux dans lesquels leur utilisation peut être permise. Un arrêté pris dans les mêmes
+conditions détermine les modes d'utilisation, après stérilisation, du lait provenant d'animaux tuberculeux et du sang des
+bovidés qui doit être livré à la consommation".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 255
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364-13
+
+L'article 257 est ainsi rédigé :
+
+"Art. 257 : Les tueries particulières sont supprimées.
+
+"Des abattoirs privés de type industriel peuvent être ouverts, s'ils sont prévus au plan d'équipement en abattoirs de
+Mayotte.
+
+"Un arrêté du représentant du Gouvernement détermine les conditions d'application du présent article".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 257
+
+	**Nouveaux textes**:
+
+	  - Code rural L683-3
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
+
+
+###### Article 364-14
+
+La première phrase de l'article 259 est complétée, après les mots : "... ou agents de l'Etat" par les mots : "... ou la
+qualité d'agents de la collectivité territoriale de Mayotte".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 259
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364-15
+
+A l'article 262 :
+
+"I. - Au premier alinéa, les mots : "un décret en Conseil d'Etat" sont remplacés par les mots : "un arrêté du représentant du
+Gouvernement".
+
+"II. - Aux deuxième et troisième alinéas, le mot : "règlement" est remplacé par le mot : "arrêté".
+
+"III. - La deuxième phrase du deuxième alinéa est supprimée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 262
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364-16
+
+A l'article 263, les mots : "que le règlement ou un règlement pris en application de la loi du 1er août 1905 sur les fraudes"
+sont remplacés par les mots : "que l'arrêté prévu à l'article 262".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 262, 263
+	  - Loi n°1905-08-01
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+### Section 4 : De l'insémination artificielle.
+
+###### Article 364-17
+
+I. - La licence instituée par le premier alinéa de l'article 308 est délivrée par le représentant du Gouvernement.
+
+II. - Le second alinéa du même article est remplacé par les dispositions suivantes :
+
+"Les conditions d'attribution des licences sont fixées par un arrêté du représentant du Gouvernement".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 308
+
+	**Nouveaux textes**:
+
+	  - Code rural L683-2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998
+
+
+### Section 5 : Des pénalités.
+
+###### Article 364-18
+
+Les dispositions de la deuxième phrase de l'article 332 ne sont pas applicables dans la collectivité territoriale de Mayotte.
+
+**Nota:**
+
+Nota - Loi n° 2001-616 du 11 juillet 2001, art. 1 (compétence territoriale), art. 74 (capacité), art. 75.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 332
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+### Section 6 : De la protection des végétaux.
+
+###### Article 364-19
+
+Le ministre chargé de l'agriculture et le ministre chargé des départements et territoires d'outre-mer dressent la liste des
+fléaux des cultures prévues à l'article 342.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 342
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364-20
+
+L'article 348 est ainsi rédigé :
+
+"Art. 348 : Sous réserve d'exceptions autorisées par le ministre chargé de l'agriculture et par le ministre chargé des
+départements et territoires d'outre-mer pour l'exécution des travaux de laboratoire, il est interdit d'introduire à Mayotte,
+de détenir sciemment et de transporter les parasites réputés dangereux définis par l'article 342, quel que soit le stade de
+leur évolution".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 342, 348
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364-21
+
+Le représentant du Gouvernement prend les arrêtés prévus aux articles 349, 352, 361 et 362.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 349, 352, 361, 362
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 364-22
+
+Le ministre chargé des départements et territoires d'outre-mer contresigne le décret prévu au deuxième alinéa de l'article
+364.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 364
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+### Section 7 : Dispositions communes.
+
+###### Article 364-23
+
+Pour l'application à Mayotte des dispositions du présent livre, les mots énumérés ci-dessous sont remplacés respectivement
+par les mots suivants :
+
+- "département" par "collectivité territoriale" ;
+
+- "préfet" par "représentant du Gouvernement" ;
+
+- "tribunal d'instance" et "tribunal de grande instance" par "tribunal de première instance" ;
+
+- "juge d'instance", "juge du tribunal d'instance" par "président du tribunal de première instance ou son délégataire".
+
+**Nota:**
+
+Nota - Loi n° 2001-616 du 11 juillet 2001, art. 1 (compétence territoriale), art. 74 (capacité), art. 75.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Ordonnance no 92-536 du 15 juin 1992 portant exten - art. 1 () JORF 18 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 # Livre III : La chasse et la pêche
