@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1984-01-03
+Version Consolidée au 1984-01-25
 
 ###### Article 162
 
@@ -15760,23 +15760,6 @@ dépôt de titres.
 	  - Code monétaire et financier - art. L512-44 (V)
 
 
-###### Article 646
-
-Le taux maximum de l'intérêt servi par les caisses de crédit agricole mutuel pour les dépôts à vue et les dépôts à échéance
-qui leur sont confiés est fixé périodiquement par arrêté conjoint des ministres de l'agriculture et de l'économie et des
-finances, après avis du conseil d'administration de la caisse nationale de crédit agricole.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°84-46 1984-01-24 art. 94 XII JORF 25 janvier 1984
-
-
 ###### Article 647
 
 Les statuts des caisses de crédit agricole mutuel ne bénéficiant pas d'avances de la caisse nationale de crédit agricole
@@ -15834,6 +15817,32 @@ empruntant sur titres.
 	**Abrogé par**:
 
 	  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
+
+
+###### Article 651
+
+Les caisses régionales de crédit agricole mutuel ne peuvent émettre des bons de caisse à échéance variable, avec ou sans
+intérêt, qu'en faveur des agriculteurs domiciliés dans la circonscription de la caisse régionale.
+
+Les bons émis par les caisses de crédit agricole mutuel à deux ans au plus d'échéance doivent être utilisés en opérations de
+crédit à court terme conformément aux dispositions de l'article 648, premier et deuxième alinéas.
+
+Les bons dont l'échéance est supérieure à deux ans peuvent être employés conformément aux dispositions de l'article 648,
+troisième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 648
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 XII JORF 25 janvier 1984
 
 
 ### Chapitre IV : Opérations de crédit
