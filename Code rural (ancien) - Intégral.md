@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1981-02-03
+Version Consolidée au 1981-02-10
 
 ###### Article 162
 
@@ -16222,6 +16222,80 @@ La limite d'âge pour les fonctions de directeur général est fixée à soixant
 	  - Décret n°68-1042 1968-11-27 art. 1, art. 2 JORF 29 novembre 1968
 	  - Décret n°73-199 1973-02-23 art. 2 JORF 28 février 1973
 	  - Décret n°73-356 1973-03-14 art. 1, art. 2 JORF 28 mars 1973
+
+	**Abrogé par**:
+
+	  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
+
+
+###### Article 714
+
+Un agent comptable, chef des services de la comptabilité centrale, est nommé par décret pris sur le rapport du ministre de
+l'agriculture, du ministre de l'économie et du ministre du budget.
+
+Il est placé sous l'autorité du directeur général de l'établissement.
+
+Il est seul chargé sous sa responsabilité personnelle et pécuniaire :
+
+1. De l'exécution, selon les règles fixées par les articles 190 à 225 du décret susvisé du 29 décembre 1962, de toutes les
+opérations financières et comptables relatives aux budgets de fonctionnement et d'investissement de l'établissement public ;
+
+2. De la centralisation des comptabilités des différents services bancaires ;
+
+3. De la tenue des comptes de l'établissement.
+
+Dans l'exercice de ses attributions, l'agent comptable est habilité à effectuer tout contrôle sur pièces et sur place qu'il
+juge nécessaire.
+
+Il rend ses comptes à la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cite**:
+
+	  - Décret n°62-1587 1962-12-29 art. 190 à 225
+
+	**Modifié par**:
+
+	  - Décret n°81-121 1981-02-06 art. 1 JORF 10 février 1981
+
+	**Abrogé par**:
+
+	  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
+
+
+###### Article 715
+
+Les charges et produits de la caisse nationale de crédit agricole font l'objet, pour chaque exercice, d'évaluations décrites
+dans un état prévisionnel, établi conformément à la nomenclature du plan comptable, arrêté par le conseil d'administration et
+approuvé dans les conditions prévues aux articles 1er et 4 du décret n° 53-707 du 9 août 1953.
+
+Seules les prévisions de dépenses de personnel et de matériel ont un caractère limitatif.
+
+Les opérations sont effectuées et justifiées suivant les règles en usage dans les établissements bancaires. Toutefois,
+l'exécution de toutes les opérations financières et comptables relatives aux budgets de fonctionnement et d'investissement de
+l'établissement public est opérée conformément à la procédure applicable aux dépenses publiques en application du décret du
+29 décembre 1962.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-707 du 9 août 1953 - art. 1 (M)
+	  - Décret n°53-707 du 9 août 1953 - art. 4 (M)
+	  - Décret n°62-1587 1962-12-29
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Décret n°81-121 1981-02-06 art. 7 JORF 10 février 1981
 
 	**Abrogé par**:
 
