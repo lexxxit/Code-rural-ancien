@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1955-04-19
+Version Consolidée au 1955-09-27
 
 ###### Article 162
 
@@ -2732,6 +2732,22 @@ contagieuse dans les trois mois qui ont suivi leur introduction en France.
 
 ### Chapitre Ier: Du contrôle sanitaire des animaux et des viandes.
 
+###### Article 253
+
+La chair des animaux morts de maladies contagieuses quelles qu'elles soient ou abattus comme atteints de la peste bovine, de
+la morve, des maladies charbonneuses, du rouget et de la rage, ne peut être vendue et livrée à la consommation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1898-06-21 art. 27 al. 1, art. 42 al. 1
+
+
 ###### Article 254
 
 Lorsque les animaux ont dû être abattus comme atteints de péripneumonie contagieuse dans l'espèce bovine, de peste porcine,
@@ -2795,6 +2811,28 @@ sang des bovidés qui doit être livré à la consommation.
 	**Abrogé par**:
 
 	  - Loi n°65-543 du 8 juillet 1965 - art. 20 (V) JORF 9 juillet 1965
+
+
+###### Article 261
+
+En aucun cas, la responsabilité pénale du propriétaire ne peut être invoquée lors de l'abattage d'animaux malades ou
+accidentés, pratiqué en vue de la boucherie, lorsque cet abattage a été effectué soit dans un abattoir régulièrement
+inspecté, soit sous le contrôle d'un vétérinaire inspecteur agréé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Anciens textes**:
+
+	  - Loi n°1933-07-07 art. 13
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
 
 
 ### Chapitre II : De l'équarrissage des animaux.
