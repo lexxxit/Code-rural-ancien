@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1985-10-04
+Version Consolidée au 1985-12-05
 
 ###### Article 162
 
@@ -263,6 +263,45 @@ La commission peut appeler, à titre consultatif, toute personne dont il lui par
 	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
 
 
+###### Article 2-1
+
+La commission communale, lorsqu'elle dresse l'état des parcelles incultes ou manifestement sous-exploitées, en application de
+l'article 40 du présent code, lorsqu'elle définit, soit de sa propre initiative, soit à la demande du représentant de l'Etat
+dans le département, le ou les périmètres des opérations d'aménagement foncier forestier mentionnés au d de l'article 3 ou le
+ou les périmètres des opérations d'aménagement foncier agricole et forestier mentionnés au 4° de l'article 52-1 du présent
+code et lorsqu'elle met en oeuvre les procédures particulières à ces périmètres, est complétée par deux propriétaires
+forestiers de la commune désignés par la chambre d'agriculture sur proposition du centre régional de la propriété forestière,
+deux suppléants étant, en outre, désignés selon la même procédure, et par deux propriétaires forestiers de la commune
+désignés par le conseil municipal qui désigne, en outre, deux suppléants.
+
+A défaut de propriétaires forestiers en nombre suffisant, les membres titulaires ou suppléants sont désignés par la chambre
+d'agriculture sur proposition du centre régional de la propriété forestière ou le conseil municipal parmi des personnalités
+qualifiées en raison de leur expérience en matière d'aménagement forestier.
+
+Lorsque des parcelles soumises au régime forestier sont incluses dans un des périmètres mentionnés au présent article, le
+représentant de l'office national des forêts ou son délégué fait partie de droit de la commission communale.
+
+Il peut être institué une commission intercommunale dans les conditions prévues à l'article 6.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 40, 52-1, 3, 6
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1941-03-09 art. 2
+
+	**Créé par**:
+
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 37 () JORF 5 décembre 1985
+
+
 ###### Article 2-5
 
 La commission départementale d'aménagement foncier est ainsi composée :
@@ -319,8 +358,8 @@ de recueillir l'avis.
 ###### Article 3
 
 La commission communale détermine les mesures qu'elle estime nécessaires de mettre en oeuvre pour améliorer l'exploitation
-agricole à l'intérieur du territoire communal et des extensions éventuelles définies à l'article 1er qui constituent la zone
-d'aménagement foncier.
+agricole et favoriser la mise en valeur forestière à l'intérieur du territoire communal et des extensions éventuelles
+définies à l'article 1er bis, qui constituent la zone d'aménagement foncier.
 
 Elle fixe en conséquence :
 
@@ -332,8 +371,8 @@ chapitre II du présent titre seront suffisantes ;
 
 c) Le ou les périmètres à l'intérieur desquels elle est d'avis de mettre en oeuvre une procédure d'échanges amiables ;
 
-d) Le ou les périmètres, délimitant des massifs forestiers, à l'intérieur desquels elle est d'avis que les opérations
-d'aménagement devront faire l'objet d'une procédure distincte ;
+d) Le ou les périmètres à l'intérieur desquels elle est d'avis de mettre en oeuvre un aménagement foncier forestier faisant
+l'objet d'une procédure particulière, compte tenu de l'intérêt ou de l'importance des bois, forêts et terrains à boiser ;
 
 e) Le ou les périmètres comprenant les terres dont l'inclusion dans l'un des périmètres susvisés entraînerait, pour la
 collectivité, des charges hors de proportion avec l'utilité des opérations d'aménagement foncier.
@@ -362,7 +401,7 @@ l'agriculture.
 
 	**Cite**:
 
-	  - Code rural 1, 4, 5, 54
+	  - Code rural 1 bis, 4, 5, 54
 
 	**Codifié par**:
 
@@ -370,7 +409,7 @@ l'agriculture.
 
 	**Modifié par**:
 
-	  - Loi n°85-30 du 9 janvier 1985 - art. 21 () JORF 10 janvier 1985
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 38 () JORF 5 décembre 1985
 
 
 ###### Article 4
@@ -427,6 +466,39 @@ exécutoire.
 	  - Loi n°60-808 du 5 août 1960 - art. 13 () JORF 7 août 1960
 	  - Loi n°75-621 1975-07-11 art. 3 JORF 12 juillet 1975
 	  - Loi n°80-502 du 4 juillet 1980 - art. 28 (V) JORF 5 juillet 1980
+
+
+###### Article 5-1
+
+Lorsque des décisions prises par la commission communale statuant en matière d'aménagement foncier forestier sont portées
+devant la commission départementale d'aménagement foncier, celle-ci est complétée par :
+
+- le président du centre régional de la propriété forestière ou son représentant ;
+
+- un représentant de l'office national des forêts ;
+
+- le président du syndicat départemental des propriétaires forestiers sylviculteurs ou son représentant ;
+
+- deux propriétaires forestiers et deux suppléants choisis par le représentant de l'Etat dans le département sur une liste
+d'au moins six noms présentés par la chambre d'agriculture sur proposition du centre régional de la propriété forestière ;
+
+- deux maires ou deux délégués communaux élus par les conseils municipaux, représentant les communes propriétaires des forêts
+soumises au régime forestier en application de l'article L. 111-1 du code forestier, désignés par la réunion des maires ou
+des délégués communaux de ces communes dans le département.
+
+Les propriétaires forestiers désignés comme membres suppléants siègent soit en cas d'absence des membres titulaires, soit
+lorsque la commission départementale est appelée à délibérer sur des réclamations concernant une opération dans le périmètre
+de laquelle l'un des membres titulaires est propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 39 () JORF 5 décembre 1985
 
 
 ###### Article 6
@@ -611,27 +683,40 @@ Les parcelles rattachées à ces lots seront expropriées.
 
 ###### Article 14
 
-Les parcelles abandonnées ou incultes destinées au reboisement sont, soit expropriées au profit de la commune aux fins de
-reboisement, soit, après un remembrement spécial, restituées à leur propriétaire, avec obligation de reboisement dans un
-délai que la commission communale fixe, compte tenu de l'importance de l'opération. Dans le cas où le reboisement n'est pas
-opéré dans le délai fixé, la commission communale avertit les propriétaires par voie d'affiche à la porte de la mairie de la
-situation des biens et par publication dans un journal d'annonces du département, que, faute de commencer les travaux dans un
-délai maximum de six mois après l'achèvement du délai primitif, les terrains seront expropriés au profit de la commune et
-soumis au régime forestier.
+Les propriétaires de parcelles abandonnées ou incultes ou manifestement sous-exploitées, mentionnées à l'article 12 et
+destinées au reboisement en application du I de l'article 40, doivent réaliser leur mise en valeur dans un délai fixé par la
+commission communale, compte tenu de l'importance de l'opération, et selon un plan soumis à l'agrément du représentant de
+l'Etat dans le département après avis du centre régional de la propriété forestière.
 
-Dans ce dernier cas, la commune prend possession des biens expropriés sans paiement préalable. Les formes de l'expropriation,
-les règles d'évaluation de l'indemnité ainsi que les conditions et délais de paiement sont fixés par un règlement
-d'administration publique.
+La présentation par le propriétaire de l'une des garanties de bonne gestion mentionnées à l'article L. 101 du code forestier
+satisfait à l'obligation de mise en valeur.
+
+Dans le cas où la mise en valeur n'est pas réalisée dans le délai fixé, la commission communale avertit les propriétaires, ou
+leurs ayants droit, soit par lettre recommandée, soit, à défaut d'identification, par voie d'affichage en mairie de la
+situation des biens et par publication dans un journal d'annonces du département, qu'ils ont l'obligation de réaliser les
+travaux de mise en valeur ou de présenter l'une des garanties de bonne gestion mentionnées à l'article L. 101 du code
+forestier dans un délai maximal de douze mois après l'expiration du délai initial. A défaut, les terrains pourront être
+expropriés au profit de la commune pour être soumis au régime forestier ou pour être apportés, par la commune, à un
+groupement forestier ou à une association syndicale de gestion forestière dans les conditions respectivement fixées à
+l'article L. 241-6 et au dernier alinéa de l'article L. 247-1 du code forestier. Les formes de l'expropriation, les règles
+d'évaluation de l'indemnité ainsi que les conditions et délais de paiement sont fixés conformément aux dispositions du code
+de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 12, 40, L241-6
+	  - Code forestier - art. L101 (Ab)
+	  - Code forestier - art. L247-1 (M)
 
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1941-03-09 art. 12
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 40 () JORF 5 décembre 1985
 
 
 ###### Article 15
@@ -1153,11 +1238,13 @@ la distribution des eaux utiles ;
 indispensables à l'établissement d'un lotissement rationnel, soit lorsqu'ils sont utiles au bon écoulement des eaux
 nuisibles, en raison de l'exécution de travaux visés au 3°.
 
-L'assiette des ouvrages visés aux 1°, 3° et 4° est prélevée sans indemnité sur la totalité des terres à remembrer.
+5° L'établissement de tous ouvrages nécessaires à la protection des forêts.
+
+L'assiette des ouvrages mentionnés aux 1°, 3°, 4° et 5° est prélevée sans indemnité sur la totalité des terres à remembrer.
 
 Le département assure l'exécution des travaux et le règlement des dépenses des travaux visés aux 1°, 2°, 3° et 4° ; la part
 de dépenses incombant aux propriétaires est déterminée par un arrêté concerté du ministre de l'agriculture et du ministre de
-l'économie et des finances. 
+l'économie et des finances.
 
 Les conditions dans lesquelles sont fixées les bases de la répartition de la dépense entre les propriétaires intéressés sont
 déterminées par le règlement d'administration publique prévu à l'article 54.
@@ -1175,15 +1262,9 @@ foncière visée à l'article 27.
 
 	  - Décret n°55-433 1955-04-16
 
-	**Anciens textes**:
-
-	  - Loi n°1941-03-09
-
 	**Modifié par**:
 
-	  - Loi n°64-1245 1964-12-16 art. 27 II JORF 18 décembre 1964
-	  - Loi n°75-621 1975-07-11 art. 9 JORF 12 juillet 1975
-	  - Loi n°83-8 du 7 janvier 1983 - art. 32 (V) JORF 9 janvier 1983
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 41 () JORF 5 décembre 1985
 
 
 ###### Article 26
@@ -1964,12 +2045,11 @@ charge la commission départementale d'aménagement foncier de recenser les pér
 général de remettre en valeur des parcelles incultes ou manifestement sous-exploitées depuis plus de trois ans sans raison de
 force majeure. Ce délai est réduit à deux ans en zone de montagne. Le représentant de l'Etat dans le département présente
 pour avis, au conseil général et à la chambre d'agriculture, le rapport de la commission départementale d'aménagement foncier
-et arrête les périmètres dans lesquels la commission communale ou intercommunale d'aménagement foncier, complétée par trois
-personnes qualifiées en matière d'aménagement forestier, dresse l'état des parcelles dont elle juge la mise en valeur
-agricole, pastorale ou forestière possible et opportune, à l'exclusion des biens dont le défrichement est soumis à
-autorisation. La commission communale ou intercommunale formule éventuellement des propositions sur les interdictions ou
-réglementations des plantations et semis d'essences forestières susceptibles d'être ordonnées sur ces parcelles par le
-représentant de l'Etat dans le département.
+et arrête les périmètres dans lesquels la commission communale ou intercommunale d'aménagement foncier, complétée comme il
+est dit à l'article 2-1, dresse l'état des parcelles dont elle juge la mise en valeur agricole, pastorale ou forestière
+possible et opportune. La commission communale ou intercommunale formule éventuellement des propositions sur les
+interdictions ou réglementations des plantations et semis d'essences forestières susceptibles d'être ordonnées sur ces
+parcelles par le représentant de l'Etat dans le département.
 
 Les intéressés, propriétaires ou exploitants, sont entendus comme en matière de remembrement.
 
@@ -2012,7 +2092,7 @@ structures, l'expropriation des fonds visés au premier alinéa du II ci-dessus,
 
 	**Cite**:
 
-	  - Code rural 39, 42, 870-24 à 870-29
+	  - Code rural 2-1, 39, 42, 870-24 à 870-29
 
 	**Codifié par**:
 
@@ -2020,7 +2100,7 @@ structures, l'expropriation des fonds visés au premier alinéa du II ci-dessus,
 
 	**Modifié par**:
 
-	  - Loi n°85-30 du 9 janvier 1985 - art. 24 () JORF 10 janvier 1985
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 43 () JORF 5 décembre 1985
 
 
 ###### Article 40-1
@@ -2197,6 +2277,184 @@ Les conditions d'application du présent chapitre sont fixées, en tant que de b
 
 ### Chapitre VI : Aménagement agricole et forestier
 
+###### Article 52-1
+
+Afin de favoriser une meilleure répartition des terres entre, d'une part, les productions agricoles et, d'autre part, la
+forêt et les espaces de nature ou de loisirs en milieu rural, les préfets peuvent, dans des départements déterminés par
+décret et après avis des chambres d'agriculture et des centres régionaux de la propriété forestière, procéder aux opérations
+suivantes :
+
+1° Ils définissent les zones dans lesquelles des plantations et des semis d'essences forestières pourront être interdits ou
+réglementés. Les interdictions et les réglementation ne seront pas applicables aux parcs ou jardins attenant à une
+habitation.
+
+Au cas de plantations ou semis exécutés en violation de ces conditions, les exonérations d'impôts et avantages fiscaux de
+toute nature prévus en faveur des propriétés boisées ou des reboisements seront supprimés, les propriétaires pourront être
+tenus de détruire le boisement irrégulier et il pourra, lors des opérations de remembrement, ne pas être tenu compte de la
+nature boisée du terrain ;
+
+2° Ils définissent les périmètres dans lesquels seront développées, par priorité, les actions forestières ainsi que les
+utilisations des terres et les mesures d'accueil en milieu rural, complémentaires des actions forestières, à condition de
+maintenir dans la ou les régions naturelles intéressées un équilibre humain satisfaisant. Ces périmètres sont délimités en
+tenant compte des plans d'aménagement rural lorsqu'il en existe ;
+
+3° Ils définissent des zones dégradées à faible taux de boisement, où les déboisements et défrichements pourront être
+interdits et où, par décret, des plantations et des semis d'essences forestières pourraient être rendus obligatoires dans le
+but de préserver les sols, les cultures et l'équilibre biologique, ces zones bénéficiant d'une priorité pour l'octroi des
+aides de l'Etat.
+
+4° Ils définissent les périmètres dans lesquels pourra être réalisé, à la demande du conseil général ou avec son accord, un
+aménagement agricole et forestier dans les conditions prévues par les articles 52-3 et 52-4 du présent code. Cet aménagement
+peut, en outre, être mis en oeuvre dans les zones de montagne définies en application de la loi n° 85-30 du 9 janvier 1985
+relative au développement et à la protection de la montagne.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 52-3, 52-4
+	  - Loi n°85-30 1985-01-09
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 30 () JORF 5 décembre 1985
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 31 () JORF 5 décembre 1985
+
+
+###### Article 52-3
+
+Dans les périmètres mentionnés au 4° de l'article 52-1, il est institué une procédure d'aménagement foncier agricole et
+forestier qui est régie par le chapitre III du présent titre pour ce qui concerne les parcelles agricoles et par les articles
+L. 512-1 à L. 512-7 du code forestier pour les parcelles boisées et à boiser. Cette procédure a pour objet de permettre les
+regroupements de parcelles à destination agricole et de parcelles à destination forestière.
+
+Par dérogation à ces dispositions et notamment à l'article 21 du présent code et aux articles L. 512-2 et L. 512-3 du code
+forestier, des apports de terrains boisés peuvent être compensés par des attributions de terrains non boisés et inversement.
+Cette compensation est possible, sans limitation, avec l'accord des intéressés. En l'absence de cet accord et à condition que
+cette mesure soit nécessaire à l'aménagement foncier, la compensation entre parcelles boisées et non boisées est possible
+dans la limite d'une surface maximum par propriétaire fixée, pour chaque périmètre d'aménagement foncier agricole et
+forestier, par la commission départementale, après avis de la chambre d'agriculture et du centre régional de la propriété
+forestière. Elle ne peut excéder, pour chaque propriétaire, la surface de quatre hectares de parcelles non boisées apportées
+ou attribuées en échange de parcelles boisées.
+
+Dans le cas d'une compensation entre parcelles boisées et non boisées, l'équivalence en valeur de productivité réelle des
+apports et des attributions de terrains doit être assurée sous réserve des déductions et servitudes mentionnées à l'article
+21. Indépendamment de cette valeur, les peuplements forestiers situés sur les parcelles apportées ou attribuées font l'objet
+d'une évaluation qui donne lieu, le cas échéant, au paiement d'une soulte en espèces dans les conditions prévues à l'article
+21. Une soulte en nature peut également être prévue avec l'accord des propriétaires intéressés.
+
+Dans le cas d'une compensation entre parcelles boisées et non boisées, les parcelles boisées attribuées peuvent être plus
+éloignées des centres d'exploitation ou des voies de desserte existantes que les parcelles agricoles apportées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 30 () JORF 5 décembre 1985
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 32 () JORF 5 décembre 1985
+
+	**Cite**:
+
+	  - Code forestier - art. L512-2 (Ab)
+	  - Code forestier - art. L512-3 (Ab)
+	  - Code forestier L512-1 à L512-7, L512-2, L512-3
+	  - Code rural 52-1, 21
+
+
+###### Article 52-4
+
+A l'issue des opérations d'aménagement foncier agricole et forestier, la commission communale propose au représentant de
+l'Etat dans le département une délimitation des terres agricoles d'une part, forestières d'autre part.
+
+Dans les terres agricoles ainsi délimitées, la commission communale propose les mesures d'interdiction ou de réglementation
+des boisements prévues au 1° de l'article 52-1, qui lui paraissent nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 52-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 30 () JORF 5 décembre 1985
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 33 () JORF 5 décembre 1985
+
+
+###### Article 52-5
+
+La compétence territoriale de l'association foncière constituée en application de l'article 27 du présent code peut être
+étendue à l'ensemble du périmètre d'aménagement agricole et forestier défini en application du 4° de l'article 52-1, si la
+moitié au moins des propriétaires autres que l'Etat, représentant la moitié au moins des surfaces comprises dans ce périmètre
+et extérieures au périmètre de l'aménagement foncier y sont favorables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 27, 52-1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 30 () JORF 5 décembre 1985
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 33 () JORF 5 décembre 1985
+
+
+###### Article 52-6
+
+Les travaux réalisés par l'association foncière font l'objet de deux rôles distincts, selon qu'ils se rapportent aux zones
+agricoles ou aux zones forestières. Les dépenses afférentes aux travaux communs aux zones agricoles et forestières sont
+réparties entre ces rôles en fonction de l'intérêt respectif des travaux pour les exploitations agricoles et pour les
+propriétés forestières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 30 () JORF 5 décembre 1985
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 33 () JORF 5 décembre 1985
+
+
+###### Article 52-7
+
+Un décret en Conseil d'Etat détermine les conditions d'application des articles 52-1 à 52-6.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 52-1 à 52-6
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 30 () JORF 5 décembre 1985
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 32 () JORF 5 décembre 1985
+
+
 #### Section 3 : Dispositions pénales.
 
 ###### Article 53
@@ -2234,33 +2492,10 @@ ou de l'une de ces deux peines seulement.
 	  - Loi n°85-1496 du 31 décembre 1985 - art. 14 () JORF 3 janvier 1986
 
 
-### Chapitre VI : Semis et plantations forestières.
+###### Article 53-1
 
-###### Article 52-1
-
-Afin de favoriser une meilleure répartition des terres entre, d'une part, les productions agricoles et, d'autre part, la
-forêt et les espaces de nature ou de loisirs en milieu rural, les préfets peuvent, dans des départements déterminés par
-décret et après avis des chambres d'agriculture et des centres régionaux de la propriété forestière, procéder aux opérations
-suivantes :
-
-1° Ils définissent les zones dans lesquelles des plantations et des semis d'essences forestières pourront être interdits ou
-réglementés. Les interdictions et les réglementation ne seront pas applicables aux parcs ou jardins attenant à une
-habitation.
-
-Au cas de plantations ou semis exécutés en violation de ces conditions, les exonérations d'impôts et avantages fiscaux de
-toute nature prévus en faveur des propriétés boisées ou des reboisements seront supprimés, les propriétaires pourront être
-tenus de détruire le boisement irrégulier et il pourra, lors des opérations de remembrement, ne pas être tenu compte de la
-nature boisée du terrain ;
-
-2° Ils définissent les périmètres dans lesquels seront développées, par priorité, les actions forestières ainsi que les
-utilisations des terres et les mesures d'accueil en milieu rural, complémentaires des actions forestières, à condition de
-maintenir dans la ou les régions naturelles intéressées un équilibre humain satisfaisant. Ces périmètres sont délimités en
-tenant compte des plans d'aménagement rural lorsqu'il en existe ;
-
-3° Ils définissent des zones dégradées à faible taux de boisement, où les déboisements et défrichements pourront être
-interdits et où, par décret, des plantations et des semis d'essences forestières pourraient être rendus obligatoires dans le
-but de préserver les sols, les cultures et l'équilibre biologique, ces zones bénéficiant d'une priorité pour l'octroi des
-aides de l'Etat.
+Les infractions en matière d'aménagement foncier agricole peuvent être constatées par des agents assermentés du ministère
+chargé de l'agriculture, dont les procès-verbaux font foi jusqu'à preuve contraire.
 
 **Liens relatifs à cet article**
 
@@ -2270,8 +2505,14 @@ aides de l'Etat.
 
 	**Créé par**:
 
-	  - Loi n°71-384 1971-05-22 art. 26 JORF 25 mai 1971
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 42 () JORF 5 décembre 1985
 
+	**Abrogé par**:
+
+	  - Loi n°85-1496 du 31 décembre 1985 - art. 14 () JORF 3 janvier 1986
+
+
+### Chapitre VI : Semis et plantations forestières.
 
 ###### Article 52-2
 
@@ -2329,25 +2570,6 @@ bénéficier d'une subvention de l'Etat et définit les conditions dans lesquell
 	**Créé par**:
 
 	  - Loi n°71-384 1971-05-22 art. 27 JORF 25 mai 1971
-
-
-###### Article 52-3
-
-Un décret en Conseil d'Etat déterminera les conditions d'application des articles 52-1 et 52-2.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 52-1, 52-2
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Créé par**:
-
-	  - Loi n°71-384 1971-05-22 art. 28 JORF 25 mai 1971
 
 
 ### Chapitre VII : Dispositions diverses.
@@ -6202,12 +6424,12 @@ plus-value des terres après le dessèchement ; elle donne son avis sur l'organi
 ###### Article 175
 
 Les départements, les communes ainsi que les groupements de ces collectivités et les syndicats mixtes créés en application de
-l'article 152 du code de l'administration communale sont autorisés à exécuter et à prendre en charge les travaux entrant dans
-les catégories ci-dessous définies, lorsqu'ils présentent pour eux, du point de vue agricole ou du point de vue de
-l'aménagement des eaux, un caractère d'urgence ou d'intérêt général :
+l'article L. 166-1 du code des communes peuvent prescrire ou exécuter les travaux entrant dans les catégories ci-dessous
+définies, lorsqu'ils présentent, du point de vue agricole ou forestier ou du point de vue de l'aménagement des eaux, un
+caractère d'intérêt général ou d'urgence :
 
-1° Lutte contre l'érosion, défense contre les torrents, reboisement et aménagement des versants, défense contre les
-incendies ;
+1° Lutte contre l'érosion et les avalanches, défense contre les torrents, reboisement et aménagement des versants, défense
+contre les incendies et réalisation de travaux de desserte forestière ;
 
 2° Défense des rives et du fond des rivières non domaniales ;
 
@@ -6223,15 +6445,21 @@ dessèchement et d'irrigation ;
 7° Aménagement, soit du bassin d'un cours d'eau non domanial ou d'une partie de ce bassin, soit seulement d'un cours d'eau
 non domanial ou d'une section de celui-ci.
 
-Lorsque les travaux intéressent plusieurs départements ou plusieurs communes, il est constitué des institutions
-interdépartementales ou des syndicats de communes. Ces institutions ou syndicats relèvent administrativement du préfet du
-département où est situé le siège de ces organismes.
+Les personnes morales mentionnées au premier alinéa prennent en charge les travaux qu'elles ont prescrits ou exécutés. Elles
+peuvent toutefois, dans les conditions prévues à l'article 176, faire participer aux dépenses de premier établissement,
+d'entretien et d'exploitation des ouvrages les personnes qui ont rendu les travaux nécessaires ou qui y trouvent un intérêt.
+
+Lorsque le montant de la participation aux travaux est supérieur au tiers de la valeur avant travaux du bien immobilier qui
+en bénéficie, le propriétaire peut exiger de la personne morale qu'elle acquière son bien dans un délai de deux ans à compter
+du jour de la demande. A défaut d'accord amiable sur le prix à l'expiration du délai, le juge de l'expropriation, saisi par
+le propriétaire ou la personne morale, prononce le transfert de propriété et fixe le prix du bien.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de l'administration communale 152
+	  - Code rural 176
+	  - CODE DES COMMUNES. - art. L166-1 (M)
 
 	**Codifié par**:
 
@@ -6239,42 +6467,35 @@ département où est situé le siège de ces organismes.
 
 	**Modifié par**:
 
-	  - Décret n°63-233 1963-03-07 art. 1 JORF 8 mars 1963
-
-	**Anciens textes**:
-
-	  - Loi n°1941-02-16
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 24 () JORF 5 décembre 1985
 
 
 ###### Article 176
 
-Un arrêté du préfet, sur rapport de l'ingénieur en chef chargé du contrôle, ou un arrêté concerté du ministre de
-l'agriculture et du ministre de l'intérieur lorsque les travaux doivent s'étendre sur plusieurs départements, définit la
-nature et l'étendue des travaux à réaliser, fixe le montant des dépenses prévues, la proportion dans laquelle les travaux
-doivent s'étendre sur plusieurs départements, définit la nature et l'étendue des travaux à réaliser, fixe le montant des
-dépenses prévues, la proportion dans laquelle les départements, les communes, ainsi que les groupements de ces collectivités
-et les syndicats mixtes créés en application de l'article 152 du code de l'administration communale sont autorisés à faire
-participer les intéressés aux charges de premier établissement et aux frais d'entretien et d'exploitation. Les bases
-générales de la répartition de cette participation sont fixées compte tenu de la mesure dans laquelle chacun a rendu
-l'aménagement nécessaire ou utile ou y trouve son intérêt. L'arrêté définit, en outre, les modalités d'entretien ou
-d'exploitation de l'aménagement. Il peut en prévoir la prise en charge par une association syndicale ou par une des
-associations foncières mentionnées à l'article 28 du code rural à laquelle seraient remis les ouvrages. Cet arrêté est
-précédé d'une enquête dont les formes sont déterminées par un règlement d'administration publique.
+Le programme des travaux à réaliser est arrêté par la ou les personnes morales concernées. Il prévoit la répartition des
+dépenses de premier établissement, d'exploitation et d'entretien des ouvrages entre la ou les personnes morales et les
+personnes mentionnées à l'avant-dernier alinéa de l'article 175. Les bases générales de cette répartition sont fixées compte
+tenu de la mesure dans laquelle chacune a rendu les travaux nécessaires ou y trouve un intérêt. Le programme définit, en
+outre, les modalités de l'entretien ou de l'exploitation des ouvrages qui peuvent être confiés à une association syndicale
+autorisée à créer. Le programme des travaux est soumis à enquête publique par le représentant de l'Etat dans le département,
+selon une procédure prévue par décret en Conseil d'Etat.
 
-Lorsque l'arrêté visé à l'alinéa précédent est un arrêté du préfet, il indique également par commune les terrains dont
-l'occupation temporaire est reconnue nécessaire, le numéro que les parcelles à occuper portent sur le plan cadastral et le
-nom des propriétaires tel qu'il est inscrit sur la matrice des rôles.
+L'enquête publique mentionnée à l'alinéa précédent vaut enquête préalable à la déclaration d'utilité publique des opérations,
+acquisitions ou expropriations éventuellement nécessaires à la réalisation des travaux.
 
-A titre transitoire, en attendant que soient précisées les formes de l'enquête instituée par le présent article, celle-ci est
-poursuivie dans les conditions prévues à l'article 2 du décret n° 59-936 du 31 juillet 1959.
+Le caractère d'intérêt général ou d'urgence des travaux ainsi que, s'il y a lieu, l'utilité publique des opérations,
+acquisitions ou expropriations nécessaires à leur réalisation sont prononcés par arrêté du représentant de l'Etat dans le
+département ou, si les conclusions du commissaire enquêteur ou de la commission d'enquête sont défavorables, par décret en
+Conseil d'Etat.
+
+Les dépenses relatives à la mise en oeuvre de cette procédure sont à la charge de la ou les collectivités qui en ont pris
+l'initiative.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de l'administration communale 152
-	  - Code rural 28
-	  - Décret n°59-936 1959-07-31 art. 2
+	  - Code rural 175
 
 	**Codifié par**:
 
@@ -6282,11 +6503,11 @@ poursuivie dans les conditions prévues à l'article 2 du décret n° 59-936 du 
 
 	**Modifié par**:
 
-	  - Décret n°63-233 1963-03-07 art. 1 JORF 8 mars 1963
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 25 () JORF 5 décembre 1985
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Loi n°1941-02-16
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
 ###### Article 177
@@ -6328,9 +6549,10 @@ forces hydrauliques, en application de la loi du 16 octobre 1919.
 
 ###### Article 178
 
-Lorsque l'arrêté mentionné à l'article 176 a prévu que l'entretien et l'exploitation des ouvrages sont confiés à une
-association syndicale autorisée à créer, à laquelle seront remis les ouvrages, et si cette association ne peut être
-constituée en temps utile, il est pourvu, par arrêté préfectoral, à la constitution d'une association forcée.
+Lorsque le programme des travaux mentionné à l'article 176 a prévu que l'entretien et l'exploitation des ouvrages sont
+confiés à une association syndicale autorisée à créer, à laquelle seront remis ces ouvrages, et au cas où cette association
+ne peut être constituée en temps utile, il pourra être pourvu à sa constitution d'office, par arrêté du représentant de
+l'Etat dans le département.
 
 **Liens relatifs à cet article**
 
@@ -6344,17 +6566,19 @@ constituée en temps utile, il est pourvu, par arrêté préfectoral, à la cons
 
 	**Modifié par**:
 
-	  - Décret n°63-233 1963-03-07 art. 1 JORF 8 mars 1963
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 26 () JORF 5 décembre 1985
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Loi n°1941-02-16
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
 ###### Article 179
 
 Les dépenses d'entretien et de conservation en bon état des ouvrages exécutés en application des articles 175 à 178 inclus du
 code rural ont un caractère obligatoire.
+
+Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'application du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -6368,11 +6592,11 @@ code rural ont un caractère obligatoire.
 
 	**Modifié par**:
 
-	  - Décret n°63-233 1963-03-07 art. 1 JORF 8 mars 1963
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 27 () JORF 5 décembre 1985
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Loi n°1941-02-16
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
 
 
 ### Chapitre IV : Restauration de l'habitat rural
@@ -23061,20 +23285,24 @@ patente en tant que commerçant ;
 
 3° Aux artisans ruraux n'employant pas plus de deux salariés de façon permanente ;
 
-4° Aux entrepreneurs de travaux agricoles ;
+4° Aux entrepreneurs de travaux agricoles ainsi qu'aux entrepreneurs de travaux forestiers ;
 
 5° Aux exploitants des établissements de conchyliculture ou de pisciculture et établissements assimilés, sauf lorsque les
 intéressés relèvent du régime social des marins.
 
-Les ouvriers agricoles et bûcherons travaillant seuls ou avec l'aide de leur famille, avec des outils leur appartenant en
-propre, sont réputés, pour l'application des présentes dispositions, bénéficier d'un contrat de louage de services, que les
-travaux soient effectués au temps, à la tâche ou au forfait.
+Les ouvriers agricoles travaillant seuls ou avec l'aide de leur famille, avec des outils leur appartenant en propre, sont
+réputés, pour l'application des présentes dispositions, bénéficier d'un contrat de louage de services, que les travaux soient
+effectués au temps, à la tâche ou au forfait.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
 	**Modifié par**:
 
-	  - Loi n°85-772 du 25 juillet 1985 - art. 127 () JORF 26 juillet 1985
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 23 () JORF 5 décembre 1985
 
 	**Nouveaux textes**:
 
@@ -26170,20 +26398,23 @@ principal établissement ;
 2° Les ouvriers et employés occupés dans les établissements de conchyliculture et de pisciculture et établissements
 assimilés, à l'exception de ceux qui relèvent du régime social des marins ;
 
-3° Les ouvriers et employés occupés dans les exploitations de bois.
+3° Les ouvriers et employés occupés à des travaux forestiers et les salariés des entreprises de travaux forestiers.
 
-Sont considérées comme exploitation de bois :
+Sont considérées comme travaux forestiers les travaux suivants :
 
-a) Les travaux d'abattage, ébranchage, éhouppage, débardage sous toutes ses formes, les travaux précédant ou suivant
-normalement ces opérations tels que débroussaillage, nettoyage des coupes ainsi que le transport de bois effectué par
-l'entreprise qui a procédé à tout ou partie des opérations précédentes ;
+- Travaux d'exploitation de bois, à savoir abattage, ébranchage, élagage, éhouppage, débardage sous toutes ses formes,
+travaux précédant ou suivant normalement ces opérations tels que débroussaillement, nettoyage des coupes ainsi que le
+transport de bois effectué par l'entreprise qui a procédé à tout ou partie des opérations précédentes et, lorsqu'ils sont
+effectués sur le parterre de la coupe, travaux de façonnage, de conditionnement du bois, de sciage et de carbonisation, quels
+que soient les procédés utilisés ;
 
-b) Lorsqu'ils sont effectués sur le parterre de la coupe, les travaux de façonnage, de conditionnement des bois, de sciage et
-de carbonisation, quels que soient les procédés utilisés.
+- Travaux de reboisement et de sylviculture, y compris l'élagage le débroussaillement et le nettoyage des coupes ;
 
-Ces travaux conservent le caractère agricole lorsqu'ils sont effectués en dehors du parterre de la coupe par une entreprise
-ou une section d'entreprise dont l'activité principale est l'exploitation forestière ou la production de bois brut de
-sciage ;
+- Travaux d'équipement forestier, lorsqu'ils sont accessoires aux travaux ci-dessus.
+
+Ces travaux conservent leur caractère forestier lorsqu'ils sont effectués en dehors du parterre de la coupe par une
+entreprise ou une section d'entreprise dont l'activité principale est l'exploitation forestière ou la production de bois brut
+de sciage ;
 
 4° Les salariés des artisans ruraux n'employant pas plus de deux ouvriers de façon permanente ;
 
@@ -26224,7 +26455,7 @@ de l'exploitation agricole.
 
 	**Modifié par**:
 
-	  - Loi n°85-772 du 25 juillet 1985 - art. 126 () JORF 26 juillet 1985
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 20 () JORF 5 décembre 1985
 
 	**Cité par**:
 
@@ -26344,6 +26575,69 @@ surviendraient au cours de cette autre tâche.
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1147-1
+
+Pour l'application du présent livre, toute personne occupée, moyennant rémunération, dans les exploitations ou entreprises
+mentionnées au 3° de l'article 1144 est présumée bénéficier d'un contrat de travail. Cette présomption est levée si
+l'intéressé satisfait à des conditions de capacité ou d'expérience professionnelle et d'autonomie de fonctionnement, qui
+seront fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1144
+
+	**Nouveaux textes**:
+
+	  - Code rural L722-23
+	  - Code rural - art. L722-23 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 21 () JORF 5 décembre 1985
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1147-2
+
+Les conditions prévues par l'article précédent pour la levée de présomption de salariat sont réputées remplies par les chefs
+d'exploitation agricole, exerçant à titre secondaire, dans les fôrets d'autrui, l'activité mentionnée au 3° de l'article
+1144.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°85-1273 du 4 décembre 1985 - art. 22 () JORF 5 décembre 1985
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L722-23 (V)
+	  - Code rural L722-23
+
+	**Cite**:
+
+	  - Code rural 1144
 
 
 #### Section 2 : Prestations.
