@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1973-05-25
+Version Consolidée au 1973-07-01
 
 ###### Article 162
 
@@ -14790,6 +14790,33 @@ d'entreprise intéressé, le délai imparti ne pouvant être inférieur à un mo
 
 ## Titre II : Mutualité sociale agricole
 
+###### Article 1001
+
+Le politique sociale agricole relève du ministre de l'agriculture.
+
+Elle est mise en oeuvre notamment par la caisse centrale de secours mutuels agricoles et par les caisses départementales ou
+pluridépartementales.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L721-1 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1938-05-31 art. 1 al. 1
+	  - Loi n°1941-04-05 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°72-965 du 25 octobre 1972 - art. 4 () JORF 26 octobre 1972 en vigueur le 1er juillet 1973
+
+
 ###### Article 1002
 
 Dans leurs circonscriptions respectives départementales ou pluri-départementales, les caisses mutuelles d'assurances sociales
@@ -15726,6 +15753,39 @@ la cour de cassation.
 
 #### Section 1 : Affiliation.
 
+###### Article 1024
+
+Sont affiliées obligatoirement aux assurances sociales agricoles les personnes énumérées à l'article 1144 (alinéas 1° à 7°,
+9° et 10°).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°67-1114 1967-12-21 art. 66 JORF 22 décembre 1967
+	  - Loi n°72-965 du 25 octobre 1972 - art. 4 () JORF 26 octobre 1972 en vigueur le 1er juillet 1973
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L135-2 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L722-29 (V)
+
+	**Cite**:
+
+	  - Code rural 1144
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 art. 1
+
+
 ###### Article 1027
 
 Les travailleurs étrangers, remplissant les conditions visées aux articles précédents, sont assurés obligatoirement dans les
@@ -16195,6 +16255,35 @@ date, la maladie remonte à plus de six jours.
 	  - Loi n°88-1202 du 30 décembre 1988 - art. 43 () JORF 31 décembre 1988
 
 
+###### Article 1045
+
+L'assuré victime d'un accident ou d'une maladie pour lesquels le droit aux réparations prévues par le chapitre Ier du titre
+III du présent livre est contesté par la caisse de mutualité sociale agricole reçoit, à titre provisionnel, les prestations
+de l'assurance maladie, s'il remplit les conditions d'ouverture du droit à ces prestations.
+
+En cas d'échec de l'action judiciaire engagée par l'intéressé pour faire reconnaître son droit aux réparations du régime des
+accidents du travail et des maladies professionnelles, les prestations de l'assurance maladie qu'il a perçues lui restent
+acquises.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-28 art. 20
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°72-965 du 25 octobre 1972 - art. 4 () JORF 26 octobre 1972 en vigueur le 1er juillet 1973
+
+	**Abrogé par**:
+
+	  - Loi n°88-1202 du 30 décembre 1988 - art. 43 () JORF 31 décembre 1988
+
+
 ###### Article 1047
 
 Est passible d'une amende de 1.200 à 3.000 F quiconque se rend coupable de fraude ou de fausse déclaration pour obtenir, ou
@@ -16265,6 +16354,37 @@ assurances complémentaires de l'assurance maladie, maternité et vieillesse dan
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1051
+
+Des arrêtés du ministre de l'agriculture et du ministre de l'économie et des finances étendront, sur proposition ou après
+avis de la section agricole spécialisée de la commission supérieure des conventions collectives, à la condition qu'aucune
+opposition n'ait été formulée au sein de ladite section, tout ou partie des dispositions étendues de conventions collectives,
+relatives à la retraite, à des employeurs, à des salariés et anciens salariés non compris dans le champ d'application de ces
+conventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°72-1223 du 29 décembre 1972 - art. 3 () JORF 30 décembre 1972 en vigueur le 1er juillet 1973
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L727-3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°68-757 1968-08-16 art. 1 JORF 25 août 1968
+
+	**Anciens textes**:
+
+	  - Loi n°1952-07-25 art. 1, art. 2, art. 3
 
 
 #### Section 5 : Organisation administrative et financière.
@@ -16464,6 +16584,57 @@ décret n° 58-1291 du 22 décembre 1958 sans qu'il soit besoin d'une décision 
 ### Chapitre III : Prestations familiales
 
 #### Section 1 : Affiliations et cotisations.
+
+###### Article 1060
+
+Le régime agricole des prestations familiales est applicable :
+
+1° Aux salariés et assimilés visés à l'article 1144 ;
+
+2° Aux personnes non salariées exerçant l'une des professions agricoles mentionnées aux 1° et 3° de l'article 1144, à
+l'exception des personnes exerçant la profession d'exploitant forestier négociant en bois achetant des coupes en vue de la
+revente du bois dans des conditions telles que cette activité comporte inscription au registre du commerce ou paiement d'une
+patente en tant que commerçant ;
+
+3° Aux artisans ruraux n'employant pas plus de deux salariés de façon permanente ;
+
+4° Aux entrepreneurs de battages ou de travaux agricoles ;
+
+5° Aux exploitants des établissements de conchyliculture ou de pisciculture et établissements assimilés, sauf lorsque les
+intéressés relèvent du régime social des marins.
+
+Les ouvriers agricoles et bûcherons travaillant seuls ou avec l'aide de leur famille, avec des outils leur appartenant en
+propre, sont réputés, pour l'application des présentes dispositions, bénéficier d'un contrat de louage de services, que les
+travaux soient effectués au temps, à la tâche ou au forfait.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°66-1046 1966-12-30 art. 1 JORF 31 décembre 1966
+	  - Loi n°67-1114 1967-12-21 art. 66 JORF 22 décembre 1967
+	  - Loi n°72-965 du 25 octobre 1972 - art. 4 () JORF 26 octobre 1972 en vigueur le 1er juillet 1973
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L722-22 (V)
+	  - Code rural - art. L722-28 (V)
+	  - Code rural - art. L722-4 (V)
+	  - Code rural - art. L722-9 (V)
+
+	**Cite**:
+
+	  - Code rural 1144
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 art. 1
+	  - Décret n°1938-05-31 art. 8
+
 
 ###### Article 1062
 
