@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1967-12-22
+Version Consolidée au 1967-12-29
 
 ###### Article 162
 
@@ -3706,6 +3706,51 @@ conditions prévues au présent chapitre.
 	**Créé par**:
 
 	  - Loi n°63-233 1963-03-07 art. 6 JORF 8 mars 1963
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
+
+###### Article 151-3
+
+Les travaux sont déclarés d'utilité publique. Les ouvrages et éventuellement les terrains d'emprise sont remis gratuitement
+aux associations syndicales autorisées ou forcées, ou aux collectivités publiques et établissements publics visés aux
+articles 142 et 143 du présent code, en vue de leur exploitation et leur entretien dans les conditions prévues par lesdits
+articles. Dans le cas d'une remise à une collectivité publique ou à un établissement public, l'article 176 du présent code
+est applicable aux dépenses autres que celles intégralement prises en charge par l'Etat. Ces collectivités et établissements
+publics bénéficient de la servitude d'écoulement instituée par les articles 135 à 138 du présent code.
+
+Lorsque l'exécution des travaux n'exige pas l'acquisition du sol à l'amiable ou par voie d'expropriation, le sol nécessaire à
+l'implantation des travaux est occupé sous le régime de la loi du 29 décembre 1892. Ce régime cesse d'avoir effet lors de la
+remise des ouvrages aux associations ou collectivités et établissements publics visés à l'alinéa ci-dessus. Pendant la durée
+de l'occupation temporaire, l'Etat bénéficie de la servitude d'écoulement instituée par les articles 135 à 138 du présent
+code. Le transfert des servitudes accompagne la remise des ouvrages.
+
+Le règlement des indemnités d'occupation du sol, de servitudes d'écoulement et de toutes autres résultant de l'exécution des
+travaux est à la charge de l'Etat.
+
+En tout état de cause, le total des dépenses engagées au titre de ces travaux est limité au montant de la subvention en
+capital dont auraient pu bénéficier, selon les modalités en vigueur, les travaux de drainage du périmètre considéré et de
+mise en état des émissaires correspondants.
+
+Nonobstant les dispositions des articles 144 à 146 ci-dessus, aucune fraction de la plus-value de productivité des terrains
+assainis ne donne lieu à reversement au Trésor. Par contre, pour tenir compte des dépenses engagées par l'Etat, l'aide
+financière à laquelle auraient pu prétendre les associations syndicales, les collectivités et établissements publics
+intéressés pour la réalisation de travaux complémentaires, dans la limite du périmètre intéressé par les travaux d'infra-
+structure, peut être réduite ou supprimée. Cette collectivité ou cet établissement public peut cependant prétendre au
+bénéfice des prêts à long terme et à taux réduit institués pour les travaux de l'espèce.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 135 à 138, 142, 143, 144 à 146, 176
+	  - Loi n°1892-12-29
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
 
 	**Abrogé par**:
 
@@ -16929,21 +16974,6 @@ caisses de mutualité sociale agricole les frais résultant pour elles des opér
 	  - Décret n°55-433 1955-04-16
 
 
-###### Article 1142
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°67-1172 1967-12-22 art. 13 II JORF 29 décembre 1967
-
-
 ### Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.
 
 ###### Article 1142-1
@@ -18185,6 +18215,31 @@ emprisonnement de six mois au moins et de deux ans au plus ou par l'une de ces d
 
 	  - Code rural - art. L723-44 (M)
 	  - Code rural - art. L771-4 (V)
+
+
+###### Article 1240-2
+
+Sont passibles d'une amende de 360 F à 20 000 F et d'un emprisonnement de un mois à six mois les administrateurs, directeurs
+et agents des organismes de mutualité sociale agricole en cas de fraude ou de fausse déclaration, dans l'encaissement ou dans
+la gestion, le tout sans préjudice de plus fortes peines s'il y échet.
+
+Le maximum des deux peines sera toujours appliqué au délinquant lorsqu'il aura déjà subi une condamnation pour la même
+infraction et le tribunal pourra ordonner l'insertion du nouveau jugement dans un ou plusieurs journaux de la localité, le
+tout aux frais du condamné sans que le coût de l'insertion puisse dépasser 50 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°67-1172 1967-12-22 art. 13 JORF 29 décembre 1967
+
+	**Abrogé par**:
+
+	  - Loi n°84-1 1984-01-02 art. 5 JORF 3 janvier 1984
 
 
 ###### Article 1241
