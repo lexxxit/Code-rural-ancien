@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1964-11-14
+Version Consolidée au 1964-12-18
 
 ###### Article 162
 
@@ -1816,7 +1816,531 @@ droits soit d'usage, soit de propriété, sur les chemins d'exploitation.
 
 ## Titre III : Des cours d'eaux non domaniaux
 
+### Chapitre Ier : Des droits des riverains
+
+###### Article 97
+
+Les riverains n'ont le droit d'user de l'eau courante qui borde ou qui traverse leurs héritages que dans les limites
+déterminées par la loi. Ils sont tenus de se conformer, dans l'exercice de ce droit, aux dispositions des règlements et des
+autorisations émanées de l'Administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 2
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 2 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-1 (V)
+
+
+###### Article 97-1
+
+Lorsque des travaux d'aménagement, autres que ceux concédés ou autorisés en application de la loi du 16 octobre 1919,
+intéressant un bassin fluvial ou un cours d'eau, ont pour objet ou pour conséquence la régularisation du débit d'un cours
+d'eau non domanial ou l'augmentation de son débit en période d'étiage, l'acte déclaratif d'utilité publique peut affecter à
+certaines utilisations pendant toute l'année une partie du débit de ce cours d'eau.
+
+A cet effet, l'acte déclaratif d'utilité publique fixe :
+
+a) Un débit minimum dit "débit réservé" à maintenir en rivière à l'aval des ouvrages pour chacune des différentes époques de
+l'année afin de sauvegarder les intérêts généraux, la satisfaction des besoins des bénéficiaires de dérivations autorisées et
+ceux des riverains.
+
+L'exploitant a l'obligation de transiter vers l'aval le "débit réservé" qui ne peut être toutefois supérieur au débit naturel
+du cours d'eau à l'amont des ouvrages, pour chacune des époques considérées.
+
+b) Un débit supplémentaire, dit "débit affecté", déterminé compte tenu des tranches d'eau disponibles dans les retenues des
+ouvrages à ces mêmes époques.
+
+Nonobstant les dispositions de l'article 644 du code civil, le droit d'usage du débit affecté appartient à l'Etat.
+
+Un décret en Conseil d'Etat déterminera les conditions d'application du présent article, notamment celles dans lesquelles les
+droits ainsi accordés à l'Etat pourront être concédés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 26 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
+
+	**Cite**:
+
+	  - Code civil - art. 644 (V)
+	  - Loi n°1919-10-16
+
+
+###### Article 98
+
+Le lit des cours d'eau non domaniaux appartient aux propriétaires des deux rives.
+
+Si les deux rives appartiennent à des propriétaires différents, chacun d'eux a la propriété de la moitié du lit, suivant une
+ligne que l'on suppose tracée au milieu du cours d'eau, sauf titre ou prescription contraire.
+
+Chaque riverain a le droit de prendre, dans la partie du lit qui lui appartient, tous les produits naturels et d'en extraire
+de la vase, du sable et des pierres, à la condition de ne pas modifier le régime des eaux et d'en exécuter le curage
+conformément aux règles établies par le chapitre III du présent titre.
+
+Sont et demeurent réservés les droits acquis par les riverains ou autres intéressés sur les parties des cours d'eau qui
+servent de voie d'exploitation pour la desserte de leurs fonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 3
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-2 (V)
+	  - Code de l'environnement - art. L215-2 (M)
+
+
+###### Article 99
+
+Lorsque le lit d'un cours d'eau est abandonné, soit naturellement, soit par suite de travaux légalement exécutés, chaque
+riverain en reprend la libre disposition suivant les limites déterminées par l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 4
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 4 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-3 (V)
+
+
+###### Article 100
+
+Lorsqu'un cours d'eau non domanial abandonne naturellement son lit, les propriétaires des fonds sur lesquels le nouveau lit
+s'établit sont tenus de souffrir le passage des eaux sans indemnité ; mais ils peuvent, dans l'année qui suit le changement
+de lit, prendre les mesures nécessaires pour rétablir l'ancien cours des eaux.
+
+Les propriétaires riverains du lit abandonné jouissent de la même faculté et peuvent, dans l'année, poursuivre l'exécution
+des travaux nécessaires au rétablissement du cours primitif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-4 (V)
+	  - Code de l'environnement - art. L215-4 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 5
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+
+###### Article 101
+
+Lorsque, par suite de travaux légalement ordonnés, il y a lieu d'élargir le lit ou d'en ouvrir un nouveau, les propriétaires
+des terrains occupés ont droit à une indemnité à titre de servitude de passage.
+
+Pour la fixation de cette indemnité, il est tenu compte de la situation respective de chacun des riverains par rapport à
+l'axe du nouveau lit, la limite des héritages demeurant fixée conformément aux dispositions du deuxième alinéa de l'article
+98, à moins de stipulations contraires.
+
+Les bâtiments, cours et jardins attenant aux habitations sont exempts de la servitude de passage.
+
+Les contestations auxquelles peuvent donner lieu l'application du deuxième alinéa du présent article et le règlement des
+indemnités sont jugées en premier ressort par le juge du tribunal d'instance du canton.
+
+S'il y a lieu à expertise, il peut, dans tous les cas, n'être nommé qu'un seul expert.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 98
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 6
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-5 (Ab)
+
+
+###### Article 102
+
+La propriété des alluvions, relais, atterrissements, îles et îlots qui se forment dans les cours d'eau non domaniaux est et
+demeure régie par les dispositions des articles 556, 557, 559, 561 et 562 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Cite**:
+
+	  - Code civil - art. 556 (M)
+	  - Code civil - art. 557 (V)
+	  - Code civil - art. 559 (M)
+	  - Code civil - art. 561 (M)
+	  - Code civil - art. 562 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-6 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 7
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 7 (Ab)
+
+
 ### Chapitre II : Police et conservation des eaux.
+
+###### Article 103
+
+L'autorité administrative est chargée de la conservation et de la police des cours d'eau non domaniaux. Elle prend toutes
+dispositions pour assurer le libre cours des eaux.
+
+Dans tous les cas, les droits des tiers sont et demeurent réservés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-7 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1790-08-12 art. 12
+	  - Loi n°1898-04-08 art. 8, art. 17
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+
+###### Article 104
+
+Le régime général de ces cours d'eau est fixé, s'il y a lieu, de manière à concilier les intérêts des diverses catégories
+d'utilisateurs de leurs eaux avec le respect dû à la propriété et aux droits et usages antérieurement établis, après enquête
+d'utilité publique, par arrêté du ministre dont relève le cours d'eau ou la section de cours d'eau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 9
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 24, art. 27 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-8 (V)
+
+
+###### Article 105
+
+Le propriétaire riverain d'un cours d'eau non domanial ne peut exécuter des travaux au-dessus de ce cours d'eau ou le
+joignant qu'à la condition de ne pas préjudicier à l'écoulement et de ne causer aucun dommage aux propriétés voisines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 10
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 10 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-9 (V)
+
+
+###### Article 106
+
+Aucun barrage, aucun ouvrage destiné à l'établissement d'une prise d'eau, d'un moulin ou d'une usine ne peut être entrepris
+dans un de ces cours d'eau sans l'autorisation de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 11
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 11 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+
+###### Article 107
+
+Les préfets statuent après enquête sur les demandes ayant pour objet :
+
+1° L'établissement d'ouvrages intéressant le régime ou le mode d'écoulement des eaux ;
+
+2° La régularisation de l'existence des usines et ouvrages établis sans permission et n'ayant pas de titre légal ;
+
+3° La révocation ou la modification des permissions précédemment accordées.
+
+La forme de l'instruction qui doit précéder les arrêtés des préfets est déterminée par un règlement d'administration
+publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 12
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 12 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
+
+
+###### Article 109
+
+Les autorisations ou permissions accordées pour l'établissement d'ouvrages ou d'usines sur les cours d'eau non domaniaux
+peuvent être révoquées ou modifiées sans indemnité de la part de l'Etat exerçant ses pouvoirs de police dans les cas
+suivants :
+
+1° Dans l'intérêt de la salubrité publique, et notamment lorsque cette révocation ou cette modification est nécessaire à
+l'alimentation en eau potable de centres habités ou en est la conséquence ;
+
+2° Pour prévenir ou faire cesser les inondations ;
+
+3° Dans le cas de la réglementation générale prévue à l'article 104 du présent code ;
+
+4° Lorsqu'elles concernent les ouvrages établissant ou réglant le plan d'eau ou les établissements ou usines qui, à dater du
+jour de la publication du règlement d'administration publique prévu au présent article, n'auront pas été entretenus depuis
+plus de vingt ans ; toute collectivité publique ou tout établissement public intéressé peut, en cas de défaillance du
+permissionnaire ou du titulaire de l'autorisation, et à sa place, après mise en demeure par le préfet, exécuter les travaux
+qui sont la conséquence de la révocation ou de la modification de la permission ou de l'autorisation, et poursuivre, à
+l'encontre du permissionnaire ou du titulaire de l'autorisation, le remboursement de ces travaux.
+
+Les dispositions du présent article sont applicables aux permissions ou autorisations accordées en vertu des articles 106 et
+107 du présent code ou antérieurement à la mise en vigueur de ces dispositions, ainsi qu'aux établissements ayant une
+existence légale et aux entreprises autorisées en application du titre III de la loi du 16 octobre 1919 relative à
+l'utilisation de l'énergie hydraulique.
+
+Les conditions d'application du paragraphe 4° du présent article seront fixées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 104, 106, 107
+	  - Loi n°1919-10-16
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 14
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 14 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°63-233 1963-03-07 art. 7 JORF 8 mars 1963
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-10 (V)
+
+
+###### Article 110
+
+Les propriétaires ou fermiers de moulins et usines, même autorisés ou ayant une existence légale, sont garants des dommages
+causés aux chemins et aux propriétés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-11 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 15
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 15 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+
+###### Article 111
+
+Les maires peuvent, sous l'autorité des préfets, prendre toutes les mesures nécessaires pour la police des cours d'eau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-12 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 16 (Ab)
+	  - Loi n°1898-04-08 art. 16
+
 
 ###### Article 112
 
@@ -1839,9 +2363,312 @@ vue de sauvegarder les intérêts généraux.
 	  - Loi n°92-3 1992-01-03 art. 46 I JORF 4 janvier 1992
 
 
+###### Article 113
+
+La dérivation des eaux d'un cours d'eau non domanial, d'une source ou d'eaux souterraines, entreprise dans un but d'intérêt
+général par une collectivité publique ou son concessionnaire, par une association syndicale ou par tout autre établissement
+public, est autorisée par un acte déclarant d'utilité publique les travaux. Cet acte détermine le volume d'eau maximum
+susceptible d'être prélevé, ainsi que les conditions auxquelles le prélèvement est subordonné, conformément aux prescriptions
+qui sont fixées par le ministre de l'agriculture, en vue de sauvegarder les intérêts généraux dont il a la charge.
+
+Lorsque la déclaration d'utilité publique est prononcée par décret, celui-ci est revêtu du contreseing du ministre de
+l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 art. 4
+	  - Décret-loi 1938-05-24 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-13 (V)
+
+
+### Chapitre III : Curages, élargissements et redressements
+
+###### Article 114
+
+Le curage comprend tous les travaux nécessaires pour rétablir un cours d'eau dans sa largeur et sa profondeur naturelles,
+sans préjudice de ce qui est réglé à l'égard des alluvions par les articles 556 et 557 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Cite**:
+
+	  - Code civil - art. 556 (M)
+	  - Code civil - art. 557 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-14 (V)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. Annexe IX (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 18
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 18 (Ab)
+
+
+###### Article 115
+
+Il est pourvu au curage des cours d'eau non domaniaux et à l'entretien des ouvrages qui s'y rattachent, de la manière
+prescrite par les anciens règlements ou d'après les usages locaux.
+
+Les préfets sont chargés, sous l'autorité du ministre compétent, de prendre les dispositions nécessaires pour l'exécution de
+ces règlements et usages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-15 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 19
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 19 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+
+#### Section 1 : Curage et entretien.
+
+###### Article 117
+
+Dans tous les cas, les rôles de répartition des sommes nécessaires au paiement des travaux de curage ou d'entretien des
+ouvrages sont dressés sous la surveillance du préfet et rendus exécutoires par lui.
+
+Le recouvrement est fait dans les mêmes formes et avec les mêmes garanties qu'en matière de contributions directes.
+
+Le privilège ainsi créé prend rang immédiatement après celui du Trésor public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-17 (V)
+	  - Code de l'environnement - art. L215-17 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 23
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 23 (Ab)
+
+
+###### Article 118
+
+Toutes les contestations relatives à l'exécution des travaux, à la répartition de la dépense et aux demandes en réduction ou
+décharge formées par les imposés sont portées devant le tribunal administratif sauf recours au Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-18 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 24
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 24 (Ab)
+
+
+###### Article 119
+
+Les travaux d'élargissement, de régularisation et de redressement des cours d'eau non domaniaux qui sont jugés nécessaires
+pour compléter les travaux de curage, sont assimilés à ces derniers, et leur exécution est poursuivie en vertu des articles
+précédents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-19 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 25
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 25 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+
+#### Section 2 : Elargissement, régularisation et redressement.
+
+###### Article 121
+
+Pendant la durée des travaux, les propriétaires sont tenus de laisser passer sur leurs terrains les fonctionnaires et agents
+chargés de la surveillance, ainsi que les entrepreneurs et ouvriers.
+
+Ce droit doit s'exercer autant que possible en suivant la rive du cours d'eau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-21 (Ab)
+
+	**Cité par**:
+
+	  - Code rural - art. L133-5 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 27
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 27 (Ab)
+
+
+#### Section 3 : Dispositions communes.
+
+###### Article 122
+
+Si les travaux de curage, d'élargissement, de régularisation et de redressement intéressent la salubrité publique, l'acte qui
+les ordonne peut, après avis du conseil général et des conseils municipaux intéressés, mettre une partie de la dépense à la
+charge des communes dont le territoire est assaini.
+
+Dans ce cas, le même acte détermine quelles sont les communes intéressées et fixe la part que chacune d'elles doit supporter
+dans la dépense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1898-04-08 art. 28
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 28 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 JORF 18 décembre 1964
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. L215-22 (Ab)
+
+
 ## Titre IV : Des eaux utiles
 
 ### Chapitre Ier : De la servitude de passage des eaux utiles.
+
+###### Article 123
+
+Toute personne physique ou morale qui veut user pour l'alimentation en eau potable, pour l'irrigation ou, plus généralement,
+pour les besoins de son exploitation, des eaux dont elle a le droit de disposer, peut obtenir le passage par conduite
+souterraine de ces eaux sur les fonds intermédiaires, dans les conditions les plus rationnelles et les moins dommageables à
+l'exploitation présente et future de ces fonds, à charge d'une juste et préalable indemnité.
+
+Les maisons sont en tout cas exceptées de cette servitude.
+
+En sont également exceptés les cours et jardins attenant aux habitations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 45 JORF 18 décembre 1964
+
+
+###### Article 124
+
+Les propriétaires des fonds inférieurs doivent recevoir les eaux qui s'écoulent des terrains ainsi arrosés, sauf l'indemnité
+qui peut leur être due.
+
+Sont également exceptés de cette servitude les maisons, cours, jardins, parcs et enclos attenant aux habitations.
+
+Les eaux usées provenant des habitations alimentées et des exploitations desservies en application de l'article 123 du code
+rural, peuvent être acheminées par canalisation souterraine vers des ouvrages de collecte ou d'épuration sous les mêmes
+conditions et réserves énoncées à l'article 123, concernant l'amenée des eaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 123
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1845-04-29 art. 2
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 45 JORF 18 décembre 1964
+
+	**Abrogé par**:
+
+	  - Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992
+
 
 ###### Article 125
 
@@ -7425,6 +8252,56 @@ conformant aux dispositions du présent titre.
 	  - Loi n°57-362 1957-03-23 art. 2 JORF 24 mars 1957
 
 
+###### Article 404
+
+Des règlements d'administration publique déterminent séparément, après enquête :
+
+1° Les parties des fleuves et rivières désignés au 1° de l'article précédent où le droit de pêche est exercé au profit de
+l'Etat ;
+
+2° Les parties non salées des rivières navigables ou non navigables visées au 5° du même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 34 JORF 18 décembre 1964
+
+
+###### Article 406
+
+Dans le cas où des cours d'eau sont rendus ou déclarés domaniaux, les propriétaires qui sont privés du droit de pêche ont
+droit à une indemnité préalable qui est réglée selon les formes prescrites par l'ordonnance n° 58-997 du 23 octobre 1958
+relatif à l'expropriation pour cause d'utilité publique, compensation faite des avantages qu'ils peuvent retirer de la
+nouvelle réglementation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15 art. 3 al. 3
+
+	**Cite**:
+
+	  - Ordonnance 58-997 1958-10-23
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 34 JORF 18 décembre 1964
+
+
 ###### Article 407
 
 Dans toutes les rivières et canaux autres que ceux qui sont désignés dans l'article 403, les propriétaires riverains ont,
@@ -7806,9 +8683,74 @@ raison de leurs droits ou de leurs propriétés sont portées devant les tribuna
 	  - Loi n°1829-04-15 art. 4
 
 
+###### Article 426
+
+L'administration des domaines est chargée du recouvrement des fermages de pêche dus à l'Etat dans les rivières domaniales non
+canalisées et dans les canaux et rivières canalisées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1901-12-26 art. 4
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 34 JORF 18 décembre 1964
+
+
 ## Titre III : De la police de la pêche
 
 ### Chapitre Ier : Dispositions générales et pénales.
+
+###### Article 427
+
+Les dispositions du présent titre ne sont pas applicables aux enclos aménagés sur les fonds d'eau visés à l'article 401
+pendant le temps qu'est réalisé l'état de clôture, c'est-à-dire que la circulation du poisson entre les eaux closes et les
+eaux libres est efficacement interceptée au moyen de dispositifs appropriés.
+
+Peuvent seuls maintenir ou créer semblables enclos :
+
+1° Les détenteurs d'un droit fondé sur titre ;
+
+2° Les propriétaires des fonds submergés par la retenue d'un barrage établi en vue de la pisciculture avant le 15 avril 1829,
+en travers d'une rivière non domaniale n'ayant pas fait l'objet du classement prévu par l'article 428-2° ;
+
+3° Ceux qui, sur les autres fonds d'eau susvisés, ont obtenu, soit une concession, comprenant le droit de pêche, là où ce
+droit est exercé au profit de l'Etat, soit une autorisation administrative, là où il appartient à des particuliers.
+
+Ces concessions ou autorisations ne peuvent être accordées, après avis du conseil général, qu'en vue de l'amélioration du
+rendement des fonds d'eaux closes et si aucun inconvénient ne paraît devoir en résulter pour le peuplement des eaux libres.
+
+Leur durée n'excède pas trente ans, mais elles peuvent être renouvelées.
+
+Les formes et les conditions des concessions et autorisations sont fixées par un décret.
+
+Les poissons, grenouilles et écrevisses des enclos licitement aménagés sont assimilés aux poissons provenant des étangs
+définis à l'article 438.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 401, 428, 438
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1829-04-15 art. 23 al. 2 à 7
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 27 II JORF 18 décembre 1964
+
 
 ###### Article 428
 
