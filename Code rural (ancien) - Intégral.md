@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1979-01-04
+Version Consolidée au 1979-09-25
 
 ###### Article 162
 
@@ -14216,36 +14216,6 @@ convention passée entre le ministre de l'économie et des finances et la caisse
 
 
 ##### Paragraphe 4 : Prêts aux victimes de calamités agricoles.
-
-###### Article 675
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°79-824 1979-09-21 art. 11 JORF 25 septembre 1979
-
-
-###### Article 675-1
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°79-824 1979-09-21 art. 11 JORF 25 septembre 1979
-
 
 ###### Article 675-2
 
