@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1966-12-23
+Version Consolidée au 1966-12-27
 
 ###### Article 162
 
@@ -13734,6 +13734,163 @@ modalités d'application du présent chapitre.
 	  - Loi n°74-1116 1974-12-27 art. 1 JORF 29 décembre 1974
 
 
+### Chapitre III : Médecine du travail.
+
+###### Article 1000-1
+
+Des décrets pris sur le rapport du ministre de l'agriculture et du ministre chargé des affaires sociales rendront
+progressivement obligatoire, après consultation des organisations professionnelles agricoles intéressées, l'organisation
+d'une médecine du travail tendant à protéger l'ensemble des salariés et des apprentis visés par les articles 1024 et 1264
+contre les altérations causées à leur santé du fait des conditions ou de la nature de leur travail. Les décrets prévus ci-
+dessus détermineront leur champ d'application territorial et les conditions dans lesquelles les exploitants agricoles et les
+membres non-salariés de leur famille pourront demander à subir les examens de la médecine du travail.
+
+Les dépenses de la médecine du travail sont couvertes par les cotisations des employeurs et, le cas échéant, par celles des
+exploitants mentionnés ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L717-2 (M)
+	  - Code rural L717-2
+
+	**Cite**:
+
+	  - Code rural 1024, 1264
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°66-958 1966-12-26 art. 1 JORF 27 décembre 1966
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1000-2
+
+Les caisses de mutualité sociale agricole sont responsables de l'application des dispositions de l'article précédent. Elles
+pourront, soit instituer en leur sein une section de médecine du travail, soit créer une association spécialisée. Cependant,
+toute entreprise peut, lorsque l'importance des effectifs des travailleurs salariés le justifie, être autorisée par décision
+conjointe du ministre de l'agriculture et du ministre chargé des affaires sociales, à organiser un service autonome de
+médecine du travail.
+
+L'exercice de la médecine du travail est confié à des médecins à temps partiel ou à temps complet. Des décrets pris sur le
+rapport du ministre de l'agriculture et du ministre chargé des affaires sociales déterminent les compétences techniques que
+ces médecins devront posséder ainsi que les conditions dans lesquelles les médecins praticiens participeront à l'exercice de
+la médecine du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L152-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L717-3 (M)
+
+	**Créé par**:
+
+	  - Loi n°66-958 1966-12-26 art. 1 JORF 27 décembre 1966
+
+
+###### Article 1000-3
+
+Il peut être fait appel, dans les conditions fixées par décret pris sur le rapport du ministre de l'agriculture et du
+ministre chargé des affaires sociales, au concours de médecins ou de spécialistes pour tous avis, inspections ou enquêtes
+concernant :
+
+1° L'agrément des organismes chargés de la médecine du travail agricole ;
+
+2° Le contrôle du fonctionnement desdits organismes ;
+
+3° Les maladies et risques professionnels découlant de la mise en oeuvre de techniques nouvelles.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L717-4
+	  - Code rural - art. L717-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°66-958 1966-12-26 art. 1 JORF 27 décembre 1966
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1000-4
+
+Les médecins du travail visés à l'article 1000-2, les médecins et les spécialistes visés à l'article 1000-3 jouissent, dans
+l'accomplissement des missions qui leur sont confiées, des mêmes pouvoirs et protection que ceux prévus pour les inspecteurs
+des lois sociales en agriculture par les deuxième et troisième alinéas de l'article 990 ; ils sont autorisés à faire, aux
+fins d'analyse, tous prélèvements portant notamment sur les matières mises en oeuvre et les produits utilisés.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L717-5 (M)
+
+	**Cite**:
+
+	  - Code rural 990, 1000-2, 1000-3
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°66-958 1966-12-26 art. 1 JORF 27 décembre 1966
+
+
+###### Article 1000-5
+
+Les employeurs sont tenus d'autoriser leurs salariés à se rendre aux convocations des organismes chargés de la médecine du
+travail agricole.
+
+Les infractions aux dispositions du présent titre et des décrets pris pour son application sont constatées dans des procès-
+verbaux, par les inspecteurs et contrôleurs des lois sociales en agriculture, concurremment avec les officiers de police
+judiciaire.
+
+Il ne peut être donné suite aux procès-verbaux qu'après une mise en demeure écrite adressée au chef d'exploitation ou
+d'entreprise intéressé, le délai imparti ne pouvant être inférieur à un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L719-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°66-958 1966-12-26 art. 1 JORF 27 décembre 1966
+
+
 ## Titre II : Mutualité sociale agricole
 
 ###### Article 1002
@@ -17555,6 +17712,397 @@ conditions fixées par celui-ci, les statistiques concernant l'assurance prévue
 	**Cite**:
 
 	  - Code rural 1234-8
+
+
+## Titre IV : Dispositions diverses
+
+### Chapitre Ier : Dispositions communes aux organismes de mutualité agricole, inspection et contrôle.
+
+###### Article 1235
+
+Les sociétés ou caisses de mutualité sociale agricole qui sont gérées et administrées gratuitement, qui n'ont en vue et qui,
+en fait, ne réalisent aucun bénéfice, sont affranchies des formalités prescrites par la loi du 24 juillet 1867 et les décrets
+relatifs aux sociétés d'assurances.
+
+Elles peuvent se constituer en se soumettant aux prescriptions du titre Ier du livre III du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L771-1 (M)
+
+	**Cite**:
+
+	  - Loi n°1867-07-24
+
+
+###### Article 1236
+
+La caisse centrale de secours mutuels agricoles, la caisse centrale d'allocations familiales agricoles et les caisses
+centrales de réassurances mutuelles agricoles forment l'union des caisses centrales de la mutualité agricole.
+
+Cette union qui est placée sous le régime de la loi du 1er juillet 1901 est chargée de gérer les intérêts communs desdites
+caisses.
+
+L'union est administrée par un comité d'au moins vingt-quatre membres comprenant en nombre égal des délégués de la caisse
+centrale de secours mutuels agricoles et de la caisse centrale d'allocations familiales agricoles, d'une part, et d'autre
+part, des délégués des caisses centrales de réassurances mutuelles agricoles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L723-13 (V)
+
+	**Cite**:
+
+	  - Loi n°1901-07-01
+
+
+###### Article 1237
+
+Les conseils d'administration de la mutualité sociale agricole et des caisses de réassurances mutuelles agricoles peuvent
+créer une union départementale de la mutualité agricole. L'union départementale est administrée par un comité comprenant en
+nombre égal des délégués du conseil d'administration de la mutualité sociale agricole et des délégués des conseils
+d'administration des caisses de réassurances mutuelles agricoles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L723-7 (VD)
+
+
+###### Article 1238
+
+Les conseils d'administration des organismes de mutualité agricole sont élus pour six ans. Ses membres sont renouvelables par
+moitié tous les trois ans, par voie de tirage au sort ; le tirage a lieu au plus tard quinze jours après l'élection des
+conseils. Les membres sortants sont rééligibles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L771-2 (V)
+
+
+###### Article 1240
+
+Sauf dérogation expresse accordée par le ministre de l'agriculture, les personnes exerçant les fonctions de membre du conseil
+d'administration, de directeur ou d'agent comptable de l'un des organismes de mutualité agricole ainsi que leur conjoint ne
+peuvent exercer une des professions suivantes :
+
+agent ou courtier d'assurance, directeur ou administrateur d'un établissement de crédit autre que le crédit agricole mutuel,
+d'une compagnie d'assurance ou d'une caisse de sécurité sociale, agent d'affaires ou conseil juridique.
+
+Les infractions à ces dispositions seront sanctionnées par une amende de 180 F au moins et 25 000 F au plus et par un
+emprisonnement de six mois au moins et de deux ans au plus ou par l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L723-44 (M)
+	  - Code rural - art. L771-4 (V)
+
+
+###### Article 1241
+
+Les organismes de la mutualité agricole peuvent faire des dépôts de fonds à vue aux caisses régionales de crédit agricole
+mutuel et contracter des emprunts à court terme auprès de ces institutions.
+
+Ils sont également habilités à faire ces mêmes opérations auprès des caisses de crédit agricole mutuel spécialement
+autorisées à cet effet par arrêté du ministre de l'agriculture et du ministre des finances et des affaires économiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1242
+
+Les opérations des organismes de mutualité agricole sont soumises au contrôle du ministre de l'agriculture et du ministre des
+finances. Un décret en Conseil d'Etat détermine les modalités de ce contrôle et la compétence des agents qui en sont chargés.
+
+Les assemblées générales de la mutualité sociale agricole et celles des unions départementales de mutualité agricole
+désignent un ou plusieurs commissaires aux comptes, agréés par les cours d'appel. L'un d'eux doit être agréé par l'union des
+caisses centrales de mutualité agricole.
+
+Les commissaires aux comptes peuvent procéder à toute époque aux contrôles et investigations comptables relevant de leur
+mission. Ils rendent compte de leur mandat à l'assemblée générale appelée à statuer sur les comptes de chaque exercice.
+
+Un exemplaire du rapport du ou des commissaires aux comptes et une copie du procès-verbal de chaque assemblée générale
+doivent être transmis dans le délai d'un mois au ministre de l'agriculture et au ministre des finances par l'intermédiaire de
+l'union des caisses centrales de mutualité agricole.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L723-46 (V)
+	  - Code rural - art. L724-1 (V)
+
+
+###### Article 1243
+
+La composition du service de l'inspection des lois sociales en agriculture relevant de la direction des affaires
+professionnelles et sociales du ministère de l'agriculture est fixée par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Modifié par**:
+
+	  - Loi n°59-1454 1959-12-26 art. 58 VI JORF 27 décembre 1959
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1244-1
+
+Les chefs d'exploitation ou d'entreprise et les titulaires d'allocations ou retraites de vieillesse visés à l'article 1106-12
+sont tenus de recevoir, à toute époque, les inspecteurs et contrôleurs des lois sociales en agriculture et les agents
+assermentés des caisses de mutualité sociale agricole qui se présentent pour vérifier l'application régulière des
+dispositions du chapitre III-1 du titre II du présent livre.
+
+L'article 990 ci-dessus est applicable aux infractions aux dispositions du chapitre III-1 du titre II du présent livre. Pour
+l'application dudit article 990, les agents assermentés des caisses de mutualité sociale agricole auront les mêmes pouvoirs
+et bénéficieront de la même protection que les inspecteurs et contrôleurs des lois sociales en agriculture.
+
+Sont punis d'une amende de 3 000 à 10 000 F et, en cas de récidive, de 6 000 à 20 000 F ceux qui ont mis obstacle à
+l'accomplissement de ses devoirs par un des inspecteurs, contrôleurs ou agents visés au présent article.
+
+Les dispositions du code pénal qui prévoient et répriment les actes de résistance, les outrages et les violences contre les
+officiers de police judiciaire sont, en outre, applicables à ceux qui se rendent coupables de faits de même nature à l'égard
+des inspecteurs, contrôleurs ou agents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L724-11 (M)
+	  - Code rural - art. L724-13 (M)
+
+	**Cite**:
+
+	  - Code rural 990, 1106-12
+
+
+###### Article 1244-2
+
+Le ministre de l'agriculture est chargé du contrôle de l'application du régime visé au chapitre III du titre III du présent
+livre.
+
+Les personnes visées à l'article 1234-2 sont tenues de recevoir à toute époque les inspecteurs et contrôleurs des lois
+sociales en agriculture qui se présentent pour vérifier l'application régulière des dispositions du chapitre III précité du
+titre III du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1234-2
+
+	**Nouveaux textes**:
+
+	  - Code rural L724-11
+	  - Code rural - art. L724-11 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1245
+
+Les inspecteurs et contrôleurs des lois sociales en agriculture peuvent requérir des caisses de la mutualité sociale agricole
+communication sur place de tous documents, comptabilité et correspondance relatifs au fonctionnement administratif et
+financier de ces organismes qui doivent, en outre, fournir au ministre de l'agriculture, dans les conditions fixées par ce
+dernier, tous documents relatifs à leur gestion.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L724-4
+	  - Code rural - art. L724-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+###### Article 1247
+
+Les organismes de mutualité sociale agricole sont soumis au contrôle de la Cour des comptes dans les conditions et selon les
+modalités qui sont fixées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L724-14 (V)
+	  - Code rural L724-14
+
+
+###### Article 1248
+
+Une section de vérification comptable des caisses d'allocations familiales agricoles exerce son contrôle toutes les fois que
+les frais de gestion des caisses dépassent un pourcentage fixé par un arrêté ministériel pris après avis de la caisse
+centrale d'allocations familiales.
+
+Les dépenses de fonctionnement de la section de vérification sont à la charge du budget annexe des prestations familiales
+agricoles.
+
+La coordination des opérations de contrôle financier et comptable confiées aux divers corps et services habilités à exercer
+ce contrôle auprès des caisses d'allocations familiales agricoles sera réalisée dans les conditions qui seront définies par
+un décret pris après avis du comité de gestion du budget annexe des prestations familiales agricoles sur le rapport du
+ministre de l'agriculture et du ministre des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1249
+
+Des décrets contresignés par le ministre de l'agriculture et le ministre des finances fixent les règles de comptabilité
+applicables par les caisses mutuelles d'allocations familiales agricoles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 25 () JORF 11 février 1994
+
+
+###### Article 1250
+
+Un décret pris sur le rapport du ministre de l'agriculture et du ministre des finances, après consultation de la caisse
+centrale de secours mutuels agricoles, fixe les règles relatives à la comptabilité des organismes d'assurances sociales
+agricoles et à l'établissement de leur situation active et passive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L723-47 (V)
+
+
+###### Article 1250-1
+
+Des décrets en Conseil d'Etat fixeront, en tant que de besoin, les modalités et conditions d'application du chapitre III-1 du
+titre II du présent livre, notamment les mesures de coordination concernant le cas où l'assuré relève simultanément du régime
+d'assurance prévu par ledit chapitre et d'un autre régime obligatoire d'assurance.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L731-41
+	  - Code rural - art. L731-41 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+### Chapitre II : Médecine préventive.
+
+###### Article 1250-2
+
+Des décrets en Conseil d'Etat pris sur le rapport du ministre de l'agriculture, du ministre des affaires sociales et du
+ministre de l'économie et des finances, après consultation du haut comité médical de la sécurité sociale et des organisations
+professionnelles agricoles intéressées, fixent les conditions d'organisation et de financement des examens de médecine
+préventive qui doivent être proposés, à certaines périodes de la vie, aux bénéficiaires des régimes d'assurances sociales
+agricoles et d'assurance maladie, invalidité, maternité institués par les chapitres II et III-1 du titre II du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L732-16 (V)
+	  - Code rural - art. L742-5 (V)
 
 
 ## Titre V : Dispositions spéciales concernant les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
