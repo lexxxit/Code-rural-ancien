@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1975-01-03
+Version Consolidée au 1975-01-04
 
 ###### Article 162
 
@@ -6185,6 +6185,145 @@ dans le même troupeau, ou en contact avec des animaux atteints de péripneumoni
 	**Anciens textes**:
 
 	  - Loi n°1898-06-21 art. 37
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 232-1
+
+Tout animal ayant mordu ou griffé une personne, même s'il n'est pas suspect de rage, est, si l'on peut s'en saisir sans
+l'abattre, soumis par son propriétaire ou détenteur et à ses frais à la surveillance d'un vétérinaire. Les mêmes dispositions
+s'appliquent aux animaux ayant mordu ou griffé des animaux domestiques dans les territoires définis par arrêté du ministre
+compétent, dans lesquels la rage a été constatée.
+
+Dès qu'elle a connaissance des faits de la nature de ceux visés à l'alinéa qui précède, l'autorité, investie des pouvoirs de
+police, rappelle au propriétaire ou détenteur les obligations ci-dessus définies et, en tant que de besoin, le met en demeure
+de les observer dans les vingt-quatre heures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+
+###### Article 232-3
+
+Un décret en Conseil d'Etat détermine les conditions d'application des articles 232, 232-1 et 232-2 ainsi que les
+dispositions applicables à la circulation, au transport, à l'abattage et à l'utilisation des animaux contaminés ou suspects
+et de leurs produits.
+
+Il peut notamment prévoir l'interdiction ou la réglementation de la vente des animaux contaminés ou de ceux ayant mordu ou
+griffé des personnes ou des animaux, même si l'existence de la rage ne peut être suspectée de ce seul fait.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 232, 232-1, 232-2
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 232-4
+
+Sous réserve des dispositions de l'article 214, premier paragraphe ci-dessus, le ministre compétent fixe, par arrêté, des
+mesures de prophylaxie et de police sanitaire nécessaire en vue de prévenir l'apparition, de limiter l'extension ou de
+permettre l'extinction de la rage.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 214
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 232-5
+
+Lorsqu'il l'estime nécessaire pour enrayer la propagation de la rage, le ministre compétent peut, dans les conditions et
+selon les modalités qu'il détermine :
+
+a) Rendre obligatoire la vaccination antirabique ;
+
+b) Réglementer la circulation, le transport et l'exposition dans les lieux publics d'animaux domestiques et sauvages.
+
+Le ministre peut ne prendre ces mesures que dans certains territoires et pour certaines espèces ou catégories d'animaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 232-6
+
+Sans préjudice de l'application des articles 393 et 394 du code rural et des articles 75 (9°) et 97 (8°) du code de
+l'administration communale, lorsque la rage prend un caractère envahissant et que son extension a son origine dans
+l'infection d'animaux sauvages, les ministres compétents peuvent, dans la mesure nécessaire pour arrêter la diffusion du
+virus, prescrire, par arrêté conjoint, la destruction dans un territoire déterminé, de ces animaux sauvages et l'application
+des mesures de sécurité que nécessite cette destruction.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'administration communale 75, 97
+	  - Code rural 393, 394
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 232-7
+
+Dans les territoires où la destruction des animaux sauvages est prescrite par application de l'article 232-6 les
+propriétaires et locataires de terrains, à l'exception des terrains bâtis, cours et jardins attenant à des habitations et les
+titulaires du droit de chasse sont tenus de permettre l'accès de ces terrains aux fonctionnaires et agents des services
+désignés par l'autorité administrative, aux lieutenants de louveterie ainsi qu'aux personnes chargées spécialement
+d'effectuer ces destructions ou d'en contrôler l'exécution et habilitées à cet effet par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 232-6
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
 
 	**Abrogé par**:
 
