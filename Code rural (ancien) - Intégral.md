@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1963-03-08
+Version Consolidée au 1963-03-20
 
 ###### Article 162
 
@@ -4623,21 +4623,6 @@ des articles L. 611 à L. 617 du code de la santé publique.
 
 
 ### Chapitre II : Prophylaxie de la tuberculose.
-
-###### Article 217
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Décret n°63-301 du 19 mars 1963 - art. 19 (Ab) JORF 20 mars 1963
-
 
 ###### Article 218
 
