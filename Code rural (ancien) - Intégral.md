@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1972-10-26
+Version Consolidée au 1972-11-16
 
 ###### Article 162
 
@@ -5746,6 +5746,77 @@ dépenses classées sous les paragraphes 1er à 4 de l'article 60 de la loi du 1
 	  - Loi n°89-412 du 22 juin 1989 - art. 38 (V) JORF 24 juin 1989
 
 
+###### Article 215-1
+
+Les vétérinaires inspecteurs, qu'ils soient fonctionnaires ou agents contractuels à temps complet de l'Etat, ont qualité,
+dans les limites du département où ils sont affectés, pour rechercher et constater les infractions aux dispositions des
+articles 214 à 252 du présent code sur la lutte contre les maladies des animaux et des textes réglementaires pris pour leur
+application.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 214 à 252
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°72-1030 1972-11-15 art. 1 JORF 16 novembre 1972
+
+
+###### Article 215-3
+
+Avant d'exercer les fonctions prévues aux articles 215-1 et 215-2, les fonctionnaires et agents mentionnés auxdits articles
+doivent être assermentés dans des conditions fixées par le décret prévu à l'article 215-5.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 215-1, 215-2, 215-5
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°72-1030 1972-11-15 art. 1 JORF 16 novembre 1972
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 215-5
+
+Un décret en Conseil d'Etat détermine les conditions d'application des articles 215-1, 215-2, 215-3 et 215-4.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 215-1, 215-2, 215-3, 215-4
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°72-1030 1972-11-15 art. 1 JORF 16 novembre 1972
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
 ### Chapitre Ier : Des produits d'origine microbienne ou organique utilisés contre les maladies des animaux.
 
 ###### Article 216
@@ -6795,6 +6866,87 @@ préjudice des sanctions pénales qui pourront comporter la confiscation des som
 	  - Décret n°55-433 1955-04-16
 
 
+## Titre V : De la protection des animaux domestiques et des animaux sauvages apprivoisés ou tenus en captivité.
+
+###### Article 283-1
+
+Les vétérinaires inspecteurs, qu'ils soient fonctionnaires ou agents contractuels à temps complet de l'Etat, ont qualité,
+dans les limites du département où ils sont affectés, pour rechercher et constater les infractions aux dispositions des
+articles 276 à 283 du présent code sur la protection des animaux domestiques et des textes réglementaires pris pour leur
+application.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 276 à 283
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°72-1030 1972-11-15 art. 2 JORF 16 novembre 1972
+
+
+###### Article 283-3
+
+Avant d'exercer les fonctions prévues aux articles 283-1 et 283-2, les fonctionnaires et agents mentionnés auxdits articles
+doivent être assermentés dans des conditions fixées par le décret prévu à l'article 283-4.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 283-1, 283-2, 283-4
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°72-1030 1972-11-15 art. 2 JORF 16 novembre 1972
+
+	**Modifié par**:
+
+	  - Loi n°76-629 du 10 juillet 1976 - art. 11 () JORF 13 juillet 1976
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
+###### Article 283-4
+
+Un décret en Conseil d'Etat détermine les conditions d'application des articles 283-1, 283-2 et 283-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 283-1, 283-2, 283-3
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°72-1030 1972-11-15 art. 2 JORF 16 novembre 1972
+
+	**Modifié par**:
+
+	  - Loi n°76-629 du 10 juillet 1976 - art. 11 () JORF 13 juillet 1976
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
+
+
 ## Titre VI : Des vices rédhibitoires dans les ventes et les échanges d'animaux domestiques.
 
 ###### Article 284
@@ -7702,21 +7854,6 @@ Les contrevenants aux dispositions de l'article 218 seront punis des peines pré
 	**Abrogé par**:
 
 	  - Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)
-
-
-###### Article 326
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°72-1030 1972-11-15 art. 3 JORF 16 novembre 1972
 
 
 ###### Article 333
