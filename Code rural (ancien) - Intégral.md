@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1980-05-31
+Version Consolidée au 1980-06-28
 
 ###### Article 162
 
@@ -25641,6 +25641,89 @@ correspondantes dans les conditions prévues audit livre.
 	**Cite**:
 
 	  - Code rural 1263-2
+
+
+## Titre VII : Exploitants agricoles exerçant leur activité professionnelle à l'étranger.
+
+###### Article 1263-6
+
+Les ressortissants français qui exercent une activité professionnelle agricole non-salariée au regard des législations
+sociales agricoles françaises dans un pays étranger n'appartenant pas à la Communauté économique européenne ont la faculté
+d'adhérer à l'assurance volontaire contre les risques de maladie et les charges de la maternité visée au chapitre III du
+titre VI du livre VII du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L764-6 (M)
+
+
+###### Article 1263-7
+
+Un décret en Conseil d'Etat détermine les mesures nécessaires à l'application du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L764-7 (M)
+	  - Code rural L764-7
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+
+## Titre VIII : Pensionnés des régimes agricoles de retraite résidant à l'étranger.
+
+###### Article 1263-8
+
+Les personnes de nationalité française titulaires d'un avantage de retraite alloué au titre d'un régime français d'assurance
+vieillesse agricole obligatoire ou volontaire, justifiant d'une durée d'assurance minimum audit régime fixée par voie
+réglementaire et qui, n'exerçant aucune activité professionnelle, résident dans un pays étranger n'appartenant pas à la
+Communauté économique européenne, ont la faculté d'adhérer à l'assurance volontaire contre les risques de maladie et les
+charges de la maternité visée au titre III du livre XI du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L764-8 (M)
+
+
+###### Article 1263-9
+
+Un décret en Conseil d'Etat détermine les mesures nécessaires à l'application du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L764-9
+	  - Code rural - art. L764-9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 # Livre VIII : Formation professionnelle et recherche
