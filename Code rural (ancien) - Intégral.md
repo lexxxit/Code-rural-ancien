@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1964-10-15
+Version Consolidée au 1964-11-14
 
 ###### Article 162
 
@@ -6848,6 +6848,28 @@ l'application du présent titre en matière de recherche et de constatation des 
 
 ### Chapitre Ier : De l'exercice du droit de chasse.
 
+###### Article 371-1
+
+Le ministre de l'agriculture, le conseil national de la chasse et de la faune entendu, peut, en vue d'assurer la survivance
+d'espèces de gibier de montagne menacées dans leur existence même, interdire totalement, et pour une durée maximum de trois
+ans, la mise en vente, la vente et l'achat sous toutes leurs formes, et notamment celles de pâtés et conserves, le transport
+en vue de la vente ou le colportage de ces gibiers.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L224-11
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Abrogé par**:
+
+	  - Loi n°89-804 1989-10-27 art. 3 JORF 4 novembre 1989
+
+
 ###### Article 373
 
 Dans le temps où la chasse est ouverte, le permis donne à celui qui l'a obtenu le droit de chasser de jour, soit à tir, soit
@@ -6949,6 +6971,47 @@ Un décret fixera les modalités d'application du présent article.
 
 
 ### Chapitre II : Des pénalités.
+
+###### Article 377
+
+Les peines déterminées par les trois articles qui précèdent pourront être portées au double si le délinquant était en état de
+récidive ou s'il était déguisé ou masqué, s'il a pris un faux nom, s'il a usé de violence envers les personnes, s'il a fait
+des menaces, s'il a fait usage d'un avion, d'une automobile ou de tout autre véhicule pour se rendre sur le lieu du délit ou
+pour s'en éloigner, sans préjudice, s'il y a lieu, de plus fortes peines prononcées par la loi.
+
+Dans les cas prévus à l'alinéa précédent, la peine encourue par ceux qui auront chassé le grand gibier en contravention des
+prescriptions du plan de chasse pourra être portée au double de la peine contraventionnelle prévue contre ceux qui ont commis
+cette infraction sans récidive ni circonstance aggravante.
+
+Lorsqu'il y aura récidive, dans les cas prévus en l'article 374, la peine d'emprisonnement de six jours à trois mois pourra
+être appliquée si le délinquant n'a pas satisfait aux condamnations précédentes.
+
+Dans les cas prévus au premier alinéa ci-dessus, la peine encourue par ceux qui auront contrevenu à une interdiction prise en
+application de l'article 371-1 sera portée au double de la peine contraventionnelle prévue contre ceux qui auront commis
+cette infraction sans récidive ni circonstance aggravante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 371-1, 374
+
+	**Nouveaux textes**:
+
+	  - Code rural L228-10, L228-13
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Anciens textes**:
+
+	  - Loi n°1844-05-03 art. 14
+
+	**Abrogé par**:
+
+	  - Loi n°90-85 du 23 janvier 1990 - art. 60 () JORF 25 janvier 1990
+
 
 ###### Article 378
 
