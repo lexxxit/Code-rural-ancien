@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1985-07-01
+Version Consolidée au 1985-07-26
 
 ###### Article 162
 
@@ -47,6 +47,64 @@ l'effectif d'une espèce sensible dans le département ou la région intéressé
 	**Codifié par**:
 
 	  - Décret n°55-433 1955-04-16
+
+
+###### Article 1143-2
+
+Les caisses de mutualité sociale agricole sont chargées du recouvrement des cotisations et, éventuellement, des pénalités de
+retard dues au titre des régimes de protection sociale agricole dont elles assurent l'application.
+
+Indépendamment de la procédure contentieuse prévue aux articles L. 190 et suivants du code de la sécurité sociale et de
+l'action en constitution de partie civile prévue aux articles 418 et 536 du code de procédure pénale, les caisses de
+mutualité sociale agricole peuvent, après avoir mis en demeure les redevables de régulariser leur situation, recouvrer les
+cotisations et éventuellement les pénalités dues en utilisant l'une ou plusieurs des procédures suivantes :
+
+1° La contrainte qui comporte, à défaut d'opposition du débiteur devant le tribunal des affaires de sécurité sociale, dans
+des délais et selon des conditions fixés par décret, tous les effets d'un jugement et qui confère notamment le bénéfice de
+l'hypothèque judiciaire ;
+
+2° L'état exécutoire signé par le préfet dans le cadre d'une procédure sommaire dont le recouvrement est effectué comme en
+matière de contribution directe ;
+
+3° L'opposition, nonobstant les dispositions des articles 557 et suivants du code de procédure civile, faite à concurrence
+des cotisations et des pénalités dues sur les fonds détenus pour le compte des débiteurs par tous tiers détenteurs.
+
+Les organismes visés à l'article 1106-9 sont chargés des mêmes missions et disposent des mêmes voies et moyens que les
+caisses de mutualité sociale agricole en ce qui concerne le recouvrement des cotisations prévues aux articles 1106-6 et
+suivants, ainsi que des pénalités de retard.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article et notamment désigne les personnes ou
+les organes collectifs habilités à utiliser les procédures de recouvrement énumérées au présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 43 () JORF 26 juillet 1985
+
+	**Cite**:
+
+	  - Code de procédure civile 557
+	  - CODE DE PROCEDURE PENALE - art. 418 (V)
+	  - CODE DE PROCEDURE PENALE - art. 536 (M)
+	  - Code de la sécurité sociale L190
+	  - Code rural 1106-9, 1106-6
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. D2531-21 (VT)
+	  - Code rural - art. L611-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L725-3 (V)
+	  - Code rural - art. L725-4 (VT)
+	  - Code rural - art. L725-5 (V)
+	  - Code rural - art. L725-6 (V)
 
 
 # Livre Ier : Régime du sol
@@ -9950,6 +10008,12 @@ recherche de la maladie par des épreuves effectuées selon des procédés et de
 vétérinaire et dont le résultat a été reconnu positif par un laboratoire agréé par le ministère de l'agriculture et du
 développement rural.
 
+La leucose enzootique.
+
+Sont considérés comme atteints de leucose enzootique et peuvent donner lieu à rédhibition les animaux qui ont fait l'objet
+d'une recherche de la maladie par des épreuves effectuées selon des procédés et des critères approuvés par la commission
+nationale vétérinaire et dont le résultat a été reconnu positif par un laboratoire agréé par le ministère de l'agriculture.
+
 Aucune action en garantie ne saurait être introduite si l'acheteur a libéré par écrit, au moment de la vente de l'animal, le
 vendeur de toute garantie.
 
@@ -9959,13 +10023,13 @@ vendeur de toute garantie.
 
 	  - Décret n°55-433 1955-04-16
 
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 127 () JORF 26 juillet 1985
+
 	**Cite**:
 
 	  - Code civil - art. 1641 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1884-08-02 art. 2
 
 
 ###### Article 286
@@ -21535,9 +21599,8 @@ précédent, sous réserve d'adaptations fixées par voie réglementaire.
 
 Le versement des cotisations est suspendu pendant la période du service national ou en cas d'appel sous les drapeaux.
 
-Le ministre de l'agriculture fixe par arrêté le taux des cotisations forfaitaires pour certaines catégories de travailleurs
-occasionnels et notamment pour les exploitants agricoles qui occupent occasionnellement un emploi salarié chez un autre
-exploitant agricole.
+Des cotisations forfaitaires peuvent être fixées par arrêté interministériels pour certaines catégories de travailleurs
+salariés ou assimilés.
 
 **Liens relatifs à cet article**
 
@@ -21548,7 +21611,7 @@ exploitant agricole.
 
 	**Modifié par**:
 
-	  - Loi n°84-575 du 9 juillet 1984 - art. 40 () JORF 10 juillet 1984 en vigueur le 1er avril 1984
+	  - Loi n°85-772 du 25 juillet 1985 - art. 36 () JORF 26 juillet 1985
 
 	**Cité par**:
 
@@ -22551,7 +22614,7 @@ patente en tant que commerçant ;
 
 3° Aux artisans ruraux n'employant pas plus de deux salariés de façon permanente ;
 
-4° Aux entrepreneurs de battages ou de travaux agricoles ;
+4° Aux entrepreneurs de travaux agricoles ;
 
 5° Aux exploitants des établissements de conchyliculture ou de pisciculture et établissements assimilés, sauf lorsque les
 intéressés relèvent du régime social des marins.
@@ -22562,15 +22625,9 @@ travaux soient effectués au temps, à la tâche ou au forfait.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
 	**Modifié par**:
 
-	  - Loi n°66-1046 1966-12-30 art. 1 JORF 31 décembre 1966
-	  - Loi n°67-1114 1967-12-21 art. 66 JORF 22 décembre 1967
-	  - Loi n°72-965 du 25 octobre 1972 - art. 4 () JORF 26 octobre 1972 en vigueur le 1er juillet 1973
+	  - Loi n°85-772 du 25 juillet 1985 - art. 127 () JORF 26 juillet 1985
 
 	**Nouveaux textes**:
 
@@ -22582,11 +22639,6 @@ travaux soient effectués au temps, à la tâche ou au forfait.
 	**Cite**:
 
 	  - Code rural 1144
-
-	**Anciens textes**:
-
-	  - Décret n°1935-10-30 art. 1
-	  - Décret n°1938-05-31 art. 8
 
 
 ###### Article 1062
@@ -25582,59 +25634,6 @@ III. - Un décret en Conseil d'Etat détermine les conditions d'application du p
 	  - Code rural 1106-9
 
 
-###### Article 1143-2
-
-Les caisses de mutualité sociale agricole sont chargées du recouvrement des cotisations et, éventuellement, des pénalités de
-retard dues au titre des régimes de protection sociale agricole dont elles assurent l'application.
-
-Indépendamment de la procédure contentieuse prévue aux articles L. 190 et suivants du code de la sécurité sociale et de
-l'action en constitution de partie civile prévue aux articles 418 et 536 du code de procédure pénale, les caisses de
-mutualité sociale agricole peuvent, après avoir mis en demeure les redevables de régulariser leur situation, recouvrer les
-cotisations et éventuellement les pénalités dues en utilisant l'une ou plusieurs des procédures suivantes :
-
-1° La contrainte visée et rendue exécutoire par le président de la commission de première instance qui comporte tous les
-effets d'un jugement et qui confère notamment le bénéfice de l'hypothèque judiciaire ;
-
-2° L'état exécutoire signé par le préfet dans le cadre d'une procédure sommaire dont le recouvrement est effectué comme en
-matière de contribution directe ;
-
-3° L'opposition, nonobstant les dispositions des articles 557 et suivants du code de procédure civile, faite à concurrence
-des cotisations et des pénalités dues sur les fonds détenus pour le compte des débiteurs par tous tiers détenteurs.
-
-Les organismes visés à l'article 1106-9 sont chargés des mêmes missions et disposent des mêmes voies et moyens que les
-caisses de mutualité sociale agricole en ce qui concerne le recouvrement des cotisations prévues aux articles 1106-6 et
-suivants, ainsi que des pénalités de retard.
-
-Un décret en Conseil d'Etat détermine les modalités d'application du présent article et notamment désigne les personnes ou
-les organes collectifs habilités à utiliser les procédures de recouvrement énumérées au présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Cite**:
-
-	  - Code de procédure civile 557
-	  - CODE DE PROCEDURE PENALE - art. 418 (V)
-	  - CODE DE PROCEDURE PENALE - art. 536 (M)
-	  - Code de la sécurité sociale L190
-	  - Code rural 1106-9, 1106-6
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. D2531-21 (VT)
-	  - Code rural - art. L611-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L725-3 (V)
-	  - Code rural - art. L725-4 (VT)
-	  - Code rural - art. L725-5 (V)
-	  - Code rural - art. L725-6 (V)
-
-
 ###### Article 1143-3
 
 I. - Sauf le cas de fraude ou de fausse déclaration, les cotisations dues au titre des régimes de protection sociale agricole
@@ -25741,7 +25740,14 @@ sciage ;
 
 4° Les salariés des artisans ruraux n'employant pas plus de deux ouvriers de façon permanente ;
 
-5° Les salariés des entreprises de battage et de travaux agricoles ;
+5° Les salariés des entreprises de travaux agricoles.
+
+Sont considérés comme travaux agricoles :
+
+- les travaux qui entrent dans le cycle de la production animale ou végétale, les travaux d'amélioration foncière agricole
+ainsi que les travaux accessoires nécessaires à l'exécution des travaux précèdents ;
+
+- les travaux de création, restauration et entretien des parcs et jardins ;
 
 6° Les gardes-chasse, gardes-pêche, gardes forestiers, jardiniers, jardiniers gardes de propriété et, de manière générale,
 toute personne qui, n'ayant pas la qualité d'entrepreneur, est occupée par des groupements ou des particuliers à la mise en
@@ -25764,14 +25770,14 @@ de l'exploitation agricole.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
 	**Cite**:
 
 	  - Loi n°71-575 du 16 juillet 1971 - art. 37 (V)
 	  - Code rural 1025
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 126 () JORF 26 juillet 1985
 
 	**Cité par**:
 
@@ -26148,24 +26154,23 @@ divisionnaire des lois sociales en agriculture devant la section de tarification
 
 ###### Article 1157
 
-Le ministre de l'agriculture fixe, dans les conditions définies à l'article 1155, le taux des cotisations techniques
-forfaitaires pour certaines catégories de travailleurs occasionnels et notamment pour les exploitants agricoles qui occupent
-occasionnellement un emploi salarié chez un autre exploitant agricole.
+Des cotisations forfaitaires peuvent être fixées par arrêté interministériel, dans les conditions définies à l'article 1155,
+pour certaines catégories de travailleurs salariés ou assimilés.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code rural 1155
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
+	  - Loi n°85-772 du 25 juillet 1985 - art. 36 () JORF 26 juillet 1985
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L751-19 (M)
 	  - Code rural - art. L751-20 (M)
+
+	**Cite**:
+
+	  - Code rural 1155
 
 
 ###### Article 1158
@@ -27120,15 +27125,15 @@ A partir du 1er juillet 1973, la part de ces dépenses effectuées au profit des
 est remboursée au fonds commun, en application de l'article 1153, par la caisse centrale de secours mutuels agricoles suivant
 des modalités fixées par décret.
 
-A partir de cette même date, le fonds commun sera également alimenté par les contributions prévues à l'article 1622 du code
-général des impôts, perçues sur les contrats mentionnés à l'article 1234-19.
+Le fonds commun est également alimenté par les contributions prévues aux articles 1622 et 1624 bis du code général des
+impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1622
-	  - Code rural 1178 à 1180, 1182, 1234-24, 1153, 1234-19
+	  - CGI 1622, 1624 bis
+	  - Code rural 1178 à 1180, 1182, 1234-24, 1153
 
 	**Codifié par**:
 
@@ -27136,7 +27141,7 @@ général des impôts, perçues sur les contrats mentionnés à l'article 1234-1
 
 	**Modifié par**:
 
-	  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
+	  - Loi n°85-772 du 25 juillet 1985 - art. 37 () JORF 26 juillet 1985
 
 	**Nouveaux textes**:
 
@@ -29426,6 +29431,37 @@ prévue à l'article 990 en faveur des inspecteurs et contrôleurs des lois soci
 
 	  - Code de la sécurité sociale L423
 	  - Code rural 990, 1144, 1166
+
+
+###### Article 1244-3-1
+
+Les agents chargés du contrôle de la prévention, mentionnés au premier alinéa de l'article 1244-3, peuvent se faire présenter
+les registres et documents relatifs à l'hygiène et la sécurité, et notamment ceux où sont consignés les observations et mises
+en demeure de l'inspecteur du travail et les contrôles et vérifications de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1244-3
+
+	**Nouveaux textes**:
+
+	  - Code rural L724-8
+	  - Code rural - art. L724-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 63 () JORF 26 juillet 1985
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
 
 
 ###### Article 1244-4
