@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1993-01-05
+Version Consolidée au 1993-01-30
 
 ###### Article 1143-2
 
@@ -12969,9 +12969,34 @@ V. - A titre transitoire, les cotisations dues au titre de l'année 1990 seront 
 et 1989.
 
 VI. - Par dérogation aux dispositions du premier alinéa du II du présent article, les chefs d'exploitation ou d'entreprise
-agricole âgés de plus de cinquante-cinq ans peuvent, dans des conditions fixées par décret, opter jusqu'à la date de
-liquidation de leur retraite pour une assiette de cotisations constituée de leurs revenus professionnels tels que définis au
-présent article et afférents à l'année précédant celle au titre de laquelle les cotisations sont dues.
+agricole peuvent, dans des conditions fixées par décret, opter pour une assiette de cotisations constituée de leurs revenus
+professionnels tels que définis au présent article et afférents à l'année précédant celle au titre de laquelle les
+cotisations sont dues.
+
+Au cours de la première année où ladite option prend effet, l'assiette des cotisations est constituée par la moyenne des
+revenus professionnels tels que définis au présent article et afférents aux deux années précédant celle au titre de laquelle
+les cotisations sont dues. Les dispositions du présent alinéa ne sont pas applicables aux chefs d'exploitation ou
+d'entreprise agricole qui ont effectué l'option prévue ci-dessus lors de leur affiliation au régime de protection sociale des
+membres non salariés des professions agricoles.
+
+L'assiette des cotisations est déterminée forfaitairement dans des conditions fixées par décret lorsque la durée de
+l'assujettissement ne permet pas de calculer les revenus professionnels servant de base aux cotisations.
+
+Un décret détermine les conditions d'application des dispositions ci-dessus, notamment le délai minimal dans lequel les chefs
+d'exploitation ou d'entreprise doivent formuler l'option préalablement à sa prise d'effet, la durée minimale de validité de
+celle-ci, les conditions de sa reconduction et de sa dénonciation. Pour 1993, l'option doit être formulée au plus tard le 31
+mars 1993.
+
+En cas de dénonciation de l'option, l'assiette des cotisations est constituée :
+
+- la première année au cours de laquelle la dénonciation prend effet par les revenus professionnels tels que définis au
+présent article et se rapportant à l'avant-dernière année précédant celle au titre de laquelle les cotisations sont dues ;
+
+- et l'année suivante pour ces revenus professionnels se rapportant aux deux années antérieures à l'année précédant celle au
+titre de laquelle les cotisations sont dues.
+
+Le chef d'exploitation ou d'entreprise peut ultérieurement exercer l'option prévue par le présent paragraphe une seule fois à
+l'issue d'une période minimale à compter de la dénonciation dont la durée est fixée par le décret prévu ci-dessus.
 
 **Liens relatifs à cet article**
 
@@ -12980,9 +13005,13 @@ présent article et afférents à l'année précédant celle au titre de laquell
 	  - CGI 62, 72 D
 	  - Code rural 1060
 
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
 	**Modifié par**:
 
-	  - Loi n°91-1407 du 31 décembre 1991 - art. 13 () JORF 4 janvier 1992
+	  - Loi n°93-121 du 27 janvier 1993 - art. 35 () JORF 30 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -14076,17 +14105,15 @@ Le versement des cotisations est suspendu pendant la période du service nationa
 Des cotisations forfaitaires peuvent être fixées par arrêté interministériel pour certaines catégories de travailleurs
 salariés ou assimilés.
 
-La rémunération des personnes mentionnées au 1 de l'article L. 128 du code du travail dont l'activité n'excède pas la durée
-fixée par le décret prévu à l'article L. 241-11 du code de la sécurité sociale ne donne pas lieu à cotisations d'assurances
-sociales agricoles à la charge de l'employeur.
-
-**Nota:**
-
-Nota : Loi 91-73 du 18 janvier 1991 art. 31 : Les dispositions de l'article 23 entrent en vigueur pour les gains et
-rémunérations versés à compter de la date d'entrée en vigueur de la contribution sociale généralisée fixée à l'article 127 de
-la loi de finances pour 1991.
+La partie de la rémunération des personnes mentionnées au 1 de l'article L. 128 du code du travail correspondant à une durée
+d'activité inférieure ou égale à la limite fixée par le décret prévu à l'article L. 241-11 du code de la sécurité sociale ne
+donne pas lieu à cotisations d'assurances sociales agricoles à la charge de l'employeur.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
 
 	**Cite**:
 
@@ -14097,7 +14124,7 @@ la loi de finances pour 1991.
 
 	**Modifié par**:
 
-	  - Loi n°91-73 du 18 janvier 1991 - art. 23 () JORF 20 janvier 1991
+	  - Loi n°93-121 du 27 janvier 1993 - art. 26 () JORF 30 janvier 1993
 
 	**Cité par**:
 
@@ -14498,6 +14525,14 @@ contre les accidents du travail et les maladies professionnelles, de la législa
 d'outre-mer, conformément au livre XI du code de la sécurité sociale et des assurances volontaires prévues par le titre Ier
 du livre XII du code de la sécurité sociale.
 
+Les institutions mentionnées au premier alinéa du présent article ne peuvent être simultanément autorisées à constituer :
+
+1° des avantages de retraite complémentaire qui relèvent de l'obligation d'affiliation fixée au premier alinéa de l'article
+L. 731-5 du code de la sécurité sociale ou qui ne sont pas couverts intégralement et à tout moment par des provisions
+techniques, d'une part ;
+
+2° d'autres avantages mentionnés au premier alinéa du présent article, d'autre part.
+
 Les institutions définies au premier alinéa sont soumises au contrôle de la commission instituée par l'article L. 732-10 du
 code de la sécurité sociale.
 
@@ -14506,6 +14541,7 @@ code de la sécurité sociale.
 	**Cite**:
 
 	  - Code rural 1144
+	  - Code de la sécurité sociale. - art. L731-5 (M)
 	  - Code de la sécurité sociale. - art. L732-10 (Ab)
 
 	**Codifié par**:
@@ -14514,7 +14550,7 @@ code de la sécurité sociale.
 
 	**Modifié par**:
 
-	  - Loi n°89-1009 du 31 décembre 1989 - art. 27 () JORF 2 janvier 1990
+	  - Loi n°93-121 du 27 janvier 1993 - art. 9 (V) JORF 30 janvier 1993
 
 	**Cité par**:
 
@@ -18674,8 +18710,8 @@ ainsi que les travaux accessoires nécessaires à l'exécution des travaux préc
 - les travaux de création, restauration et entretien des parcs et jardins ;
 
 6° Les gardes-chasse, gardes-pêche, gardes forestiers, jardiniers, jardiniers gardes de propriété et, de manière générale,
-toute personne qui, n'ayant pas la qualité d'entrepreneur, est occupée par des groupements ou des particuliers à la mise en
-état et à l'entretien des jardins ;
+toute personne qui, n'ayant pas la qualité d'entrepreneur, est occupée par des groupements et sociétés de toute nature ou des
+particuliers à la mise en état et à l'entretien des jardins ;
 
 7° Les salariés des organismes de mutualité agricole, des caisses de crédit agricole mutuel, des chambres d'agriculture, du
 centre national pour l'aménagement des structures des exploitations agricoles, des coopératives agricoles, des sociétés
@@ -18708,13 +18744,17 @@ d'un gérant sont considérées comme possédées par ce dernier.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
 	**Cite**:
 
-	  - Code rural 1025, 1060
 	  - Loi n°71-575 du 16 juillet 1971 - art. 37 (V)
 	  - Loi n°84-579 1984-07-09
 	  - Loi n°84-1285 du 31 décembre 1984 - art. 4, v. init.
 	  - Loi n°88-1202 1988-12-30
+	  - Code rural 1025, 1060
 
 	**Cité par**:
 
@@ -18725,7 +18765,7 @@ d'un gérant sont considérées comme possédées par ce dernier.
 
 	**Modifié par**:
 
-	  - Loi n°91-1407 du 31 décembre 1991 - art. 8 () JORF 4 janvier 1992
+	  - Loi n°93-121 du 27 janvier 1993 - art. 28 () JORF 30 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -18798,6 +18838,39 @@ l'employeur et fixent les bases des cotisations et celles des indemnités.
 	  - Code du travail - art. L434-10 (M)
 	  - Code du travail - art. L451-1 (M)
 	  - Code du travail - art. L990-8 (T)
+
+
+###### Article 1145-1
+
+Les salariés percevant l'allocation mentionnée au cinquième alinéa (3°) de l'article L. 322-4 du code du travail continuent à
+bénéficier des dispositions du chapitre Ier du titre III du présent livre lorsqu'ils exercent hors du temps de travail
+rémunéré des activités de tutorat figurant dans un avenant au contrat de travail.
+
+Les dépenses afférentes à cette protection sont prises en compte dans le calcul des cotisations de leur employeur.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code rural L751-2
+	  - Code rural - art. L751-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+	  - Loi n°2003-591 2003-07-02 art. 31
+
+	**Créé par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 6 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code du travail - art. L322-4 (M)
 
 
 ###### Article 1146
