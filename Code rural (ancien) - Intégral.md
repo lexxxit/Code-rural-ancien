@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1996-03-17
+Version Consolidée au 1996-04-25
 
 # Livre Ier : Régime du sol
 
@@ -11191,8 +11191,22 @@ f) De promouvoir et animer l'action sanitaire et sociale ;
 
 g) De promouvoir la prévention des accidents du travail des salariés agricoles.
 
-III. - La caisse centrale de la mutualité sociale agricole contribue à la mise en oeuvre de la politique sociale agricole. A
-cette fin, elle communique au ministre chargé de l'agriculture des statistiques et lui soumet des propositions.
+III. - La caisse centrale de la mutualité sociale agricole contribue à la mise en oeuvre de la politique sociale agricole.
+Elle soumet à cette fin toutes propositions au ministre chargé de l'agriculture et lui communique toutes statistiques.
+
+Dans le respect des lois de financement de la sécurité sociale et des dispositions des articles 1003-1 à 1003-4, l'autorité
+compétente de l'Etat conclut avec la caisse centrale de la mutualité sociale agricole une convention d'objectifs et de
+gestion à caractère pluriannuel. Cette convention détermine pour une période minimale de trois ans les objectifs liés à la
+gestion des régimes de protection sociale des non salariés et des salariés des profession agricoles, au service des
+prestations, au recouvrement des cotisations et des impôts affectés, à l'amélioration du service aux usagers et à la
+politique d'action sanitaire et sociale et de prévention. Elle détermine également les conditions de conclusion des avenants
+en cours d'exécution de la convention, notamment en fonction des lois de financement de la sécurité sociale et des
+modifications importantes de la charge de travail de la caisse centrale liées à l'évolution du cadre législatif et
+réglementaire de son action, ainsi que le processus d'évaluation contradictoire des résultats obtenus au regard des objectifs
+fixés. Cette convention définit des orientations pluriannuelles cohérentes avec celles mentionnées dans la convention
+d'objectifs et de gestion de la branche maladie du régime général. L'avenant qui est conclu à la suite de la publication de
+la loi de financement de la sécurité sociale comporte des clauses analogues à celles de l'avenant ayant le même objet de la
+branche maladie du régime général.
 
 Elle est soumise aux dispositions applicables, en matière de gestion comptable et financière, aux caisses départementales et
 pluridépartementales de mutualité sociale agricole.
@@ -11205,7 +11219,7 @@ Les statuts de la caisse centrale de la mutualité sociale agricole sont approuv
 
 	  - CGI 1069
 	  - Code de la sécurité sociale. - art. L124-4 (M)
-	  - Code rural 1002 à 1002-3
+	  - Code rural 1002 à 1002-3, 1003-1 à 1003-4
 
 	**Codifié par**:
 
@@ -11213,7 +11227,7 @@ Les statuts de la caisse centrale de la mutualité sociale agricole sont approuv
 
 	**Modifié par**:
 
-	  - Loi n°94-637 du 25 juillet 1994 - art. 22 () JORF 27 juillet 1994
+	  - Ordonnance 96-344 1996-04-24 art. 3 JORF 25 avril 1996
 
 	**Cité par**:
 
@@ -14640,7 +14654,10 @@ pas affiliation au régime institué par le chapitre III du titre III du présen
 III. - Les prestations prévues aux 1° et 2° du paragraphe I du présent article sont servies dans les mêmes conditions que
 dans le régime des assurances sociales agricoles pour les catégories correspondantes.
 
-IV. - Des décrets fixeront les conditions de liaison et de coordination entre les contrôles médicaux des régimes d'assurances
+IV. - Les dispositions des articles L.315-1, L.315-2, et L.315-3 du code de la sécurité sociale sont applicables au régime
+d'assurance maladie, invalidité et maternité des personnes non salariées des professions agricoles.
+
+Des décrets fixeront les conditions de liaison et de coordination entre les contrôles médicaux des régimes d'assurances
 sociales et le contrôle médical de l'aide sociale. Ce contrôle sera organisé sous l'égide du haut comité médical.
 
 **Liens relatifs à cet article**
@@ -14652,7 +14669,6 @@ sociales et le contrôle médical de l'aide sociale. Ce contrôle sera organisé
 	**Cite**:
 
 	  - Loi n°66-950 1966-12-22
-	  - Code du travail - art. L962-1 (M)
 	  - Code de la sécurité sociale. - art. L161-10 (V)
 	  - Code de la sécurité sociale. - art. L161-11 (V)
 	  - Code de la sécurité sociale. - art. L161-12 (Ab)
@@ -14660,11 +14676,14 @@ sociales et le contrôle médical de l'aide sociale. Ce contrôle sera organisé
 	  - Code de la sécurité sociale. - art. L161-15 (M)
 	  - Code de la sécurité sociale. - art. L161-8 (M)
 	  - Code de la sécurité sociale. - art. L161-9 (M)
+	  - Code de la sécurité sociale. - art. L315-1 (M)
+	  - Code de la sécurité sociale. - art. L315-2 (M)
+	  - Code de la sécurité sociale. - art. L315-3 (Ab)
 	  - Code rural 1106-1
 
 	**Modifié par**:
 
-	  - Loi n°90-85 du 23 janvier 1990 - art. 76 () JORF 25 janvier 1990
+	  - Ordonnance n°96-345 du 24 avril 1996 - art. 12 () JORF 25 avril 1996
 
 	**Nouveaux textes**:
 
