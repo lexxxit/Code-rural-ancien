@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 1980-10-24
+Version Consolidée au 1980-12-31
 
 ###### Article 162
 
@@ -21529,6 +21529,45 @@ le régime de leur choix.
 	  - Code rural - art. L732-9 (V)
 
 
+###### Article 1106-3-1
+
+L'assurance prévue au présent chapitre prend en charge la couverture partielle des frais exposés par les personnes du sexe
+féminin mentionnées aux 1°, 2°, 4° et 5° du I de l'article 1106-1 pour assurer leur remplacement dans les travaux de
+l'exploitation agricole lorsque, prenant part de manière constante à ces travaux, elles sont empêchées de les accomplir en
+raison de la maternité ou de l'arrivée à leur foyer d'un enfant confié en vue de son adoption par un service d'aide sociale à
+l'enfance ou par une oeuvre d'adoption autorisée.
+
+Un décret en Conseil d'Etat détermine les mesures d'application de l'alinéa précédent et, en particulier, la ou les périodes
+de remplacement ouvrant droit au bénéfice de l'avantage ci-dessus prévu ainsi que la durée maximale d'attribution dudit
+avantage. En cas d'adoption, la ou les périodes de remplacement se situent nécessairement après l'arrivée de l'enfant au
+foyer, la durée maximale d'attribution de la prestation étant égale à la moitié de celle qui est prévue en cas de maternité.
+
+Les dépenses afférentes au service de cette prestation sont couvertes par une cotisation additionnelle à la cotisation prévue
+par l'article 1106-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°55-433 1955-04-16
+
+	**Créé par**:
+
+	  - Loi n°80-1094 1980-12-30 art. 76 I JORF 31 décembre 1980
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L732-10 (V)
+	  - Code rural - art. L732-11 (V)
+	  - Code rural - art. L732-12 (M)
+	  - Code rural - art. L732-13 (M)
+	  - Code rural - art. L732-14 (V)
+
+	**Cite**:
+
+	  - Code rural 1106-1, 1106-6
+
+
 ###### Article 1106-4
 
 Il est créé un fonds spécial d'action sociale destiné à promouvoir et à développer une action sociale en faveur de l'ensemble
@@ -21565,33 +21604,6 @@ comités départementaux.
 	**Abrogé par**:
 
 	  - Rapport - art. 6 (V) JORF 22 juin 2000
-
-
-###### Article 1106-4-1
-
-Il est créé un fonds additionnel d'action sociale affecté à la couverture partielle des frais exposés par les personnes du
-sexe féminin entrant dans la prévision des 1°, 2°, 4° et 5° du I de l'article 1106-1 pour assurer leur remplacement dans les
-travaux de l'exploitation agricole lorsque, prenant part de manière constante à ces travaux, elles sont empêchées de les
-accomplir en raison de la maternité.
-
-Ce fonds est géré par la mutualité sociale agricole.
-
-Il est alimenté par une cotisation additionnelle aux cotisations complémentaires prévues à l'article 1003-8 (1er alinéa).
-Cette cotisation est établie conformément à la règle posée au deuxième alinéa de l'article 1003-8.
-
-Un décret en Conseil d'Etat détermine les mesures d'application des alinéas 1 et 2 du présent article et, en particulier, la
-ou les périodes de remplacement ouvrant droit au bénéfice de l'avantage ci-dessus prévu ainsi que la durée maximale
-d'attribution dudit avantage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Abrogé par**:
-
-	  - Loi n°80-1094 1980-12-30 art. 76 III JORF 31 décembre 1980
 
 
 ###### Article 1106-5
