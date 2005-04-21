@@ -1,66 +1,7 @@
 # Code rural (ancien)  
-Version Consolidée au 2004-08-25
+Version Consolidée au 2005-04-22
 
 # Livre II : Des animaux et des végétaux
-
-## Titre III : De la lutte contre les maladies des animaux
-
-### Chapitre III : De la police sanitaire
-
-#### Section 2 : De la police sanitaire des maladies contagieuses.
-
-###### Article 224
-
-Les maladies réputées contagieuses et qui donnent lieu à déclaration et à l'application des mesures sanitaires ci-après
-sont :
-
-La rage dans toutes les espèces ;
-
-La peste bovine dans toutes les espèces de ruminants ;
-
-La péripneumonie contagieuse ;
-
-La tuberculose due à Mycobacterium bovis et à Mycobacterium tuberculosis chez les bovinés des espèces Bos taurus, Bos
-indicus, Bison bison, Bison bonasus et Bubalus bubalus et chez les cervidés d'élevage quand elle est mise en évidence dans
-les conditions fixées par arrêté du ministre chargé de l'agriculture ;
-
-La clavelée dans l'espèce ovine ;
-
-La brucellose sous toutes ses formes dans les espèces ovine et caprine ;
-
-La gale dans l'espèce bovine ;
-
-La fièvre aphteuse dans toutes les espèces de ruminants et de porcins, domestiques ou sauvages ;
-
-La morve et la dourine chez les équidés ;
-
-La fièvre charbonneuse chez les mammifères de toutes espèces ;
-
-La peste porcine classique et la peste porcine africaine chez les suidés domestiques et sauvages ;
-
-La loque américaine et la loque européenne, l'acariose et la nosémose des abeilles.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code rural L223-2
-	  - Code rural R223-1
-	  - Code rural R223-2
-	  - Code rural R223-21
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Décret n°2002-245 du 20 février 2002 - art. 1 () JORF 23 février 2002 rectificatif JORF 6 avril 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2005-368 du 19 avril 2005 - art. 1 (V) JORF 22 avril 2005
-
 
 ## Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.
 
