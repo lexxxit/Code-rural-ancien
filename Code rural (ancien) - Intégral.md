@@ -1,5 +1,5 @@
 # Code rural (ancien)  
-Version Consolidée au 2005-04-22
+Version Consolidée au 2005-05-07
 
 # Livre II : Des animaux et des végétaux
 
@@ -408,39 +408,6 @@ crédit agricole mutuel.
 
 ### Chapitre III : Ressources.
 
-###### Article 647
-
-Les statuts des caisses de crédit agricole mutuel ne bénéficiant pas d'avances de la caisse nationale de crédit agricole
-déterminent le maximum des dépôts à recevoir en compte courant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-	  - Loi n°2003-591 2003-07-02 art. 31
-
-	**Modifié par**:
-
-	  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 111 () JORF 7 mai 2005
-
-	**Cité par**:
-
-	  - Code rural ancien - art. 626 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L512-31 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
-
-
 ###### Article 648
 
 Les dépôts de fonds à deux ans au plus d'échéance reçus par les caisses régionales ou locales de crédit agricole mutuel
@@ -476,31 +443,6 @@ opérations de crédit à moyen terme ou à long terme d'une durée correspondan
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 2000-1223 2000-12-15 art. 5 I (champ d'application)
-
-
-###### Article 649
-
-Lorsqu'une caisse régionale a un excédent de dépôt, cet excédent doit être déposé à la caisse nationale de crédit agricole.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-	  - Loi n°2003-591 2003-07-02 art. 31
-
-	**Modifié par**:
-
-	  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
-	  - Ordonnance 2000-1223 2000-12-14 art. 4 I, art. 6 JORF 16 décembre 2000 en vigueur le 1er janvier 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 110 () JORF 7 mai 2005
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L512-45 (M)
 
 
 ###### Article 650
@@ -931,32 +873,6 @@ affectée à la caisse de crédit agricole.
 
 
 ## Titre II : Caisse nationale de crédit agricole
-
-### Chapitre Ier : Organisation et fonctionnement.
-
-###### Article 711
-
-La caisse nationale de crédit agricole est chargée de faciliter, de coordonner et de contrôler la réalisation des opérations
-prévues au présent livre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°55-433 1955-04-16
-
-	**Modifié par**:
-
-	  - Loi n°88-50 du 18 janvier 1988 - art. 16 () JORF 19 janvier 1988
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-429 du 6 mai 2005 - art. 58 () JORF 7 mai 2005
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L512-47 (M)
-
 
 ### Chapitre II : Ressources.
 
